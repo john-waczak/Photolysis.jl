@@ -7,10 +7,12 @@
 
 
 # Web Scrapping in Julia
+
 -[Youtube Tutorial](https://www.youtube.com/watch?v=Z3sjw9u4B8M&ab_channel=DataMaking)
 -[Julia School Tutorial](https://julia.school/julia/scraping/)
 
 # Cross-Sections, Quantum Yields, and Photolysis Rates
+
 - [MPI-Mainz UV/Vis Spectral Atlas](https://uv-vis-spectral-atlas-mainz.org/uvvis/cross_sections/Alcohols/2,1-C6H9OH.spc)
 - [UV/Vis+ Photochemistry Database](https://science-softcon.de/spectra/)
 
