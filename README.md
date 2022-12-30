@@ -8,8 +8,8 @@
 
 # Web Scrapping in Julia
 
--[Youtube Tutorial](https://www.youtube.com/watch?v=Z3sjw9u4B8M&ab_channel=DataMaking)
--[Julia School Tutorial](https://julia.school/julia/scraping/)
+- [Youtube Tutorial](https://www.youtube.com/watch?v=Z3sjw9u4B8M&ab_channel=DataMaking)
+- [Julia School Tutorial](https://julia.school/julia/scraping/)
 
 # Cross-Sections, Quantum Yields, and Photolysis Rates
 
