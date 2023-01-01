@@ -1,0 +1,19 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)Cl_Libuda(1992)_298K_233-300nm(0.07nm).txt,The spectrum was recorded at a resolution of 0.6 nm ,CH3C(O)Cl,acetyl chloride,"
+
+  H.G. Libuda, F. Zabel, and K.H. Becker, ""UV spectra of some organic chlorine and bromine compounds of atmospheric interest,"" presented at the Kinetics and Mechanisms for the Reactions of Halogenated Organic Compounds in the Troposphere. STEP-HALOCSIDE/AFEAS WORKSHOP, Dublin, Ireland, 1991,",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)Cl/CH3C(O)Cl_Libuda(1992)_298K_233-300nm(0.csv
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)Cl_Libuda(1992)_298K_235-342nm(1nm).txt,Averages over 1-nm intervals of the medium-resolution (0.6 nm) spectrum have been obtained by personal communication from H.G. Libuda (1994),CH3C(O)Cl,acetyl chloride,"
+
+  H.G. Libuda, F. Zabel, and K.H. Becker, ""UV spectra of some organic chlorine and bromine compounds of atmospheric interest,"" presented at the Kinetics and Mechanisms for the Reactions of Halogenated Organic Compounds in the Troposphere. STEP-HALOCSIDE/AFEAS WORKSHOP, Dublin, Ireland, 1991,",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)Cl/CH3C(O)Cl_Libuda(1992)_298K_235-342nm(1nm).csv
+295.0,Maricq(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)Cl_Maricq(1999)_295K_190-341nm(0.5nm).txt,Absorption cross sections at ∼0.5 nm intervals have been obtained by personal communication from M.Matti Maricq (April 1999),CH3C(O)Cl,acetyl chloride,"
+
+  M.M. Maricq, personal communication (1999) to Max-Planck-Institut für Chemie, Mainz
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)Cl/CH3C(O)Cl_Maricq(1999)_295K_190-341nm(0.csv
+298.0,Maricq(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)Cl_Maricq(1999)_298K_191-340nm(1nm).txt,"Averages over 1-nm intervals of the medium-resolution data, calculated by Karl-Heinz Möbus, May-Planck-Institut für Chemie, Mainz, Germany",CH3C(O)Cl,acetyl chloride,"
+
+  M.M. Maricq, personal communication (1999) to Max-Planck-Institut für Chemie, Mainz
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)Cl/CH3C(O)Cl_Maricq(1999)_298K_191-340nm(1nm).csv

@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Mason(1957),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C3F7NO_Mason(1957)_298K_271.5nm(max).txt",Absorption measurements with a Cary recording spectrophotometer,C3F7NO,perfluoronitrosopropane,"
+
+  J. Mason, ""Perfluoroalkyl compounds of nitrogen. Part IV. Electronic absorption spectra of perfluoro-nitroso- and -nitro-alkanes, and related molecules"",
+  J. Chem. Soc. 1957, 3904-3912 (1957); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C3F7NO/C3F7NO_Mason(1957)_298K_271.csv"
+298.0,Mason(1957),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C3F7NO_Mason(1957)_298K_500-780nm.txt",Absorption measurements with a Cary recording spectrophotometer,C3F7NO,perfluoronitrosopropane,"
+
+  J. Mason, ""Perfluoroalkyl compounds of nitrogen. Part IV. Electronic absorption spectra of perfluoro-nitroso- and -nitro-alkanes, and related molecules"",
+  J. Chem. Soc. 1957, 3904-3912 (1957); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C3F7NO/C3F7NO_Mason(1957)_298K_500-780nm.csv"
+298.0,Mason(1957),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C3F7NO_Mason(1957)_298K_684,707.5nm(max).txt",Absorption measurements with a Cary recording spectrophotometer,C3F7NO,perfluoronitrosopropane,"
+
+  J. Mason, ""Perfluoroalkyl compounds of nitrogen. Part IV. Electronic absorption spectra of perfluoro-nitroso- and -nitro-alkanes, and related molecules"",
+  J. Chem. Soc. 1957, 3904-3912 (1957); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C3F7NO/C3F7NO_Mason(1957)_298K_684,707.csv"

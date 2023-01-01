@@ -1,0 +1,50 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+245.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_245K_200-300nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_245K_200-300nm.csv
+253.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_253K_200-300nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_253K_200-300nm.csv
+261.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_261K_200-320nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_261K_200-320nm.csv
+273.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_273K_200-320nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_273K_200-320nm.csv
+285.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_285K_200-320nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_285K_200-320nm.csv
+298.0,Malanca(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Malanca(2006)_298K_200-320nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  F.E. Malanca, M.S. Chiappero, and G.A. Argüello, ""Fluorocarbonyl peroxynitrate (FC(O)OONO2). Temperature dependence of the UV absorption spectrum"",
+  J. Photochem Photobiol. A: Chem. 184, 212-215 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Malanca(2006)_298K_200-320nm.csv
+298.0,Scheffler(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/FC(O)OONO2_Scheffler(1997)_298K_190-290nm.txt,Absorption spectra were recorded with a 1024 diode array spectrometer (resolution 1 nm) and a deuterium lamp as a light source,FC(O)OONO2,fluorocarbonyl peroxynitrate,"
+
+  D. Scheffler, I. Schaper, H. Willner, H.-G. Mack, and H. Oberhammer, ""Properties of fluorocarbonyl peroxynitrate"",
+  Inorg. Chem. 36, 339-344 (1997); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/FC(O)OONO2/FC(O)OONO2_Scheffler(1997)_298K_190-290nm.csv

@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Kapnas(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CHClOO_Kapnas(2017)_295K_343.850-438.658nm.txt,Transient absorption spectrum of the chlorinated Criegee intermediate CHClOO with CHI,CHClOO,formylchloride oxide,"
+
+  K.M. Kapnas, B.W. Toulson, E.S. Foreman, S.A. Block, J.G. Hill, and C. Murray, ""UV photodissociation dynamics of CHI",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CHClOO/CHClOO_Kapnas(2017)_295K_343.csv

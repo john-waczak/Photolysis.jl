@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Chen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/GeH4_Chen(1991)_295K_113-180nm.txt,Absorption measurements using synchrotron radiation as a continuum background light source; spectral bandwidth 0.08 nm (FWHM),GeH4,germane,"
+
+  F.Z. Chen, T.L. Judge, C.Y.R. Wu, J. Caldwell, H.P. White, and R. Wagener, ""High resolution, low temperature photoabsorption cross sections of C",data/cross-sections/Unclassified/GeH4/GeH4_Chen(1991)_295K_113-180nm.csv
+298.0,Itoh(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/GeH4_Itoh(1986)_298K_106-174nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,GeH4,germane,"
+
+  U. Itoh, Y. Toyoshima, H. Onuki, N. Washida, and T. Ibuki, ""Vacuum ultraviolet absorption cross sections of SiH",data/cross-sections/Unclassified/GeH4/GeH4_Itoh(1986)_298K_106-174nm.csv

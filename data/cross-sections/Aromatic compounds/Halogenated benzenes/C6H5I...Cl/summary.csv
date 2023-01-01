@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+263.0,Enami(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5I...Cl_Enami(2005)_263K_440-520nm.txt,The reactions of Cl atoms with RI (R = n-C,C6H5I...Cl,phenyl iodide-chlorine adduct,"
+
+  S. Enami, T. Yamanaka, S. Hashimoto, M. Kawasaki, and K. Tonokura, ""Direct observation of adduct formation of alkyl and aromatic iodides with Cl atoms using cavity ring-down spectroscopy"",
+  J. Phys. Chem. A 109, 6066-6070 (2005); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5I.csv

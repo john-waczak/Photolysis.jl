@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Villenave(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CHCl2CCl2O2_Villenave(2000)_298K_250-290nm.txt,Flash photolysis technique (Cl,CHCl2CCl2O2,"1,1,2,2-tetrachloroethylperoxy radical","
+
+  E. Villenave, I. Morozov, and R. Lesclaux, ""Kinetics of the self-reactions of peroxy radicals arising from chlorine-initiated oxidation of chloroethenes"",
+  J. Phys. Chem. A 104, 9933-9940 (2000)
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CHCl2CCl2O2/CHCl2CCl2O2_Villenave(2000)_298K_250-290nm.csv

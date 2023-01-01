@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+273.0,GlissmannSchumacher(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O_GlissmannSchumacher(1934)_273K_210-546nm.txt,The spectra recorded on photographic plates have been photometrically analyzed,F2O,oxygen difluoride,"
+
+  A. Glissmann and H.-J. Schumacher, ""Das Spektrum des Fluoroxyds F",data/cross-sections/Halogen oxides/F oxides/F2O/F2O_GlissmannSchumacher(1934)_273K_210-546nm.csv
+273.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O_JPL-2010(2011)_273K_210-546nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",F2O,oxygen difluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/F oxides/F2O/F2O_JPL-2010(2011)_273K_210-546nm(rec).csv

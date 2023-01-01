@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Amedro(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C3F7OCH=CF2_Amedro(2015)_298K_184.95nm.txt,Absorption measurements with a flowing mixture of PPVE in N,C3F7OCH=CF2,"perfluoro propyl vinyl ether, PPVE","
+
+  D. Amedro, L. Vereecken, and J.N. Crowley, ""Kinetics and mechanism of the reaction of perfluoro propyl vinyl ether (PPVE, C",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C3F7OCH=CF2/C3F7OCH=CF2_Amedro(2015)_298K_184.csv
+298.0,Amedro(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C3F7OCH=CF2_Amedro(2015)_298K_195-215nm.txt,"The wavelength-dependent absorption cross sections of static samples of PPVE were measured using the collimated output from a deuterium lamp as the analysis light that, after passing the
+cell, was focused onto the entrance slit of a 0.5 m monochromator, equipped with a 300 lines per mm grating blazed at 300 nm and dispersed onto a diode-array detector ",C3F7OCH=CF2,"perfluoro propyl vinyl ether, PPVE","
+
+  D. Amedro, L. Vereecken, and J.N. Crowley, ""Kinetics and mechanism of the reaction of perfluoro propyl vinyl ether (PPVE, C",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C3F7OCH=CF2/C3F7OCH=CF2_Amedro(2015)_298K_195-215nm.csv

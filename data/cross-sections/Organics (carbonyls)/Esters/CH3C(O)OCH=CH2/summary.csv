@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OCH=CH2_Doner(2022)_323K_125-240nm.txt,High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH3C(O)OCH=CH2,"vinyl acetate, acetic acid vinyl ester","
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OCH=CH2/CH3C(O)OCH=CH2_Doner(2022)_323K_125-240nm.csv

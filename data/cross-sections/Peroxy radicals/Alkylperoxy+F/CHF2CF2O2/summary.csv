@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Nielsen(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CHF2CF2O2_Nielsen(1992)_298K_220-270nm.txt,A pulse radiolysis (SF,CHF2CF2O2,"1,1,2,2-tetrafluoroethylperoxy radical","
+
+  O.J. Nielsen, T. Ellermann, J. Sehested, and T.J. Wallington, ""Ultraviolet absorption spectrum and kinetics and mechanism of the self-reaction of CHF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CHF2CF2O2/CHF2CF2O2_Nielsen(1992)_298K_220-270nm.csv

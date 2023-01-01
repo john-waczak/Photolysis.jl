@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,Clemitshaw(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/(CH3)2CHCH2ONO2_Clemitshaw(1996)_294K_220-340nm.txt,"Absorption measurements using a dual-beam, diode array spectrometer; spectral resolution 0.6 nm",(CH3)2CHCH2ONO2,2-methylpropyl nitrate,"
+
+  K.C. Clemitshaw, J. Williams, O.V. Rattigan, D.E. Shallcross, K.S. Law, and R.A. Cox, ""Gas-phase ultraviolet absorption cross-sections and atmospheric lifetimes of several C",data/cross-sections/Organics (N-compounds)/Nitrates/(CH3)2CHCH2ONO2/(CH3)2CHCH2ONO2_Clemitshaw(1996)_294K_220-340nm.csv

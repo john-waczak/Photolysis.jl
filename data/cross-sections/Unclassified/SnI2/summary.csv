@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+665.0,Maya(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnI2_Maya(1977)_665K_192-396nm.txt,Absorption measurements at a resolution better than 1 nm using a deuterium lamp as a light source,SnI2,"tin diiodide, tin(II) iodide","
+
+  A. Maya, ""Ultraviolet absorption cross sections of HgI",data/cross-sections/Unclassified/SnI2/SnI2_Maya(1977)_665K_192-396nm.csv
+665.0,Maya(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnI2_Maya(1977)_665K_200,230,360nm(max).txt",Absorption measurements at a resolution better than 1 nm using a deuterium lamp as a light source,SnI2,"tin diiodide, tin(II) iodide","
+
+  A. Maya, ""Ultraviolet absorption cross sections of HgI","data/cross-sections/Unclassified/SnI2/SnI2_Maya(1977)_665K_200,230,360nm(max).csv"

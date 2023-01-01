@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,ElDib(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2O2_ElDib(2006)_298K_220-280nm(class).txt,Photolysis of a slow flowing mixture of Cl,C6H5CH2O2,benzylperoxy radical,"
+
+  G. El Dib, A. Chakir, E. Roth, J. Brion, and D. Daumont, ""Study of benzylperoxy radical using laser photolysis: Ultraviolet spectrum, self-reaction, and reaction with HO",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2O2/C6H5CH2O2_ElDib(2006)_298K_220-280nm(class).csv
+298.0,ElDib(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2O2_ElDib(2006)_298K_220-280nm(FA).txt,Photolysis of a slow flowing mixture of Cl,C6H5CH2O2,benzylperoxy radical,"
+
+  G. El Dib, A. Chakir, E. Roth, J. Brion, and D. Daumont, ""Study of benzylperoxy radical using laser photolysis: Ultraviolet spectrum, self-reaction, and reaction with HO",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2O2/C6H5CH2O2_ElDib(2006)_298K_220-280nm(FA).csv
+295.0,Noziere(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2O2_Noziere(1994)_295K_220-300nm.txt,Flash photolysis/UV absorption techniques applied for the study of the self-reaction and reaction with HO,C6H5CH2O2,benzylperoxy radical,"
+
+  B. Nozière, R. Lesclaux, M.D. Hurley, M.A. Dearth, and T.J. Wallington, ""A kinetic and mechanistic study of the self-reaction and reaction with HO",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2O2/C6H5CH2O2_Noziere(1994)_295K_220-300nm.csv

@@ -1,0 +1,38 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BenayadaLeila(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC2H5_BenayadaLeila(1999)_298K_211-252nm.txt,"Absorption measurements using a single-beam photometer, a monochromator, and a D",HC(O)OC2H5,ethyl formate,"
+
+  B. Benayada and D.O. Leila, ""UV absorption cross sections for acetates"",
+  Desalination 126, 83-86 (1999); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC2H5/HC(O)OC2H5_BenayadaLeila(1999)_298K_211-252nm.csv
+297.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC2H5_JPL-2010(2011)_297K_211-260nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",HC(O)OC2H5,ethyl formate,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC2H5/HC(O)OC2H5_JPL-2010(2011)_297K_211-260nm(rec).csv
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC2H5_McMillan(1966)_298K_201.7-254.6nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,HC(O)OC2H5,ethyl formate,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 429
+
+
+",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC2H5/HC(O)OC2H5_McMillan(1966)_298K_201.csv
+298.0,Smialek(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC2H5_Smialek(2014)_298K_114.5-260.0nm.txt,Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,HC(O)OC2H5,ethyl formate,"
+
+  M.A. Smialek, M. Labuda, J. Guthmuller, M.-J. Hubin-Franskin, J. Delwiche, D. Duflot, N.J. Mason, S.V. Hoffmann, N.C. Jones, and P. Limão-Vieira, ""Valence and ionic lowest-lying electronic states of ethyl formate as studied by high-resolution vacuum ultraviolet photoabsorption, He(I) photoelectron spectroscopy, and ab initio calculations"",
+  J. Chem. Phys. 141, 104311-1 - 104311-9 (2014); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC2H5/HC(O)OC2H5_Smialek(2014)_298K_114.csv
+297.0,VesineMellouki(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC2H5_VesineMellouki(1997)_297K_211-260nm.txt,"Averages over 1- and 2-nm intervals of the high-resolution (∼0.04 nm) spectrum measured using a diode array spectrometer
+
+
+",HC(O)OC2H5,ethyl formate,"
+
+  E. Vésine and A. Mellouki, ""UV absorption cross sections for a series of formates"",
+  J. Chim. Phys. Physico-Chim. Biol. 94, 1634-1641 (1997); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC2H5/HC(O)OC2H5_VesineMellouki(1997)_297K_211-260nm.csv

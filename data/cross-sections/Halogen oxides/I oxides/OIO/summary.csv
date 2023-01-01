@@ -1,0 +1,62 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Bloss(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Bloss(2001)_295K_514.54-573.14nm.txt,Laser photolysis with time-resolved UV-vis absorption spectroscopy,OIO,iodine dioxide,"
+
+  W.J. Bloss, D.M. Rowley, R.A. Cox, and R.L. Jones, ""Kinetics and products of the IO self-reaction"",
+  J. Phys. Chem. A 105, 7840-7854 (2001); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Bloss(2001)_295K_514.csv
+295.0,Bloss(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Bloss(2001)_295K_516-572nm(1nm).txt,"Averages over 1-nm intervals of the medium-resolution (1.13 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",OIO,iodine dioxide,"
+
+  W.J. Bloss, D.M. Rowley, R.A. Cox, and R.L. Jones, ""Kinetics and products of the IO self-reaction"",
+  J. Phys. Chem. A 105, 7840-7854 (2001); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Bloss(2001)_295K_516-572nm(1nm).csv
+298.0,GomezMartin(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_GomezMartin(2005)_298K_549.3nm.txt,Multichannel time resolved absorption spectroscopy coupled with flash photolysis of mixtures of molecular iodine and ozone,OIO,iodine dioxide,"
+
+  J.C. Gomez Martin, P. Spietz, and J.P. Burrows, ""Spectroscopic studies of the I",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_GomezMartin(2005)_298K_549.csv
+298.0,Himmelmann(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Himmelmann(1996)_298K_476.2-667.2nm.txt,Optical densities measured upon flash photolysis of O,OIO,iodine dioxide,"
+
+  S. Himmelmann, J. Orphal, H. Bovensmann, A. Richter, A. Ladstätter-Weissenmayer, and J.P. Burrows, ""First observation of the OIO molecule by time-resolved flash photolysis absorption spectroscopy"",
+  Chem. Phys. Lett. 251, 330-334 (1996); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Himmelmann(1996)_298K_476.csv
+298.0,Ingham(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Ingham(2000)_298K_548.6nm.txt,"This value for absorption cross section at 548.6 nm, based on the measuements of ",OIO,iodine dioxide,"
+
+  T. Ingham, M. Cameron, and J.N. Crowle, "" Photodissociation of IO (355 nm) and OIO (532 nm): Quantum yields for O(",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Ingham(2000)_298K_548.csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_IUPAC(2007)_298K_548.6nm(rec).txt,IUPAC(2007) recommendation:,OIO,iodine dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_IUPAC(2007)_298K_548.csv
+300.0,Joseph(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Joseph(2005)_300K_558-578nm.txt,High-resolution (better than 0.006 nm) spectrum measured by cavity ring-down spectroscopy,OIO,iodine dioxide,"
+
+  D.M. Joseph, S.H. Ashworth, and J.M.C. Plane, ""The absorption cross section and photochemistry of OIO"",
+  J. Photochem. Photobiol. A: Chem. 176, 68-77 (2005); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Joseph(2005)_300K_558-578nm.csv
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_JPL-2010(2011)_295K_516-572nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",OIO,iodine dioxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_JPL-2010(2011)_295K_516-572nm(rec).csv
+298.0,Spietz(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Spietz(2005)_298K_391.85-659.55nm(1.3nm).txt,Multichannel time resolved absorption spectroscopy coupled with flash photolysis of mixtures of molecular iodine and ozone,OIO,iodine dioxide,"
+
+  P. Spietz, J.C. Gomez Martin, and J.P. Burrows, ""Spectroscopic studies of the I",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Spietz(2005)_298K_391.csv
+298.0,Spietz(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Spietz(2005)_298K_532.87-567.61nm(0.356nm).txt,Multichannel time resolved absorption spectroscopy coupled with flash photolysis of mixtures of molecular iodine and ozone,OIO,iodine dioxide,"
+
+  P. Spietz, J.C. Gomez Martin, and J.P. Burrows, ""Spectroscopic studies of the I",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Spietz(2005)_298K_532.csv
+296.0,Tucceri(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/I%20oxides/OIO_Tucceri(2006)_296K_610.2nm.txt,Examination of the photolysis of OIO using pulsed laser photolysis combined with transient absorption spectroscopy and resonance fluorescence,OIO,iodine dioxide,"
+
+  M.E. Tucceri, D. Hölscher, A. Rodriguez, T.J. Dillon, and J.N. Crowley, ""Absorption cross section and photolysis of OIO"",
+  Phys. Chem. Chem. Phys. 8, 834-846 (2006); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/I oxides/OIO/OIO_Tucceri(2006)_296K_610.csv

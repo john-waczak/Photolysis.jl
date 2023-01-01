@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BarnesSimpson(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Amides/HC(O)N(CH3)2_BarnesSimpson(1963)_298K_147-234nm.txt,"The absorption spectrum (extinction coefficients vs. wavenumber) shown in Fig. 2 has been digitized, and the extinction coefficients have been converted to absorption cross sections (conversion factor 3.8235×10",HC(O)N(CH3)2,"N,N-dimethylformamide, DMF","
+
+  E.E. Barnes and W.T. Simpson, ""Correlations among electronic transitions for carbonyl and carboxyl in the vacuum ultraviolet"",
+  J. Chem. Phys. 39, 670-675 (1963); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Amides/HC(O)N(CH3)2/HC(O)N(CH3)2_BarnesSimpson(1963)_298K_147-234nm.csv

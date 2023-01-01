@@ -1,0 +1,202 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BeckerWelge(1964),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_BeckerWelge(1964)_298K_116.5-147.0nm.txt","Absorption coefficients k(atm, 273K)",NH3,ammonia,"
+
+  K.H. Becker and K.H. Welge, ""Fluoreszenzuntersuchungen und photochemische Primärprozesse im Vakuum-UV bei NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_BeckerWelge(1964)_298K_116.csv"
+295.0,Bennett(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Bennett(1971)_295K_58.4nm.txt","Absorption coefficient k (atm, 273 K)",NH3,ammonia,"
+
+  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
+  J. Phys. Chem. 75, 719-721 (1971); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Bennett(1971)_295K_58.csv"
+298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Bertrand(1975)_298K_123.6nm.txt",Kr resonance line as a light source,NH3,ammonia,"
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Bertrand(1975)_298K_123.csv"
+298.0,Burton(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Burton(1993)_298K_6.2-225nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",NH3,ammonia,"
+
+  G.R. Burton, W.F. Chan, G. Cooper, and C.E. Brion, ""The electronic absorption spectrum of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Burton(1993)_298K_6.csv"
+175.0,Chen(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Chen(1999)_175K_170-218nm(0.01nm).txt","Absorption measurements at 175, 195, and 295 K using synchrotron radiation; spectral resolution 0.05 nm",NH3,ammonia,"
+
+  F.Z. Chen, D.L. Judge, C.Y.R. Wu, and J. Caldwell, ""Low and room temperature photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Chen(1999)_175K_170-218nm(0.csv"
+195.0,Chen(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Chen(1999)_195K_170-222nm(0.01nm).txt","Absorption measurements at 175, 195, and 295 K using synchrotron radiation; spectral resolution 0.05 nm",NH3,ammonia,"
+
+  F.Z. Chen, D.L. Judge, C.Y.R. Wu, and J. Caldwell, ""Low and room temperature photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Chen(1999)_195K_170-222nm(0.csv"
+295.0,Chen(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Chen(1999)_295K_170-226nm(0.01nm).txt","Absorption measurements at 175, 195, and 295 K using synchrotron radiation; spectral resolution 0.05 nm",NH3,ammonia,"
+
+  F.Z. Chen, D.L. Judge, C.Y.R. Wu, and J. Caldwell, ""Low and room temperature photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Chen(1999)_295K_170-226nm(0.csv"
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Cheng(2006)_298K_140-230nm(0.02nm).txt",The absorption spectra of NH,NH3,ammonia,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Cheng(2006)_298K_140-230nm(0.csv"
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Cheng(2006)_298K_142.38-168.82nm(B-X).txt",The absorption spectra of NH,NH3,ammonia,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Cheng(2006)_298K_142.csv"
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Cheng(2006)_298K_168.82-216.76nm(A-X).txt",The absorption spectra of NH,NH3,ammonia,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Cheng(2006)_298K_168.csv"
+298.0,Edvardsson(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Edvardsson(1999)_298K_49.55-123.10nm.txt",High-resolution absorption measurements using a double ion chamber and synchrotron radiation as a light source,NH3,ammonia,"
+
+  D. Edvardsson, P. Baltzer, L. Karlsson, B. Wannberg, D.M.P. Holland, D.A. Shaw, and E.E. Rennie, ""A photoabsorption, photodissociation and photoelectron spectroscopy study of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Edvardsson(1999)_298K_49.csv"
+300.0,Liang(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Liang(2007)_300K_140.00-226.42nm(15NH3).txt",Absorption measurements have been carried out in the regions of the A ← X (∼165-200 nm) and B ← X (∼140-170 nm) transitions of ,NH3,ammonia,"
+
+  M.-C. Liang, B.-M. Cheng, H.-C. Lu, H.-K. Chen, M.S. Alam, Y.-P. Lee, and Y.L. Yung, ""Isotopic fractionation of nitrogen in ammonia in the troposphere of Jupiter"",
+  Astrophys. J. Lett., 657, L117-L120 (2007); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Liang(2007)_300K_140.csv"
+298.0,Lilly(1973-1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Lilly(1973-1974)_298K_104.8-106.7,123.6,147nm.txt","Absorption coefficients k (atm, 298 K)",NH3,ammonia,"
+
+  R.L. Lilly, R.E. Rebbert, and P. Ausloos, ""Far ultra-violet photolysis of ammonia - Quantum yield determination for the primary process: NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Lilly(1973-1974)_298K_104.csv"
+298.0,Limao-Vieira(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Limao-Vieira(2019)_298K_114.84-227.54nm.txt",High-resolution (0.075 nm) absorption measurements using synchrotron radiation as a light source,NH3,ammonia,"
+
+  P. Limão-Vieira,  N.C. Jones, S.V. Hoffmann, D. Duflot, M. Mendes, A.I. Lozano, F. Ferreira da Silva, G. G., M. Hoshino, and H. Tanaka, ""Revisiting the photoabsorption spectrum of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Limao-Vieira(2019)_298K_114.csv"
+298.0,MetzgerCook(1964),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_MetzgerCook(1964)_298K_55-101nm.txt",Absorption measurements at a spectral resolution ot 0.05 nm using the Hopfield continuum light source,NH3,ammonia,"
+
+  P.H. Metzger and G.R. Cook, ""On the continuous absorption, photoionization, and fluorescence of H","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_MetzgerCook(1964)_298K_55-101nm.csv"
+298.0,Olive(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Olive(2005)_298K_200-225nm.txt",Absorption measurements at a spectral resolution of 0.050 nm,NH3,ammonia,"
+
+  B.S. Olive, ""Absorption spectra of ammonia, hydrogen sulfide, and several organic compounds"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2005
+
+
+","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Olive(2005)_298K_200-225nm.csv"
+298.0,ReilhacDamany(1970),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_ReilhacDamany(1970)_298K_12.5-44.4nm.txt",Absorption measurements by photographic spectrometry using a grating spectrograph and a spark produced by an uranium anode as a light source,NH3,ammonia,"
+
+  L. de Reilhac and N. Damany, ""Spectres d'absorption de H","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_ReilhacDamany(1970)_298K_12.csv"
+298.0,ReilhacDamany(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_ReilhacDamany(1977)_298K_10.5-50.0nm.txt",Absorption measurements by photographic spectrometry using a grating spectrograph and a spark produced by an uranium anode as a light source,NH3,ammonia,"
+
+  L. de Reilhac and N. Damany, ""Photoabsorption cross-section measurements of some gases, from 10 to 50 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 18, 121-131 (1977); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_ReilhacDamany(1977)_298K_10.csv"
+298.0,Samson(1987),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Samson(1987)_298K_8-112nm.txt",The absolute absorption cross sections were measured by a technique that requires a double ionization chamber,NH3,ammonia,"
+
+  J.A.R. Samson, G.N. Haddad, and L.D. Kilcoyne, ""Absorption and dissociative photoionization cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Samson(1987)_298K_8-112nm.csv"
+298.0,SouzaSrivastava(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SouzaSrivastava(1996)_298K_12.4-112.7nm.txt",The electron energy loss spectrum (EELS) of NH,NH3,ammonia,"
+
+  A.C.A Souza and S.K. Srivastava, ""Photoabsorption cross sections of derived by the electron energy loss spectroscopy technique for ammonia, methane and acetylene in the photon energy range of 5 to 100 eV"",
+  J. Braz. Chem. Soc. 7, 91-95 (1996); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SouzaSrivastava(1996)_298K_12.csv"
+295.0,SunWeissler(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SunWeissler(1955)_295K_37-131nm.txt",Absorption measurements with a grazing incidence vacuum spectrograph and a condensed ac arc discharge as a light source,NH3,ammonia,"
+
+  H. Sun and G.L. Weissler, ""Absorption cross sections of methane and ammonia in the vacuum ultraviolet"",
+  J. Chem. Phys. 23, 1160-1164 (1955); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SunWeissler(1955)_295K_37-131nm.csv"
+298.0,SutoLee(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SutoLee(1983)_298K_106.1-143.7nm.txt",Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as a light source,NH3,ammonia,"
+
+  M. Suto and L.C. Lee, ""Photodissociation of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SutoLee(1983)_298K_106.csv"
+298.0,SutoLee(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SutoLee(1983)_298K_121.567nm.txt",Absorption measurements in the 106-206 nm region using synchrotron radiation as a light source; spectral resolution 0.2 nm,NH3,ammonia,"
+
+  M. Suto and L.C. Lee, ""Photodissociation of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SutoLee(1983)_298K_121.csv"
+298.0,SutoLee(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SutoLee(1983)_298K_142.0-173.9nm.txt",Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as a light source,NH3,ammonia,"
+
+  M. Suto and L.C. Lee, ""Photodissociation of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SutoLee(1983)_298K_142.csv"
+298.0,SutoLee(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_SutoLee(1983)_298K_170.1-205.6nm.txt",Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as a light source,NH3,ammonia,"
+
+  M. Suto and L.C. Lee, ""Photodissociation of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_SutoLee(1983)_298K_170.csv"
+298.0,Syage(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Syage(1992)_298K_122-219nm.txt","Absorption coefficients and cross sections were recorded at single wavelengths (at a resolution of 0.4 nm) using flowing samples and a deuterium arc-discharge lamp
+with MgF",NH3,ammonia,"
+
+  J.A. Syage, R.B. Cohen, and J. Steadman, ""Spectroscopy and dynamics of jet-cooled hydrazines and ammonia. I. Single-photon absorption and ionization spectra"",
+  J. Chem. Phys. 97, 6072-6084 (1992); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Syage(1992)_298K_122-219nm.csv"
+298.0,Tannenbaum(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Tannenbaum(1953)_298K_171.6-226.0nm.txt",Absorption measurements by photographic spectrophotometry using flowing and static vapors and hydrogen lamps as light sources,NH3,ammonia,"
+
+  E. Tannenbaum, E.M. Coffin, and A.J. Harrison, ""The far ultraviolet absorption spectra of simple alkyl amines"",
+  J. Chem. Phys. 21, 311-318 (1953); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Tannenbaum(1953)_298K_171.csv"
+298.0,Thompson(1963),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Thompson(1963)_298K_185-233nm.txt",Absorption measurements with a Perkin-Elmer spectrophotometer able to measure absorption coefficients k as low as 10,NH3,ammonia,"
+
+  B.A. Thompson, P. Harteck, and R.R. Reeves, Jr., ""Ultraviolet absorption coefficients of CO","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Thompson(1963)_298K_185-233nm.csv"
+300.0,VatsaVolpp(2001),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_VatsaVolpp(2001)_300K_121.567nm.txt",Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,NH3,ammonia,"
+
+  R.K. Vatsa and H.-R. Volpp, ""Absorption cross sections for some atmospherically important molecules at the H atom Lyman-α wavelength (121.567 nm)"",
+  Chem. Phys. Lett. 340, 289-295 (2001); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_VatsaVolpp(2001)_300K_121.csv"
+295.0,WalkerWeissler(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WalkerWeissler(1955)_295K_76.9-121.6nm.txt",Absorption measurements at a resolution of 0.5 nm,NH3,ammonia,"
+
+  W.C. Walker and G.L. Weissler, ""Photoionization efficiencies and cross sections in NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WalkerWeissler(1955)_295K_76.csv"
+298.0,Watanabe(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Watanabe(1954)_298K_107.0-164.0nm.txt",Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source,NH3,ammonia,"
+
+  K. Watanabe, ""Photoionization and total absorption cross section of gases. I. Ionization potentials of several molecules. Cross sections of NH3 and NO"",
+  J. Chem. Phys. 22, 1564-1570 (1954);
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Watanabe(1954)_298K_107.csv"
+298.0,Watanabe(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Watanabe(1954)_298K_162.5-218.0nm.txt",Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source,NH3,ammonia,"
+
+  K. Watanabe, ""Photoionization and total absorption cross section of gases. I. Ionization potentials of several molecules. Cross sections of NH3 and NO"",
+  J. Chem. Phys. 22, 1564-1570 (1954);
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Watanabe(1954)_298K_162.csv"
+298.0,WatanabeSood(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WatanabeSood(1965)_298K_117.0-133.0nm.txt","Absorption measurements between 85 and 165 nm using the Hopfield helium continuum as source for the region 58-100 nm with a resolution of 0.03 nm and the hydrogen source for the region 85-165 nm with a resolution of 0.02 nm
+",NH3,ammonia,"
+
+  K. Watanabe and S.P. Sood, ""Absorption and photoionization coefficients of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WatanabeSood(1965)_298K_117.csv"
+298.0,WatanabeSood(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WatanabeSood(1965)_298K_133.0-148.6nm.txt","Absorption measurements between 85 and 165 nm using the Hopfield helium continuum as source for the region 58-100 nm with a resolution of 0.03 nm and the hydrogen source for the region 85-165 nm with a resolution of 0.02 nm
+",NH3,ammonia,"
+
+  K. Watanabe and S.P. Sood, ""Absorption and photoionization coefficients of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WatanabeSood(1965)_298K_133.csv"
+298.0,WatanabeSood(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WatanabeSood(1965)_298K_147.8-164.8nm.txt","Absorption measurements between 85 and 165 nm using the Hopfield helium continuum as source for the region 58-100 nm with a resolution of 0.03 nm and the hydrogen source for the region 85-165 nm with a resolution of 0.02 nm
+",NH3,ammonia,"
+
+  K. Watanabe and S.P. Sood, ""Absorption and photoionization coefficients of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WatanabeSood(1965)_298K_147.csv"
+298.0,WatanabeSood(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WatanabeSood(1965)_298K_57.8-100.0nm.txt","Absorption measurements between 85 and 165 nm using the Hopfield helium continuum as source for the region 58-100 nm with a resolution of 0.03 nm and the hydrogen source for the region 85-165 nm with a resolution of 0.02 nm
+",NH3,ammonia,"
+
+  K. Watanabe and S.P. Sood, ""Absorption and photoionization coefficients of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WatanabeSood(1965)_298K_57.csv"
+298.0,WatanabeSood(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_WatanabeSood(1965)_298K_99.3-118.7nm.txt","Absorption measurements between 85 and 165 nm using the Hopfield helium continuum as source for the region 58-100 nm with a resolution of 0.03 nm and the hydrogen source for the region 85-165 nm with a resolution of 0.02 nm
+",NH3,ammonia,"
+
+  K. Watanabe and S.P. Sood, ""Absorption and photoionization coefficients of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_WatanabeSood(1965)_298K_99.csv"
+298.0,Wight(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wight(1977)_298K_20.7-124nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",NH3,ammonia,"
+
+  G.R. Wight, M.J. Van der Wiel, and C.E. Brion, ""Dipole oscillator strengths for excitation, ionisation and fragmentation of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wight(1977)_298K_20.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_106-144nm(0.02nm).txt",The absorption spectra of NH,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_106-144nm(0.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_112.48-128.68nm(F-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_112.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_112.66-116.76nm(P2).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_112.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_116.42-126.82nm(G-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_116.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_117.26-132.96nm(E-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_117.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_117.75-123.58nm(P1).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_117.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_122.15-143.34nm(D-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_122.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_128.40-142.82nm(D%20II%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_128.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_129.90-138.86nm(D%20III%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_129.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Wu(2007)_295K_130.12-142.74nm(D%20I%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NH3,ammonia,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Wu(2007)_295K_130.csv"
+298.0,Xia(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH3_Xia(1991)_298K_121.567nm.txt",High-resolution (0.08 and 0.007 nm) absorption measurements at 106-122 nm using synchrotron radiation (see Figs. 2 and 3),NH3,ammonia,"
+
+  T.J. Xia, T.S. Chien, C.Y.R. Wu, and T.L. Judge, ""Photoabsorption and photoionization cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NH3/NH3_Xia(1991)_298K_121.csv"

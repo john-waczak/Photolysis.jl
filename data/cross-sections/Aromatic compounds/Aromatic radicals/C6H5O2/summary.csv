@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Caralp(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O2_Caralp(1999)_298K_245-300nm.txt,Flash photolysis/transient UV absorption technique,C6H5O2,phenylperoxy radical,"
+
+  F. Caralp, V. Focher, R. Lesclaux, T.J. Wallington, and M.D. Hurley, ""Atmospheric chemistry of benzaldehyde: UV absorption spectrum and reaction kinetics and mechanisms of the C",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O2/C6H5O2_Caralp(1999)_298K_245-300nm.csv

@@ -1,0 +1,39 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Green(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_Green(2004)_298K_200-450nm.txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  T.J. Green, M. Islam, C. Canosa-Mas, G. Marston, and R.P. Wayne, ""Higher oxides of chlorine: absorption cross-sections of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_Green(2004)_298K_200-450nm.csv
+298.0,Jansen(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_Jansen(1988)_298K_268nm(max).txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  M. Jansen, G. Schatte, K.M. Tobias, and H. Willner, ""Properties of dichlorine hexaoxide in the gas phase and in low temperature matrices"",
+  Inorg. Chem. 27, 1703-1706 (1988); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_Jansen(1988)_298K_268nm(max).csv
+293.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_JPL-2002(2002)_293K_200-380nm(rec).txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_JPL-2002(2002)_293K_200-380nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_JPL-2010(2011)_298K_200-390nm(rec).txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_JPL-2010(2011)_298K_200-390nm(rec).csv
+293.0,LopezSicre(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_LopezSicre(1990)_293K_195.0-390.4nm.txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  M.I. Lopez and J.E. Sicre, ""Physicochemical properties of chlorine oxides. 1. Composition, ultraviolet spectrum, and kinetics of the thermolysis of gaseous dichlorine hexoxide"",
+  J. Phys. Chem. 94, 3860-3863 (1990); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_LopezSicre(1990)_293K_195.csv
+293.0,LopezSicre(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O6_LopezSicre(1990)_293K_195-390nm(5nm).txt,Structure: O,Cl2O6,"dichlorine hexoxide, chloryl chlorate","
+
+  M.I. Lopez and J.E. Sicre, ""Physicochemical properties of chlorine oxides. 1. Composition, ultraviolet spectrum, and kinetics of the thermolysis of gaseous dichlorine hexoxide"",
+  J. Phys. Chem. 94, 3860-3863 (1990); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O6/Cl2O6_LopezSicre(1990)_293K_195-390nm(5nm).csv

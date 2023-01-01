@@ -1,0 +1,38 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BeckerWelge(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_BeckerWelge(1964)_298K_116.5-147.0nm.txt,"Absorption coefficients k(atm, 273K)",PH3,phosphine,"
+
+  K.H. Becker and K.H. Welge, ""Fluoreszenzuntersuchungen und photochemische Primärprozesse im Vakuum-UV bei NH",data/cross-sections/Phosphor compounds/PH3/PH3_BeckerWelge(1964)_298K_116.csv
+155.0,Chen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_Chen(1991)_155K_127-200nm.txt,Absorption measurements using synchrotron radiation as a continuum background light source; spectral bandwidth 0.007 nm (FWHM),PH3,phosphine,"
+
+  F.Z. Chen, T.L. Judge, C.Y.R. Wu, J. Caldwell, H.P. White, and R. Wagener, ""High resolution, low temperature photoabsorption cross sections of C",data/cross-sections/Phosphor compounds/PH3/PH3_Chen(1991)_155K_127-200nm.csv
+295.0,Chen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_Chen(1991)_295K_120-230nm.txt,Absorption measurements using synchrotron radiation as a continuum background light source; spectral bandwidth 0.007 nm (FWHM),PH3,phosphine,"
+
+  F.Z. Chen, T.L. Judge, C.Y.R. Wu, J. Caldwell, H.P. White, and R. Wagener, ""High resolution, low temperature photoabsorption cross sections of C",data/cross-sections/Phosphor compounds/PH3/PH3_Chen(1991)_295K_120-230nm.csv
+296.0,Halmann(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_Halmann(1963)_296K_185-218nm.txt,"Absorption measurements using Beckman, Hilger, Cary, and Unicam spectrophotometers",PH3,phosphine,"
+
+  M. Halmann, ""Far-ultraviolet absorption spectra of phosphorous compounds in the gas phase"",
+  J. Chem. Soc. 1963, 2853-2856 (1963); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PH3/PH3_Halmann(1963)_296K_185-218nm.csv
+293.0,HalpernRamachandran(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_HalpernRamachandran(1992)_293K_187-227nm.txt,"Absorption spectra were obtained with a Varian 2300 spectrophotometer, which was purged with dry N",PH3,phosphine,"
+
+  A.M Halpern and B.R. Ramachandran, ""The electronic spectroscopy and photophysics of saturated phosphines"",
+  J. Mol. Spectrosc. 151, 26-32 (1992); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PH3/PH3_HalpernRamachandran(1992)_293K_187-227nm.csv
+298.0,Zarate(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_Zarate(1990)_298K_5.6-10.3nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",PH3,phosphine,"
+
+  E.B. Zarate, G. Cooper, and C.E. Brion, ""Absolute oscillator strengths for the photoabsorption, photoionization and ionic photofragmentation of phosphine. II. The P 2p and P 2s inner shells"",
+  Chem. Phys. 148, 289-297 (1990); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PH3/PH3_Zarate(1990)_298K_5.csv
+298.0,Zarate(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PH3_Zarate(1990)_298K_9.5-207nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",PH3,phosphine,"
+
+  E.B. Zarate, G. Cooper, and C.E. Brion, ""Absolute oscillator strengths for the photoabsorption, photoionization and ionic photofragmentation of phosphine. I. The valence shell"",
+  Chem. Phys. 148, 277-288 (1990); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PH3/PH3_Zarate(1990)_298K_9.csv

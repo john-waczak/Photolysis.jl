@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CBr4_CausleyRussell(1975)_298K_110-200nm.txt,High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,CBr4,"carbon tetrabromide, tetrabromomethane","
+
+  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
+  J. Chem. Phys. 62, 848-857 (1975); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CBr4/CBr4_CausleyRussell(1975)_298K_110-200nm.csv
+298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CBr4_CausleyRussell(1975)_298K_180.0-273.6nm.txt,High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,CBr4,"carbon tetrabromide, tetrabromomethane","
+
+  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
+  J. Chem. Phys. 62, 848-857 (1975); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CBr4/CBr4_CausleyRussell(1975)_298K_180.csv

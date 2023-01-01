@@ -1,0 +1,9 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Orkin(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CHF2OCHF2_Orkin(1999)_295K_160-182nm.txt,"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of either 0.5 or 0.1 nm at spectral slit widths of 0.5 and 0.1 nm
+",CHF2OCHF2,"1,1,2,2-tetrafluorodimethylether (HFOC-134)","
+
+  V.L. Orkin, E. Villenave, R.E. Huie, and M.J. Kurylo, ""Atmospheric lifetimes and global warming potentials of hydrofluoroethers: Reactivity toward OH, UV spectra, and IR absorption cross sections"",
+  J. Phys. Chem. A 103, 9770-9779 (1999); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CHF2OCHF2/CHF2OCHF2_Orkin(1999)_295K_160-182nm.csv

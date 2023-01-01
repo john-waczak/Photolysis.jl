@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Wallington(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Others/C4F9OCH2O2_Wallington(1997)_296K_220-320nm.txt,Pulse radiolysis transient UV absorption spectroscopy was used to study the ultraviolet absorption spectrum (220-320 nm); spectral resolution 0.8 nm,C4F9OCH2O2,alkylperoxy radical of hydrofluoroether C4F9OCH3 (HFE-7100),"
+
+  T.J. Wallington, W.F. Schneider, J. Sehested, M. Bilde, J. Platz, O.J. Nielsen, L.K. Christensen, M.J. Molina, L.T. Molina, and P.W. Wooldridge, ""Atmospheric chemistry of HFE-7100 (C",data/cross-sections/Peroxy radicals/Others/C4F9OCH2O2/C4F9OCH2O2_Wallington(1997)_296K_220-320nm.csv

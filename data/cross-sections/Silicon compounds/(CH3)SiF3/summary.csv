@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ibuki(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)SiF3_Ibuki(1987)_298K_110-160nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,(CH3)SiF3,trifluoromethylsilane,"
+
+  T. Ibuki, N. Washida, U. Itoh, Y. Tyoshima, and H. Onuki, ""Absorption spectra of SiCl",data/cross-sections/Silicon compounds/(CH3)SiF3/(CH3)SiF3_Ibuki(1987)_298K_110-160nm.csv
+298.0,Roberge(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)SiF3_Roberge(1978)_298K_122.7-146.7nm.txt,Absorption measurements using a vacuum uv spectrometer with a hydrogen discharge source,(CH3)SiF3,trifluoromethylsilane,"
+
+  R. Roberge, C. Sandorfy, J.I. Matthews, and O.P. Strausz, ""The far ultraviolet and He I photoelectron spectra of alkyl and fluorine substituted silane derivatives"",
+  J. Chem. Phys. 69, 5105-5112 (1978); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)SiF3/(CH3)SiF3_Roberge(1978)_298K_122.csv

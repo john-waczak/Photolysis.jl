@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F+Cl/CF2ClCH2O2_Jemi-Alade(1991)_298K_210-280nm(meas).txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of Cl,CF2ClCH2O2,"2,2,2-difluorochloroethylperoxy radical","
+
+  A.A. Jemi-Alade, P.D. Lightfoot, and R Lesclaux, ""Measurements of the UV absorption cross-sections of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F+Cl/CF2ClCH2O2/CF2ClCH2O2_Jemi-Alade(1991)_298K_210-280nm(meas).csv
+298.0,Jemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F+Cl/CF2ClCH2O2_Jemi-Alade(1991)_298K_210-280nm(resc).txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of Cl,CF2ClCH2O2,"2,2,2-difluorochloroethylperoxy radical","
+
+  A.A. Jemi-Alade, P.D. Lightfoot, and R Lesclaux, ""Measurements of the UV absorption cross-sections of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F+Cl/CF2ClCH2O2/CF2ClCH2O2_Jemi-Alade(1991)_298K_210-280nm(resc).csv
+298.0,WallingtonNielsen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F+Cl/CF2ClCH2O2_WallingtonNielsen(1991)_298K_220-290nm.txt,A pulse radiolysis (SF,CF2ClCH2O2,"2,2,2-difluorochloroethylperoxy radical","
+
+  T.J. Wallington and O.J. Nielsen, ""UV absorption spectra and kinetics of the self reaction of CFCl",data/cross-sections/Peroxy radicals/Alkylperoxy+F+Cl/CF2ClCH2O2/CF2ClCH2O2_WallingtonNielsen(1991)_298K_220-290nm.csv

@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,Clemitshaw(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C5H11ONO2_Clemitshaw(1996)_294K_270-340nm.txt,"Absorption measurements using a dual-beam, diode array spectrometer; spectral resolution 0.6 nm",n-C5H11ONO2,1-pentyl nitrate,"
+
+  K.C. Clemitshaw, J. Williams, O.V. Rattigan, D.E. Shallcross, K.S. Law, and R.A. Cox, ""Gas-phase ultraviolet absorption cross-sections and atmospheric lifetimes of several C",data/cross-sections/Organics (N-compounds)/Nitrates/n-C5H11ONO2/n-C5H11ONO2_Clemitshaw(1996)_294K_270-340nm.csv
+298.0,ZhuKellis(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C5H11ONO2_ZhuKellis(1997)_298K_265-340nm.txt,"The temperature dependence of the absorption cross sections has been measured(cavity ring-down spectroscopy) at 238, 248, 258, 268, 278, 288, and 298K and parameterized to the empirical equation",n-C5H11ONO2,1-pentyl nitrate,"
+
+  L. Zhu and D. Kellis, ""Temperature dependence of the UV absorption cross sections and photodissociation products of C",data/cross-sections/Organics (N-compounds)/Nitrates/n-C5H11ONO2/n-C5H11ONO2_ZhuKellis(1997)_298K_265-340nm.csv

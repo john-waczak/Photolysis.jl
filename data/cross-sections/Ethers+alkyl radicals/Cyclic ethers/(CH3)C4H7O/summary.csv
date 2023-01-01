@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Christianson(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/(CH3)C4H7O_Christianson(2021)_323K_125-240nm.txt,High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,(CH3)C4H7O,"2-methyltetrahydrofuran,","
+
+  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/(CH3)C4H7O/(CH3)C4H7O_Christianson(2021)_323K_125-240nm.csv
+298.0,Kizilkilic(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/(CH3)C4H7O_Kizilkilic(1980)_298K_185-199nm.txt,The molar extinction coefficients of the substituted tetrahydrofurans studied were determined in the region from 185 nm to near 200 nm on a Cary model 17 spectrophotometer,(CH3)C4H7O,"2-methyltetrahydrofuran,","
+
+  N. Kizilkilic, H.-P. Schuchmann, and C. von Sonntag, ""The photolysis of tetrahydrofuran and of some of its methyl derivatives at 185 nm"",
+  Can. J. Chem. 58, 2819-2826 (1980); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/(CH3)C4H7O/(CH3)C4H7O_Kizilkilic(1980)_298K_185-199nm.csv

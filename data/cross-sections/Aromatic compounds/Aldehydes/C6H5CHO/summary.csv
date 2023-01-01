@@ -1,0 +1,83 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,Berger(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Berger(1973)_294K_265-292nm.txt,Absorption measurements using a Cary spectrophotometer at a band width of 0.08 nm,C6H5CHO,benzaldehyde,"
+
+  M. Berger, I.L. Goldblatt, and C. Steel, ""Photochemistry of benzaldehyde"",
+  J. Am. Chem. Soc. 95, 1717-1725 (1973); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Berger(1973)_294K_265-292nm.csv
+298.0,Caralp(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Caralp(1999)_298K_245-300nm.txt,Flash photolysis/transient UV absorption technique,C6H5CHO,benzaldehyde,"
+
+  F. Caralp, V. Focher, R. Lesclaux, T.J. Wallington, and M.D. Hurley, ""Atmospheric chemistry of benzaldehyde: UV absorption spectrum and reaction kinetics and mechanisms of the C",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Caralp(1999)_298K_245-300nm.csv
+293.0,Chen(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Chen(2011)_293K_320-450nm.txt,A broadband cavity absorption spectrometer has been coupled to an atmospheric simulation chamber for the measurement of the gas-phase absorption spectrum,C6H5CHO,benzaldehyde,"
+
+  J. Chen, J.C. Wenger, and D.S. Venables, ""Near-ultraviolet absorption cross sections of nitrophenols and their potential influence on tropospheric oxidation capacity"",
+  J. Phys. Chem. A 115, 12235-12242 (2011); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Chen(2011)_293K_320-450nm.csv
+298.0,ElDib(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_ElDib(2006)_298K_220-280nm(FA).txt,Photolysis of a slow flowing mixture of Cl,C6H5CHO,benzaldehyde,"
+
+  G. El Dib, A. Chakir, E. Roth, J. Brion, and D. Daumont, ""Study of benzylperoxy radical using laser photolysis: Ultraviolet spectrum, self-reaction, and reaction with HO",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_ElDib(2006)_298K_220-280nm(FA).csv
+298.0,Etzkorn(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Etzkorn(1999)_298K_255-296nm.txt,Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),C6H5CHO,benzaldehyde,"
+
+  T. Etzkorn, B. Klotz, S. Sørensen, I.V. Patroescu, I. Barnes, K.H. Becker, and U. Platt, ""Gas-phase absorption cross sections of 24 monocyclic aromatic hydrocarbons in the UV and IR spectral ranges"",
+  Atmos. Environ. 33, 525-540 (1999); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Etzkorn(1999)_298K_255-296nm.csv
+298.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_IUPAC(2012)_298K_220-395nm(rec).txt,IUPAC(2012) recommendation:,C6H5CHO,benzaldehyde,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_IUPAC(2012)_298K_220-395nm(rec).csv
+298.0,IUPAC(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_IUPAC(2021)_298K_220-395nm(rec).txt,IUPAC(2021) recommendation:,C6H5CHO,benzaldehyde,"
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_IUPAC(2021)_298K_220-395nm(rec).csv
+298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_KimuraNagakura(1965)_298K_160.3-242.7nm.txt,Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,C6H5CHO,benzaldehyde,"
+
+  K. Kimura and S. Nagakura, ""Vacuum ultraviolet spectra of styrene, benzaldehyde, acetophenone, and benzonitrile"",
+  Theoret. Chim. Acta 3, 164-173 (1965); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_KimuraNagakura(1965)_298K_160.csv
+298.0,KimuraNagakura(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_KimuraNagakura(1965)_298K_165-275nm(max,sh).txt",Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,C6H5CHO,benzaldehyde,"
+
+  K. Kimura and S. Nagakura, ""Vacuum ultraviolet spectra of styrene, benzaldehyde, acetophenone, and benzonitrile"",
+  Theoret. Chim. Acta 3, 164-173 (1965); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_KimuraNagakura(1965)_298K_165-275nm(max,sh).csv"
+295.0,Noziere(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Noziere(1994)_295K_220-300nm.txt,Flash photolysis/UV absorption techniques applied for the study of the self-reaction and reaction with HO,C6H5CHO,benzaldehyde,"
+
+  B. Nozière, R. Lesclaux, M.D. Hurley, M.A. Dearth, and T.J. Wallington, ""A kinetic and mechanistic study of the self-reaction and reaction with HO",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Noziere(1994)_295K_220-300nm.csv
+298.0,Trost(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Trost(1997)_298K_253.7-292.2nm.txt,Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),C6H5CHO,benzaldehyde,"
+
+  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
+  Atmos. Environ. 31, 3999-4008 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Trost(1997)_298K_253.csv
+298.0,Trost(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Trost(1997)_298K_285nm(max).txt,Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),C6H5CHO,benzaldehyde,"
+
+  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
+  Atmos. Environ. 31, 3999-4008 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Trost(1997)_298K_285nm(max).csv
+295.0,Xiang(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_Xiang(2009)_295K_285-400nm.txt,Absorption measurements by using ring-down spectroscopy,C6H5CHO,benzaldehyde,"
+
+  B. Xiang, C. Zhu, and L. Zhu, ""Gas-phase absorption cross sections of 2-nitrobenzaldehyde and benzaldehyde in the 285-400 nm region, and photolysis of 2-nitrobenzaldehyde vapor at 308 and 351 nm"",
+  Chem. Phys. Lett. 474, 74-78 (2009); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_Xiang(2009)_295K_285-400nm.csv
+294.0,ZhuCronin(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/C6H5CHO_ZhuCronin(2000)_294K_280,285,308nm.txt",Absorption measurements employing excimer or dye laser photolysis in combination with cavity ring-down spectroscopy,C6H5CHO,benzaldehyde,"
+
+  L. Zhu and T.J. Cronin, ""Photodissociation of benzaldehyde in the 280-308 nm region"",
+  Chem. Phys. Lett. 317, 227-231 (2000); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Aldehydes/C6H5CHO/C6H5CHO_ZhuCronin(2000)_294K_280,285,308nm.csv"

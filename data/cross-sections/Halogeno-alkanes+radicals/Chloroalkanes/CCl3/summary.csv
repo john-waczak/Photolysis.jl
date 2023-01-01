@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Danis(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl3_Danis(1989)_298K_195-260nm.txt,Flash photolysis of molecular chlorine in the presence of chloroform,CCl3,trichloromethyl radical,"
+
+  F. Danis, F. Caralp, B. Veyret, H. Loirat, and R. Lesclaux, ""The UV absorption spectrum of the CCl",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl3/CCl3_Danis(1989)_298K_195-260nm.csv

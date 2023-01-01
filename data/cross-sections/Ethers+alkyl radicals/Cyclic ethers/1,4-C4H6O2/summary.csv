@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/1,4-C4H6O2_Doner(2019)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,"1,4-C4H6O2","1,4-dioxene","
+
+  A.C. Doner, M.G. Christianson, J.C. Davis, A.L. Koritzke, A. Larsson, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Six-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 236, 106603  (2019);
+
+
+  DOI: ","data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/1,4-C4H6O2/1,4-C4H6O2_Doner(2019)_323K_125-240nm.csv"

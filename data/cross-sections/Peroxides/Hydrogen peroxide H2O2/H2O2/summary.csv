@@ -1,0 +1,163 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Fergusson(1936)_298K_220-289nm(smoo).txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,H2O2,hydrogen peroxide,"
+
+  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
+  Trans. Faraday Soc. 32, 956-962 (1936); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Fergusson(1936)_298K_220-289nm(smoo).csv
+298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Fergusson(1936)_298K_223.4-288.2nm(meas).txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,H2O2,hydrogen peroxide,"
+
+  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
+  Trans. Faraday Soc. 32, 956-962 (1936); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Fergusson(1936)_298K_223.csv
+298.0,Holt(1948),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Holt(1948)_298K_187-225nm(meas).txt,Absorption measurements using a quartz spectrograph and a hydrogen discharge tube as a light source,H2O2,hydrogen peroxide,"
+
+  R.B. Holt, C.K. McLane, and O. Oldenberg, ""Ultraviolet absorption spectrum of hydrogen peroxide"",
+  J. Chem. Phys. 16, 225-229, (1948); DOI: 10.1063/1.1746843;",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Holt(1948)_298K_187-225nm(meas).csv
+298.0,Holt(1948),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Holt(1948)_298K_187-225nm(smoo).txt,Absorption measurements using a quartz spectrograph and a hydrogen discharge tube as a light source,H2O2,hydrogen peroxide,"
+
+  R.B. Holt, C.K. McLane, and O. Oldenberg, ""Ultraviolet absorption spectrum of hydrogen peroxide"",
+  J. Chem. Phys. 16, 225-229, (1948); DOI: 10.1063/1.1746843;",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Holt(1948)_298K_187-225nm(smoo).csv
+298.0,Holt(1948),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Holt(1948)_298K_253.7nm.txt,Absorption cross section at the wavelength of the Hg line,H2O2,hydrogen peroxide,"
+
+  R.B. Holt, C.K. McLane, and O. Oldenberg, ""Ultraviolet absorption spectrum of hydrogen peroxide"",
+  J. Chem. Phys. 16, 225-229, (1948); DOI: 10.1063/1.1746843;",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Holt(1948)_298K_253.csv
+298.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_IUPAC(2004)_298K_190-350nm(rec).txt,IUPAC(2004) recommendation:,H2O2,hydrogen peroxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_IUPAC(2004)_298K_190-350nm(rec).csv
+300.0,Jorand(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Jorand(2000)_300K_190-350nm(sol).txt,Solution in acetonitrile,H2O2,hydrogen peroxide,"
+
+  F. Jorand, L. Kerhoas, A. Heiss, J. Einhorn, and K. Sahetchian, ""Determination of the ultraviolet absorption cross section of hexyl-ketohydroperoxides in solution in acetonitrile"",
+  J. Photochem. Photobiol. A: Chem. 134, 119-125 (2000); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Jorand(2000)_300K_190-350nm(sol).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_JPL-2010(2011)_298K_190-350nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",H2O2,hydrogen peroxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_JPL-2010(2011)_298K_190-350nm(rec).csv
+355.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_JPL-2010(2011)_355K_230-350nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",H2O2,hydrogen peroxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_JPL-2010(2011)_355K_230-350nm(rec).csv
+296.0,Lin(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Lin(1978)_296K_195-350nm.txt,Absorption measurements using two cells of different path lengths in the regions below 275 nm (10 cm) and above 275 nm (25 cm),H2O2,hydrogen peroxide,"
+
+  C.-L. Lin, N.K. Rohatgi, and W.B. DeMore, ""Ultraviolet absorption cross sections of hydrogen peroxide"",
+  Geophys. Res. Lett. 5, 113-115 (1978); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Lin(1978)_296K_195-350nm.csv
+296.0,Molina(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Molina(1977)_296K_210-350nm.txt,"The results have later been superseded, see",H2O2,hydrogen peroxide,"
+
+  L.T. Molina, S.D. Schinke, and M.J. Molina, ""Ultraviolet absorption spectrum of hydrogen peroxide vapor"",
+  Geophys. Res. Lett. 4, 580-582 (1977); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Molina(1977)_296K_210-350nm.csv
+298.0,MolinaMolina(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_MolinaMolina(1981)_298K_190-350nm.txt,Double-beam spectrophotometer interfaced to a computer; spectral resolution 0.07 nm; data collection with spectral bandwidths of 0.1-0.2 nm above 300 nm and 0.3-0.5 nm below 300 nm,H2O2,hydrogen peroxide,"
+
+  L.T. Molina and M.J. Molina, ""UV absorption cross sections of HO",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_MolinaMolina(1981)_298K_190-350nm.csv
+285.0,NicovichWine(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_NicovichWine(1988)_285K_230-295nm.txt,Relative absorption cross sections were measured over the temperature ranges 285-381 K for wavelenghts 230 nm ≤ λ ≤ 295 nm and 300-381 K for wavelengths 193 nm ≤ λ ≤ 350 nm,H2O2,hydrogen peroxide,"
+
+  J.M. Nicovich and P.H. Wine, ""Temperature-dependent absorption cross sections for hydrogen peroxide vapor"",
+  J. Geophys. Res. 93(D3), 2417-2421 (1988); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_NicovichWine(1988)_285K_230-295nm.csv
+300.0,NicovichWine(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_NicovichWine(1988)_300K_193-350nm.txt,Relative absorption cross sections were measured over the temperature ranges 285-381 K for wavelenghts 230 nm ≤ λ ≤ 295 nm and 300-381 K for wavelengths 193 nm ≤ λ ≤ 350 nm,H2O2,hydrogen peroxide,"
+
+  J.M. Nicovich and P.H. Wine, ""Temperature-dependent absorption cross sections for hydrogen peroxide vapor"",
+  J. Geophys. Res. 93(D3), 2417-2421 (1988); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_NicovichWine(1988)_300K_193-350nm.csv
+327.0,NicovichWine(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_NicovichWine(1988)_327K_230-350nm.txt,Relative absorption cross sections were measured over the temperature ranges 285-381 K for wavelenghts 230 nm ≤ λ ≤ 295 nm and 300-381 K for wavelengths 193 nm ≤ λ ≤ 350 nm,H2O2,hydrogen peroxide,"
+
+  J.M. Nicovich and P.H. Wine, ""Temperature-dependent absorption cross sections for hydrogen peroxide vapor"",
+  J. Geophys. Res. 93(D3), 2417-2421 (1988); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_NicovichWine(1988)_327K_230-350nm.csv
+355.0,NicovichWine(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_NicovichWine(1988)_355K_193-350nm.txt,Relative absorption cross sections were measured over the temperature ranges 285-381 K for wavelenghts 230 nm ≤ λ ≤ 295 nm and 300-381 K for wavelengths 193 nm ≤ λ ≤ 350 nm ,H2O2,hydrogen peroxide,"
+
+  J.M. Nicovich and P.H. Wine, ""Temperature-dependent absorption cross sections for hydrogen peroxide vapor"",
+  J. Geophys. Res. 93(D3), 2417-2421 (1988); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_NicovichWine(1988)_355K_193-350nm.csv
+381.0,NicovichWine(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_NicovichWine(1988)_381K_193-350nm.txt,Relative absorption cross sections were measured over the temperature ranges 285-381 K for wavelenghts 230 nm ≤ λ ≤ 295 nm and 300-381 K for wavelengths 193 nm ≤ λ ≤ 350 nm ,H2O2,hydrogen peroxide,"
+
+  J.M. Nicovich and P.H. Wine, ""Temperature-dependent absorption cross sections for hydrogen peroxide vapor"",
+  J. Geophys. Res. 93(D3), 2417-2421 (1988); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_NicovichWine(1988)_381K_193-350nm.csv
+295.0,Noziere(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Noziere(1994)_295K_220-250nm.txt,Flash photolysis/UV absorption techniques applied for the study of the self-reaction and reaction with HO,H2O2,hydrogen peroxide,"
+
+  B. Nozière, R. Lesclaux, M.D. Hurley, M.A. Dearth, and T.J. Wallington, ""A kinetic and mechanistic study of the self-reaction and reaction with HO",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Noziere(1994)_295K_220-250nm.csv
+298.0,PaukertJohnston(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_PaukertJohnston(1972)_298K_200-245nm.txt,The data points plotted in Fig. 6 have been digitized,H2O2,hydrogen peroxide,"
+
+  T.T. Paukert and H.S. Johnston, ""Spectra and kinetics of the hydroxylperoxyl free radical in the gas phase"",
+  J. Chem. Phys. 56, 2824-2838 (1972); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_PaukertJohnston(1972)_298K_200-245nm.csv
+295.0,Rhodes(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Rhodes(2018)_295K_1419.958-1420.059nm(max).txt,Absorption measurements with vapors of concentrated H,H2O2,hydrogen peroxide,"
+
+  B.L. Rhodes, P.D. Ronney, and J.D. DeSain, ""Hydrogen peroxide vapor cross sections: A flow cell study using laser absorption in the near infrared"",
+  Chem. Phys.Lett. 692, 359-363 (2018)
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Rhodes(2018)_295K_1419.csv
+298.0,Schumb(1955),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Schumb(1955)_298K_200-400nm.txt,The absorption spectrum shown by,H2O2,hydrogen peroxide,"
+
+  W.C. Schumb, C.N. Satterfield, and R.L. Wentworth, ""Ultraviolet absorption spectrum"",
+  in: Hydrogen Peroxide (Reinhold Publishing Corporation, New York, 1955), pp. 287-291
+
+
+",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Schumb(1955)_298K_200-400nm.csv
+300.0,Schumb(1955),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Schumb(1955)_300K_220-290nm.txt,Data as quoted by,H2O2,hydrogen peroxide,"
+
+  W.C. Schumb, C.N. Satterfield, and R.L. Wentworth, ""Ultraviolet absorption spectrum"",
+  in: Hydrogen Peroxide (Reinhold Publishing Corporation, New York, 1955), pp. 287-291
+
+
+",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Schumb(1955)_300K_220-290nm.csv
+298.0,SchurgersWelge(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_SchurgersWelge(1968)_298K_121.3-198.3nm.txt,Absorption measurments using a vacuum monochromator and a H,H2O2,hydrogen peroxide,"
+
+  M. Schürgers and K.H. Welge, ""Absorptionskoeffizient von H",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_SchurgersWelge(1968)_298K_121.csv
+1100.0,Troe(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Troe(1969)_1100K_220-290nm.txt,Absorption measurements of H,H2O2,hydrogen peroxide,"
+
+  J. Troe, ""Ultraviolettspektrum und Reaktion des HO",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Troe(1969)_1100K_220-290nm.csv
+600.0,Troe(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Troe(1969)_600K_220-290nm.txt,Absorption measurements of H,H2O2,hydrogen peroxide,"
+
+  J. Troe, ""Ultraviolettspektrum und Reaktion des HO",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Troe(1969)_600K_220-290nm.csv
+298.0,Urey(1929),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_Urey(1929)_298K_215-275nm.txt,First absorption measurement with gaseous H,H2O2,hydrogen peroxide,"
+
+  H.C. Urey, L.H. Dawsey, and F.O. Rice, ""The absorption spectrum and decomposition of hydrogen peroxide by light"",
+  J. Am. Chem. Soc. 51, 1371-1383 (1929); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_Urey(1929)_298K_215-275nm.csv
+297.0,VaghjianiRavishankara(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_VaghjianiRavishankara(1989)_297K_210-345nm.txt,Relative absorption cross sections in the wavelength range from 210 to 345 nm were obtained using a diode array spectrometer,H2O2,hydrogen peroxide,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_VaghjianiRavishankara(1989)_297K_210-345nm.csv
+297.0,VaghjianiRavishankara(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_VaghjianiRavishankara(1989)_297K_213.9,253.7nm.txt",Absolute absorption cross sections measured using a zinc lamp (213.9 nm) and a mercury lamp (253.7 nm),H2O2,hydrogen peroxide,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_VaghjianiRavishankara(1989)_297K_213.csv
+300.0,VatsaVolpp(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/H2O2_VatsaVolpp(2001)_300K_121.567nm.txt,Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,H2O2,hydrogen peroxide,"
+
+  R.K. Vatsa and H.-R. Volpp, ""Absorption cross sections for some atmospherically important molecules at the H atom Lyman-α wavelength (121.567 nm)"",
+  Chem. Phys. Lett. 340, 289-295 (2001); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/H2O2/H2O2_VatsaVolpp(2001)_300K_121.csv

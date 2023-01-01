@@ -1,0 +1,24 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,IUPAC(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/IONO2_IUPAC(2000)_298K_200-410nm(rec).txt,IUPAC(2000) recommendation:,IONO2,iodine nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, R.F. Hampson, Jr., J.A. Kerr, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Supplement VIII, Halogen species"",
+  J. Phys. Chem. Ref. Data, 29, 167-266 (2000); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/IONO2/IONO2_IUPAC(2000)_298K_200-410nm(rec).csv
+296.0,Joseph(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/IONO2_Joseph(2007)_296K_240-370nm(0.18nm).txt,Pulsed photolysis at 193 nm of a NO,IONO2,iodine nitrate,"
+
+  D.M. Joseph, S.H. Ashworth, and J.M.C. Plane, ""On the photochemistry of IONO",data/cross-sections/Halogenated N-compounds(inorg)/IONO2/IONO2_Joseph(2007)_296K_240-370nm(0.csv
+296.0,Joseph(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/IONO2_Joseph(2007)_296K_240-370nm(5nm).txt,Pulsed photolysis at 193 nm of a NO,IONO2,iodine nitrate,"
+
+  D.M. Joseph, S.H. Ashworth, and J.M.C. Plane, ""On the photochemistry of IONO",data/cross-sections/Halogenated N-compounds(inorg)/IONO2/IONO2_Joseph(2007)_296K_240-370nm(5nm).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/IONO2_JPL-2010(2011)_298K_245-415nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",IONO2,iodine nitrate,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/IONO2/IONO2_JPL-2010(2011)_298K_245-415nm(rec).csv
+298.0,Mossinger(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/IONO2_Mossinger(2002)_298K_245-415nm.txt,Data recorded at 245-335 nm (resolution 1.67 nm) and 385-415 nm (resolution 0.55 nm); fit to three Gaussian functions:,IONO2,iodine nitrate,"
+
+  J.C. Mössinger, D.M. Rowley, and R.A. Cox, ""The UV-visible absorption cross-sections of IONO",data/cross-sections/Halogenated N-compounds(inorg)/IONO2/IONO2_Mossinger(2002)_298K_245-415nm.csv

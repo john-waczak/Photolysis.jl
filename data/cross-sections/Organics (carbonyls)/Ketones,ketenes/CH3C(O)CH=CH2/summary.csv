@@ -1,0 +1,39 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2022),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_Doner(2022)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_Doner(2022)_323K_125-240nm.csv"
+298.0,Gierczak(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_Gierczak(1997)_298K_213.86nm.txt",Absorption cross section at the 213.86 nm Zn line,CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  T. Gierczak, J.B. Burkholder, R.K. Talukdar, A. Mellouki, S.B. Barone, and A.R. Ravishankara, ""Atmospheric fate of methyl vinyl ketone and methacrolein"",
+  J. Photochem. Photobiol. A: Chem. 110, 1-10 (1997); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_Gierczak(1997)_298K_213.csv"
+298.0,Gierczak(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_Gierczak(1997)_298K_250-395nm.txt",Diode array spectrometer; resolution ∼0.5 nm,CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  T. Gierczak, J.B. Burkholder, R.K. Talukdar, A. Mellouki, S.B. Barone, and A.R. Ravishankara, ""Atmospheric fate of methyl vinyl ketone and methacrolein"",
+  J. Photochem. Photobiol. A: Chem. 110, 1-10 (1997); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_Gierczak(1997)_298K_250-395nm.csv"
+298.0,IUPAC(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_IUPAC(2006)_298K_250-395nm(rec).txt",IUPAC(2006) recommendation:,CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_IUPAC(2006)_298K_250-395nm(rec).csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_JPL-2010(2011)_298K_250-395nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendation of ",CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_JPL-2010(2011)_298K_250-395nm(rec).csv"
+294.0,SchneiderMoortgat(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2_SchneiderMoortgat(1989)_294K_240-398nm.txt",Absorption cross sections from the CD-ROM of,CH3C(O)CH=CH2,"methyl vinyl ketone, MVK","
+
+  W. Schneider and G.K. Moortgat (1989), personal communication to","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH=CH2/CH3C(O)CH=CH2_SchneiderMoortgat(1989)_294K_240-398nm.csv"

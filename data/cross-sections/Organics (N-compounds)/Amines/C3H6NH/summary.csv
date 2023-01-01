@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,ClarkPickett(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C3H6NH_ClarkPickett(1976)_298K_166.5-203.0nm.txt,Absorption measurements were made on flowing vapor samples with a Hilger fluorite prism vacuum spectrograph,C3H6NH,"trimethyleneimine, azetidine, azacyclobutane","
+
+  P.A. Clark, and L.W. Pickett, ""The vacuum ultraviolet spectra of ethyleneimine and trimethyleneimine"",
+  J. Chem. Phys. 64, 2062-2064 (1976); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C3H6NH/C3H6NH_ClarkPickett(1976)_298K_166.csv

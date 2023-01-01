@@ -1,0 +1,43 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_Felps(1991)_295K_131-202nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,BrCN,cyanogen bromide,"
+
+  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
+  J. Phys. Chem. 95, 639-656 (1991); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_Felps(1991)_295K_131-202nm.csv
+295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_Felps(1991)_295K_172-259nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,BrCN,cyanogen bromide,"
+
+  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
+  J. Phys. Chem. 95, 639-656 (1991); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_Felps(1991)_295K_172-259nm.csv
+298.0,MacphersonSimons(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_MacphersonSimons(1979)_298K_105-170nm.txt,Unpublished data of,BrCN,cyanogen bromide,"
+
+  M.T. Macpherson and J.P. Simons, ""Photodissociation spectroscopy of the cyanogen halides in the vacuum ultraviolet"",
+  J. Chem. Soc. Faraday Trans. II 75, 1572-1592 (1979);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_MacphersonSimons(1979)_298K_105-170nm.csv
+298.0,MacphersonSimons(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_MacphersonSimons(1979)_298K_125-153nm.txt,Unpublished data of,BrCN,cyanogen bromide,"
+
+  M.T. Macpherson and J.P. Simons, ""Photodissociation spectroscopy of the cyanogen halides in the vacuum ultraviolet"",
+  J. Chem. Soc. Faraday Trans. II 75, 1572-1592 (1979);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_MacphersonSimons(1979)_298K_125-153nm.csv
+298.0,Olney(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_Olney(1995)_298K_2.75-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",BrCN,cyanogen bromide,"
+
+  T.N. Olney, C.E. Brion, and T. Ibuki, ""Absolute photoabsorption of BrCN in the valence shell and the bromine M, carbon K and nitrogen K shell regions (5 - 450 eV)"",
+  Chem. Phys. 201, 505-524 (1995); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_Olney(1995)_298K_2.csv
+298.0,Russell(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/BrCN_Russell(1987)_298K_190-265nm.txt,Absorption measurements using a Beckman spectrophotometer with a resolution of 1 nm,BrCN,cyanogen bromide,"
+
+  J.A. Russell, I.A. McLaren, W.M. Jackson, and J.B. Halpern, ""Photolysis of BrCN between 193 and 266 nm"",
+  J. Phys. Chem. 91, 3248-3253 (1987); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/BrCN/BrCN_Russell(1987)_298K_190-265nm.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ravishankara(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/C6F14_Ravishankara(1993)_298K_121.6nm.txt,Absorption cross section at the Lyman-α line;,C6F14,perfluorohexane,"
+
+  A.R. Ravishankara, S. Solomon, A.A. Turnipseed, and R.F. Warren, ""Atmospheric lifetimes of long-lived halogenated species"",
+  Science 259, 194-199 (1993); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/C6F14/C6F14_Ravishankara(1993)_298K_121.csv

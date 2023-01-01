@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,Campuzano-Jost(2004),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CD2=C(CD3)CD=CD2_Campuzano-Jost(2004)_297K_203-233nm.txt",Absorption measurements using a diode array spectrometer; spectral resolution ∼0.05 nm,CD2=C(CD3)CD=CD2,"2-methyl-1,3-butadiene-d8, isoprene-d8","
+
+  P. Campuzano-Jost, M.B. Williams, L. D'Ottone, and A.J. Hynes, ""Kinetics and mechanism of the reaction of the hydroxyl radical with h","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CD2=C(CD3)CD=CD2/CD2=C(CD3)CD=CD2_Campuzano-Jost(2004)_297K_203-233nm.csv"

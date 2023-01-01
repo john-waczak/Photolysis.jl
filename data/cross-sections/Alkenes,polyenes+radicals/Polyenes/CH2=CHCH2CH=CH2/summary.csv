@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,HarrisonPrice(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2_HarrisonPrice(1959)_295K_159.19-202.28nm.txt",Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,CH2=CHCH2CH=CH2,"1,4-pentadiene","
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2/CH2=CHCH2CH=CH2_HarrisonPrice(1959)_295K_159.csv"
+295.0,HarrisonPrice(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2_HarrisonPrice(1959)_295K_178nm.txt",Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,CH2=CHCH2CH=CH2,"1,4-pentadiene","
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2/CH2=CHCH2CH=CH2_HarrisonPrice(1959)_295K_178nm.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2_JonesTaylor(1955)_298K_168-205nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=CHCH2CH=CH2,"1,4-pentadiene","
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2/CH2=CHCH2CH=CH2_JonesTaylor(1955)_298K_168-205nm.csv"
+298.0,Serio(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2_Serio(2012)_298K_115.5-340.0nm.txt",Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,CH2=CHCH2CH=CH2,"1,4-pentadiene","
+
+  S. Serio, Y. Nunes, S.V. Hoffmann, N.J. Mason, D. Duflot, and P. Limão-Vieira, ""Electronic state spectroscopy of 1,4-pentadiene as studied by VUV photoabsorption spectroscopy and ab initio calculations"",
+  J. Phys. Chem. A, 116, 8176-8184 (2012); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH2CH=CH2/CH2=CHCH2CH=CH2_Serio(2012)_298K_115.csv"

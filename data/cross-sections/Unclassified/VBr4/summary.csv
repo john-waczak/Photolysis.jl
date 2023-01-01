@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+501.0,Gregory(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/VBr4_Gregory(1994)_501K_200-600nm.txt,Absorption measurement using a A Cary 14-H spectrophotometer,VBr4,vanadium tetrabromide,"
+
+  N.W. Gregory, ""UV-visible absorption spectra and thermodynamic properties of vanadium bromide vapors"",
+  Inorg. Chem. 33, 3014-3017(1994)
+
+
+  DOI: ",data/cross-sections/Unclassified/VBr4/VBr4_Gregory(1994)_501K_200-600nm.csv

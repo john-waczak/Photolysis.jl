@@ -1,0 +1,55 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Doner(2022)_323K_125-240nm.txt,High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH3C(O)C(O)CH3,biacetyl,"
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Doner(2022)_323K_125-240nm.csv
+298.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Horowitz(2001)_298K_205.4-494nm(0.2nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CH3C(O)C(O)CH3,biacetyl,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Horowitz(2001)_298K_205.csv
+298.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Horowitz(2001)_298K_206-493nm(1nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CH3C(O)C(O)CH3,biacetyl,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Horowitz(2001)_298K_206-493nm(1nm).csv
+298.0,IUPAC(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_IUPAC(2011)_298K_206-493nm(rec).txt,IUPAC-2011 recommendation:,CH3C(O)C(O)CH3,biacetyl,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_IUPAC(2011)_298K_206-493nm(rec).csv
+298.0,IUPAC(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_IUPAC(2021)_298K_206-493nm(rec).txt,IUPAC(2021) recommendation:,CH3C(O)C(O)CH3,biacetyl,"
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_IUPAC(2021)_298K_206-493nm(rec).csv
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_McMillan(1966)_298K_207.7-475.2nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3C(O)C(O)CH3,biacetyl,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 422
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_McMillan(1966)_298K_207.csv
+298.0,Plum(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Plum(1983)_298K_230.6-469.8nm.txt,Absorption measurements by using a Cary 17-D spectrophotometer,CH3C(O)C(O)CH3,biacetyl,"
+
+  C.N. Plum, E. Sanhueza, R. Atkinson, W.P.L. Carter, and J.N. Pitts, Jr., ""OH radical rate constants and photolysis rates of a-dicarbonyls"",
+  Environ. Sci. Technol. 17, 479-484 (1983); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Plum(1983)_298K_230.csv
+298.0,Plum(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Plum(1983)_298K_232.5-472.5nm.txt,Absorption measurements by using a Cary 17-D spectrophotometer,CH3C(O)C(O)CH3,biacetyl,"
+
+  C.N. Plum, E. Sanhueza, R. Atkinson, W.P.L. Carter, and J.N. Pitts, Jr., ""OH radical rate constants and photolysis rates of a-dicarbonyls"",
+  Environ. Sci. Technol. 17, 479-484 (1983); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Plum(1983)_298K_232.csv
+296.0,Rajakumar(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3_Rajakumar(2008)_296K_184.9nm.txt,The absorption cross section was measured using cavity ring-down spectroscopy,CH3C(O)C(O)CH3,biacetyl,"
+
+  B. Rajakumar, T. Gierczak, J. Flad, A.R. Ravishankara, and J.B. Burkholder, ""The CH",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)C(O)CH3/CH3C(O)C(O)CH3_Rajakumar(2008)_296K_184.csv

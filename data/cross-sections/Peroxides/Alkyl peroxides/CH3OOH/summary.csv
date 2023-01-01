@@ -1,0 +1,71 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Blitz(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_Blitz(2005)_295K_210-320nm.txt,"Measurements at 200-360 nm; the values above 320 nm are unreliable, presumably due to a baseline problem during the measurements, and therefore not reported",CH3OOH,methylhydroperoxide,"
+
+  M.A. Blitz, D.E. Heard, and M.J. Pilling, ""Wavelength dependent photodissociation of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_Blitz(2005)_295K_210-320nm.csv
+298.0,CoxTyndall(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_CoxTyndall(1979)_298K_206.0-290.2nm(smoo).txt,Molecular modulation spectrometry has been employed to study the reaction of CH,CH3OOH,methylhydroperoxide,"
+
+  R.A. Cox and G.S. Tyndall, ""Rate constants for reactions of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_CoxTyndall(1979)_298K_206.csv
+298.0,CoxTyndall(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_CoxTyndall(1979)_298K_210-280nm(meas).txt,Molecular modulation spectrometry has been employed to study the reaction of CH,CH3OOH,methylhydroperoxide,"
+
+  R.A. Cox and G.S. Tyndall, ""Rate constants for reactions of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_CoxTyndall(1979)_298K_210-280nm(meas).csv
+297.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_IUPAC(2006)_297K_210-365nm(rec).txt,IUPAC(2006) recommendation:,CH3OOH,methylhydroperoxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_IUPAC(2006)_297K_210-365nm(rec).csv
+297.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_JPL-2002(2002)_297K_210-360nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",CH3OOH,methylhydroperoxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_JPL-2002(2002)_297K_210-360nm(rec).csv
+297.0,JPL-2006(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_JPL-2006(2006)_297K_210-365nm(rec).txt,JPL-2006 recommendation:,CH3OOH,methylhydroperoxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, G.K. Moortgat, H. Keller-Rudek, P.H. Wine, A.R. Ravishankara, C.E. Kolb, M.J. Molina, B.J. Finlayson-Pitts, R.E. Huie, V.L. Orkin, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 15"",
+  JPL Publication 06-2, Jet Propulsion Laboratory, Pasadena, 2006; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_JPL-2006(2006)_297K_210-365nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_JPL-2010(2011)_298K_210-405nm(rec).txt,JPL-2010 recommendation:,CH3OOH,methylhydroperoxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_JPL-2010(2011)_298K_210-405nm(rec).csv
+298.0,Matthews(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_Matthews(2005)_298K_355-405nm.txt,The absorption cross sections have been determined from the yield of the photodissociation product OH measured as a function of excitation energy.,CH3OOH,methylhydroperoxide,"
+
+  J. Matthews, A. Sinha, and J.S. Francisco, ""The importance of weak absorption features in promoting tropospheric radical production"",
+  Proc. Natl. Acad. Sci. USA 102, 7449-7452 (2005); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_Matthews(2005)_298K_355-405nm.csv
+298.0,Matthews(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_Matthews(2005)_298K_600-640nm.txt,Absorption cross sections for the 5ν,CH3OOH,methylhydroperoxide,"
+
+  J. Matthews, A. Sinha, and J.S. Francisco, ""The importance of weak absorption features in promoting tropospheric radical production"",
+  Proc. Natl. Acad. Sci. USA 102, 7449-7452 (2005); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_Matthews(2005)_298K_600-640nm.csv
+294.0,MolinaArguello(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_MolinaArguello(1979)_294K_210-350nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer,CH3OOH,methylhydroperoxide,"
+
+  M.J. Molina and G. Arguello, ""Ultraviolet absorption spectrum of methylhydroperoxide vapor"",
+  Geophys. Res. Lett. 6, 953-955 (1979); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_MolinaArguello(1979)_294K_210-350nm.csv
+295.0,Noziere(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_Noziere(1994)_295K_220-250nm.txt,Flash photolysis/UV absorption techniques applied for the study of the self-reaction and reaction with HO,CH3OOH,methylhydroperoxide,"
+
+  B. Nozière, R. Lesclaux, M.D. Hurley, M.A. Dearth, and T.J. Wallington, ""A kinetic and mechanistic study of the self-reaction and reaction with HO",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_Noziere(1994)_295K_220-250nm.csv
+298.0,Roehl(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_Roehl(2007)_298K_305-355nm.txt,"The absorption cross sections have been determined via action spectroscopy, i.e., from the yield of the photodissociation product OH measured as a function of excitation energy",CH3OOH,methylhydroperoxide,"
+
+  C.M. Roehl, Z. Marka, J.L Fry, and P.O. Wennberg, ""Near-UV photolysis cross sections of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_Roehl(2007)_298K_305-355nm.csv
+297.0,VaghjianiRavishankara(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_VaghjianiRavishankara(1989)_297K_210-365nm.txt,Relative absorption cross sections in the wavelength range from 210 to 365 nm were obtained using a diode array spectrometer,CH3OOH,methylhydroperoxide,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_VaghjianiRavishankara(1989)_297K_210-365nm.csv
+297.0,VaghjianiRavishankara(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/CH3OOH_VaghjianiRavishankara(1989)_297K_213.9nm.txt,Absolute absorption cross section measured using a zinc lamp,CH3OOH,methylhydroperoxide,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Alkyl peroxides/CH3OOH/CH3OOH_VaghjianiRavishankara(1989)_297K_213.csv

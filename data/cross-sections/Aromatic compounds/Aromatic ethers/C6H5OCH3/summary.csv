@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OCH3_KimuraNagakura(1965)_298K_160.6-226.1nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5OCH3,"anisole, phenyl methyl ether, methoxybenzene","
+
+  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
+  Mol. Phys. 9, 117-135 (1965); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OCH3/C6H5OCH3_KimuraNagakura(1965)_298K_160.csv
+298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OCH3_Mangini(1967)_298K_208.20-280.47nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5OCH3,"anisole, phenyl methyl ether, methoxybenzene","
+
+  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
+  J. Chem. Soc. B 1967, 153-165; 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OCH3/C6H5OCH3_Mangini(1967)_298K_208.csv
+298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OCH3_Mangini(1967)_298K_209.34-284.47nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5OCH3,"anisole, phenyl methyl ether, methoxybenzene","
+
+  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
+  J. Chem. Soc. B 1967, 153-165; 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OCH3/C6H5OCH3_Mangini(1967)_298K_209.csv
+298.0,Shastri(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OCH3_Shastri(2020)_298K_106.87-235.15nm(I).txt,High-resolution (0.02 nm) absorption measurements using sychrotron radiation as a light source,C6H5OCH3,"anisole, phenyl methyl ether, methoxybenzene","
+
+  A. Shastri  A.K. Das, and B.N. Rajasekhar, ""The electronic absorption spectrum of anisole studied by photoabsorption spectroscopy and quantum chemical calculations"",
+  J. Quant. Spectrosc. Radiat. Transfer 242, 106782 (2020);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OCH3/C6H5OCH3_Shastri(2020)_298K_106.csv
+298.0,Shastri(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OCH3_Shastri(2020)_298K_106.87-235.15nm(II).txt,High-Resolution (0.02 nm) absorption measurements using synchrotron radiation as a light source,C6H5OCH3,"anisole, phenyl methyl ether, methoxybenzene","
+
+  A. Shastri  A.K. Das, and B.N. Rajasekhar, ""The electronic absorption spectrum of anisole studied by photoabsorption spectroscopy and quantum chemical calculations"",
+  J. Quant. Spectrosc. Radiat. Transfer 242, 106782 (2020);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OCH3/C6H5OCH3_Shastri(2020)_298K_106.csv

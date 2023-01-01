@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Halmann(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/(CH3)2PH_Halmann(1963)_296K_187-220nm.txt,"Absorption measurements using Beckman, Hilger, Cary, and Unicam spectrophotometers",(CH3)2PH,dimethylphosphine,"
+
+  M. Halmann, ""Far-ultraviolet absorption spectra of phosphorous compounds in the gas phase"",
+  J. Chem. Soc. 1963, 2853-2856 (1963); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/(CH3)2PH/(CH3)2PH_Halmann(1963)_296K_187-220nm.csv

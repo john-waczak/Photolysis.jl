@@ -1,0 +1,143 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bauerle(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Bauerle(1998)_298K_221-472nm.txt,Absorption cross sections have been obtained by personal communication from Stefan Bauerle (July 1998),CHOCHO,glyoxal,"
+
+  S. Bauerle (1998), unpublished data, measured at the Max-Planck-Institut für Chemie, Mainz, Germany
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Bauerle(1998)_298K_221-472nm.csv
+293.0,ChenZhu(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_ChenZhu(2003)_293K_290-420nm.txt,The gas-phase photolysis of glyoxal has been studied at 10 nm intervals in the 290-420 nm region by using dye laser photolysis coupled with cavity ring-down spectroscopy,CHOCHO,glyoxal,"
+
+  Y. Chen and L. Zhu, ""Wavelength-dependent photolysis of glyoxal in the 290-420 nm region"",
+  J. Phys. Chem. A 107, 4643-4651 (2003); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_ChenZhu(2003)_293K_290-420nm.csv
+296.0,Goss(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Goss(2015)_296K_430.106-470.593nm(13CHO13CHO).txt,"Spectra were collected using a Bruker 120 HR FTS equipped with an external light-emitting diode (LED) light source centered at 459 nm (fwhm 27 nm, LEDEngin)",CHOCHO,glyoxal,"
+
+  N.R. Goss, E.M. Waxman, S.C. Coburn, T.K. Koenig, R. Thalman, J. Dommen, J.W. Hannigan, G.S. Tyndall, and R. Volkamer, ""Measurements of the absorption cross section of ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Goss(2015)_296K_430.csv
+295.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Horowitz(2001)_295K_210-470nm(0.073nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CHOCHO,glyoxal,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Horowitz(2001)_295K_210-470nm(0.csv
+295.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Horowitz(2001)_295K_210-470nm(2nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CHOCHO,glyoxal,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Horowitz(2001)_295K_210-470nm(2nm).csv
+295.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Horowitz(2001)_295K_210-470nm(5nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CHOCHO,glyoxal,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Horowitz(2001)_295K_210-470nm(5nm).csv
+295.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Horowitz(2001)_295K_210-470nm(int-c).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CHOCHO,glyoxal,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Horowitz(2001)_295K_210-470nm(int-c).csv
+295.0,Horowitz(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Horowitz(2001)_295K_211-480nm(1nm).txt,Absorption measurements using a diode-array spectrometer; monochromator setting with a nominal resolution of 0.07 nm/pixel and an effective resolution of ∼0.25 nm (spectral full width at half trace height-bandpath),CHOCHO,glyoxal,"
+
+  A. Horowitz, R. Meller, and G.K. Moortgat, ""The UV-VIS absorption cross sections of the α-dicarbonyl compounds: pyruvic acid, biacetyl and glyoxal"",
+  J. Photochem. Photobiol. A: Chem. 146, 19-27 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Horowitz(2001)_295K_211-480nm(1nm).csv
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_IUPAC(2006)_298K_230.5-462.0nm(rec).txt,IUPAC(2006) recommendation:,CHOCHO,glyoxal,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_IUPAC(2006)_298K_230.csv
+296.0,IUPAC(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_IUPAC(2013)_296K_250-473nm(rec).txt,IUPAC(2013) recommendation:,CHOCHO,glyoxal,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_IUPAC(2013)_296K_250-473nm(rec).csv
+296.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_JPL-2010(2011)_296K_250-526nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CHOCHO,glyoxal,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_JPL-2010(2011)_296K_250-526nm(rec).csv
+295.0,LangfordMoore(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_LangfordMoore(1984)_295K_308nm.txt,Glyoxal as the HCO radical precursor,CHOCHO,glyoxal,"
+
+  A.O. Langford and C.B. Moore, ""Collision complex formation in the reaction of formyl radicals with nitric oxide and oxygen"",
+  J. Chem. Phys. 80, 4211-4221 (1984); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_LangfordMoore(1984)_295K_308nm.csv
+298.0,OrlandoTyndall(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_OrlandoTyndall(2001)_298K_210-450nm.txt,Medium-resolution spectrum (0.6 nm) measured using a diode-array spectrometer,CHOCHO,glyoxal,"
+
+  J.J. Orlando and G.S. Tyndall, ""The atmospheric chemistry of the HC(O)CO radical"",
+  Int. J. Chem. Kinet. 33, 149-156 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_OrlandoTyndall(2001)_298K_210-450nm.csv
+298.0,Plum(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Plum(1983)_298K_230-461nm.txt,Absorption measurements by using a Cary 17-D spectrophotometer,CHOCHO,glyoxal,"
+
+  C.N. Plum, E. Sanhueza, R. Atkinson, W.P.L. Carter, and J.N. Pitts, Jr., ""OH radical rate constants and photolysis rates of a-dicarbonyls"",
+  Environ. Sci. Technol. 17, 479-484 (1983); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Plum(1983)_298K_230-461nm.csv
+298.0,Plum(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Plum(1983)_298K_235-450nm.txt,Absorption cross sections at 2.5- and 5-nm intervals are taken from the IUPAC recommendations of,CHOCHO,glyoxal,"
+
+  C.N. Plum, E. Sanhueza, R. Atkinson, W.P.L. Carter, and J.N. Pitts, Jr., ""OH radical rate constants and photolysis rates of a-dicarbonyls"",
+  Environ. Sci. Technol. 17, 479-484 (1983); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Plum(1983)_298K_235-450nm.csv
+296.0,Volkamer(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Volkamer(2005)_296K_250.031-526.168nm(0.001nm).txt,High-resolution spectrum:,CHOCHO,glyoxal,"
+
+  R. Volkamer, P. Spietz, J.P. Burrows, and U. Platt, ""High-resolution absorption cross-sections of glyoxal in the UV-vis and IR spectral ranges"",
+  J. Photochem. Photobiol. A: Chem. 172, 35-46 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Volkamer(2005)_296K_250.csv
+296.0,Volkamer(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Volkamer(2005)_296K_250.031-526.168nm(convol.0.01nm).txt,High-resolution spectrum convoluted with Gaussian shape line function of FWHM = 0.01 nm,CHOCHO,glyoxal,"
+
+  R. Volkamer, P. Spietz, J.P. Burrows, and U. Platt, ""High-resolution absorption cross-sections of glyoxal in the UV-vis and IR spectral ranges"",
+  J. Photochem. Photobiol. A: Chem. 172, 35-46 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Volkamer(2005)_296K_250.csv
+296.0,Volkamer(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Volkamer(2005)_296K_250.031-526.168nm(convol.0.1nm).txt,High-resolution spectrum convoluted with Gaussian shape line function of FWHM = 0.1 nm,CHOCHO,glyoxal,"
+
+  R. Volkamer, P. Spietz, J.P. Burrows, and U. Platt, ""High-resolution absorption cross-sections of glyoxal in the UV-vis and IR spectral ranges"",
+  J. Photochem. Photobiol. A: Chem. 172, 35-46 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Volkamer(2005)_296K_250.csv
+296.0,Volkamer(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Volkamer(2005)_296K_250.031-526.168nm(convol.0.4nm).txt,High-resolution spectrum convoluted with Gaussian shape line function of FWHM = 0.4 nm,CHOCHO,glyoxal,"
+
+  R. Volkamer, P. Spietz, J.P. Burrows, and U. Platt, ""High-resolution absorption cross-sections of glyoxal in the UV-vis and IR spectral ranges"",
+  J. Photochem. Photobiol. A: Chem. 172, 35-46 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Volkamer(2005)_296K_250.csv
+296.0,Volkamer(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Volkamer(2005)_296K_250-526nm(1nm).txt,Averages over 1-nm intervals of the high-resolution (1 cm,CHOCHO,glyoxal,"
+
+  R. Volkamer, P. Spietz, J.P. Burrows, and U. Platt, ""High-resolution absorption cross-sections of glyoxal in the UV-vis and IR spectral ranges"",
+  J. Photochem. Photobiol. A: Chem. 172, 35-46 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Volkamer(2005)_296K_250-526nm(1nm).csv
+298.0,Zhu(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Zhu(1996)_298K_193-351nm.txt,"The UV photochemistry of glyoxal in nitrogen has been investigated by employing excimer laser photolysis at 193, 248, 308 and 351 nm in combination with cavity ring-down spectroscopy",CHOCHO,glyoxal,"
+
+  L. Zhu, D. Kellis, and C.-F. Ding, ""Photolysis of glyoxal at 193, 248, 308, and 351 nm"",
+  Chem. Phys. Lett. 257, 487-491 (1996); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CHOCHO/CHOCHO_Zhu(1996)_298K_193-351nm.csv

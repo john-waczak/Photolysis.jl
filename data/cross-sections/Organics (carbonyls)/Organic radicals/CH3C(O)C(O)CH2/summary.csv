@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Christensen(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Organic%20radicals/CH3C(O)C(O)CH2_Christensen(1998)_296K_220-400nm.txt,Pulse radiolysis (SF,CH3C(O)C(O)CH2,"alkyl radical of 2,3-butadione CH3C(O)C(O)CH3","
+
+  L.K. Christensen, J. Sehested, O.J. Nielsen, T.J. Wallington, A. Guschin, and M.D. Hurley, ""Kinetics and mechanism of the reactions of 2,3-butadione with F and Cl atoms, UV absorption spectra of CH",data/cross-sections/Organics (carbonyls)/Organic radicals/CH3C(O)C(O)CH2/CH3C(O)C(O)CH2_Christensen(1998)_296K_220-400nm.csv

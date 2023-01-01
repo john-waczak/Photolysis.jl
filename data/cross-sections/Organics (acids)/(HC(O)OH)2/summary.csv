@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Jolly(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/(HC(O)OH)2_Jolly(1987)_296K_222nm.txt,Absorption cross section at the KrCl excimer laser line,(HC(O)OH)2,formic acid dimer,"
+
+  G.S. Jolly, D.L. Singleton, and G. Paraskevopoulos, ""Direct determination of the quantum yield of OH in the laser photolysis of formic acid"",
+  J. Phys. Chem. 91, 3463-3465 (1987); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/(HC(O)OH)2/(HC(O)OH)2_Jolly(1987)_296K_222nm.csv
+302.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/(HC(O)OH)2_JPL-2010(2011)_302K_195-250nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",(HC(O)OH)2,formic acid dimer,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (acids)/(HC(O)OH)2/(HC(O)OH)2_JPL-2010(2011)_302K_195-250nm(rec).csv
+302.0,Singleton(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/(HC(O)OH)2_Singleton(1987)_302K_195-250nm.txt,Absorption measurements at bandwidths of 1 and 0.25 nm,(HC(O)OH)2,formic acid dimer,"
+
+  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""UV absorption cross-sections of the monomer and dimer of formic acid"",
+  J. Photochem. 37, 209-216 (1987); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/(HC(O)OH)2/(HC(O)OH)2_Singleton(1987)_302K_195-250nm.csv
+298.0,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/(HC(O)OH)2_Singleton(1990)_298K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,(HC(O)OH)2,formic acid dimer,"
+
+  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
+  J. Phys. Chem. 94, 695-699 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/(HC(O)OH)2/(HC(O)OH)2_Singleton(1990)_298K_222nm.csv
+356.2,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/(HC(O)OH)2_Singleton(1990)_356.2K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,(HC(O)OH)2,formic acid dimer,"
+
+  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
+  J. Phys. Chem. 94, 695-699 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/(HC(O)OH)2/(HC(O)OH)2_Singleton(1990)_356.csv

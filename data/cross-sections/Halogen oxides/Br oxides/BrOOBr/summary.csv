@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+220.0,Mauldin(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Br%20oxides/BrOOBr_Mauldin(1993)_220K_290-360nm.txt,A flash photolysis-long path absorption technique was used to study the self-reaction of BrO radicals,BrOOBr,"dibromine dioxide, bromine  monoxide dimer, bromine peroxide","
+
+  R.L. Mauldin III, A. Wahner, and A.R. Ravishankara, ""Kinetics and mechanism of the self-reaction of the BrO radical"",
+  J. Phys. Chem. 97, 7585-7596 (1993)
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Br oxides/BrOOBr/BrOOBr_Mauldin(1993)_220K_290-360nm.csv

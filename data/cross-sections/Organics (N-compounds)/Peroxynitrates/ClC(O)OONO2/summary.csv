@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Garcia(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/ClC(O)OONO2_Garcia(2005)_295K_200-300nm.txt,Synthesis of ClC(O)OONO,ClC(O)OONO2,chloroformyl peroxynitrate,"
+
+  P. Garcia, H. Pernice, H. Willner, H. Oberhammer, and G.A. Argüello, ""Properties of chloroformyl peroxynitrate, ClC(O)OONO",data/cross-sections/Organics (N-compounds)/Peroxynitrates/ClC(O)OONO2/ClC(O)OONO2_Garcia(2005)_295K_200-300nm.csv

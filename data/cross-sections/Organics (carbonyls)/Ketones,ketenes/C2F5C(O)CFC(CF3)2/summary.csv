@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jackson(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2F5C(O)CFC(CF3)2_Jackson(2011)_298K_219-360nm.txt","Absorption measurements using a Perkin-Elmer UV/vis spectrometer with a resolution of 1 nm, a slit width of 0.25 nm, and a scan speed of 15 nm/min",C2F5C(O)CFC(CF3)2,perfluoro-(4-methylpentan-3-one),"
+
+  D.A. Jackson, C.J. Young, M.D. Hurley, T.J. Wallington, and S.A. Mabury, ""Atmospheric degradation of perfluoro-2-methyl-3-pentanone: Photolysis, hydrolysis and hydration"",
+  Environ. Sci. Technol. 45, 8030-8038 (2011); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2F5C(O)CFC(CF3)2/C2F5C(O)CFC(CF3)2_Jackson(2011)_298K_219-360nm.csv"
+296.0,Taniguchi(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2F5C(O)CFC(CF3)2_Taniguchi(2003)_296K_230-360nm.txt",The spectrum was recorded using a double-beam spectrophotometer (resolution not indicated) by placing gaseous samples of the compound in a 14.5 cm long quartz cell at 296 K,C2F5C(O)CFC(CF3)2,perfluoro-(4-methylpentan-3-one),"
+
+  N. Taniguchi, T.J. Wallington, M.D. Hurley, A.G. Guschin, L.T. Molina, and M.J. Molina, ""Atmospheric Chemistry of C","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2F5C(O)CFC(CF3)2/C2F5C(O)CFC(CF3)2_Taniguchi(2003)_296K_230-360nm.csv"

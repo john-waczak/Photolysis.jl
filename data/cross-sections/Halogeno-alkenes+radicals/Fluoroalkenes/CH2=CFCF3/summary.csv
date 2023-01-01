@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3_JPL-2010(2011)_295K_164-186nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CH2=CFCF3,"2,3,3,3-tetrafluoropropene","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3/CH2=CFCF3_JPL-2010(2011)_295K_164-186nm(rec).csv
+295.0,Orkin(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3_Orkin(1997)_295K_164-186nm.txt,Spectrum recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm,CH2=CFCF3,"2,3,3,3-tetrafluoropropene","
+
+  V.L. Orkin, R.E. Huie, and J. Kurylo, ""Rate constants for the reactions of OH with HFC-245cb (CH",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3/CH2=CFCF3_Orkin(1997)_295K_164-186nm.csv
+296.0,Papadimitriou(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3_Papadimitriou(2008)_296K_185nm.txt,"Absorption measurements using a 50.2 cm absorption cell, a Hg-Pen lamp light source and a solar-blind phototube detector",CH2=CFCF3,"2,3,3,3-tetrafluoropropene","
+
+  V.C. Papadimitriou, R.K. Talukdar, R.W. Portmann, A.R. Ravishankara, and J.B. Burkholder, ""CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CH2=CFCF3/CH2=CFCF3_Papadimitriou(2008)_296K_185nm.csv

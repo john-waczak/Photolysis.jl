@@ -1,0 +1,19 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Dalby(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Dalby(1964)_298K_248.8nm.txt,Flash photolysis of perfluoropropylene,CF2,"difluoromethylene radical, difluorocarbene","
+
+  F.W. Dalby, ""Flash photolysis measurements of the kinetics of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Dalby(1964)_298K_248.csv
+1804.0,Modica(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Modica(1968)_1804K_218-297nm.txt,T = 1804 ± 23 K,CF2,"difluoromethylene radical, difluorocarbene","
+
+  A.P. Modica, ""Electronic oscillator strength of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Modica(1968)_1804K_218-297nm.csv
+2085.0,Modica(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Modica(1968)_2085K_222-289nm.txt,T = 2085 ± 45 K,CF2,"difluoromethylene radical, difluorocarbene","
+
+  A.P. Modica, ""Electronic oscillator strength of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Modica(1968)_2085K_222-289nm.csv
+2878.0,Modica(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Modica(1968)_2878K_215-297nm.txt,T = 2878 ± 49 K,CF2,"difluoromethylene radical, difluorocarbene","
+
+  A.P. Modica, ""Electronic oscillator strength of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Modica(1968)_2878K_215-297nm.csv
+298.0,Sharpe(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Sharpe(1987)_298K_229-263nm.txt,The CF,CF2,"difluoromethylene radical, difluorocarbene","
+
+  S. Sharpe, B. Hartnett, H.S. Sethi, and D.S. Sethi, ""Absorption cross-sections of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Sharpe(1987)_298K_229-263nm.csv
+298.0,Talukdar(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2_Talukdar(1996)_298K_248.7,258.3nm.txt",Photolysis of CF,CF2,"difluoromethylene radical, difluorocarbene","
+
+  R.K. Talukdar, M. Hunter, R.F. Warren, J.B. Burkholder, and A.R. Ravishankara, ""UV laser photodissociation of CF",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2/CF2_Talukdar(1996)_298K_248.csv

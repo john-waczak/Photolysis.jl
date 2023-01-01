@@ -1,0 +1,191 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_AhmedKumar(1992)_300K_188.2-213.3nm.txt,Medium-resolution (0.2 nm) absorption measurements using an argon mini-arc light source,CS2,carbon disulfide,"
+
+  S.M. Ahmed and V. Kumar, ""Measurement of photoabsorption and fluorescence cross sections for carbon disulfide at 188-213 and 287.5-339.5 nm"",
+  Pramana - J. Phys. 39, 367-380 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_AhmedKumar(1992)_300K_188.csv
+300.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_AhmedKumar(1992)_300K_189.42-208.46nm(max).txt,Medium-resolution (0.2 nm) absorption measurements using an argon mini-arc light source,CS2,carbon disulfide,"
+
+  S.M. Ahmed and V. Kumar, ""Measurement of photoabsorption and fluorescence cross sections for carbon disulfide at 188-213 and 287.5-339.5 nm"",
+  Pramana - J. Phys. 39, 367-380 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_AhmedKumar(1992)_300K_189.csv
+300.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_AhmedKumar(1992)_300K_287.7-339.5nm.txt,Medium-resolution (0.2 nm) absorption measurements using an argon mini-arc light source,CS2,carbon disulfide,"
+
+  S.M. Ahmed and V. Kumar, ""Measurement of photoabsorption and fluorescence cross sections for carbon disulfide at 188-213 and 287.5-339.5 nm"",
+  Pramana - J. Phys. 39, 367-380 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_AhmedKumar(1992)_300K_287.csv
+300.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_AhmedKumar(1992)_300K_302.09-318.92nm(max).txt,Medium-resolution (0.2 nm) absorption measurements using an argon mini-arc light source,CS2,carbon disulfide,"
+
+  S.M. Ahmed and V. Kumar, ""Measurement of photoabsorption and fluorescence cross sections for carbon disulfide at 188-213 and 287.5-339.5 nm"",
+  Pramana - J. Phys. 39, 367-380 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_AhmedKumar(1992)_300K_302.csv
+298.0,Boechat-Roberty(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Boechat-Roberty(2006)_298K_26.837-442.804nm.txt,"Electron-energy-loss spectra in the region 0-50 eV were recorded at 1 keV impact energy, and differential oscillator strengths were converted to photoabsorption cross sections",CS2,carbon disulfide,"
+
+  H.M. Boechat-Roberty, A.M. Ferreira-Rodrigues, and G.G.B.de Souza, ""Cross sections for elastic and inelastic electron scattering from carbon disulfide"",
+  J. Phys. B: At. Mol. Opt. Phys. 39, 3361–3371 (2006);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Boechat-Roberty(2006)_298K_26.csv
+298.0,Carnovale(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Carnovale(1981)_298K_31-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",CS2,carbon disulfide,"
+
+  F. Carnovale, M.G. White, and C.E. Brion, ""Absolute dipole oscillator strengths for photoabsorption and photoionization of carbon disulfide"",
+  J. Electron Spectrosc. Relat. Phenom. 24, 63-76 (1981); 
+
+
+  DOI: ","data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Carnovale(1981)_298K_31-248nm(e,e).csv"
+203.0,ChenWu(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_ChenWu(1995)_203K_180.0-215.0nm.txt,"Absorption measurements at 203, 295, and 383 K with a spectral bandwidth (FWHM) of 0.08 nm using synchrotron radiation as a continuum light source",CS2,carbon disulfide,"
+
+  F.Z. Chen and C.Y.R. Wu, ""High, room, and low temperature photoabsorption cross sections of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_ChenWu(1995)_203K_180.csv
+295.0,ChenWu(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_ChenWu(1995)_295K_180.0-228.5nm.txt,"Absorption measurements at 203, 295, and 383 K with a spectral bandwidth (FWHM) of 0.08 nm using synchrotron radiation as a continuum light source",CS2,carbon disulfide,"
+
+  F.Z. Chen and C.Y.R. Wu, ""High, room, and low temperature photoabsorption cross sections of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_ChenWu(1995)_295K_180.csv
+383.0,ChenWu(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_ChenWu(1995)_383K_180.0-230.4nm.txt,"Absorption measurements at 203, 295, and 383 K with a spectral bandwidth (FWHM) of 0.08 nm using synchrotron radiation as a continuum light source",CS2,carbon disulfide,"
+
+  F.Z. Chen and C.Y.R. Wu, ""High, room, and low temperature photoabsorption cross sections of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_ChenWu(1995)_383K_180.csv
+298.0,CookOgawa(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_CookOgawa(1969)_298K_60.0-96.5nm.txt,Absorption measurements at a spectral resolution ot 0.05 nm using the Hopfield continuum light source,CS2,carbon disulfide,"
+
+  G.R. Cook and M. Ogawa, ""Photoionization, absorption, and fluorescence of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_CookOgawa(1969)_298K_60.csv
+1500.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_1500K_190-500nm.txt,High vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_1500K_190-500nm.csv
+2000.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_2000K_190-500nm.txt,High vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_2000K_190-500nm.csv
+3000.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_3000K_190-500nm.txt,High vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_3000K_190-500nm.csv
+300.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_300K_190-340nm.txt,Room temperature absoption cross sections of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_300K_190-340nm.csv
+300.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_300K_220-280nm(I).txt,Vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_300K_220-280nm(I).csv
+300.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_300K_220-280nm(II).txt,Vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_300K_220-280nm(II).csv
+4000.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_4000K_190-500nm.txt,High vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_4000K_190-500nm.csv
+800.0,Dove(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Dove(1984)_800K_190-400nm.txt,High vibrational excitation of CS,CS2,carbon disulfide,"
+
+  J.E. Dove, H. Hippler, J. Plach, and J. Troe, ""Ultraviolet spectra of vibrationally excited CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Dove(1984)_800K_190-400nm.csv
+294.8,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Grosch(2015)_294.8K_205-370nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,CS2,carbon disulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Grosch(2015)_294.csv
+423.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Grosch(2015)_423.2K_205-370nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,CS2,carbon disulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Grosch(2015)_423.csv
+573.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Grosch(2015)_573.2K_202-370nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,CS2,carbon disulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Grosch(2015)_573.csv
+773.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Grosch(2015)_773.2K_195-370nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,CS2,carbon disulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Grosch(2015)_773.csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_HearnJoens(1991)_300K_296-334nm(I).txt,High-resolution (0.06 nm) absorption spectrum between 271 and 374 nm measured by using a double-beam apparatus and a Hg lamp as a light source,CS2,carbon disulfide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_HearnJoens(1991)_300K_296-334nm(I).csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_HearnJoens(1991)_300K_296-334nm(II).txt,High-resolution (0.06 nm) absorption spectrum between 271 and 374 nm measured by using a double-beam apparatus and a deuterium continuum lamp as a light source,CS2,carbon disulfide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_HearnJoens(1991)_300K_296-334nm(II).csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_HearnJoens(1991)_300K_320-328nm.txt,High-resolution (0.06 nm) absorption measurements between 271 and 374 nm using a double-beam apparatus and as light sources a Hg lamp or a deuterium continuum lamp,CS2,carbon disulfide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_HearnJoens(1991)_300K_320-328nm.csv
+300.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_IUPAC(2004)_300K_275-370nm(rec).txt,IUPAC(2004) recommendation:,CS2,carbon disulfide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_IUPAC(2004)_300K_275-370nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_JPL-2010(2011)_298K_275-370nm(rec).txt,JPL-2010 recommendation:,CS2,carbon disulfide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_JPL-2010(2011)_298K_275-370nm(rec).csv
+294.0,Leroy(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Leroy(1981)_294K_314-330nm.txt,High-resolution (0.015 nm) absorption measurements using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,CS2,carbon disulfide,"
+
+  B. Leroy, G. Le Bras, and P. Rigaud, ""Spectres d'absorption dans l'ultraviolet de composés soufrés d'intérêt aéronomique (COS, CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Leroy(1981)_294K_314-330nm.csv
+197.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Leroy(1983)_197K_314-330nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 197, 243, 276, and 288 K using a deuterium lamp as a light source",CS2,carbon disulfide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Leroy(1983)_197K_314-330nm.csv
+243.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Leroy(1983)_243K_314-330nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 197, 243, 276, and 288 K using a deuterium lamp as a light source",CS2,carbon disulfide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Leroy(1983)_243K_314-330nm.csv
+276.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Leroy(1983)_276K_314-330nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 197, 243, 276, and 288 K using a deuterium lamp as a light source",CS2,carbon disulfide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Leroy(1983)_276K_314-330nm.csv
+288.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Leroy(1983)_288K_314-330nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 197, 243, 276, and 288 K using a deuterium lamp as a light source",CS2,carbon disulfide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Leroy(1983)_288K_314-330nm.csv
+298.0,Rabalais(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Rabalais(1971)_298K_125-184nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",CS2,carbon disulfide,"
+
+  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
+  Chem. Rev. 71, 73-108 (1971);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Rabalais(1971)_298K_125-184nm.csv
+298.0,Rabalais(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Rabalais(1971)_298K_183-223nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",CS2,carbon disulfide,"
+
+  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
+  Chem. Rev. 71, 73-108 (1971);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Rabalais(1971)_298K_183-223nm.csv
+298.0,Rabalais(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Rabalais(1971)_298K_289-353nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",CS2,carbon disulfide,"
+
+  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
+  Chem. Rev. 71, 73-108 (1971);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Rabalais(1971)_298K_289-353nm.csv
+294.0,SchneiderMoortgat(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_SchneiderMoortgat(1990)_294K_265-380nm.txt,Absorption cross sections at 0.05-nm intervals from the CD-ROM of,CS2,carbon disulfide,"
+
+  W. Schneider and G.K. Moortgat (1990), personal communication to",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_SchneiderMoortgat(1990)_294K_265-380nm.csv
+298.0,Sunanda(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Sunanda(2015)_298K_105.12-226.43nm.txt,Absorption measurements in the 5.5–11.8 eV (225-105 nm) region with a resolving power of 1000 corresponding to ∼5 meV at 5 eV and 12 meV at 12 eV using synchrotron radiation,CS2,carbon disulfide,"
+
+  K. Sunanda, A. Shastri, A.K. Das, and B.N. Raja Sekhar, ""Electronic states of carbon disulphide in the 5.5–11.8 eV region by VUV photo absorption spectroscopy"",
+  J. Quant. Spectrosc. Radiat. Transfer 151, 76-87 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Sunanda(2015)_298K_105.csv
+294.0,Vandaele(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Vandaele(1997)_294K_281-351nm.txt,Resolution 16 cm,CS2,carbon disulfide,"
+
+  A.C. Vandaele, ""Thesis Université"",
+  Libre de Bruxelles, Brussels, Belgium, 1997
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Vandaele(1997)_294K_281-351nm.csv
+298.0,Wine(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_Wine(1981)_298K_280-360nm.txt,Absorption cross section at the wavelength of a Cd lamp,CS2,carbon disulfide,"
+
+  P.H. Wine, W.L. Chameides, and A.R. Ravishankara, ""Potential role of CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_Wine(1981)_298K_280-360nm.csv
+294.0,WuJudge(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_WuJudge(1981)_294K_319.0-329.9nm.txt,Absorption measurements with a bandwidth of 0.06 nm in the 318-350 nm region using synchrotron radiation as a continuum light source ,CS2,carbon disulfide,"
+
+  C.Y.R. Wu and D.L. Judge, ""SO",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_WuJudge(1981)_294K_319.csv
+300.0,XuJoens(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_XuJoens(1993)_300K_187.1-229.5nm.txt,Medium-resolution (bandwidth 0.2 nm) absorption spectrum between 187 and 230 nm measured by using a double-beam apparatus and a continuum lamp as a light source,CS2,carbon disulfide,"
+
+  H. Xu and J.A. Joens, ""CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_XuJoens(1993)_300K_187.csv
+300.0,XuJoens(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CS2_XuJoens(1993)_300K_187.84-219.60nm(max).txt,Medium-resolution (bandwidth 0.2 nm) absorption spectrum between 187 and 230 nm measured by using a double-beam apparatus and a continuum lamp as a light source,CS2,carbon disulfide,"
+
+  H. Xu and J.A. Joens, ""CS",data/cross-sections/Sulfur compounds/Organic S-compounds/CS2/CS2_XuJoens(1993)_300K_187.csv

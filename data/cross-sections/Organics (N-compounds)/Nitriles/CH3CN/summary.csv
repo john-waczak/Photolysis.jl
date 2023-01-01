@@ -1,0 +1,34 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Eden(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_Eden(2003)_298K_113-320nm.txt,CH,CH3CN,"acetonitrile, methyl cyanide","
+
+  S. Eden, P. Limão-Vieira, P. Kendall, N.J. Mason, S.V. Hoffmann, and S.M. Spyrou, ""High resolution photo-absorption studies of acrylonitrile, C",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_Eden(2003)_298K_113-320nm.csv
+298.0,Leach(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_Leach(2008)_298K_62.1-142.2nm.txt,Absorption measurements with a precision of the energy scale is of ±5 meV using monochromatized synchrotron radiation as a light source,CH3CN,"acetonitrile, methyl cyanide","
+
+  S. Leach,  M. Schwell, S. Un, H.-W. Jochims, and H. Baumgärtel, ""VUV absorption spectroscopy of acetonitrile between 7 and 20 eV: A revisionist study"",
+  Chem. Phys. 344, 147-163 (2008);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_Leach(2008)_298K_62.csv
+298.0,NuthGlicker(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_NuthGlicker(1982)_298K_59.94-156.06nm.txt,"High-resolution (0.05 nm) absorption measurements using a Hopfield continuum lamp as a light source for the 60-105-nm region and three microwave excited continuum lamps containing 250 torr of Ar, Kr, and Xe as light sources for the 105-156-nm region",CH3CN,"acetonitrile, methyl cyanide","
+
+  J.A. Nuth and S. Glicker, ""The vacuum ultraviolet spectra of HCN, C",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_NuthGlicker(1982)_298K_59.csv
+298.0,SutoLee(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_SutoLee(1985)_298K_106.0-146.2nm.txt,CH,CH3CN,"acetonitrile, methyl cyanide","
+
+  M. Suto and L.C. Lee, ""Photoabsorption cross section of CH",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_SutoLee(1985)_298K_106.csv
+298.0,SutoLee(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_SutoLee(1985)_298K_146.0-179.9nm.txt,CH,CH3CN,"acetonitrile, methyl cyanide","
+
+  M. Suto and L.C. Lee, ""Photoabsorption cross section of CH",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_SutoLee(1985)_298K_146.csv
+298.0,Zetzsch(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_Zetzsch(1989)_298K_156-186nm(smoo).txt,CH,CH3CN,"acetonitrile, methyl cyanide","
+
+  C. Zetzsch, ""UV absorption cross sections of sulfur hexafluoride and acetonitrile"",
+  presented at the International Ozone Symposium, 1988, published in: Ozone in the Atmosphere (R.D. Boikov and P. Fabian, Eds.), DEEPAK Publishing (1989), 685-689
+
+
+",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_Zetzsch(1989)_298K_156-186nm(smoo).csv
+298.0,Zetzsch(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3CN_Zetzsch(1989)_298K_156.3-185.1nm(meas).txt,CH,CH3CN,"acetonitrile, methyl cyanide","
+
+  C. Zetzsch, ""UV absorption cross sections of sulfur hexafluoride and acetonitrile"",
+  presented at the International Ozone Symposium, 1988, published in: Ozone in the Atmosphere (R.D. Boikov and P. Fabian, Eds.), DEEPAK Publishing (1989), 685-689
+
+
+",data/cross-sections/Organics (N-compounds)/Nitriles/CH3CN/CH3CN_Zetzsch(1989)_298K_156.csv

@@ -1,0 +1,39 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barone(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_Barone(1994)_298K_184.9,193nm.txt",Absorption cross section at the Hg line and ArF excimer laser line,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  S.B. Barone, A.A. Turnipseed, T. Gierczak, and A. Ravishankara, ""Quantum yields of H(",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_Barone(1994)_298K_184.csv
+300.0,Hearn(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_Hearn(1990)_300K_201-360nm.txt,UV-VIS  spectrophotometer interfaced to a data station; deuterium lamp as a light source; spectral resolution 0.10 nm,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  C.H. Hearn, E. Turcu, and J.A. Joens, ""The near UV absorption spectra of dimethyl sulfide, diethyl sulfide, and dimethyl disulfide"",
+  Atmos. Environ. 24A, 1939-1944 (1990); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_Hearn(1990)_300K_201-360nm.csv
+300.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_IUPAC(2004)_300K_201-360nm(rec).txt,IUPAC(2004) recommendation:,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_IUPAC(2004)_300K_201-360nm(rec).csv
+300.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_JPL-2019(2020)_300K_205-350nm(rec).txt,JPL-2019(2020) recommendation:,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
+Data for Use in Atmospheric Studies, Evaluation No. 19"",
+  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
+2019, http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_JPL-2019(2020)_300K_205-350nm(rec).csv
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_McMillan(1966)_298K_200.5-312.1nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 490
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_McMillan(1966)_298K_200.csv
+298.0,Tokue(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_Tokue(1989)_298K_107-220nm.txt,Absorption measurements at a spectral resolution of 1 nm using synchrotron radiation as a light source,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  I. Tokue, A. Hiraya, and K. Shobatake, ""Photoexcitation of dimethyl sulfide and dimethyl disulfide in the vacuum ultraviolet region: Rydberg states and photofragment emissions"",
+  Chem. Phys. 130, 401-408 (1989); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_Tokue(1989)_298K_107-220nm.csv
+298.0,Wine(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SSCH3_Wine(1981)_298K_185nm.txt,Absorption cross section at the wavelength of a Cd lamp,CH3SSCH3,"dimethyl disulfide, DMDS","
+
+  P.H. Wine, N.M. Kreutter, C.A. Gump, and A.R. Ravishankara, ""Kinetics of OH reactions with the atmospheric sulfur compounds H",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SSCH3/CH3SSCH3_Wine(1981)_298K_185nm.csv

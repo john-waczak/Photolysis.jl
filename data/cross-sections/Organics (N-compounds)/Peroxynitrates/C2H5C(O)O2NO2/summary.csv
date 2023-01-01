@@ -1,0 +1,24 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+253.0,Harwood(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5C(O)O2NO2_Harwood(2003)_253K_210-340nm.txt,Absorption measurements were made using a D,C2H5C(O)O2NO2,"peroxypropionyl nitrate, PPN","
+
+  M.H. Harwood, J.M. Roberts, G.J. Frost, A.R. Ravishankara, and J.B. Burkholder, ""Photochemical Studies of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5C(O)O2NO2/C2H5C(O)O2NO2_Harwood(2003)_253K_210-340nm.csv
+273.0,Harwood(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5C(O)O2NO2_Harwood(2003)_273K_210-340nm.txt,Absorption measurements were made using a D,C2H5C(O)O2NO2,"peroxypropionyl nitrate, PPN","
+
+  M.H. Harwood, J.M. Roberts, G.J. Frost, A.R. Ravishankara, and J.B. Burkholder, ""Photochemical Studies of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5C(O)O2NO2/C2H5C(O)O2NO2_Harwood(2003)_273K_210-340nm.csv
+296.0,Harwood(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5C(O)O2NO2_Harwood(2003)_296K_210-340nm.txt,Absorption cross sections were measured at 296 K using a D,C2H5C(O)O2NO2,"peroxypropionyl nitrate, PPN","
+
+  M.H. Harwood, J.M. Roberts, G.J. Frost, A.R. Ravishankara, and J.B. Burkholder, ""Photochemical Studies of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5C(O)O2NO2/C2H5C(O)O2NO2_Harwood(2003)_296K_210-340nm.csv
+296.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5C(O)O2NO2_JPL-2010(2011)_296K_210-340nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",C2H5C(O)O2NO2,"peroxypropionyl nitrate, PPN","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5C(O)O2NO2/C2H5C(O)O2NO2_JPL-2010(2011)_296K_210-340nm(rec).csv
+298.0,Senum(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5C(O)O2NO2_Senum(1984)_298K_200-300nm.txt,Absorption measurements using a single-beam UV/visible spectrometer with a resolution of 2 nm,C2H5C(O)O2NO2,"peroxypropionyl nitrate, PPN","
+
+  G.I. Senum, Y.-N. Lee, and J.S. Gaffney, ""Ultraviolet absorption spectrum of peroxyacetyl nitrate and peroxypropionyl nitrate"",
+  J. Phys. Chem. 88, 1269-1270 (1984); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5C(O)O2NO2/C2H5C(O)O2NO2_Senum(1984)_298K_200-300nm.csv

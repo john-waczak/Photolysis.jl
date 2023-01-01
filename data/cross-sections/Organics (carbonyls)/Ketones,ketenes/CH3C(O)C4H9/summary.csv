@@ -1,0 +1,21 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C4H9_Ito(1969)_298K_165-200nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C4H9,"2-hexanone,  methyl-n-butyl ketone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C4H9/CH3C(O)C4H9_Ito(1969)_298K_165-200nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C4H9_Ito(1969)_298K_171.2-195.5nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C4H9,"2-hexanone,  methyl-n-butyl ketone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C4H9/CH3C(O)C4H9_Ito(1969)_298K_171.csv"
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C4H9_McMillan(1966)_298K_200-334nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3C(O)C4H9,"2-hexanone,  methyl-n-butyl ketone","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 377
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C4H9/CH3C(O)C4H9_McMillan(1966)_298K_200-334nm.csv"

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,SchanderRussell(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Iodoalkenes/CF2=CFI_SchanderRussell(1977)_298K_121-220nm.txt,High-resolution (∼0.058 nm) absorption spectrum recorded using a discharge lamp with a small flow of H,CF2=CFI,iodotrifluoroethene,"
+
+  J. Schander and B.R. Russell, ""The perfluoro effect on the molecular Rydberg states of bromo- and iodoethylene"",
+  J. Mol. Spectrosc. 65, 379-387 (1977); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Iodoalkenes/CF2=CFI/CF2=CFI_SchanderRussell(1977)_298K_121-220nm.csv

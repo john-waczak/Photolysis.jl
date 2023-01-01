@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Mukhopadhyay(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/alpha-c-C6H8O2_Mukhopadhyay(2011)_298K_220-320nm.txt,"Gas cell of path length 1m, light from a Xe lamp dipersed by a 1 m monochromator",alpha-c-C6H8O2,alpha-cyclohexanedione,"
+
+  A. Mukhopadhyay, M. Mukherjee, A.K. Ghosh, and T. Chakraborty, ""UV photolysis of a-cyclohexanedione in the gas phase"",
+  J. Phys. Chem. A 115, 7494-7502 (2011); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/alpha-c-C6H8O2/alpha-c-C6H8O2_Mukhopadhyay(2011)_298K_220-320nm.csv

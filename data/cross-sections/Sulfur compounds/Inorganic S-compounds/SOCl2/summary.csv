@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Okabe(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SOCl2_Okabe(1972)_298K_116-135nm.txt,High-resolution (0.04 nm) absorption measurements with a hydrogen lamp as light source,SOCl2,thionyl chloride,"
+
+  H. Okabe, ""Photodissociation  of OSCl",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SOCl2/SOCl2_Okabe(1972)_298K_116-135nm.csv
+295.0,Uthman(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SOCl2_Uthman(1978)_295K_190-300nm.txt,"Absorption measurements were made using a double beam recording spectrophotometer with a deuterium arc source, a photomultiplier detector, and a prism dispersing device",SOCl2,thionyl chloride,"
+
+  A.P. Uthman, P.J. Demlein, T.D. Allston, M.C. Withiam, M.J. McClements, and G.A. Takacs, ""Photoabsorption spectra of gaseous methyl bromide, ethylene dibromide, nitrosyl bromide, thionyl chloride, and sulfuryl chloride"",
+  J. Phys. Chem. 82, 2252-2257 (1978); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SOCl2/SOCl2_Uthman(1978)_295K_190-300nm.csv

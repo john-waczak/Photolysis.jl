@@ -1,0 +1,41 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_JPL-2010(2011)_295K_200-260nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of:",C2H5Br,"bromoethane, ethyl bromide","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_JPL-2010(2011)_295K_200-260nm(rec).csv
+298.0,PersonNicole(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_PersonNicole(1971)_298K_105.24-124.33nm.txt,Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),C2H5Br,"bromoethane, ethyl bromide","
+
+  J.C.Person and P.P. Nicole, ""Isotope effects in the photoionization yields and in the absorption cross sections for methanol, ethanol, methyl bromide, and ethyl bromide"",
+  J. Chem. Phys. 55, 3390-3397 (1971);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_PersonNicole(1971)_298K_105.csv
+293.0,PorretGoodeve(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_PorretGoodeve(1938)_293K_186.0-287.6nm(meas).txt,The data points for the extinction coefficients (shown as log ε) vs. wavenumber plotted in Fig. 4 have been digitized and converted to absorption cross sections (conversion factor 3.8235×10,C2H5Br,"bromoethane, ethyl bromide","
+
+  D. Porret and C.F. Goodeve, ""The continuous absorption spectra of alkyl iodides and alkyl bromides and their quantal interpretation"",
+  Proc. Roy. Soc. London A 165, 31-42 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_PorretGoodeve(1938)_293K_186.csv
+293.0,PorretGoodeve(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_PorretGoodeve(1938)_293K_187.8-287.8nm(smoo).txt,The smooth fit through the measured data points plotted in Fig. 4 have been digitized; extinction coefficients vs. wavenumber converted to absorption cross sections (conversion factor 3.8235×10,C2H5Br,"bromoethane, ethyl bromide","
+
+  D. Porret and C.F. Goodeve, ""The continuous absorption spectra of alkyl iodides and alkyl bromides and their quantal interpretation"",
+  Proc. Roy. Soc. London A 165, 31-42 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_PorretGoodeve(1938)_293K_187.csv
+298.0,Rebbert(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_Rebbert(1973)_298K_147nm.txt,Photolysis with a xenon resonance lamp,C2H5Br,"bromoethane, ethyl bromide","
+
+  R.E. Rebbert, S.G. Lias, and P. Ausloos, ""Photolysis of alkyl iodides at 147.0 nm. The reaction H + C",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_Rebbert(1973)_298K_147nm.csv
+295.0,Zhang(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_Zhang(1990)_295K_200-257nm.txt,Absorption cross sections plotted in  Fig. 1 have been digitized (no experimental details indicated),C2H5Br,"bromoethane, ethyl bromide","
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_Zhang(1990)_295K_200-257nm.csv
+295.0,Zhang(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_Zhang(1990)_295K_200-260nm(2nm).txt,2-nm interpolation of the absorption cross sections plotted in Fig. 1,C2H5Br,"bromoethane, ethyl bromide","
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_Zhang(1990)_295K_200-260nm(2nm).csv
+295.0,Zhang(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br_Zhang(1990)_295K_200-260nm(5nm).txt,5-nm interpolation of the absorption cross sections plotted in from Fig. 1,C2H5Br,"bromoethane, ethyl bromide","
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/C2H5Br/C2H5Br_Zhang(1990)_295K_200-260nm(5nm).csv

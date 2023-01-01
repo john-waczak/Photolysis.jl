@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C6H13I_BoschiSalahub(1972)_298K_120.3-206.1nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,n-C6H13I,"1-iodohexane, hexyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultra-violet spectra of some 1-iodoalkanes"",
+  Mol. Phys. 24, 289-299 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C6H13I/n-C6H13I_BoschiSalahub(1972)_298K_120.csv"
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C6H13I_BoschiSalahub(1972)_298K_204.2-289.8nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,n-C6H13I,"1-iodohexane, hexyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultra-violet spectra of some 1-iodoalkanes"",
+  Mol. Phys. 24, 289-299 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C6H13I/n-C6H13I_BoschiSalahub(1972)_298K_204.csv"

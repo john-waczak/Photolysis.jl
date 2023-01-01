@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+293.0,HalpernRamachandran(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/(n-C3H7)3P_HalpernRamachandran(1992)_293K_185-237nm.txt,"Absorption spectra were obtained with a Varian 2300 spectrophotometer, which was purged with dry N",(n-C3H7)3P,tri-n-propylphosphine,"
+
+  A.M Halpern and B.R. Ramachandran, ""The electronic spectroscopy and photophysics of saturated phosphines"",
+  J. Mol. Spectrosc. 151, 26-32 (1992); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/(n-C3H7)3P/(n-C3H7)3P_HalpernRamachandran(1992)_293K_185-237nm.csv

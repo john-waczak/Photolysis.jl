@@ -1,0 +1,94 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barnes(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Barnes(1998)_298K_200-550nm(2nm).txt,The near-UV absorption spectrum of HOCl is examined using laser induced fluorescence to monitor OH fragments resulting from photodissociation; continuously tunable laser radiation in the region 380-550 nm with bandwidths of 0.12 to �0.3 cm,HOCl,hypochlorous acid,"
+
+  R.J. Barnes, A. Sinha, and H.A. Michelsen, ""Assessing the contribution of the lowest triplet state to the near-UV absorption spectrum of HOCl"",
+  J. Phys. Chem. A 102, 8855-8859 (1998); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Barnes(1998)_298K_200-550nm(2nm).csv
+298.0,Barnes(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Barnes(1998)_298K_290-530nm.txt,Absorption cross sections at single wavelengths were normalized to the absolute cross section data at 355 nm of,HOCl,hypochlorous acid,"
+
+  R.J. Barnes, A. Sinha, and H.A. Michelsen, ""Assessing the contribution of the lowest triplet state to the near-UV absorption spectrum of HOCl"",
+  J. Phys. Chem. A 102, 8855-8859 (1998); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Barnes(1998)_298K_290-530nm.csv
+298.0,Burkholder(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Burkholder(1993)_298K_200-380nm.txt,Absorption measurements using a diode array spectrometer; spectral resolution ∼0.5nm,HOCl,hypochlorous acid,"
+
+  J.B. Burkholder, ""Ultraviolet absorption spectrum of HOCl"",
+  J. Geophys. Res. 98(D2), 2963-2974 (1993); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Burkholder(1993)_298K_200-380nm.csv
+298.0,DeMore(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_DeMore(1976)_298K_290-450nm.txt,Data as reported and recommended by,HOCl,hypochlorous acid,"
+
+  W.B. DeMore, ""Absorption cross sections of HOCl"",
+  paper presented at the International Conference on the Stratosphere and Related Problems, Logan, Utah, September 1976
+
+
+",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_DeMore(1976)_298K_290-450nm.csv
+298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Fergusson(1936)_298K_230-390nm.txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,HOCl,hypochlorous acid,"
+
+  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
+  Trans. Faraday Soc. 32, 956-962 (1936); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Fergusson(1936)_298K_230-390nm.csv
+298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Fergusson(1936)_298K_230-393nm.txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,HOCl,hypochlorous acid,"
+
+  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
+  Trans. Faraday Soc. 32, 956-962 (1936); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Fergusson(1936)_298K_230-393nm.csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_IUPAC(2007)_298K_200-420nm(rec).txt,IUPAC (2007) recommendation:,HOCl,hypochlorous acid,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_IUPAC(2007)_298K_200-420nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_JPL-2010(2011)_298K_200-420nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",HOCl,hypochlorous acid,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_JPL-2010(2011)_298K_200-420nm(rec).csv
+298.0,JPL-97(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_JPL-97(1997)_298K_200-380nm(rec).txt,JPL-1997 recommendation:,HOCl,hypochlorous acid,"
+
+  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
+  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
+
+
+",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_JPL-97(1997)_298K_200-380nm(rec).csv
+298.0,Jungkamp(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Jungkamp(1995)_298K_230-392nm(2nm).txt,Absorption measurements using a long-path UV absorption flow cell in a diode array spectrometer coupled to a quadrupole mass spectrometer with a molecular beam sampling inlet for purity control.,HOCl,hypochlorous acid,"
+
+  T.P.W. Jungkamp, U. Kirchner, M. Schmidt, and R.N. Schindler, ""UV-absorption cross section data for the hypochlorites ROCl (R = H, CH",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Jungkamp(1995)_298K_230-392nm(2nm).csv
+333.0,Knauth(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Knauth(1979)_333K_200-420nm.txt,Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,HOCl,hypochlorous acid,"
+
+  H.D. Knauth, H. Alberti, and H. Clausen, ""Equilibrium constant of the gas reaction Cl",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Knauth(1979)_333K_200-420nm.csv
+298.0,Mishalanie(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Mishalanie(1986)_298K_240-365nm.txt,Absorption measurements using a dynamic HOCl source,HOCl,hypochlorous acid,"
+
+  E.A. Mishalanie, C.J. Rutkowski, R.S. Hutte, and J.W. Birks, ""Ultraviolet absorption spectrum of gaseous HOCl"",
+  J. Phys. Chem. 90, 5578-5584 (1986); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Mishalanie(1986)_298K_240-365nm.csv
+298.0,MolinaMolina(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_MolinaMolina(1978)_298K_200-450nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer,HOCl,hypochlorous acid,"
+
+  L.T. Molina and M.J. Molina, ""Ultraviolet spectrum of HOCl"",
+  J. Phys. Chem. 82, 2410-2414 (1978); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_MolinaMolina(1978)_298K_200-450nm.csv
+298.0,Permien(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Permien(1988)_298K_210.6-375.1nm.txt,Absorption measurements using a diode array as detector,HOCl,hypochlorous acid,"
+
+  T. Permien, R. Vogt, and R.N. Schindler, ""Absorption spectra of HOCl and Cl",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Permien(1988)_298K_210.csv
+298.0,Spence(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOCl_Spence(1980)_298K_311-352nm.txt,UV irradiation of gaseous H,HOCl,hypochlorous acid,"
+
+  J.W. Spence, E.O. Edney, and P.L. Hanst, ""Infrared and ultraviolet spectral study of HOCl"",
+  J. Air Pollut. Control Assoc. 30, 50-52 (1980); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOCl/HOCl_Spence(1980)_298K_311-352nm.csv

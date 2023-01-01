@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BoschiSalahub(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Iodoalkenes/CH2=CHI_BoschiSalahub(1972)_298K_115.5-227.6nm.txt,Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,CH2=CHI,"vinyl iodide, iodoethylene","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Iodoalkenes/CH2=CHI/CH2=CHI_BoschiSalahub(1972)_298K_115.csv
+298.0,BoschiSalahub(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Iodoalkenes/CH2=CHI_BoschiSalahub(1972)_298K_199.9-297.2nm.txt,Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,CH2=CHI,"vinyl iodide, iodoethylene","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Iodoalkenes/CH2=CHI/CH2=CHI_BoschiSalahub(1972)_298K_199.csv

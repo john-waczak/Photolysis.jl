@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jimenez(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)_Jimenez(2007)_298K_290-370nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,C3H7CH=CHCHO(E),"trans-2-hexenal, E-2-hexenal","
+
+  E. Jiménez, B. Lanza, E. Martinez, and J. Albaladejo, ""Daytime tropospheric loss of hexanal and trans-2-hexenal: OH kinetics and UV photolysis"",
+  Atmos. Chem. Phys. 7, 1565-1574 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)/C3H7CH=CHCHO(E)_Jimenez(2007)_298K_290-370nm.csv
+298.0,Kalalian(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)_Kalalian(2019)_298K_240-400nm.txt,Absorption measurements using a D,C3H7CH=CHCHO(E),"trans-2-hexenal, E-2-hexenal","
+
+  C. Kalalian, B. Samir, E. Roth, and A. Chakir, ""UV absorption spectra of trans-2-pentenal, trans-2-hexenal and 2-methyl-2-pentenal"",
+  Chem. Phys. Lett. 718, 22-26 (2019);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)/C3H7CH=CHCHO(E)_Kalalian(2019)_298K_240-400nm.csv
+297.0,OConnor(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)_OConnor(2006)_297K_290-400nm.txt,Absorption measurements using a D,C3H7CH=CHCHO(E),"trans-2-hexenal, E-2-hexenal","
+
+  M.P. O'Connor, J.C. Wenger, A. Mellouki, K. Wirtz, and A. Munoz, ""The atmospheric photolysis of E-2-hexenal, Z-3-hexenal and E,E-2,4-hexadienal"",
+  Phys. Chem. Chem. Phys. 8, 5236-5246 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/C3H7CH=CHCHO(E)/C3H7CH=CHCHO(E)_OConnor(2006)_297K_290-400nm.csv

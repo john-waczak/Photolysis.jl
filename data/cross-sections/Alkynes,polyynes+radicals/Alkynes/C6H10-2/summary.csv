@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HamaiHirayama(1979),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C6H10-2_HamaiHirayama(1979)_298K_164-216nm.txt",CH,C6H10-2,"2-hexyne, methylpropylacetylene","
+
+  S. Hamai and F. Hirayama, ""Fluorescence of acetylenic hydrocarbons"",
+  J. Chem. Phys. 71, 2934-2939 (1979); 
+
+
+  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C6H10-2/C6H10-2_HamaiHirayama(1979)_298K_164-216nm.csv"
+298.0,Jacovella(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C6H10-2_Jacovella(2015)_298K_101.130-231.155nm.txt",CH,C6H10-2,"2-hexyne, methylpropylacetylene","
+
+  U. Jacovella, D.M.P. Holland, S. Boyé-Péronne, B. Gans, N.de Oliveira, K. Ito, D. Joyeux, L.E. Archer, R.R. Lucchese, H. Xu, and S.T. Pratt, "" A near-threshold shape resonance in the valence-shell photoabsorption of linear alkynes"",
+  J. Phys. Chem. A 119, 12339-12348 (2015); 
+
+
+  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C6H10-2/C6H10-2_Jacovella(2015)_298K_101.csv"

@@ -1,0 +1,38 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,Clemitshaw(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_Clemitshaw(1996)_294K_220-340nm.txt,"Absorption measurements using a dual-beam, diode array spectrometer; spectral resolution 0.6 nm",n-C3H7ONO2,1-propyl nitrate,"
+
+  K.C. Clemitshaw, J. Williams, O.V. Rattigan, D.E. Shallcross, K.S. Law, and R.A. Cox, ""Gas-phase ultraviolet absorption cross-sections and atmospheric lifetimes of several C",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_Clemitshaw(1996)_294K_220-340nm.csv
+294.0,Higgins(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_Higgins(2014)_294K_240-320nm.txt,Absorption measurements at pressures of 1.5−17 Torr,n-C3H7ONO2,1-propyl nitrate,"
+
+  C.M. Higgins, L.A. Evans, G.C. Lloyd-Jones, D.E. Shallcross, D.P. Tew, and A.J. Orr-Ewing, ""Quantum yields for photochemical production of NO",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_Higgins(2014)_294K_240-320nm.csv
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_IUPAC(2006)_298K_185-340nm(rec).txt,IUPAC(2006) recommendation:,n-C3H7ONO2,1-propyl nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_IUPAC(2006)_298K_185-340nm(rec).csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_RobertsFajer(1989)_298K_270-314nm(fit).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,n-C3H7ONO2,1-propyl nitrate,"
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_RobertsFajer(1989)_298K_270-314nm(fit).csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_RobertsFajer(1989)_298K_271.7-314.0nm(meas).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,n-C3H7ONO2,1-propyl nitrate,"
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_RobertsFajer(1989)_298K_271.csv
+298.0,Turberg(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_Turberg(1990)_298K_185-330nm.txt,Absorption measurements using a spectrophotometer at a spectral bandwidth of 1 nm,n-C3H7ONO2,1-propyl nitrate,"
+
+  M.P. Turberg, D.M. Giolando, C. Tilt, T. Soper, S. Mason, M. Davies, P. Klingensmith, and G.A. Takacs, ""Atmospheric chemistry of alkyl nitrates"",
+  J. Photochem. Photobiol. A. Chem. 51, 281-292 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_Turberg(1990)_298K_185-330nm.csv
+298.0,ZhuKellis(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/n-C3H7ONO2_ZhuKellis(1997)_298K_265-340nm.txt,"The temperature dependence of the absorption cross sections has been measured (cavity ring-down spectroscopy) at 238, 248, 258, 268, 278, 288, and 298K and parameterized to the empirical equation",n-C3H7ONO2,1-propyl nitrate,"
+
+  L. Zhu and D. Kellis, ""Temperature dependence of the UV absorption cross sections and photodissociation products of C",data/cross-sections/Organics (N-compounds)/Nitrates/n-C3H7ONO2/n-C3H7ONO2_ZhuKellis(1997)_298K_265-340nm.csv

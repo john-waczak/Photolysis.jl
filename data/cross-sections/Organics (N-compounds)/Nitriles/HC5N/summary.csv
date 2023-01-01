@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,Coupeaud(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/HC5N_Coupeaud(2007)_300K_200-292nm.txt,Medium-resolution (0.2 nm) absorption measurements using a Shimadzu UV-3100 spectrophotometer,HC5N,"cyanodiacetylene, 2,4-pentadiynenitrile, 1-cyano-1,3-butadiyne","
+
+  A. Coupeaud, M. Turowski, M. Gronowski, N. Pietri, I. Couturier-Tamburelli, R. Kolos, and J.-P. Aycard, ""Spectroscopy of cyanodiacetylene in solid argon and the photochemical generation of isocyanediacetylene"",
+  J. Chem. Phys. 126, 164301(8 pages) (2007);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitriles/HC5N/HC5N_Coupeaud(2007)_300K_200-292nm.csv
+298.0,Fray(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/HC5N_Fray(2010)_298K_80-205nm.txt,High-resolution (0.05 nm) absorption measurements using synchrotron radiation as a tunable VUV light source,HC5N,"cyanodiacetylene, 2,4-pentadiynenitrile, 1-cyano-1,3-butadiyne","
+
+  N. Fray, Y. Bénilan, M.-C. Gazeau, A. Jolly, M. Schwell, E. Arzoumanian, T. Ferradaz, E. Es-Sebbar, and J.-C. Guillemin, ""Temperature-dependent photoabsorption cross section of cyanodiacetylene in the vacuum UV"",
+  J. Geophys. Res. 115,  E06010 (6 pages) (2010);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitriles/HC5N/HC5N_Fray(2010)_298K_80-205nm.csv

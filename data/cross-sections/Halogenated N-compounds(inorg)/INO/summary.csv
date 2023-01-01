@@ -1,0 +1,74 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BascoHunt(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_BascoHunt(1978)_298K_222-270nm.txt,Recombination of iodine atoms following the flash photolysis of iodine in the presence of nitric oxide,INO,nitrosyl iodide,"
+
+  N. Basco and J.E. Hunt, ""The recombination of iodine atoms in the presence of nitric oxide"",
+  Int. J. Chem. Kinet. 10, 733-743 (1978); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_BascoHunt(1978)_298K_222-270nm.csv
+298.0,BascoHunt(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_BascoHunt(1978)_298K_251-460nm.txt,Recombination of iodine atoms following the flash photolysis of iodine in the presence of nitric oxide,INO,nitrosyl iodide,"
+
+  N. Basco and J.E. Hunt, ""The recombination of iodine atoms in the presence of nitric oxide"",
+  Int. J. Chem. Kinet. 10, 733-743 (1978); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_BascoHunt(1978)_298K_251-460nm.csv
+298.0,Forte(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Forte(1981)_298K_222.9-297.4nm(smoo).txt,The equilibrium I,INO,nitrosyl iodide,"
+
+  E. Forte, H. Hippler, and H. Van den Bergh, ""INO thermodynamic properties and ultraviolet spectrum"",
+  Int. J. Chem. Kinet. 13, 1227-1233 (1981); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Forte(1981)_298K_222.csv
+298.0,Forte(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Forte(1981)_298K_223.2-297.2nm(meas).txt,The equilibrium I,INO,nitrosyl iodide,"
+
+  E. Forte, H. Hippler, and H. Van den Bergh, ""INO thermodynamic properties and ultraviolet spectrum"",
+  Int. J. Chem. Kinet. 13, 1227-1233 (1981); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Forte(1981)_298K_223.csv
+298.0,Forte(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Forte(1981)_298K_240nm.txt,The equilibrium I,INO,nitrosyl iodide,"
+
+  E. Forte, H. Hippler, and H. Van den Bergh, ""INO thermodynamic properties and ultraviolet spectrum"",
+  Int. J. Chem. Kinet. 13, 1227-1233 (1981); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Forte(1981)_298K_240nm.csv
+298.0,Forte(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Forte(1981)_298K_410nm.txt,The equilibrium I,INO,nitrosyl iodide,"
+
+  E. Forte, H. Hippler, and H. Van den Bergh, ""INO thermodynamic properties and ultraviolet spectrum"",
+  Int. J. Chem. Kinet. 13, 1227-1233 (1981); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Forte(1981)_298K_410nm.csv
+298.0,IUPAC(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_IUPAC(2000)_298K_230-460nm(rec).txt,IUPAC recommendation (2000):,INO,nitrosyl iodide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, R.F. Hampson, Jr., J.A. Kerr, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Supplement VIII, Halogen species"",
+  J. Phys. Chem. Ref. Data, 29, 167-266 (2000); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_IUPAC(2000)_298K_230-460nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_JPL-2010(2011)_298K_223-460nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",INO,nitrosyl iodide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_JPL-2010(2011)_298K_223-460nm(rec).csv
+298.0,Porter(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Porter(1962)_298K_390-470nm(smoo).txt,The recombination of iodine atoms in nitric oxide was shown to occur via a transient species attributed to INO,INO,nitrosyl iodide,"
+
+  G. Porter, Z.G. Szabo, and M.G. Townsend, ""The recombination of atoms . V. Iodine atom recombination in nitric oxide"",
+  Proc. Roy. Soc. London A 270, 493-500 (1962); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Porter(1962)_298K_390-470nm(smoo).csv
+298.0,Porter(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_Porter(1962)_298K_399.7-467.5nm(meas).txt,The recombination of iodine atoms in nitric oxide was shown to occur via a transient species attributed to INO,INO,nitrosyl iodide,"
+
+  G. Porter, Z.G. Szabo, and M.G. Townsend, ""The recombination of atoms . V. Iodine atom recombination in nitric oxide"",
+  Proc. Roy. Soc. London A 270, 493-500 (1962); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_Porter(1962)_298K_399.csv
+298.0,VandenBerghTroe(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/INO_VandenBerghTroe(1976)_298K_265,430nm.txt",The recombination of iodine atoms after laser flash photolysis has been studied in the presence of NO or NO,INO,nitrosyl iodide,"
+
+  H. Van den Bergh and J. Troe, ""Kinetic and thermodynamic properties of INO and INO","data/cross-sections/Halogenated N-compounds(inorg)/INO/INO_VandenBerghTroe(1976)_298K_265,430nm.csv"

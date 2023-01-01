@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Eden(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6F5I_Eden(2009)_298K_115.5-345.0nm.txt,Absorption measurements using synchrotron radiation; spectral resolution ∼0.075 nm,C6F5I,iodopentafluorobenzene,"
+
+  S. Eden, M.-J. Hubin-Franskin, J. Delwiche, S.V. Hoffmann, N.J. Mason, and N.C. Jones, ""Iodopentafluorobenzene: Electronic state spectroscopy by high-resolution vacuum ultraviolet photoabsorption and photoelectron spectroscopy"",
+  Chem. Phys. 359, 111-117 (2009); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6F5I/C6F5I_Eden(2009)_298K_115.csv
+298.0,Palmer(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6F5I_Palmer(2017)_298K_114.9-329.9nm.txt,High-resolution (0.08 nm) absorption measurements using a synchrotron radiation source,C6F5I,iodopentafluorobenzene,"
+
+  M.H. Palmer, S.V. Hoffmann, N.C. Jones, M. Coreno, M.d. Simone, C. Grazioli, K.A. Peterson, A. Baiardi, T. Zhang, and M. Biczysko, ""A combined theoretical and experimental study of the valence and Rydberg states of iodopentafluorobenzene"",
+  J. Chem. Phys. 146, 174301-1 - 174201-12 (2017); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6F5I/C6F5I_Palmer(2017)_298K_114.csv

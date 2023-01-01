@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Roussel(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH2Cl_Roussel(1991)_298K_198-215nm.txt,Time-resolved UV absorption following the flash photolysis of Cl,CH2Cl,chloromethyl radical,"
+
+  P.B. Roussel, P.D. Lightfoot, F. Caralp, V. Catoire, R. Lesclaux, and W. Forst, ""Ultraviolet absorption spectra of the CH",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH2Cl/CH2Cl_Roussel(1991)_298K_198-215nm.csv

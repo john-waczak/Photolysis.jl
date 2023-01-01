@@ -1,0 +1,105 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+242.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Brewer(2019)_242K_232-317nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Brewer(2019)_242K_232-317nm.csv"
+253.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Brewer(2019)_253K_214-326nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Brewer(2019)_253K_214-326nm.csv"
+273.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Brewer(2019)_273K_200-333nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Brewer(2019)_273K_200-333nm.csv"
+296.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Brewer(2019)_296K_200-335nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Brewer(2019)_296K_200-335nm.csv"
+320.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Brewer(2019)_320K_200-335nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Brewer(2019)_320K_200-335nm.csv"
+298.0,Horowitz(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Horowitz(1999)_298K_209-360nm.txt",Spectral resolution 0.07 nm,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  A. Horowitz, ""Absorption cross sections of 2-pentanone, 3-pentanone, and 3-hexanone"",
+  unpublished data (1999) of the Max-Planck-Institut für Chemie, Mainz, Germany
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Horowitz(1999)_298K_209-360nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Ito(1969)_298K_165-202nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Ito(1969)_298K_165-202nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Ito(1969)_298K_171.6-197.0nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Ito(1969)_298K_171.csv"
+1040.0,Koch(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Koch(2008)_1040K_245.99-335.53nm.txt",Absorption measurements in shock-heated 3-pentanone-argon diluted mixtures at temperatures above 300 and up to 1100 K,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.D. Koch, J. Gronki, and R.K. Hanson, ""Measurement of near-UV absorption spectra of acetone and 3-pentatone at high temperatures"",
+  J. Quant. Spectrosc. Radiat. Transfer 109, 2037-2044 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Koch(2008)_1040K_245.csv"
+300.0,Koch(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Koch(2008)_300K_202.23-326.07nm.txt",Absorption measurements in shock-heated 3-pentanone-argon diluted mixtures at temperatures above 300 and up to 1100 K,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.D. Koch, J. Gronki, and R.K. Hanson, ""Measurement of near-UV absorption spectra of acetone and 3-pentatone at high temperatures"",
+  J. Quant. Spectrosc. Radiat. Transfer 109, 2037-2044 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Koch(2008)_300K_202.csv"
+540.0,Koch(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Koch(2008)_540K_202.23-334.69nm.txt",Absorption measurements in shock-heated 3-pentanone-argon diluted mixtures at temperatures above 300 and up to 1100 K,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.D. Koch, J. Gronki, and R.K. Hanson, ""Measurement of near-UV absorption spectra of acetone and 3-pentatone at high temperatures"",
+  J. Quant. Spectrosc. Radiat. Transfer 109, 2037-2044 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Koch(2008)_540K_202.csv"
+680.0,Koch(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Koch(2008)_680K_221.80-334.76nm.txt",Absorption measurements in shock-heated 3-pentanone-argon diluted mixtures at temperatures above 300 and up to 1100 K,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.D. Koch, J. Gronki, and R.K. Hanson, ""Measurement of near-UV absorption spectra of acetone and 3-pentatone at high temperatures"",
+  J. Quant. Spectrosc. Radiat. Transfer 109, 2037-2044 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Koch(2008)_680K_221.csv"
+910.0,Koch(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Koch(2008)_910K_206.91-335.53nm.txt",Absorption measurements in shock-heated 3-pentanone-argon diluted mixtures at temperatures above 300 and up to 1100 K,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  J.D. Koch, J. Gronki, and R.K. Hanson, ""Measurement of near-UV absorption spectra of acetone and 3-pentatone at high temperatures"",
+  J. Quant. Spectrosc. Radiat. Transfer 109, 2037-2044 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Koch(2008)_910K_206.csv"
+300.0,Martinez(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_Martinez(1992)_300K_202-355nm.txt",Absorption measurements were made on a u.v.-visible spectrophotometer with a spectral resolution of 0.50 nm,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  R.D. Martinez, A.A. Buitrago, N.W. Howell, C.H. Hearn, and J.A. Joens, ""The near UV absorption spectra of several aliphatic aldehydes and ketones"",
+  Atmos. Environ. 26A, 785-792 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_Martinez(1992)_300K_202-355nm.csv"
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)C2H5_McMillan(1966)_298K_200.0-328.2nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,C2H5C(O)C2H5,"diethyl ketone, 3-pentanone","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 377
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)C2H5/C2H5C(O)C2H5_McMillan(1966)_298K_200.csv"

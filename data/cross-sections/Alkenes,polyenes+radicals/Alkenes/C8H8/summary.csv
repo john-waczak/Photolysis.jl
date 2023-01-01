@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/C8H8_Palmer(2019)_298K_115-320nm.txt",High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source,C8H8,"cyclooctatetraene, COT","
+
+  M.H. Palmer,  S.V. Hoffmann, N.C. Jones, M. Coreno, M.de Simone, and C. Grazioli, ""The electronically excited states of cyclooctatetraene—An analysis of the vacuum ultraviolet absorption spectrum by ab initio configuration interaction methods"",
+  J. Chem. Phys. 151, 084304 ( 2019);
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/C8H8/C8H8_Palmer(2019)_298K_115-320nm.csv"

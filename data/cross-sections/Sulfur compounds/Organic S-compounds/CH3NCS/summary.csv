@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,AlvarezMoore(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3NCS_AlvarezMoore(1994)_298K_220-340nm.txt,Absorption measurements at a spectral resolution of 2 nm,CH3NCS,"methyl isothiocyanate, MITC","
+
+  R.A. Alvarez and C.B. Moore, ""Quantum yield for the production of CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3NCS/CH3NCS_AlvarezMoore(1994)_298K_220-340nm.csv
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3NCS_Tokue(1987)_298K_112-213nm.txt,Absorption measurements at a resolution of 0.5 nm using synchrotron radiation as the light source,CH3NCS,"methyl isothiocyanate, MITC","
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3NCS/CH3NCS_Tokue(1987)_298K_112-213nm.csv
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3NCS_Tokue(1987)_298K_175-210nm.txt,Absorption measurements at a resolution of 0.5 nm using synchrotron radiation as the light source,CH3NCS,"methyl isothiocyanate, MITC","
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3NCS/CH3NCS_Tokue(1987)_298K_175-210nm.csv

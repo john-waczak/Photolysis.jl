@@ -1,0 +1,720 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+220.0,Amoruso(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Amoruso(1993)_220K_440-459.5nm.txt,Averages over intervals of 0.5 nm of the spectrum measured at a resolution of 0.134 nm,NO2,nitrogen dioxide,"
+
+  A. Amoruso, L. Crescentini, G. Fiocco, and M Volpe, ""New measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Amoruso(1993)_220K_440-459.csv
+298.0,Amoruso(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Amoruso(1993)_298K_440-459.5nm.txt,Averages over intervals of 0.5 nm of the spectrum measured at a resolution of 0.134 nm,NO2,nitrogen dioxide,"
+
+  A. Amoruso, L. Crescentini, G. Fiocco, and M Volpe, ""New measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Amoruso(1993)_298K_440-459.csv
+295.0,Atkinson(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Atkinson(1999)_295K_445,455nm.txt",The cross sections are used to account for NO,NO2,nitrogen dioxide,"
+
+  D.B. Atkinson, J.W. Hudgens, and A.J. Orr-Ewing, ""Kinetic studies of the reactions of IO radicals determined by cavity ring-down spectroscopy"",
+  J. Phys. Chem. A 103, 6173-6180 (1999); 
+
+
+  DOI: ","data/cross-sections/Nitrogen oxides/NO2/NO2_Atkinson(1999)_295K_445,455nm.csv"
+298.0,AuBrion(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_AuBrion(1997)_298K_15.5-827nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",NO2,nitrogen dioxide,"
+
+  J.W. Au and C.E. Brion, ""Absolute oscillator strengths for the valence-shell photoabsorption (2-200 eV) and the molecular and dissociative photoionization (11-18 eV) of nitrogen dioxide"",
+  Chem. Phys. 218, 109-126 (1997); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_AuBrion(1997)_298K_15.csv
+298.0,AuBrion(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_AuBrion(1997)_298K_6.2-15.5nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",NO2,nitrogen dioxide,"
+
+  J.W. Au and C.E. Brion, ""Absolute oscillator strengths for the valence-shell photoabsorption (2-200 eV) and the molecular and dissociative photoionization (11-18 eV) of nitrogen dioxide"",
+  Chem. Phys. 218, 109-126 (1997); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_AuBrion(1997)_298K_6.csv
+235.0,Bass(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bass(1976)_235K_290-410nm.txt,Absorption measurements were made at intervals of 0.125 nm with a spectral resolution of 0.015 to 0.04 nm,NO2,nitrogen dioxide,"
+
+  A.M. Bass, A.E. Ledford, and A.H. Laufer, ""Extinction coefficients of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Bass(1976)_235K_290-410nm.csv
+298.0,Bass(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bass(1976)_298K_185-410nm.txt,Absorption measurements were made at intervals of 0.125 nm with a spectral resolution of 0.015 to 0.04 nm,NO2,nitrogen dioxide,"
+
+  A.M. Bass, A.E. Ledford, and A.H. Laufer, ""Extinction coefficients of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Bass(1976)_298K_185-410nm.csv
+298.0,Bass(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bass(1976)_298K_192.5-412.5nm(5nm).txt,"Averages of the high-resolution (0.015-0.04 nm) spectrum over the 5-nm intervals 192.5-197.5, 197.5-202.5, ......, 407.5-412.5 (first column: center of interval) as given by",NO2,nitrogen dioxide,"
+
+  A.M. Bass, A.E. Ledford, and A.H. Laufer, ""Extinction coefficients of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Bass(1976)_298K_192.csv
+203.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bogumil(2003)_203K_241-760nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,NO2,nitrogen dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Bogumil(2003)_203K_241-760nm.csv
+223.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bogumil(2003)_223K_233-769nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,NO2,nitrogen dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Bogumil(2003)_223K_233-769nm.csv
+243.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bogumil(2003)_243K_233-890nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,NO2,nitrogen dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Bogumil(2003)_243K_233-890nm.csv
+273.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bogumil(2003)_273K_230-890nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,NO2,nitrogen dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Bogumil(2003)_273K_230-890nm.csv
+293.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Bogumil(2003)_293K_230-930nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,NO2,nitrogen dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Bogumil(2003)_293K_230-930nm.csv
+221.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_221K_230-794nm(air).txt,Air wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_221K_230-794nm(air).csv
+221.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_221K_230-794nm(vac).txt,Vacuum wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_221K_230-794nm(vac).csv
+241.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_241K_230-794nm(air).txt,Air wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_241K_230-794nm(air).csv
+241.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_241K_230-794nm(vac).txt,Vacuum wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_241K_230-794nm(vac).csv
+273.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_273K_230-794nm(air).txt,Air wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_273K_230-794nm(air).csv
+273.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_273K_230-794nm(vac).txt,Vacuum wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_273K_230-794nm(vac).csv
+293.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_293K_230-794nm(air).txt,Air wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_293K_230-794nm(air).csv
+293.0,Burrows(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_293K_230-794nm(vac).txt,Vacuum wavelengths; spectral resolution 0.2-0.4 nm,NO2,nitrogen dioxide,"
+
+  J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, ""Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Burrows(1998)_293K_230-794nm(vac).csv
+220.0,Coquart(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_220K_400-500nm(0.01nm).txt,High-resolution (0.01nm) data obtaind by using a double-beam system with the xenon lamp,NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_220K_400-500nm(0.csv
+220.0,Coquart(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_220K_400-500nm(1nm).txt,"Averages over 1-nm intervals of the high-resolution (0.01 nm) spectrum, from Table III",NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_220K_400-500nm(1nm).csv
+220.0,Coquart(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_220K_405-495nm(5nm).txt,"Averages over 5-nm intervals (which are the atmospheric intervals as defined by NASA, SASHA, and UTA) of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_220K_405-495nm(5nm).csv
+220.0,Coquart(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_220K_413.35-491.47nm(max,min).txt",Absorption cross sections at the maxima and minima in the 400-500 nm region selected from the high-resolution data at 0.01-nm intervals,NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_220K_413.csv
+240.0,Coquart(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_240K_400-500nm(0.01nm).txt,High-resolution (0.01nm) data obtaind by using a double-beam system with the xenon lamp,NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_240K_400-500nm(0.csv
+240.0,Coquart(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_240K_400-500nm(1nm).txt,"Averages over 1-nm intervals of the high-resolution (0.01 nm) spectrum, from Table III",NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_240K_400-500nm(1nm).csv
+240.0,Coquart(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_240K_413.35-491.47nm(max,min).txt",Absorption cross sections at the maxima and minima in the 400-500 nm region selected from the high-resolution data at 0.01-nm intervals,NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_240K_413.csv
+293.0,Coquart(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Coquart(1995)_293K_413.35-491.47nm(max,min).txt",Absorption cross sections at the maxima and minima in the 400-500 nm region selected from the high-resolution data at 0.01-nm intervals of,NO2,nitrogen dioxide,"
+
+  B. Coquart, A. Jenouvrier, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Coquart(1995)_293K_413.csv
+233.0,Davidson(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Davidson(1988)_233K_263-649nm.txt,Low-resolution (1.5 nm) and high-resolution( 0.30 and 2.5 cm,NO2,nitrogen dioxide,"
+
+  J.A. Davidson, C.A. Cantrell, A.H. McDaniel, R.E. Shetter, S. Madronich, and J.G. Calvert, ""Visible-ultraviolet absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Davidson(1988)_233K_263-649nm.csv
+265.0,Davidson(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Davidson(1988)_265K_263-649nm.txt,Low-resolution (1.5 nm) and high-resolution( 0.30 and 2.5 cm,NO2,nitrogen dioxide,"
+
+  J.A. Davidson, C.A. Cantrell, A.H. McDaniel, R.E. Shetter, S. Madronich, and J.G. Calvert, ""Visible-ultraviolet absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Davidson(1988)_265K_263-649nm.csv
+273.0,Davidson(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Davidson(1988)_273K_267-423nm(int-c).txt,Low-resolution (1.5 nm) and high-resolution( 0.30 and 2.5 cm,NO2,nitrogen dioxide,"
+
+  J.A. Davidson, C.A. Cantrell, A.H. McDaniel, R.E. Shetter, S. Madronich, and J.G. Calvert, ""Visible-ultraviolet absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Davidson(1988)_273K_267-423nm(int-c).csv
+298.0,Davidson(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Davidson(1988)_298K_263-649nm.txt,Low-resolution (1.5 nm) and high-resolution( 0.30 and 2.5 cm,NO2,nitrogen dioxide,"
+
+  J.A. Davidson, C.A. Cantrell, A.H. McDaniel, R.E. Shetter, S. Madronich, and J.G. Calvert, ""Visible-ultraviolet absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Davidson(1988)_298K_263-649nm.csv
+298.0,Dixon(1940),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Dixon(1940)_298K_400-700nm.txt,Absorption measurements with spectrophotometer,NO2,nitrogen dioxide,"
+
+  J.K. Dixon, ""The absorption coefficient of nitrogen dioxide in the visible spectrum"",
+  J. Chem. Phys. 8, 157-160 (1940)); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Dixon(1940)_298K_400-700nm.csv
+298.0,Fuchs(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Fuchs(2009)_298K_403.96nm.txt,Absorption measurements using blue diode laser cavity ring-down spectroscopy,NO2,nitrogen dioxide,"
+
+  H. Fuchs, W.P. Dubé, B.M. Lerner, N.L. Wagner, E.J. Williams, and S. Brown, ""A sensitive and versatile detector for atmospheric NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Fuchs(2009)_298K_403.csv
+298.0,HallBlacet(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HallBlacet(1952)_298K_239.8-500.9nm.txt,Absorption measurements with NO,NO2,nitrogen dioxide,"
+
+  T.C. Hall and F.E. Blacet, ""Separation of the absorption spectra of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HallBlacet(1952)_298K_239.csv
+298.0,HallBlacet(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HallBlacet(1952)_298K_242.5-467.5nm(av-5nm).txt,"242.5-467.5nm(av-5nm), i.e., integrated over the 5-nm intervals 242.5-247.5, 247.5-252.5, ......, 462.5-467.5; first column: center of interval",NO2,nitrogen dioxide,"
+
+  T.C. Hall and F.E. Blacet, ""Separation of the absorption spectra of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HallBlacet(1952)_298K_242.csv
+217.0,Harder(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harder(1997)_217K_390.001-550.001nm.txt,"Absorption measurements using a Fourier transform spectrometer which, when used in the visible region, has a limiting resolution of 0.01 cm",NO2,nitrogen dioxide,"
+
+  J.W. Harder, J.W. Brault, P.V. Johnston, and G.H. Mount, ""Temperature dependent NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harder(1997)_217K_390.csv
+230.0,Harder(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harder(1997)_230K_345.483-550.001nm.txt,"Absorption measurements using a Fourier transform spectrometer which, when used in the visible region, has a limiting resolution of 0.01 cm",NO2,nitrogen dioxide,"
+
+  J.W. Harder, J.W. Brault, P.V. Johnston, and G.H. Mount, ""Temperature dependent NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harder(1997)_230K_345.csv
+238.0,Harder(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harder(1997)_238K_345.483-550.001nm.txt,"Absorption measurements using a Fourier transform spectrometer which, when used in the visible region, has a limiting resolution of 0.01 cm",NO2,nitrogen dioxide,"
+
+  J.W. Harder, J.W. Brault, P.V. Johnston, and G.H. Mount, ""Temperature dependent NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harder(1997)_238K_345.csv
+294.0,Harder(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harder(1997)_294K_345.483-550.001nm.txt,"Absorption measurements using a Fourier transform spectrometer which, when used in the visible region, has a limiting resolution of 0.01 cm",NO2,nitrogen dioxide,"
+
+  J.W. Harder, J.W. Brault, P.V. Johnston, and G.H. Mount, ""Temperature dependent NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harder(1997)_294K_345.csv
+296.0,Harker(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harker(1977)_296K_375-420nm.txt,Spectral resolution 0.25 nm,NO2,nitrogen dioxide,"
+
+  A.B. Harker, W. Ho, and J.J. Ratto, ""Photodissociation quantum yield of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harker(1977)_296K_375-420nm.csv
+296.0,Harker(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Harker(1977)_296K_377.5-417.5nm(5nm).txt,Spectral resolution 0.25 nm,NO2,nitrogen dioxide,"
+
+  A.B. Harker, W. Ho, and J.J. Ratto, ""Photodissociation quantum yield of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Harker(1977)_296K_377.csv
+213.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_213K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_213K_313-568nm.csv
+223.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_223K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_223K_313-568nm.csv
+233.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_233K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_233K_313-568nm.csv
+243.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_243K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_243K_313-568nm.csv
+253.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_253K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_253K_313-568nm.csv
+263.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_263K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_263K_313-568nm.csv
+273.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_273K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_273K_313-568nm.csv
+298.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_298K_313-568nm.txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_298K_313-568nm.csv
+298.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HarwoodJones(1994)_298K_320-565nm(5nm).txt,Absorption measurements using a diode array spectrometer;,NO2,nitrogen dioxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_HarwoodJones(1994)_298K_320-565nm(5nm).csv
+235.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Hicks(1979)_235K_426-450nm.txt,High-resolution (0.04 nm) absorption measurements in the visible region using a halogen lamp; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,NO2,nitrogen dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Hicks(1979)_235K_426-450nm.csv
+298.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Hicks(1979)_298K_426-450nm.txt,High-resolution (0.04 nm) absorption measurements in the visible region using a halogen lamp; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,NO2,nitrogen dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Hicks(1979)_298K_426-450nm.csv
+298.0,HolmesDaniels(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_HolmesDaniels(1934)_298K_265-436nm.txt,"Absorption coefficients k (Torr, 273 K)",NO2,nitrogen dioxide,"
+
+  H.H. Holmes and F. Daniels, ""The photolysis of nitrogen oxides: N",data/cross-sections/Nitrogen oxides/NO2/NO2_HolmesDaniels(1934)_298K_265-436nm.csv
+220.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_IUPAC(2004)_220K_205-495nm(rec).txt,IUPAC(2004) recommendation:,NO2,nitrogen dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/NO2/NO2_IUPAC(2004)_220K_205-495nm(rec).csv
+298.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_IUPAC(2004)_298K_205-495nm(rec).txt,IUPAC(2004) recommendation:,NO2,nitrogen dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/NO2/NO2_IUPAC(2004)_298K_205-495nm(rec).csv
+293.0,Jenouvrier(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Jenouvrier(1996)_293K_200-300nm.txt,"High-resolution absorption spectra recorded with spectral bandwidths of 0.065, 0.052, 0.026, 0.026, 0.018, and 0.016 nm in the regions 200-214.5, 213.5-227, 225.5-240.5, 239.5-254.5, 253.5-278.5, and 277.5-302.5 nm, respectively, and measured at 0.01-nm intervals",NO2,nitrogen dioxide,"
+
+  A. Jenouvrier, B. Coquart, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Jenouvrier(1996)_293K_200-300nm.csv
+293.0,Jenouvrier(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Jenouvrier(1996)_293K_203-297nm(int-c-1).txt,"Averages over the atmospheric intervals as defined by NASA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  A. Jenouvrier, B. Coquart, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Jenouvrier(1996)_293K_203-297nm(int-c-1).csv
+293.0,Jenouvrier(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Jenouvrier(1996)_293K_203-297nm(int-c-2).txt,"Averages over the atmospheric intervals as defined by SASHA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  A. Jenouvrier, B. Coquart, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Jenouvrier(1996)_293K_203-297nm(int-c-2).csv
+293.0,Jenouvrier(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Jenouvrier(1996)_293K_203-299nm(int-c-3).txt,"Averages over the atmospheric intervals as defined by UTA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  A. Jenouvrier, B. Coquart, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Jenouvrier(1996)_293K_203-299nm(int-c-3).csv
+293.0,Jenouvrier(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Jenouvrier(1996)_293K_205-295nm(5nm).txt,"Averages over 5-nm intervals of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  A. Jenouvrier, B. Coquart, and M.F. Mérienne, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Jenouvrier(1996)_293K_205-295nm(5nm).csv
+298.0,Johnston(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Johnston(1974)_298K_191-420nm.txt,"The optical band width (full width at half-maximum) was 2.2 nm at 300 nm,",NO2,nitrogen dioxide,"
+
+  H.S. Johnston, S.-G. Chang, and G. Whitten, ""Photolysis of nitric acid vapor"",
+  J. Phys. Chem. 78, 1-7 (1974); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Johnston(1974)_298K_191-420nm.csv
+298.0,JohnstonGraham(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_JohnstonGraham(1974)_298K_190-420nm.txt,Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,NO2,nitrogen dioxide,"
+
+  H.S. Johnston and R. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_JohnstonGraham(1974)_298K_190-420nm.csv
+300.0,JonesBayes(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_JonesBayes(1973)_300K_297-579nm.txt,"Absorption coefficients k (atm, 298 K)",NO2,nitrogen dioxide,"
+
+  I.T.N. Jones and K. Bayes, ""Photolysis of nitrogen dioxide"",
+  J. Chem. Phys. 59, 4836-4844 (1973); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_JonesBayes(1973)_300K_297-579nm.csv
+298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_JPL-2002(2002)_298K_202-422.5nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",NO2,nitrogen dioxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/NO2/NO2_JPL-2002(2002)_298K_202-422.csv
+220.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_JPL-2010(2011)_220K_240-662.5nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",NO2,nitrogen dioxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/NO2/NO2_JPL-2010(2011)_220K_240-662.csv
+294.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_JPL-2010(2011)_294K_240-662.5nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",NO2,nitrogen dioxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/NO2/NO2_JPL-2010(2011)_294K_240-662.csv
+298.0,Kummer(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Kummer(1995)_298K_399-475nm.txt,Reference and absorption cross sections from,NO2,nitrogen dioxide,"
+
+  W. Kummer, ""Photochemische Bildung von NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Kummer(1995)_298K_399-475nm.csv
+235.0,Leroy(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Leroy(1987)_235K_426-450nm.txt,The work of ,NO2,nitrogen dioxide,"
+
+  B. Leroy, P. Rigaud, and E. Hicks, ""Visible absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Leroy(1987)_235K_426-450nm.csv
+298.0,Leroy(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Leroy(1987)_298K_426-450nm.txt,The work of ,NO2,nitrogen dioxide,"
+
+  B. Leroy, P. Rigaud, and E. Hicks, ""Visible absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Leroy(1987)_298K_426-450nm.csv
+298.0,Liu(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Liu(2002)_298K_390.13nm.txt,The absorption cross section at 390.13 nm was found to vary approximately linearly with temperature between 300 and 2000 K:,NO2,nitrogen dioxide,"
+
+  J.T.C. Liu, R.K. Hanson, and J.B. Jeffries, ""High-sensitivity absorption diagnostic for NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Liu(2002)_298K_390.csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_200-300nm(0.01nm).txt,High-resolution (0.01 nm) absorption cross sections have been obtained by personal communication from Marie-France Mérienne (Jan 2000),NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_200-300nm(0.csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_299-500nm(0.01nm).txt,High-resolution (0.01 nm) absorption cross sections have been obtained by personal communication from Marie-France Mérienne (Jan 2000),NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_299-500nm(0.csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_300-495nm(int-c-3).txt,"Averages over the atmospheric intervals as defined by UTA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_300-495nm(int-c-3).csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_303-495nm(int-c-2).txt,"Averages over the atmospheric intervals as defined by SASHA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_303-495nm(int-c-2).csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_305-425nm(5nm).txt,"Averages over the 5-nm intervals302.5-307.5, 307.5-312.5,........., 422.5-427.5 nm of the high-resolution (0.01 nm) spectrum; first column: center of interval",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_305-425nm(5nm).csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_305-495nm(5nm).txt,"Averages over 5-nm intervals of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Insitut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_305-495nm(5nm).csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_305-495nm(int-c-1).txt,"Averages over the atmospheric intervals as defined by NASA of the high-resolution (0.01 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_305-495nm(int-c-1).csv
+293.0,Merienne(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1995)_293K_400-500nm(1nm).txt,Averages over 1-nm-intervals of the high-resolution (0.01 nm) spectrum.,NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1995)_293K_400-500nm(1nm).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_200-400nm(0.05nm).txt,"High-resolution (0.05 nm) absorption measurements using a coolable multipass cell, a monochromator equipped with a 2400 lines/mm grating and an Ar arc and a Xe lamp as light sources",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_200-400nm(0.csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_203-395nm(int-c-1).txt,"Averages over the atmospheric intervals as defined by NASA of the high-resolution (0.05 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_203-395nm(int-c-1).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_203-395nm(int-c-2).txt,"Averages over the atmospheric intervals as defined by SASHA of the high-resolution (0.05 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_203-395nm(int-c-2).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_203-395nm(int-c-3).txt,"Averages over the atmospheric intervals as defined by UTA of the high-resolution (0.05 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_203-395nm(int-c-3).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_205-395nm(5nm-I).txt,"Averages over the 5-nm intervals 202.5-207.5, 207.5-212.5, ......., 392.5-397.5 nm of the high-resolution (0.05 nm) spectrum; first column: center of interval (listed in Table III)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_205-395nm(5nm-I).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Merienne(1997)_220K_205-395nm(5nm-II).txt,"Averages over the 5-nm intervals 202.5-207.5, 207.5-212.5, ......., 392.5-397.5 nm of the high-resolution (0.05 nm) spectrum calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (first column: center of interval)",NO2,nitrogen dioxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Merienne(1997)_220K_205-395nm(5nm-II).csv
+296.0,Mihalcea(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Mihalcea(1996)_296K_394.493-394.548nm.txt,Two single-mode diode lasers were used to record high-resolution absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  R.M. Mihalcea,  D.S. Baer, and R.K. Hanson, ""Tunable diode-laser absorption measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Mihalcea(1996)_296K_394.csv
+296.0,Mihalcea(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Mihalcea(1996)_296K_670.184-670.241nm.txt,Two single-mode diode lasers were used to record high-resolution absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  R.M. Mihalcea,  D.S. Baer, and R.K. Hanson, ""Tunable diode-laser absorption measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Mihalcea(1996)_296K_670.csv
+298.0,Nakayama(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nakayama(1959)_298K_107.9-131.8nm.txt,Absorption measurements at 108-270 nm with a resolution of 0.02 nm by a photoelectric method,NO2,nitrogen dioxide,"
+
+  T. Nakayama, M.T. Kitamura, and K. Watanabe, ""Ionization potential and absorption coefficients of nitrogen dioxide"",
+  J. Chem. Phys. 30, 1180-1186 (1959); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Nakayama(1959)_298K_107.csv
+298.0,Nakayama(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nakayama(1959)_298K_130.0-160.0nm.txt,Absorption measurements at 108-270 nm with a resolution of 0.02 nm by a photoelectric method,NO2,nitrogen dioxide,"
+
+  T. Nakayama, M.T. Kitamura, and K. Watanabe, ""Ionization potential and absorption coefficients of nitrogen dioxide"",
+  J. Chem. Phys. 30, 1180-1186 (1959); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Nakayama(1959)_298K_130.csv
+298.0,Nakayama(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nakayama(1959)_298K_160.0-199.9nm.txt,Absorption measurements at 108-270 nm with a resolution of 0.02 nm by a photoelectric method,NO2,nitrogen dioxide,"
+
+  T. Nakayama, M.T. Kitamura, and K. Watanabe, ""Ionization potential and absorption coefficients of nitrogen dioxide"",
+  J. Chem. Phys. 30, 1180-1186 (1959); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Nakayama(1959)_298K_160.csv
+298.0,Nakayama(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nakayama(1959)_298K_192.5-267.5nm.txt,Absorption measurements at 108-270 nm with a resolution of 0.02 nm by a photoelectric method,NO2,nitrogen dioxide,"
+
+  T. Nakayama, M.T. Kitamura, and K. Watanabe, ""Ionization potential and absorption coefficients of nitrogen dioxide"",
+  J. Chem. Phys. 30, 1180-1186 (1959); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Nakayama(1959)_298K_192.csv
+298.0,Nakayama(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nakayama(1959)_298K_200.2-270.0nm.txt,Absorption measurements at 108-270 nm with a resolution of 0.02 nm by a photoelectric method,NO2,nitrogen dioxide,"
+
+  T. Nakayama, M.T. Kitamura, and K. Watanabe, ""Ionization potential and absorption coefficients of nitrogen dioxide"",
+  J. Chem. Phys. 30, 1180-1186 (1959); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO2/NO2_Nakayama(1959)_298K_200.csv
+214.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_214K_408.164-555.555nm(41.27Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_214K_408.csv
+215.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_215K_408.164-555.555nm(155.3Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_215K_408.csv
+215.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_215K_408.164-555.555nm(300.5Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_215K_408.csv
+215.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_215K_408.164-555.555nm(5.070Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_215K_408.csv
+227.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_227K_408.164-555.555nm(117.8Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_227K_408.csv
+229.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_229K_408.164-555.555nm(1.667Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_229K_408.csv
+229.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_229K_408.164-555.555nm(211.3Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_229K_408.csv
+231.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_231K_408.164-555.555nm(233.8Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_231K_408.csv
+249.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_249K_408.164-555.555nm(1.846Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_249K_408.csv
+250.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_250K_408.164-555.555nm(309.0Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_250K_408.csv
+250.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_250K_408.164-555.555nm(309.5Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_250K_408.csv
+273.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_273K_408.164-555.555nm(1.244Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_273K_408.csv
+273.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_273K_408.164-555.555nm(151.2Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_273K_408.csv
+273.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_273K_408.164-555.555nm(421.5Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_273K_408.csv
+273.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_273K_408.164-555.555nm(760.5Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_273K_408.csv
+298.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_298K_408.164-555.555nm(0.494Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_298K_408.csv
+298.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_298K_408.164-555.555nm(1.985Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_298K_408.csv
+299.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_299K_408.164-555.555nm(0.991Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_299K_408.csv
+299.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_299K_408.164-555.555nm(151.0Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_299K_408.csv
+299.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_299K_408.164-555.555nm(302.0Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_299K_408.csv
+299.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_299K_408.164-555.555nm(596.1Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_299K_408.csv
+299.0,Nizkorodov(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Nizkorodov(2004)_299K_408.164-555.555nm(75.45Torr).txt,Absorption spectra of NO,NO2,nitrogen dioxide,"
+
+  S.A. Nizkorodov, S.P. Sander, and L.R. Brown, ""Temperature dependence of high-resolution air-broadened absorption cross sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Nizkorodov(2004)_299K_408.csv
+298.0,Olive(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Olive(2011)_298K_200-240nm.txt,Absorption measurements at a spectral resolution of 0.080 nm,NO2,nitrogen dioxide,"
+
+  B.S. Olive, ""Absorption spectra of carbon disulfide, nitrogen dioxide, and anthracene"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2011
+
+
+",data/cross-sections/Nitrogen oxides/NO2/NO2_Olive(2011)_298K_200-240nm.csv
+298.0,Schneider(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Schneider(1987)_298K_200-710nm(0.025nm).txt,High-resolution (0.04 nm) absorption measurements,NO2,nitrogen dioxide,"
+
+  W. Schneider, G.K. Moortgat, J.P. Burrows, and G.S. Tyndall, ""Absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Schneider(1987)_298K_200-710nm(0.csv
+298.0,Schneider(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Schneider(1987)_298K_200-710nm(0.2nm).txt,High-resolution (0.04 nm) absorption measurements,NO2,nitrogen dioxide,"
+
+  W. Schneider, G.K. Moortgat, J.P. Burrows, and G.S. Tyndall, ""Absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Schneider(1987)_298K_200-710nm(0.csv
+298.0,Schneider(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Schneider(1987)_298K_200-712.5nm(int-c).txt,High-resolution (0.04 nm) absorption measurements,NO2,nitrogen dioxide,"
+
+  W. Schneider, G.K. Moortgat, J.P. Burrows, and G.S. Tyndall, ""Absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Schneider(1987)_298K_200-712.csv
+298.0,Schneider(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Schneider(1987)_298K_201-695nm(1nm).txt,High-resolution (0.04 nm ) absorption measurements,NO2,nitrogen dioxide,"
+
+  W. Schneider, G.K. Moortgat, J.P. Burrows, and G.S. Tyndall, ""Absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Schneider(1987)_298K_201-695nm(1nm).csv
+298.0,Sun(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Sun(2001)_298K_193nm.txt,Estimate for the absorption cross section at the wavelength of the ArF laser line,NO2,nitrogen dioxide,"
+
+  F. Sun, G.P. Glass, and R.F. Curl, ""The photolysis of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Sun(2001)_298K_193nm.csv
+294.0,Vandaele(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1996)_294K_370-714nm.txt,Absorption measurements using a Fourier transform spectrometer; spectral resolution = 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, Van Roozendael. M., J.M. Guilmot, M. Carleer, and R. Colin, ""Fourier transform measurement of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1996)_294K_370-714nm.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_238-667nm.txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_238-667nm.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_434.76-672.89nm(p%20under%200.02Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_434.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_454.52-675.61nm(p=0.05Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_454.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_465.08-675.61nm(p=0.1Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_465.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_534.72-1110.94nm(p=0.5Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_534.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_220K_574.68-1110.94nm(p=0.5Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_220K_574.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_238-667nm.txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_238-667nm.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_434.76-666.58nm(p=0.05Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_434.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_434.76-666.58nm(p%20under%200.02Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_434.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_499.96-666.58nm(p=0.1Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_499.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_595.20-666.58nm(p=0.5Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_595.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_595.20-999.84nm(p=0.5Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_595.csv
+294.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(1998)_294K_606.02-999.84nm(p=1.0Torr).txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(1998)_294K_606.csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_384-725nm(vis-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_384-725nm(vis-pure).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_406-725nm(vis-dilut5).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_406-725nm(vis-dilut5).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut1).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut3).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut3).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut4).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_423-725nm(vis-dilut4).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_444-725nm(vis-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_444-725nm(vis-dilut2).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_662-758nm(nir-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_662-758nm(nir-pure).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_666-725nm(nir-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_666-725nm(nir-dilut1).csv
+220.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_220K_666-725nm(nir-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_220K_666-725nm(nir-dilut2).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_400-725nm(vis-dilut4).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_400-725nm(vis-dilut4).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_400-725nm(vis-dilut5).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_400-725nm(vis-dilut5).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_400-725nm(vis-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_400-725nm(vis-pure).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_423-725nm(vis-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_423-725nm(vis-dilut1).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_423-725nm(vis-dilut3).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_423-725nm(vis-dilut3).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_465-725nm(vis-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_465-725nm(vis-dilut2).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_662-758nm(nir-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_662-758nm(nir-dilut1).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_662-758nm(nir-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_662-758nm(nir-dilut2).csv
+240.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_240K_689-758nm(nir-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_240K_689-758nm(nir-pure).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_384-725nm(vis-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_384-725nm(vis-dilut1).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_384-725nm(vis-dilut5).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_384-725nm(vis-dilut5).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_384-725nm(vis-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_384-725nm(vis-pure).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_392-709nm(vis-dilut3).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_392-709nm(vis-dilut3).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_425-725nm(vis-dilut4).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_425-725nm(vis-dilut4).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_450-725nm(vis-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_450-725nm(vis-dilut2).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_662-760nm(nir-pure).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_662-760nm(nir-pure).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_662-840nm(nir-dilut1).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_662-840nm(nir-dilut1).csv
+294.0,Vandaele(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Vandaele(2002)_294K_662-926nm(nir-dilut2).txt,"High-resolution absorption cross sections have been obtained in the near-IR (nir) and visible (vis) regions using a Fourier transform spectrometer coupled to a multiple reflection cell
+",NO2,nitrogen dioxide,"
+
+  A.C. Vandaele, C. Hermans, S. Fally, M. Carleer, R. Colin, M.-F. Mérienne, and A. Jenouvrier, ""High-resolution Fourier transform measurement of the NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Vandaele(2002)_294K_662-926nm(nir-dilut2).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_250-312nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_250-312nm(1000mbar).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_250-312nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_250-312nm(100mbar).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_312-436nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_312-436nm(1000mbar).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_312-436nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_312-436nm(100mbar).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_436-800nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_436-800nm(1000mbar).csv
+223.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_223K_436-800nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_223K_436-800nm(100mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_250-312nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_250-312nm(1000mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_250-312nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_250-312nm(100mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_312-436nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_312-436nm(1000mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_312-436nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_312-436nm(100mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_436-800nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_436-800nm(1000mbar).csv
+246.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_246K_436-800nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_246K_436-800nm(100mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_250-308nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_250-308nm(1000mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_250-308nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_250-308nm(100mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_308-427nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_308-427nm(1000mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_308-427nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_308-427nm(100mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_427-800nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_427-800nm(1000mbar).csv
+260.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_260K_427-800nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_260K_427-800nm(100mbar).csv
+280.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_280K_250-359nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_280K_250-359nm(1000mbar).csv
+280.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_280K_250-359nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_280K_250-359nm(100mbar).csv
+280.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_280K_359-800nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_280K_359-800nm(1000mbar).csv
+280.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_280K_359-800nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_280K_359-800nm(100mbar).csv
+293.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_293K_250-359nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_293K_250-359nm(1000mbar).csv
+293.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_293K_250-359nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_293K_250-359nm(100mbar).csv
+293.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_293K_359-800nm(1000mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_293K_359-800nm(1000mbar).csv
+293.0,Voigt(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Voigt(2002)_293K_359-800nm(100mbar).txt,High-resolution absorption measurements using Fourier-transform spectroscopy at spectral resolutions of 0.5 cm,NO2,nitrogen dioxide,"
+
+  S. Voigt, J. Orphal, and J.P. Burrows, ""The temperature and pressure dependence of the absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Voigt(2002)_293K_359-800nm(100mbar).csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_359-367nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_367-375nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_375-382nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_382-390nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_390-397nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_397-404nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_404-411nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_411-417nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_417-424nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_424-431nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_431-437nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_437-444nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_444-449nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_449-457nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_457-464nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv
+298.5,Yoshino(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO2_Yoshino(1997)_298.5K_464-472nm.txt,High-resolution absorption spectrum with data points every 0.0015 nm at a resolution of 0.0040 nm,NO2,nitrogen dioxide,"
+
+  K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High-resolution absorption cross section measurements of NO",data/cross-sections/Nitrogen oxides/NO2/NO2_Yoshino(1997)_298.csv

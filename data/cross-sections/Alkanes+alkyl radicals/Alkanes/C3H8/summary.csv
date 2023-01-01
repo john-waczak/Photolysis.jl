@@ -1,0 +1,64 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Au(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Au(1993)_298K_5.6-155nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",C3H8,propane,"
+
+  J.W. Au, G. Cooper, G.R. Burton, T.N. Olney, and C.E. Brion, ""The valence shell photoabsorption of the linear alkanes, C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Au(1993)_298K_5.csv
+298.0,Kameta(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Kameta(1996)_298K_52.06-116.85nm.txt,"Absorption measurements using an ionization chamber and synchrotron radiation as a continuous-wavelength light source
+",C3H8,propane,"
+
+  K. Kameta, S. Machida, M. Kitajama, M. Ukai, N. Kouchi, Y. Hatano, and K. Ito, ""Photoabsorption, photoionization, and neutral-dissociation cross sections of C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Kameta(1996)_298K_52.csv
+298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Lombos(1967)_298K_116.5-159.9nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,C3H8,propane,"
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
+  J. Mol. Spectrosc. 24, 253-269 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Lombos(1967)_298K_116.csv
+298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Lombos(1967)_298K_117.2-159.0nm(max).txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,C3H8,propane,"
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
+  J. Mol. Spectrosc. 24, 253-269 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Lombos(1967)_298K_117.csv
+298.0,OkabeBecker(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_OkabeBecker(1963)_298K_120-163nm.txt,Absorption measurements using a vacuum-ultraviolet monochromator and a hydrogen discharge lamp as a light source,C3H8,propane,"
+
+  H. Okabe and D.A. Becker, ""Vacuum ultraviolet photochemistry. VII. Photolysis of n-butane"",
+  J. Chem. Phys, 39, 2549-2555 (1963);
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_OkabeBecker(1963)_298K_120-163nm.csv
+298.0,OkabeMcNesby(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_OkabeMcNesby(1962)_298K_147nm.txt,Absorption measurements using a vacuumultraviolet monochromator in conjunction with a sodium salicylate-coated photomultiplier as a detector and a hydrogen-discharge lamp as the light source,C3H8,propane,"
+
+  H. Okabe and J.R. McNesby, ""Vacuum ultraviolet photochemistry. IV. Photolysis of propane"",
+  J. Chem. Phys. 37, 1340-1346 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_OkabeMcNesby(1962)_298K_147nm.csv
+298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_RaymondaSimpson(1967)_298K_107.7-159.1nm.txt,"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",C3H8,propane,"
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_RaymondaSimpson(1967)_298K_107.csv
+298.0,RebbertAusloos(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_RebbertAusloos(1971)_298K_58.4,74.0nm.txt","Wavelength 58.4 nm of the He resonance lamp, and range 73.6-74.4 nm of the Ne resonance lamp",C3H8,propane,"
+
+  R.E. Rebbert and P. Ausloos, ""Ionization quantum yields and absorption coefficients of selected compounds at 58.4 and 73.6-74.4 nm"",
+  J. Res. Natl. Bur. Stand. A 75, 481-485 (1971); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_RebbertAusloos(1971)_298K_58.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Schoen(1962)_295K_45.9-138.1nm(smoo).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",C3H8,propane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Schoen(1962)_295K_45.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C3H8_Schoen(1962)_295K_46.2-136.2nm(meas).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",C3H8,propane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C3H8/C3H8_Schoen(1962)_295K_46.csv

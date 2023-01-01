@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,GaryPickett(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=C(CH3)CH(CH3)2_GaryPickett(1954)_298K_168.1-207.6nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",CH2=C(CH3)CH(CH3)2,"2,3-dimethyl-1-butene","
+
+  J.T. Gary and L.W. Pickett, ""The far ultraviolet absorption spectra of selected isomeric hexenes"",
+  J. Chem. Phys. 22, 1266-1267 (1954); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=C(CH3)CH(CH3)2/CH2=C(CH3)CH(CH3)2_GaryPickett(1954)_298K_168.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=C(CH3)CH(CH3)2_JonesTaylor(1955)_298K_167-204nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=C(CH3)CH(CH3)2,"2,3-dimethyl-1-butene","
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=C(CH3)CH(CH3)2/CH2=C(CH3)CH(CH3)2_JonesTaylor(1955)_298K_167-204nm.csv"

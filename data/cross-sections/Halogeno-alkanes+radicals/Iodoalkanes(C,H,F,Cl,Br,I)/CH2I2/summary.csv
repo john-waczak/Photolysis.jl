@@ -1,0 +1,63 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BaughcumLeone(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_BaughcumLeone(1980)_298K_203.0-364.1nm.txt","Absorption measurements using ""a commercial spectrophotometer""",CH2I2,diiodomethane,"
+
+  S.L. Baughcum and S.R. Leone, ""Photofragmentation infrared emission studies of vibrationally excited free radicals CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_BaughcumLeone(1980)_298K_203.csv"
+298.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_IUPAC(2008)_298K_205-355nm(rec).txt",IUPAC(2008) recommendation:,CH2I2,diiodomethane,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_IUPAC(2008)_298K_205-355nm(rec).csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_JPL-2010(2011)_298K_205-385nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH2I2,diiodomethane,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_JPL-2010(2011)_298K_205-385nm(rec).csv"
+298.0,KoffendLeone(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_KoffendLeone(1981)_298K_265-341nm.txt",Molar extinction coefficients vs. wavenumbers from Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,CH2I2,diiodomethane,"
+
+  J.B. Koffend and S.R. Leone, ""Tunable laser photodissociation: Quantum yield of I*(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_KoffendLeone(1981)_298K_265-341nm.csv"
+298.0,Kroger(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Kroger(1976)_298K_266nm.txt",Photofragment spectroscopy of CH,CH2I2,diiodomethane,"
+
+  P.M. Kroger, P.C. Demou, and S.J. Riley, ""Polyhalide photofragment spectra. I. Two-photon two-step photodissociation of methylene iodide"",
+  J. Chem. Phys. 65, 1823-1834 (1976); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Kroger(1976)_298K_266nm.csv"
+298.0,KwokPhillips(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_KwokPhillips(1996)_298K_222.2-400.0nm.txt","Perkin-Elmer UV/VIS absorption spectrometer; ""low resolution""",CH2I2,diiodomethane,"
+
+  W.M. Kwok and D.L. Phillips, ""Solvation and solvent effects on the short-time photodissociation dynamics of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_KwokPhillips(1996)_298K_222.csv"
+273.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Mossinger(1998)_273K_215-375nm(calc).txt",Absorption measurements at 278 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2I2,diiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Mossinger(1998)_273K_215-375nm(calc).csv"
+298.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Mossinger(1998)_298K_215-375nm(meas).txt","Absorption cross sections measured at 298 K; dual-beam diode array spectrometer, resolution ∼0.6nm",CH2I2,diiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Mossinger(1998)_298K_215-375nm(meas).csv"
+348.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Mossinger(1998)_348K_215-375nm(calc).txt",Absorption measurements at 278 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2I2,diiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Mossinger(1998)_348K_215-375nm(calc).csv"
+295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Pence(1981)_295K_193,248,308nm.txt",Absorption measurements at 185-400 nm; spectrum reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 3,CH2I2,diiodomethane,"
+
+  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Pence(1981)_295K_193,248,308nm.csv"
+273.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Roehl(1997)_273K_205-380nm.txt",Absorption measurements at 223 and 248 K with a spectral resolution of 0.3 nm using a diode array spectrometer,CH2I2,diiodomethane,"
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Roehl(1997)_273K_205-380nm.csv"
+298.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_Roehl(1997)_298K_205-380nm.txt",Absorption measurements at 223 and 248 K with a spectral resolution of 0.3 nm using a diode array spectrometer,CH2I2,diiodomethane,"
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_Roehl(1997)_298K_205-380nm.csv"
+298.0,SchmittComes(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_SchmittComes(1980)_298K_220-360nm.txt",Absorption measurements using a double-beam spectrometer,CH2I2,diiodomethane,"
+
+  G. Schmitt and F.J. Comes, ""Photolysis of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_SchmittComes(1980)_298K_220-360nm.csv"
+294.0,SchneiderHelden(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2_SchneiderHelden(1989)_294K_250-406nm.txt",Absorption cross sections at 0.2-nm intervals as published on the CD-ROM of,CH2I2,diiodomethane,"
+
+  W. Schneider and G. von Helden, 1989, personal communication to","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I2/CH2I2_SchneiderHelden(1989)_294K_250-406nm.csv"

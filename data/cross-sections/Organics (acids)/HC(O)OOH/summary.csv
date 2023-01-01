@@ -1,0 +1,24 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Indulkar(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OOH_Indulkar(2014)_298K_280-360nm.txt,Interpolation using the Gaussian functional form,HC(O)OOH,peroxyformic acid (PFA),"
+
+  Y.N. Indulkar, M.K. Louie, and A. Sinha, ""UV photochemistry of peroxyformic acid (HC(O)OOH): An experimental and computational study investigating 355 nm photolysis"",
+  J. Phys. Chem. A, 118, 5939-5949 (2014); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/HC(O)OOH/HC(O)OOH_Indulkar(2014)_298K_280-360nm.csv
+298.0,Indulkar(2014),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OOH_Indulkar(2014)_298K_282,355nm.txt",Photolysis of PFA at 282 and 355 nm,HC(O)OOH,peroxyformic acid (PFA),"
+
+  Y.N. Indulkar, M.K. Louie, and A. Sinha, ""UV photochemistry of peroxyformic acid (HC(O)OOH): An experimental and computational study investigating 355 nm photolysis"",
+  J. Phys. Chem. A, 118, 5939-5949 (2014); 
+
+
+  DOI: ","data/cross-sections/Organics (acids)/HC(O)OOH/HC(O)OOH_Indulkar(2014)_298K_282,355nm.csv"
+298.0,JPL-2019(2020),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OOH_JPL-2019(2020)_298K_282,355nm(rec).txt",JPL-2019(2020) rdcommendation:,HC(O)OOH,peroxyformic acid (PFA),"
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
+Data for Use in Atmospheric Studies, Evaluation No. 19"",
+  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
+2019, http://jpldataeval.jpl.nasa.gov
+
+
+","data/cross-sections/Organics (acids)/HC(O)OOH/HC(O)OOH_JPL-2019(2020)_298K_282,355nm(rec).csv"

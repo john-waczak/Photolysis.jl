@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C5H5NO_Palmer(2013)_298K_115-340nm.txt,High-resolution (0.075 nm) absorption measurements using a synchrotron radiation source,C5H5NO,pyridine-N-oxide,"
+
+  M.H. Palmer, S.V. Hoffmann, N.C. Jones, E.R. Smith, and D.L. Lichtenberger, ""The electronic states of pyridine-N-oxide studied by VUV photoabsorption and ab initio configuration interaction computations"",
+  J. Chem. Phys. 138, 214317-1 - 214317-10 (2013); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C5H5NO/C5H5NO_Palmer(2013)_298K_115-340nm.csv

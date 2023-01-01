@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Walker(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C3H4N2_Walker(2003)_298K_106-250nm.txt,The absorption spectrum has been measured at wavelength intervals of 0.05 nm using monochromated synchroton radiation,C3H4N2,pyrazole,"
+
+  I.C. Walker, M.H. Palmer, M.-J. Hubin-Franskin, and J. Delwiche, ""VUV optical-absorption and near-threshold electron energy-loss spectra of pyrazole"",
+  Chem. Phys. Lett. 367, 517-522 (2003); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C3H4N2/C3H4N2_Walker(2003)_298K_106-250nm.csv

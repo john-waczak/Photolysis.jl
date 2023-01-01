@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+273.0,Messaadia(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH_Messaadia(2012)_273K_200.0-320.0nm.txt",Absorption measurements using a D,CH3C(O)CH2CH2OH,"4-hydroxy-2-butanone, 4H2B","
+
+  L. Messaadia, G. El Dib, A. Ferhati, E. Roth, and A. Chakir, ""Gas phase UV absorption cross-sections for a series of hydroxycarbonyls"",
+  Chem. Phys. Lett. 529, 16-22 (2012); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH/CH3C(O)CH2CH2OH_Messaadia(2012)_273K_200.csv"
+298.0,Messaadia(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH_Messaadia(2012)_298K_200-345nm.txt",Absorption measurements using a D,CH3C(O)CH2CH2OH,"4-hydroxy-2-butanone, 4H2B","
+
+  L. Messaadia, G. El Dib, A. Ferhati, E. Roth, and A. Chakir, ""Gas phase UV absorption cross-sections for a series of hydroxycarbonyls"",
+  Chem. Phys. Lett. 529, 16-22 (2012); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH/CH3C(O)CH2CH2OH_Messaadia(2012)_298K_200-345nm.csv"
+353.0,Messaadia(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH_Messaadia(2012)_353K_200.0-345.0nm.txt",Absorption measurements using a D,CH3C(O)CH2CH2OH,"4-hydroxy-2-butanone, 4H2B","
+
+  L. Messaadia, G. El Dib, A. Ferhati, E. Roth, and A. Chakir, ""Gas phase UV absorption cross-sections for a series of hydroxycarbonyls"",
+  Chem. Phys. Lett. 529, 16-22 (2012); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)CH2CH2OH/CH3C(O)CH2CH2OH_Messaadia(2012)_353K_200.csv"

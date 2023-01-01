@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,OConnor(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH3CH=CCH=CHCHO(E,E)_OConnor(2006)_297K_290-400nm.txt",Absorption measurements using a D,"CH3CH=CCH=CHCHO(E,E)","E,E-2,4-hexadienal","
+
+  M.P. O'Connor, J.C. Wenger, A. Mellouki, K. Wirtz, and A. Munoz, ""The atmospheric photolysis of E-2-hexenal, Z-3-hexenal and E,E-2,4-hexadienal"",
+  Phys. Chem. Chem. Phys. 8, 5236-5246 (2006); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH3CH=CCH=CHCHO(E,E)/CH3CH=CCH=CHCHO(E,E)_OConnor(2006)_297K_290-400nm.csv"

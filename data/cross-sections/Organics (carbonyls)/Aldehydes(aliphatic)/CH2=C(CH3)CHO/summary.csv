@@ -1,0 +1,42 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Gierczak(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_Gierczak(1997)_298K_213.86nm.txt,Absorption cross section at the 213.86 nm Zn line,CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  T. Gierczak, J.B. Burkholder, R.K. Talukdar, A. Mellouki, S.B. Barone, and A.R. Ravishankara, ""Atmospheric fate of methyl vinyl ketone and methacrolein"",
+  J. Photochem. Photobiol. A: Chem. 110, 1-10 (1997); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_Gierczak(1997)_298K_213.csv
+298.0,Gierczak(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_Gierczak(1997)_298K_250-395nm.txt,Diode array spectrometer; resolution ∼0.5 nm,CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  T. Gierczak, J.B. Burkholder, R.K. Talukdar, A. Mellouki, S.B. Barone, and A.R. Ravishankara, ""Atmospheric fate of methyl vinyl ketone and methacrolein"",
+  J. Photochem. Photobiol. A: Chem. 110, 1-10 (1997); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_Gierczak(1997)_298K_250-395nm.csv
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_IUPAC(2006)_298K_250-395nm(rec).txt,IUPAC(2006) recommendation:,CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_IUPAC(2006)_298K_250-395nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_JPL-2010(2011)_298K_250-395nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_JPL-2010(2011)_298K_250-395nm(rec).csv
+298.0,Lee(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_Lee(2007)_298K_106.01-230.36nm.txt,"The absorption cross sections have been measured using synchrotron radiation; spectral resolution 0.05 nm at 105-129 nm, 0.02 nm at 129-190 nm, and 0.1 nm at 190-230 nm",CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  A.M.D. Lee, J.D. Coe, S. Ullrich, M.L. Ho, S.-J. Lee, B.-M. Cheng, M.Z. Zgierski, I-C. Chen, T.J. Martinez, and A. Stolow, ""Substituent effects on dynamics at conical intersections: α,β-enones"",
+  J. Phys. Chem. A 111, 11948-11960 (2007);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_Lee(2007)_298K_106.csv
+294.0,Meller(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_Meller(1990)_294K_237-391nm.txt,Absorption cross sections at 0.1-nm intervals from the CD-ROM of,CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  R. Meller (1990), personal communication to",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_Meller(1990)_294K_237-391nm.csv
+298.0,"Meller(1990),RaberMoortgat(1996)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO_Meller(1990),RaberMoortgat(1996)_298K_238-390nm.txt",Averages over 1-nm intervals of the high-resolution spectrum,CH2=C(CH3)CHO,"2-methylpropenal, methacrolein, MACR","
+
+  R. Meller (1990), personal communication to","data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2=C(CH3)CHO/CH2=C(CH3)CHO_Meller(1990),RaberMoortgat(1996)_298K_238-390nm.csv"

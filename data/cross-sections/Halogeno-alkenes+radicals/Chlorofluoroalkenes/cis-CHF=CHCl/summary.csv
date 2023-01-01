@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Tornow(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/cis-CHF=CHCl_Tornow(1990)_298K_100.92-190.75nm.txt,Absorption measurements using synchrotron radiation; wavelength resolution 0.05 nm,cis-CHF=CHCl,"cis-1,2-fluorochloroethene","
+
+  G. Tornow, R. Locht, R. Kaufel, H. Baumgärtel, and H.-W. Jochims, ""The vacuum ultraviolet photoabsorption and photoelectron spectroscopy of fluorochloroethenes. The 1,1-, cis- and trans-C",data/cross-sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/cis-CHF=CHCl/cis-CHF=CHCl_Tornow(1990)_298K_100.csv

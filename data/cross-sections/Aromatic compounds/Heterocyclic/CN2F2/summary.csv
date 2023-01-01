@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Mitsch(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/CN2F2_Mitsch(1964)_298K_280.2-365.7nm.txt,"Absorbances plotted in Fig. 1 have been digitized, normalized to ε(351.5 nm) = 646.9 L mol",CN2F2,difluorodiazirine,"
+
+  R.A. Mitsch, ""Difluorodiazirine. I. Physical and spectral properties"",
+  J. Heterocyclic Chem. 1, 59-60 (1964);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/CN2F2/CN2F2_Mitsch(1964)_298K_280.csv
+298.0,Robin(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/CN2F2_Robin(1967)_298K_336.0nm(max).txt,Absorption measurements using a D,CN2F2,difluorodiazirine,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/CN2F2/CN2F2_Robin(1967)_298K_336.csv
+298.0,Robin(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/CN2F2_Robin(1969)_298K_112.7-235.1nm.txt,Absorption measurements using a D,CN2F2,difluorodiazirine,"
+
+  M.B. Robin, H. Basch, N.A. Kuebler, K.B. Wiberg, and G.B. Ellison, ""Optical spectra of small rings. II. The unsaturated three-membered rings"",
+  J. Chem. Phys. 51, 45-52 (1969); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/CN2F2/CN2F2_Robin(1969)_298K_112.csv

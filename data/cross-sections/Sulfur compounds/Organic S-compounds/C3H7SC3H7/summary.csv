@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Williams(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C3H7SC3H7_Williams(2005)_298K_208.78-237.59nm.txt,High-resolution (∼0.05 nm) spectrum measured using a diode array spectrometer,C3H7SC3H7,dipropyl sulfide,"
+
+  M.B. Williams, P. Campuzano-Jost, D.D. Riemer, C. Tatum, and A.J. Hynes, ""Gas phase UV absorption spectra for a series of alkyl sulfides"",
+  J. Photochem. Photobiol. A.: Chem. 171, 77-82 (2005); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C3H7SC3H7/C3H7SC3H7_Williams(2005)_298K_208.csv

@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Hagenow(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/BF3_Hagenow(1989)_298K_61-184nm.txt,Absorption measurements using synchrotron radiation; resolution 0.02-0.08 nm,BF3,boron trifluoride,"
+
+  G. Hagenow, K. Hottmann, H.W Jochims, and H. Baumgärtel, ""The photoabsorption of BF",data/cross-sections/Boron compounds/BF3/BF3_Hagenow(1989)_298K_61-184nm.csv
+298.0,Maria(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/BF3_Maria(1973)_298K_147-167nm.txt,Data for the first distinct absorption band of BF,BF3,boron trifluoride,"
+
+  H.J. Maria, J.R. McDonald, and S.R. McGlynn, ""Electronic absorption spectrum of nitrate ion and boron trihalides"",
+  J. Am. Chem. Soc. 95, 1050-1056 (1973); 
+
+
+  DOI: ",data/cross-sections/Boron compounds/BF3/BF3_Maria(1973)_298K_147-167nm.csv
+298.0,Suto(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/BF3_Suto(1990)_298K_45-113nm.txt,Absorption measurements using synchrotron radiation; spectral resolution 0.2 nm,BF3,boron trifluoride,"
+
+  M. Suto, C. Ye, and L.C. Lee, ""Photoabsorption and fluorescence spectroscopy of BF",data/cross-sections/Boron compounds/BF3/BF3_Suto(1990)_298K_45-113nm.csv

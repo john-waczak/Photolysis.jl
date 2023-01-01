@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Isocyanates/CH3NCO_Tokue(1987)_298K_107-215nm.txt,Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as the light source,CH3NCO,methyl isocyanate,"
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Organics (N-compounds)/Isocyanates/CH3NCO/CH3NCO_Tokue(1987)_298K_107-215nm.csv
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Isocyanates/CH3NCO_Tokue(1987)_298K_150-184nm.txt,Absorption measurements at a resolution of 1.0 nm using synchrotron radiation as the light source,CH3NCO,methyl isocyanate,"
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Organics (N-compounds)/Isocyanates/CH3NCO/CH3NCO_Tokue(1987)_298K_150-184nm.csv

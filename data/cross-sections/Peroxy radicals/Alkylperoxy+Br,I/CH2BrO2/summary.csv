@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Nielsen(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrO2_Nielsen(1991)_298K_220-350nm.txt",A pulse radiolysis (SF,CH2BrO2,bromomethylperoxy radical,"
+
+  O.J. Nielsen, J. Munk, G. Locke, and T.J. Wallington, ""Ultraviolet absorption spectra and kinetics of the self-reaction of CH","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrO2/CH2BrO2_Nielsen(1991)_298K_220-350nm.csv"
+295.0,Sehested(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrO2_Sehested(1996)_295K_230-300nm.txt",Absorption measurements for the bromomethylperoxy radical using a pulse radiolysis transient UV absorption apparatus (radiolysis of CH,CH2BrO2,bromomethylperoxy radical,"
+
+  J. Sehested, M. Bilde, T. Møgelberg, T.J. Wallington, and O.J. Nielsen, ""Kinetics and mechanism of the reaction of F atoms with CH","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrO2/CH2BrO2_Sehested(1996)_295K_230-300nm.csv"
+298.0,VillenaveLesclaux(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrO2_VillenaveLesclaux(1995)_298K_230-290nm.txt",Absorption measurements using the flash photolysis technique applied to slowly flowing,CH2BrO2,bromomethylperoxy radical,"
+
+  E. Villenave and R. Lesclaux, ""The UV absorption spectra of CH","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrO2/CH2BrO2_VillenaveLesclaux(1995)_298K_230-290nm.csv"

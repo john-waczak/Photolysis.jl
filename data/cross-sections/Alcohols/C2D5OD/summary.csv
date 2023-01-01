@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,PersonNicole(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C2D5OD_PersonNicole(1971)_298K_105.25-120.13nm.txt,Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),C2D5OD,"ethyl alcohol-d6, ethanol-d6","
+
+  J.C.Person and P.P. Nicole, ""Isotope effects in the photoionization yields and in the absorption cross sections for methanol, ethanol, methyl bromide, and ethyl bromide"",
+  J. Chem. Phys. 55, 3390-3397 (1971);
+
+
+  DOI: ",data/cross-sections/Alcohols/C2D5OD/C2D5OD_PersonNicole(1971)_298K_105.csv

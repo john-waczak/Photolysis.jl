@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,McGillen(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/FC(O)CF2C(O)F_McGillen(2020)_296K_190-260nm.txt,Absorption measurements at discrete wavelengths over the 190−260 nm range using a monochromator/photomultiplier tube (PMT) apparatus and a D,FC(O)CF2C(O)F,difluoromalonyl fluoride,"
+
+  M.R. McGillen,  V.C. Papadimitriou, S.C. Smith, and J.B. Burkholder, ""FC(O)C(O)F, FC(O)CF",data/cross-sections/Organics (carbonyls)/Bicarbonyls/FC(O)CF2C(O)F/FC(O)CF2C(O)F_McGillen(2020)_296K_190-260nm.csv
+296.0,McGillen(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/FC(O)CF2C(O)F_McGillen(2020)_296K_210-270nm.txt,Broadband spectra were measured using a diode array spectrometer that used a D,FC(O)CF2C(O)F,difluoromalonyl fluoride,"
+
+  M.R. McGillen,  V.C. Papadimitriou, S.C. Smith, and J.B. Burkholder, ""FC(O)C(O)F, FC(O)CF",data/cross-sections/Organics (carbonyls)/Bicarbonyls/FC(O)CF2C(O)F/FC(O)CF2C(O)F_McGillen(2020)_296K_210-270nm.csv

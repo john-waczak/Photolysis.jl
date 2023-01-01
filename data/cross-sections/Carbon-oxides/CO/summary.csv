@@ -1,0 +1,281 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barrus(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Barrus(1979)_298K_2.056-2.450nm.txt,Measurements around the K edge of oxygen at photon energies of 506-603 eV using an x-ray source and a spectrometer with a resolution better than 1 eV,CO,carbon monoxide,"
+
+  D.M. Barrus, R.L. Blake, A.J. Burek, K.C. Chambers, and A.L. Pregenzer, ""K-shell photoabsorption coefficients of O",data/cross-sections/Carbon-oxides/CO/CO_Barrus(1979)_298K_2.csv
+295.0,Bennett(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Bennett(1971)_295K_58.4nm.txt,"Absorption coefficient k (atm, 273 K)",CO,carbon monoxide,"
+
+  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
+  J. Phys. Chem. 75, 719-721 (1971); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Bennett(1971)_295K_58.csv
+298.0,CairnsSamson(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_CairnsSamson(1965)_298K_30.4-83.5nm.txt,Absorption cross sections at intense solar emission lines ,CO,carbon monoxide,"
+
+  R.B. Cairns and J.A.R. Samson, ""Absorption and photoionization cross sections of CO",data/cross-sections/Carbon-oxides/CO/CO_CairnsSamson(1965)_298K_30.csv
+298.0,Chan(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Chan(1993)_298K_6.2-177nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CO,carbon monoxide,"
+
+  W.F. Chan, G. Cooper, and C.E. Brion, ""Absolute optical oscillator strengths for discrete and continuum photoabsorption of carbon monoxide (7-200 eV) and transition moments for the",data/cross-sections/Carbon-oxides/CO/CO_Chan(1993)_298K_6.csv
+298.0,ColeDexter(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_ColeDexter(1978)_298K_15-34nm.txt,Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,CO,carbon monoxide,"
+
+  B.E. Cole and R.N. Dexter, ""Photoabsorption and photoionisation measurements on some atmospheric gases in the wavelength region 50-340 Å"",
+  J. Phys. B: Atom. Molec. Phys. 11, 1011-1023 (1978); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_ColeDexter(1978)_298K_15-34nm.csv
+295.0,Cook(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Cook(1965)_295K_60.00-100.25nm.txt,Absorption measurements with the spectral resolution changing from 0.02 to 0.05 nm depending on the complexity of the spectrum and the intensity of the background,CO,carbon monoxide,"
+
+  G.R. Cook, P.H. Metzger, and M. Ogawa, ""Photoionization and absorption coefficients of CO in the 600 to 1000 Å region"",
+  Can. J. Phys. 43, 1706-1722 (1965); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Cook(1965)_295K_60.csv
+298.0,Fock(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Fock(1980)_298K_89.86-99.00nm.txt,Absorption measurements at 86-124 nm using synchrotron radiation and a high-resolution (∼0.015 nm) monochromator,CO,carbon monoxide,"
+
+  J.-H. Fock, P. Gürtler, and E.E. Koch, ""Molecular Rydberg transitions in carbon monoxide: term value/ionization energy correlation of BF, CO and N",data/cross-sections/Carbon-oxides/CO/CO_Fock(1980)_298K_89.csv
+295.0,Huffman(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Huffman(1964)_295K_60.19-100.25nm.txt,Absorption measurements at a bandwidth of 0.05 nm using the Hopfield helium continuum as background and a photoelectric technique,CO,carbon monoxide,"
+
+  R.E. Huffman, J.C. Larrabee, and Y. Tanaka, ""Absorption coefficients of carbon monoxide in the 1006-600 Å wavelength region"",
+  J. Chem. Phys. 40, 2261-2269 (1964); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Huffman(1964)_295K_60.csv
+298.0,Lee(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Lee(1973)_298K_17.7-63.9nm.txt,Absorption measurements using synchrotron radiation and a double ionization chamber; spectral resolution 0.05 nm,CO,carbon monoxide,"
+
+  L.C. Lee, R.W. Carlson, D.L. Judge, and M. Ogawa, ""The absorption cross sections of N",data/cross-sections/Carbon-oxides/CO/CO_Lee(1973)_298K_17.csv
+298.0,Letzelter(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Letzelter(1987)_298K_89.86-100.00nm.txt,Absorption measurements at 88.5-115 nm using synchrotron radiation and a high-resolution (0.015 nm) monochromator,CO,carbon monoxide,"
+
+  C. Letzelter, M. Eidelsberg, F. Rostas, J. Breton, and B. Thieblemont, ""Photoabsorption and photodissociation cross sections of CO between 88.5 and 115 nm"",
+  Chem. Phys. 114, 273-288 (1987); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Letzelter(1987)_298K_89.csv
+298.0,MyerSamson(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_MyerSamson(1970)_298K_105-175nm.txt,Absorption measurements at a spectral resolution of 0.025 nm,CO,carbon monoxide,"
+
+  J.A. Myer and J.A.R. Samson, ""Vacuum-ultraviolet absorption cross sections of CO, HCl, and ICN between 1050 and 2100 Å"",
+  J. Chem. Phys. 52, 266-271 (1970); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_MyerSamson(1970)_298K_105-175nm.csv
+298.0,ReilhacDamany(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_ReilhacDamany(1977)_298K_10.5-50.0nm.txt,Absorption measurements by photographic spectrometry using a grating spectrograph and a spark produced by an uranium anode as a light source,CO,carbon monoxide,"
+
+  L. de Reilhac and N. Damany, ""Photoabsorption cross-section measurements of some gases, from 10 to 50 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 18, 121-131 (1977); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_ReilhacDamany(1977)_298K_10.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_100.18-100.38nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_100.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_91.72-91.87nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_91.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_91.85-92.00nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_91.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_91.98-92.13nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_91.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.12-92.42nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.39-92.54nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.52-92.66nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.63-92.77nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.78-92.93nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_92.92-93.07nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_92.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_93.06-93.21nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_93.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_93.19-93.34nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_93.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_93.34-93.47nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_93.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_93.80-94.10nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_93.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_94.02-94.18nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_94.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_94.16-94.31nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_94.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_94.57-94.72nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_94.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_94.68-94.79nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_94.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_94.82-95.22nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_94.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_95.57-95.72nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_95.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_95.70-95.83nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_95.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_96.73-96.88nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_96.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_96.87-97.02nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_96.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_97.01-97.16nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_97.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_97.24-97.39nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_97.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_97.37-97.52nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_97.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_98.32-98.77nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_98.csv
+295.0,Stark(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Stark(1991)_295K_98.86-98.99nm.txt,High-resolution (FWHM = 0.00055 nm) absorption measurements using synchrotron radiation,CO,carbon monoxide,"
+
+  G. Stark, K. Yoshino, P.L. Smith, K. Ito, and W.H. Parkinson, ""High resolution absorption cross sections of carbon monoxide bands at 295 K between 91.7 and 100.4 nanometers"",
+  Astrophys. J. 369, 574-580 (1991); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_Stark(1991)_295K_98.csv
+295.0,SunWeissler(1955),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_SunWeissler(1955)_295K_37-131nm.txt,Absorption measurements with a grazing incidence vacuum spectrograph and a condensed ac arc discharge as a light source,CO,carbon monoxide,"
+
+  H. Sun and G.L. Weissler, ""Absorption cross sections of carbon dioxide and carbon monoxide in the vacuum ultraviolet"",
+  J. Chem. Phys. 23, 1625-1628 (1955); 
+
+
+  DOI: ",data/cross-sections/Carbon-oxides/CO/CO_SunWeissler(1955)_295K_37-131nm.csv
+298.0,Thompson(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Thompson(1963)_298K_175-207nm.txt,Absorption measurements with a Perkin-Elmer spectrophotometer able to measure absorption coefficients k as low as 10,CO,carbon monoxide,"
+
+  B.A. Thompson, P. Harteck, and R.R. Reeves, Jr., ""Ultraviolet absorption coefficients of CO",data/cross-sections/Carbon-oxides/CO/CO_Thompson(1963)_298K_175-207nm.csv
+298.0,Watanabe(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Watanabe(1953)_298K_120-163nm.txt,"Absorption coefficients k (atm, 273K)",CO,carbon monoxide,"
+
+  K. Watanabe, M. Zelikoff, and E.C.I. Inn, ""Absorption coefficients of several atmospheric gases"",
+  Air Force Cambridge Research Center Technical Report 53-23, 1953
+
+
+",data/cross-sections/Carbon-oxides/CO/CO_Watanabe(1953)_298K_120-163nm.csv
+298.0,Wight(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/CO_Wight(1976)_298K_18.0-68.9nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",CO,carbon monoxide,"
+
+  G.R. Wight, M.J. Van der Wiel, and C.E. Brion, ""Dipole excitation, ionization and fragmentation of N",data/cross-sections/Carbon-oxides/CO/CO_Wight(1976)_298K_18.csv

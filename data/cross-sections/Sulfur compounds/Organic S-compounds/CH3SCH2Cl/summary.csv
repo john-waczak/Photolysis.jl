@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Copeland(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH2Cl_Copeland(2014)_298K_233.6nm(max).txt,Absorption measurements using a Fourier Transform Spectrometer,CH3SCH2Cl,"monochlorodimethyl sulfide, MClDMS","
+
+  G. Copeland, E.P.F. Lee, R.G. Williams, A.T. Archibald, D.E. Shallcross, and J.M. Dyke, ""Determination of the photolysis rate coefficient of monochlorodimethyl sulfide (MClDMS) in the atmosphere and its implications for the enhancement of SO",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH2Cl/CH3SCH2Cl_Copeland(2014)_298K_233.csv
+298.0,Copeland(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH2Cl_Copeland(2014)_298K_289.9nm(max).txt,Absorption measurements using a Fourier Transform Spectrometer,CH3SCH2Cl,"monochlorodimethyl sulfide, MClDMS","
+
+  G. Copeland, E.P.F. Lee, R.G. Williams, A.T. Archibald, D.E. Shallcross, and J.M. Dyke, ""Determination of the photolysis rate coefficient of monochlorodimethyl sulfide (MClDMS) in the atmosphere and its implications for the enhancement of SO",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH2Cl/CH3SCH2Cl_Copeland(2014)_298K_289.csv
+298.0,Copeland(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH2Cl_Copeland(2014)_298K_290-355nm.txt,Absorption measurements using a Fourier Transform Spectrometer,CH3SCH2Cl,"monochlorodimethyl sulfide, MClDMS","
+
+  G. Copeland, E.P.F. Lee, R.G. Williams, A.T. Archibald, D.E. Shallcross, and J.M. Dyke, ""Determination of the photolysis rate coefficient of monochlorodimethyl sulfide (MClDMS) in the atmosphere and its implications for the enhancement of SO",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH2Cl/CH3SCH2Cl_Copeland(2014)_298K_290-355nm.csv

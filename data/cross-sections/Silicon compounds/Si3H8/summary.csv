@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Itoh(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si3H8_Itoh(1986)_298K_107.7-201.0nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,Si3H8,trisilane,"
+
+  U. Itoh, Y. Toyoshima, H. Onuki, N. Washida, and T. Ibuki, ""Vacuum ultraviolet absorption cross sections of SiH",data/cross-sections/Silicon compounds/Si3H8/Si3H8_Itoh(1986)_298K_107.csv

@@ -1,0 +1,16 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CHFO2_Jemi-Alade(1991)_298K_200-270nm(meas).txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of Cl,CF3CHFO2,"1,2,2,2-tetrafluoroethylperoxy radical","
+
+  A.A. Jemi-Alade, P.D. Lightfoot, and R Lesclaux, ""Measurements of the UV absorption cross-sections of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CHFO2/CF3CHFO2_Jemi-Alade(1991)_298K_200-270nm(meas).csv
+298.0,Jemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CHFO2_Jemi-Alade(1991)_298K_200-270nm(resc).txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of Cl,CF3CHFO2,"1,2,2,2-tetrafluoroethylperoxy radical","
+
+  A.A. Jemi-Alade, P.D. Lightfoot, and R Lesclaux, ""Measurements of the UV absorption cross-sections of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CHFO2/CF3CHFO2_Jemi-Alade(1991)_298K_200-270nm(resc).csv
+295.0,Maricq(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CHFO2_Maricq(1999)_295K_190-341nm(0.5nm).txt,Absorption cross sections at 0.5-nm intervals have been obtained by personal communication from M.Matti Maricq (April 1999),CF3CHFO2,"1,2,2,2-tetrafluoroethylperoxy radical","
+
+  M.M. Maricq, personal communication (1999) to Max-Planck-Institut für Chemie, Mainz
+
+
+",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CHFO2/CF3CHFO2_Maricq(1999)_295K_190-341nm(0.csv
+298.0,WallingtonNielsen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CHFO2_WallingtonNielsen(1991)_298K_220-290nm.txt,A pulse radiolysis (SF,CF3CHFO2,"1,2,2,2-tetrafluoroethylperoxy radical","
+
+  T.J. Wallington and O.J. Nielsen, ""Pulse radiolysis study of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CHFO2/CF3CHFO2_WallingtonNielsen(1991)_298K_220-290nm.csv

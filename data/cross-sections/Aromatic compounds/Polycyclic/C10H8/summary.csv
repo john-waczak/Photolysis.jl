@@ -1,0 +1,52 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+313.0,Ferguson(1957),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Ferguson(1957)_313K_245-285nm.txt,Absorption measurements using a xenon high-pressure arc as the light source,C10H8,naphthalene,"
+
+  J. Ferguson, L.W. Reeves, and W.G. Schneider, ""Vapor absorption spectra and oscillator strehgths of naphtalene, anthracene, and pyrene"",
+  Can. J. Chem. 35, 1117-1136 (1957); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Ferguson(1957)_313K_245-285nm.csv
+298.0,GeorgeMorris(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_GeorgeMorris(1968)_298K_187.34-238.07nm.txt,Absorption spectra were obtained on a Cary 14 spectrophotometer with a thermostated sample compartment,C10H8,naphthalene,"
+
+  G.A. George, and G.C. Morris, ""The intensity of absorption of naphtalene from 30000 cm",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_GeorgeMorris(1968)_298K_187.csv
+298.0,GeorgeMorris(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_GeorgeMorris(1968)_298K_240.06-290.77nm.txt,Absorption spectra were obtained on a Cary 14 spectrophotometer with a thermostated sample compartment,C10H8,naphthalene,"
+
+  G.A. George, and G.C. Morris, ""The intensity of absorption of naphtalene from 30000 cm",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_GeorgeMorris(1968)_298K_240.csv
+298.0,GeorgeMorris(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_GeorgeMorris(1968)_298K_287.76-337.89nm.txt,Absorption spectra were obtained on a Cary 14 spectrophotometer with a thermostated sample compartment,C10H8,naphthalene,"
+
+  G.A. George, and G.C. Morris, ""The intensity of absorption of naphtalene from 30000 cm",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_GeorgeMorris(1968)_298K_287.csv
+296.0,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Grosch(2015)_296K_200-310nm.txt,The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C10H8,naphthalene,"
+
+  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Grosch(2015)_296K_200-310nm.csv
+423.0,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Grosch(2015)_423K_200-310nm.txt,The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C10H8,naphthalene,"
+
+  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Grosch(2015)_423K_200-310nm.csv
+573.0,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Grosch(2015)_573K_200-310nm.txt,The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C10H8,naphthalene,"
+
+  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Grosch(2015)_573K_200-310nm.csv
+773.0,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Grosch(2015)_773K_200-310nm.txt,The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C10H8,naphthalene,"
+
+  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Grosch(2015)_773K_200-310nm.csv
+298.0,Olive(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8_Olive(2011)_298K_200-230nm.txt,Absorption measurements at a spectral resolution of 0.080 nm,C10H8,naphthalene,"
+
+  B.S. Olive, ""Absorption spectra of carbon disulfide, nitrogen dioxide, and anthracene"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2011
+
+
+",data/cross-sections/Aromatic compounds/Polycyclic/C10H8/C10H8_Olive(2011)_298K_200-230nm.csv

@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Young(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C4F9CH2CH2I_Young(2008)_295K_200-319nm.txt",Absorption measurements at a resolution of 1 nm using a dual beam spectrometer,C4F9CH2CH2I,"1,1,1,2,2,3,3,4,4-nonafluoro-6-iodohexane, 4:2 fluorotelomer iodide","
+
+  C.J. Young, M.D. Hurley, T.J. Wallington, and S.A. Mabury, ""Atmospheric chemistry of 4:2 fluorotelomer iodide (n-C","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C4F9CH2CH2I/C4F9CH2CH2I_Young(2008)_295K_200-319nm.csv"

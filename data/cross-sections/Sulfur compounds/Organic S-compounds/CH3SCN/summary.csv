@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCN_Tokue(1987)_298K_104-203nm.txt,Absorption measurements at a resolution of 0.5 nm using synchrotron radiation as the light source,CH3SCN,methyl thiocyanate,"
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCN/CH3SCN_Tokue(1987)_298K_104-203nm.csv
+298.0,Tokue(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCN_Tokue(1987)_298K_170-209nm.txt,Absorption measurements at a resolution of 1.0 nm using synchrotron radiation as the light source,CH3SCN,methyl thiocyanate,"
+
+  I. Tokue, A. Hibaya, and K. Shobatake, ""Photoexcitation of CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCN/CH3SCN_Tokue(1987)_298K_170-209nm.csv

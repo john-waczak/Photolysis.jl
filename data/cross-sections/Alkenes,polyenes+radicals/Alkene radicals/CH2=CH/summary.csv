@@ -1,0 +1,31 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,DeSain(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_DeSain(2006)_298K_404nm.txt",The vinyl radical was formed from the 193-nm photolsis of trichlorovinylsilane CH,CH2=CH,vinyl radical,"
+
+  J.D. DeSain, L.E. Jusinski, and C.A. Taatjes, ""Ultraviolet photochemistry of trichlorovinylsilane and allyltrichlorosilane: vinyl radical (HCCH","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_DeSain(2006)_298K_404nm.csv"
+295.0,Fahr(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_Fahr(1998)_295K_225-238nm.txt","The absorption spectrum of the vivyl radical, produced from the 193 nm excimer laser photolysis of methyl vinyl ketone (�CH",CH2=CH,vinyl radical,"
+
+  A. Fahr, P. Hassanzadeh, and D.B. Atkinson, ""Ultraviolet absorption spectrum and cross-sections of vinyl (C","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_Fahr(1998)_295K_225-238nm.csv"
+298.0,FahrLaufer(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_FahrLaufer(1990)_298K_164.71,168.33nm(max).txt",Absorption measurements following vacuum-UV flash photolysis of divinylmercury,CH2=CH,vinyl radical,"
+
+  A. Fahr and A.H. Laufer, ""Direct measurements of the combination and disproportion of vinyl radicals"",
+  J. Phys. Chem. 94, 726-729 (1990); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_FahrLaufer(1990)_298K_164.csv"
+298.0,Hunziker(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_Hunziker(1983)_298K_432.2nm.txt",Absorption cross section for the band maximum at 423.4 nm at a spectral resolution of 1.6 nm.,CH2=CH,vinyl radical,"
+
+  H.E. Hunziker, H. Kneppe, A.D. McLean, P. Siegbahn, and H.R. Wendt, ""Visible electronic absorption-spectrum of vinyl radical"",
+  Can. J. Chem. 61, 993-995 (1983); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_Hunziker(1983)_298K_432.csv"
+298.0,Pibel(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_Pibel(1999)_298K_423nm.txt",Crude estimate for the absorption cross-section at 423 nm,CH2=CH,vinyl radical,"
+
+  C.D. Pibel, A. McIlroy, C.A. Taatjes, S. Alfred, K. Patrick, and J.B. Halpern, ""The vinyl radical (Ã ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_Pibel(1999)_298K_423nm.csv"
+297.0,Tonokura(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CH_Tonokura(1999)_297K_446.5nm.txt","The absorption cross sections of the vinyl radical, obtained by 193 nm photolysis of methyl vinyl ketone, are plotted in Fig. 3 for the region 444-456 nm (spectral resolution 0.1 nm)",CH2=CH,vinyl radical,"
+
+  K. Tonokura, S. Marui, and M. Koshi, ""Absorption cross-section measurements of the vinyl radical in the 440-460 nm region by cavity ring-down spectroscopy"",
+  Chem. Phys. Lett. 313, 771-776 (1999); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CH/CH2=CH_Tonokura(1999)_297K_446.csv"

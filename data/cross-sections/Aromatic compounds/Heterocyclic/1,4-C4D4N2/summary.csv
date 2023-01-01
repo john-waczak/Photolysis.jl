@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Stener(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,4-C4D4N2_Stener(2011)_298K_107.92-272.46nm.txt",Absorption measurements using a synchrotron radiation source,"1,4-C4D4N2","pyrazine-d4, 1,4-diazine-d4","
+
+  M. Stener, P. Decleva, D.M.P. Holland, and D.A. Shaw, ""A study of the valence shell electronic states of pyrimidine and pyrazine by photoabsorption spectroscopy and time-dependent density functional theory alculations"",
+  J. Phys. B: At. Mol. Opt. Phys. 44, 075203 (18 pp.) (2011); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,4-C4D4N2/1,4-C4D4N2_Stener(2011)_298K_107.csv"

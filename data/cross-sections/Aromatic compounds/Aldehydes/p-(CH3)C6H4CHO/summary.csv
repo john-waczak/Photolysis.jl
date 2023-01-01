@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Etzkorn(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aldehydes/p-(CH3)C6H4CHO_Etzkorn(1999)_298K_255-296nm.txt,Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),p-(CH3)C6H4CHO,"p-methylbenzaldehyde, p-tolualdehyde","
+
+  T. Etzkorn, B. Klotz, S. Sørensen, I.V. Patroescu, I. Barnes, K.H. Becker, and U. Platt, ""Gas-phase absorption cross sections of 24 monocyclic aromatic hydrocarbons in the UV and IR spectral ranges"",
+  Atmos. Environ. 33, 525-540 (1999); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aldehydes/p-(CH3)C6H4CHO/p-(CH3)C6H4CHO_Etzkorn(1999)_298K_255-296nm.csv

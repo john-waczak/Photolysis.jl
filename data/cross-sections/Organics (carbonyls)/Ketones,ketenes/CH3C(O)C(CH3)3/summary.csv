@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C(CH3)3_Ito(1969)_298K_165-202nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C(CH3)3,"methyl t-butyl ketone, 1,1,1-trimethylaceton, 3,3-dimethyl-2-butanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C(CH3)3/CH3C(O)C(CH3)3_Ito(1969)_298K_165-202nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C(CH3)3_Ito(1969)_298K_175.0,195.0nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C(CH3)3,"methyl t-butyl ketone, 1,1,1-trimethylaceton, 3,3-dimethyl-2-butanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C(CH3)3/CH3C(O)C(CH3)3_Ito(1969)_298K_175.csv"

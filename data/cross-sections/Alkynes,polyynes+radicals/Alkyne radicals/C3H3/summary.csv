@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,AtkinsonHudgens(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkyne%20radicals/C3H3_AtkinsonHudgens(1999)_298K_332.5nm.txt",HC≡CCH,C3H3,propargyl radical,"
+
+  D.B. Atkinson and J.W. Hudgens, ""Rate coefficients for the propargyl radical self-reaction and oxygen addition reaction measured using ultraviolet cavity ring-down spectroscopy"",
+  J. Phys. Chem. A 103, 4242-4252 (1999); 
+
+
+  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkyne radicals/C3H3/C3H3_AtkinsonHudgens(1999)_298K_332.csv"
+295.0,Fahr(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkyne%20radicals/C3H3_Fahr(1997)_295K_230-300nm.txt",HC≡CCH,C3H3,propargyl radical,"
+
+  A. Fahr, P. Hassanzadeh, B. Laszlo, and R.E. Huie, ""Ultraviolet absorption and cross sections of propargyl (C","data/cross-sections/Alkynes,polyynes+radicals/Alkyne radicals/C3H3/C3H3_Fahr(1997)_295K_230-300nm.csv"

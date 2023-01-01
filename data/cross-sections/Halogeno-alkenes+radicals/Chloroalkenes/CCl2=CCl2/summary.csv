@@ -1,0 +1,20 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Berry(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2_Berry(1974)_298K_141-255nm.txt,"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",CCl2=CCl2,tetrachloroethene,"
+
+  M.J. Berry, ""Chloroethylene photochemical lasers: Vibrational energy content of the HCl molecular elimination products"",
+  J. Chem. Phys. 61, 3114-3143 (1974);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2/CCl2=CCl2_Berry(1974)_298K_141-255nm.csv
+298.0,Eden(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2_Eden(2009)_298K_115-328nm.txt,Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,CCl2=CCl2,tetrachloroethene,"
+
+  S. Eden, B. Barc, N.J. Mason, S.V. Hoffmann, Y. Nunes, and P. Limão-Vieira, ""Electronic state spectroscopy of C",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2/CCl2=CCl2_Eden(2009)_298K_115-328nm.csv
+298.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2_JPL-2019(2020)_298K_121.567-270nm(rec).txt,JPL-2019(2020) recommendation:,CCl2=CCl2,tetrachloroethene,"
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
+Data for Use in Atmospheric Studies, Evaluation No. 19"",
+  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
+2019, http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CCl2=CCl2/CCl2=CCl2_JPL-2019(2020)_298K_121.csv

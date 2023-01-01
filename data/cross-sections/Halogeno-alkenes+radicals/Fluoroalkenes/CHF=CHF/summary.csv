@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BelangerSandorfy(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CHF=CHF_BelangerSandorfy(1971)_298K_116.8-199.5nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under moderate resolution,CHF=CHF,"cis-1,2-difluoroethene","
+
+  G. Bélanger and C. Sandorfy, ""Far-ultraviolet spectra of fluoroethylenes"",
+  J. Chem. Phys., 55, 2055-2060 (1971);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CHF=CHF/CHF=CHF_BelangerSandorfy(1971)_298K_116.csv

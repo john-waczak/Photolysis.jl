@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)F_JPL-2010(2011)_296K_200-305nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CH3C(O)F,acetyl fluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)F/CH3C(O)F_JPL-2010(2011)_296K_200-305nm(rec).csv
+296.0,Rattigan(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)F_Rattigan(1993)_296K_200-310nm.txt,Averages over 5-nm intervals of the spectrum measured at a resolution of 1.2 nm (FWHM) using a dual-beam diode-array spectrometer,CH3C(O)F,acetyl fluoride,"
+
+  O.V. Rattigan, O. Wild, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)F/CH3C(O)F_Rattigan(1993)_296K_200-310nm.csv
+298.0,Song(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)F_Song(2015)_298K_201-260nm.txt,The UV absorption spectrum of acetyl fluoride was determined employing a home-constructed gas spectrophotometer; the analysis light was provided by a D,CH3C(O)F,acetyl fluoride,"
+
+  X. Song, X., G.L. Zügner, M. Farkas, Á. Illés, D. Sarzynski, T. Rozgonyi, B. Wang, and S. Dóbé, ""Experimental and theoretical study on the OH-reaction kinetics and photochemistry of acetyl fluoride (CH",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)F/CH3C(O)F_Song(2015)_298K_201-260nm.csv

@@ -1,0 +1,9 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+348.0,Aslan(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/C2H5C(O)CH(OH)C2H5_Aslan(2017)_348K_220-350nm.txt","The UV absorption spectrum of 4H3H in the gas phase was measured using a deuterium lamp plus monochromator and photomultiplier
+(PM) device (spectral resolution 0.1 nm)",C2H5C(O)CH(OH)C2H5,"4-hydroxy-3-hexanone, 4H3H","
+
+  L. Aslan, H. Laversin, E. Roth, P. Coddeville, C. Fittschen, A. Chakir, and A. Tomas, ""Gas-phase UV absorption cross-sections and photolysis kinetics of 4-hydroxy-3-hexanone: Atmospheric implications,"",
+  Chem. Phys. Lett. 688, 43-46 (2017); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/C2H5C(O)CH(OH)C2H5/C2H5C(O)CH(OH)C2H5_Aslan(2017)_348K_220-350nm.csv"

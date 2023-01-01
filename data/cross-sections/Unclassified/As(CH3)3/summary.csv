@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McCraryDonnelly(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/As(CH3)3_McCraryDonnelly(1987)_298K_190-230nm.txt,Optical densities OD at 298 K measured with a Beckman UV/Vis spectrophotometer and shown in Fig. 3 have been digitized and normalized to the peak absorption cross section σ(201nm) = 5.6×10,As(CH3)3,"trimethylarsine, TMAs","
+
+  V.R. McCrary and V.M. Donelly, ""The ultraviolet absorption spectra of selected organometallic compounds used in the chemical vapor deposition of gallium arsenide"",
+  J. Crystal Growth 84, 253-258 (1987)
+
+
+  DOI: ",data/cross-sections/Unclassified/As(CH3)3/As(CH3)3_McCraryDonnelly(1987)_298K_190-230nm.csv
+298.0,McCraryDonnelly(1987),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/As(CH3)3_McCraryDonnelly(1987)_298K_193,222,248nm.txt","Absorption cross sections at the ArF, KrCl, and KrF excimer laser lines",As(CH3)3,"trimethylarsine, TMAs","
+
+  V.R. McCrary and V.M. Donelly, ""The ultraviolet absorption spectra of selected organometallic compounds used in the chemical vapor deposition of gallium arsenide"",
+  J. Crystal Growth 84, 253-258 (1987)
+
+
+  DOI: ","data/cross-sections/Unclassified/As(CH3)3/As(CH3)3_McCraryDonnelly(1987)_298K_193,222,248nm.csv"

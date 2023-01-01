@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Harrison(1950),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH2=CHOCH=CH2_Harrison(1950)_295K_168.77-235.90nm.txt,Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,CH2=CHOCH=CH2,divinyl ether,"
+
+  A.C. Harrison, C.L. Gaddis, and E.M. Coffin, ""Quantitative determination of extinction coefficients in the vacuum ultraviolet: Divinyl Ether"",
+  J. Chem . Phys. 18, 221-223 (1950)
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH2=CHOCH=CH2/CH2=CHOCH=CH2_Harrison(1950)_295K_168.csv
+295.0,HarrisonPrice(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH2=CHOCH=CH2_HarrisonPrice(1959)_295K_159.18-221.65nm.txt,Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,CH2=CHOCH=CH2,divinyl ether,"
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH2=CHOCH=CH2/CH2=CHOCH=CH2_HarrisonPrice(1959)_295K_159.csv
+295.0,HarrisonPrice(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH2=CHOCH=CH2_HarrisonPrice(1959)_295K_164,203nm.txt",Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,CH2=CHOCH=CH2,divinyl ether,"
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ","data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH2=CHOCH=CH2/CH2=CHOCH=CH2_HarrisonPrice(1959)_295K_164,203nm.csv"

@@ -1,0 +1,13 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,ColtonRabalais(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Cl2_ColtonRabalais(1974)_298K_186-435nm.txt,Absorption measurements on a Cary 14 recording spectrophotometer using quartz absorption cells of various path lengths,S2Cl2,disulfur dichloride,"
+
+  R.J. Colton and J.W. Rabalais, ""Photoelectron and electronis absorption spectra of SCl",data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Cl2/S2Cl2_ColtonRabalais(1974)_298K_186-435nm.csv
+298.0,ColtonRabalais(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Cl2_ColtonRabalais(1974)_298K_212,257,299nm(max).txt",Absorption measurements on a Cary 14 recording spectrophotometer using quartz absorption cells of various path lengths,S2Cl2,disulfur dichloride,"
+
+  R.J. Colton and J.W. Rabalais, ""Photoelectron and electronis absorption spectra of SCl","data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Cl2/S2Cl2_ColtonRabalais(1974)_298K_212,257,299nm(max).csv"
+298.0,Speth(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Cl2_Speth(1998)_298K_230-367nm.txt,Absorption measurements using a deuterium lamp as a light source and a monochromator resulting in a spectral bandwidth of approximately 5 cm,S2Cl2,disulfur dichloride,"
+
+  R.S. Speth, R. Niemann, and E. Tiemann, ""Photodissociation of S",data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Cl2/S2Cl2_Speth(1998)_298K_230-367nm.csv
+298.0,Tokue(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Cl2_Tokue(1988)_298K_109.3-185.8nm.txt,Absorption measurements at a spectral resolution of 0.1 nm using synchrotron radiation,S2Cl2,disulfur dichloride,"
+
+  I. Tokue, A. Hiraya, and K. Shobatake, ""Photoabsorption spectra and photodissociation of S",data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Cl2/S2Cl2_Tokue(1988)_298K_109.csv

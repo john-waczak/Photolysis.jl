@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Berho(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H7_Berho(1999)_298K_280-315nm.txt",Flash photolysis (Cl,c-C6H7,cyclohexadienyl radical,"
+
+  F. Berho, M.-T. Rayez, and R. Lesclaux, ""UV spectrum and self-reaction kinetics of the cyclohexadienyl radical, and stability of a series of cyclohexadienyl-type radicals"",
+  J. Phys. Chem. A 103, 5501-5509 (1999); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H7/c-C6H7_Berho(1999)_298K_280-315nm.csv"
+298.0,Bjergbakke(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H7_Bjergbakke(1996)_298K_280-340nm.txt",Pulse radiolysis (Ar/H,c-C6H7,cyclohexadienyl radical,"
+
+  E. Bjergbakke, A. Sillesen, and P. Pagsberg, ""UV spectrum and kinetics of hydroxycyclohexadienyl radicals"",
+  J. Phys. Chem. 100, 5729-5736 (1996); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H7/c-C6H7_Bjergbakke(1996)_298K_280-340nm.csv"

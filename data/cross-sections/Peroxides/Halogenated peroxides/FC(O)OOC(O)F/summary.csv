@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Arguello(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Halogenated%20peroxides/FC(O)OOC(O)F_Arguello(1995)_298K_190-320nm.txt,UV spectra were recorded with a 1024 diode array spectrometer system using a deuterium lamp as a light source,FC(O)OOC(O)F,bis(fluoroformyl) peroxide,"
+
+  G.A. Argüello, G. Balzer-Jöllenbeck, B. Jülicher, and H. Willner, ""Properties of fluoroformyl hypofluorite FC(O)OF, revisited"",
+  Inorg. Chem. 34, 603-606 (1995); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Halogenated peroxides/FC(O)OOC(O)F/FC(O)OOC(O)F_Arguello(1995)_298K_190-320nm.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Limao-Vieira(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C5H10O2_Limao-Vieira(2014)_298K_115-235nm.txt,Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,C5H10O2,"tetrahydrofurfuryl alcohol, THAF","
+
+  P. Limão-Vieira, D. Duflot, M.-J. Hubin-Franskin, J. Delwiche, S.V. Hoffmann, L. Chiari, D.B. Jones, M.J. Brunger, and M.C.A. Lopes, ""Electronic states of tetrahydrofurfuryl alcohol (THFA) as studied by VUV spectroscopy and ab initio calculations"",
+  J. Phys. Chem. A 118, 6425-6434 (2014); 
+
+
+  DOI: ",data/cross-sections/Alcohols/C5H10O2/C5H10O2_Limao-Vieira(2014)_298K_115-235nm.csv

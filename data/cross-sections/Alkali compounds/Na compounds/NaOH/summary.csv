@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaOH_JPL-2010(2011)_298K_193.4-395.2nm(rec).txt,JPL-2010 recommendation:,NaOH,sodium hydroxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Alkali compounds/Na compounds/NaOH/NaOH_JPL-2010(2011)_298K_193.csv
+200.0,SelfPlane(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaOH_SelfPlane(2002)_200K_193.4-423.0nm.txt,Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,NaOH,sodium hydroxide,"
+
+  D.E. Self and J.M.C. Plane, ""Absolute photolysis cross sections for NaHCO",data/cross-sections/Alkali compounds/Na compounds/NaOH/NaOH_SelfPlane(2002)_200K_193.csv
+300.0,SelfPlane(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaOH_SelfPlane(2002)_300K_193.4-423.0nm.txt,Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,NaOH,sodium hydroxide,"
+
+  D.E. Self and J.M.C. Plane, ""Absolute photolysis cross sections for NaHCO",data/cross-sections/Alkali compounds/Na compounds/NaOH/NaOH_SelfPlane(2002)_300K_193.csv

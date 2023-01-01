@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/CH2N2_McMillan(1966)_298K_259.0-469.8nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH2N2,diazomethane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 453
+
+
+","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/CH2N2/CH2N2_McMillan(1966)_298K_259.csv"

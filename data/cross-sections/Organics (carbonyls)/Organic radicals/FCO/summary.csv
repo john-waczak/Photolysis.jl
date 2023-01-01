@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Maricq(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Organic%20radicals/FCO_Maricq(1992)_295K_190-341nm.txt,Flash photolysis of F,FCO,fluoroformyl radical,"
+
+  M.M. Maricq, J.J. Szente, G.A. Khitrov, and J.S. Francisco, ""FCO: UV spectrum, self-reaction kinetics and chain reaction with F",data/cross-sections/Organics (carbonyls)/Organic radicals/FCO/FCO_Maricq(1992)_295K_190-341nm.csv
+295.0,Maricq(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Organic%20radicals/FCO_Maricq(1992)_295K_224-375nm.txt,Flash photolysis of F,FCO,fluoroformyl radical,"
+
+  M.M. Maricq, J.J. Szente, G.A. Khitrov, and J.S. Francisco, ""FCO: UV spectrum, self-reaction kinetics and chain reaction with F",data/cross-sections/Organics (carbonyls)/Organic radicals/FCO/FCO_Maricq(1992)_295K_224-375nm.csv
+296.0,Wallington(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Organic%20radicals/FCO_Wallington(1994)_296K_265-274nm.txt,Pulse radiolysis (SF,FCO,fluoroformyl radical,"
+
+  T.J. Wallington, T. Ellermann, O.J. Nielsen, and J. Sehested, ""Atmospheric chemistry of FCO",data/cross-sections/Organics (carbonyls)/Organic radicals/FCO/FCO_Wallington(1994)_296K_265-274nm.csv

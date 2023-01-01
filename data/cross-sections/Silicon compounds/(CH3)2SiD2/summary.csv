@@ -1,0 +1,9 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Alexander(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)2SiD2_Alexander(1972)_298K_135.1-172.5nm.txt,"Absorption measurements using a vacuum UV double beam spectrophotometer and the continuum of a deuterium discharge lamp as a light source
+",(CH3)2SiD2,dimethylsilane-d2,"
+
+  A.G. Alexander, O.P. Strausz, R. Pottier, and G.P. Semeluk, ""The vacuum ultraviolet spectra of methylated silanes"",
+  Chem. Phys. Lett. 13, 608-609 (1972); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)2SiD2/(CH3)2SiD2_Alexander(1972)_298K_135.csv

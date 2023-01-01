@@ -1,0 +1,67 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Brown(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Brown(1990)_298K_190-240nm.txt",Absorption measurements using a commercial spectrophotometer (Perkin-Elmer),CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  A.C. Brown, C.E. Canosa-Mas, A.D. Parr, K. Rothwell, and R.P. Wayne, ""Tropospheric lifetimes of three compounds for possible replacement of CFC and halons"",
+  Nature 347, 541-543 (1990); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Brown(1990)_298K_190-240nm.csv"
+298.0,Davidson(1951),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Davidson(1951)_298K_207-255nm.txt",Extinction coefficients from Table II have been converted to absorption cross sections; conversion factor 3.8235×10,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  N. Davidson, ""The ultraviolet absorption spectra and the refractive indices of some fluorobromomethanes"",
+  J. Am. Chem. Soc. 73, 467-468 (1951); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Davidson(1951)_298K_207-255nm.csv"
+210.0,Gillotay(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Gillotay(1993)_210K_166-267nm(int-c).txt",Absorption measurements at 210 to 295 K using a double-beam equipment; the bandwidth is 0.1 nm and the wavelength repeatability 0.01 nm,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Temperature dependence of ultraviolet absorption cross-sections of alternative hydrochlorofluorocarbons"",
+  Aeronomica Acta A369, 1-18 (1993)
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Gillotay(1993)_210K_166-267nm(int-c).csv"
+230.0,Gillotay(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Gillotay(1993)_230K_166-267nm(int-c).txt",Absorption measurements at 210 to 295 K using a double-beam equipment; the bandwidth is 0.1 nm and the wavelength repeatability 0.01 nm,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Temperature dependence of ultraviolet absorption cross-sections of alternative hydrochlorofluorocarbons"",
+  Aeronomica Acta A369, 1-18 (1993)
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Gillotay(1993)_230K_166-267nm(int-c).csv"
+250.0,Gillotay(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Gillotay(1993)_250K_166-267nm(int-c).txt",Absorption measurements at 210 to 295 K using a double-beam equipment; the bandwidth is 0.1 nm and the wavelength repeatability 0.01 nm,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Temperature dependence of ultraviolet absorption cross-sections of alternative hydrochlorofluorocarbons"",
+  Aeronomica Acta A369, 1-18 (1993)
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Gillotay(1993)_250K_166-267nm(int-c).csv"
+270.0,Gillotay(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Gillotay(1993)_270K_166-267nm(int-c).txt",Absorption measurements at 210 to 295 K using a double-beam equipment; the bandwidth is 0.1 nm and the wavelength repeatability 0.01 nm,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Temperature dependence of ultraviolet absorption cross-sections of alternative hydrochlorofluorocarbons"",
+  Aeronomica Acta A369, 1-18 (1993)
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Gillotay(1993)_270K_166-267nm(int-c).csv"
+295.0,Gillotay(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Gillotay(1993)_295K_166-267nm(int-c).txt",Absorption measurements at 210 to 295 K using a double-beam equipment; the bandwidth is 0.1 nm and the wavelength repeatability 0.01 nm,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Temperature dependence of ultraviolet absorption cross-sections of alternative hydrochlorofluorocarbons"",
+  Aeronomica Acta A369, 1-18 (1993)
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Gillotay(1993)_295K_166-267nm(int-c).csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_JPL-2010(2011)_298K_168-280nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_JPL-2010(2011)_298K_168-280nm(rec).csv"
+296.0,OrkinKasimovskaya(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_OrkinKasimovskaya(1995)_296K_190-280nm.txt",The absorption spectrum has been recorded with an increment of 0.05 to 0.5 nm using double beam diffraction devices,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  L. Orkin and E.E. Kasimovskaya, ""Ultraviolet absorption spectra of some Br-containing haloalkanes"",
+  J. Atmos. Chem. 21, 1-11 (1995); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_OrkinKasimovskaya(1995)_296K_190-280nm.csv"
+298.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)_Talukdar(1991)_298K_190-280nm.txt",Absorption measutements using a D,CHF2Br(Halon-1201),difluorobromomethane (Halon-1201),"
+
+  R. Talukdar, Mellouki. A., T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric lifetime of CHF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CHF2Br(Halon-1201)/CHF2Br(Halon-1201)_Talukdar(1991)_298K_190-280nm.csv"

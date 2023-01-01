@@ -1,0 +1,16 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+233.7,DePoorterRofer-DePoorter(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/UF6_DePoorterRofer-DePoorter(1975)_233.7K_200-261nm.txt,Absorption measurements at intervals of 0.1 nm using a spectrophotometer operating in the dual-beam mode (p = 0.37 torr),UF6,uranium hexafluoride,"
+
+  G.L. DePoorter and C.K. Rofer-DePoorter, ""The absorption spectrum of UF",data/cross-sections/Unclassified/UF6/UF6_DePoorterRofer-DePoorter(1975)_233.csv
+263.1,DePoorterRofer-DePoorter(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/UF6_DePoorterRofer-DePoorter(1975)_263.1K_262.3-278.5nm.txt,Absorption measurements at intervals of 0.1 nm using a spectrophotometer operating in the dual-beam mode (p = 7.26 torr),UF6,uranium hexafluoride,"
+
+  G.L. DePoorter and C.K. Rofer-DePoorter, ""The absorption spectrum of UF",data/cross-sections/Unclassified/UF6/UF6_DePoorterRofer-DePoorter(1975)_263.csv
+272.5,DePoorterRofer-DePoorter(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/UF6_DePoorterRofer-DePoorter(1975)_272.5K_280-330nm.txt,Absorption measurements at intervals of 0.1 nm using a spectrophotometer operating in the dual-beam mode (p = 16.23 torr),UF6,uranium hexafluoride,"
+
+  G.L. DePoorter and C.K. Rofer-DePoorter, ""The absorption spectrum of UF",data/cross-sections/Unclassified/UF6/UF6_DePoorterRofer-DePoorter(1975)_272.csv
+296.1,DePoorterRofer-DePoorter(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/UF6_DePoorterRofer-DePoorter(1975)_296.1K_333-412nm.txt,Absorption measurements at intervals of 0.1 nm using a spectrophotometer operating in the dual-beam mode (p = 91.50 torr),UF6,uranium hexafluoride,"
+
+  G.L. DePoorter and C.K. Rofer-DePoorter, ""The absorption spectrum of UF",data/cross-sections/Unclassified/UF6/UF6_DePoorterRofer-DePoorter(1975)_296.csv
+298.0,Srivastava(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/UF6_Srivastava(1976)_298K_43.5-310.0nm.txt,Photoabsorption cross sections of UF,UF6,uranium hexafluoride,"
+
+  S.K. Srivastava, D.C. Cartwright, S. Trajmar, A. Chutjian, and W.X. Williams, ""Photoabsorption spectrum of UF",data/cross-sections/Unclassified/UF6/UF6_Srivastava(1976)_298K_43.csv

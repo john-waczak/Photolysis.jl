@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Sehested(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CF2O2_Sehested(1993)_295K_220-270nm.txt,Radiolysis of SF,CF3CF2O2,pentafluoroethylperoxy radical,"
+
+  J. Sehested, T. Ellermann, O.J. Nielsen, T.J. Wallington, and M.D. Hurley, ""UV absorption spectrum, and kinetics and mechanism of the self-reaction of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CF2O2/CF3CF2O2_Sehested(1993)_295K_220-270nm.csv

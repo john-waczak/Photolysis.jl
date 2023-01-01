@@ -1,0 +1,38 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_BoschiSalahub(1972)_298K_116.1-187.1nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_BoschiSalahub(1972)_298K_116.csv"
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_BoschiSalahub(1972)_298K_206.5-315.1nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_BoschiSalahub(1972)_298K_206.csv"
+298.0,Haszeldine(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_Haszeldine(1953)_298K_229,271nm(min,max).txt","The extinction coefficients for the maximum and minimum, as listed in Table 3, have been converted to absorption cross sections (conversion factor 3.8235×10",n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  R.N. Haszeldine, ""Studies in spectroscopy, III. The ultraviolet absorption spectra of halogen-containing aliphatic iodo-compounds, and the relative stability of free halogen-containig alkyl radicals"",
+  J. Chem. Soc. 1953, 1764-1771;
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_Haszeldine(1953)_298K_229,271nm(min,max).csv"
+298.0,HofmannLeone(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_HofmannLeone(1978)_298K_210-350nm.txt",Absorption measurements with a commercial spectrophotometer at aresolution of 1 nm,n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  H. Hofmann and S.R. Leone, ""Tunable laser photodissociation of HgI","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_HofmannLeone(1978)_298K_210-350nm.csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_JPL-2010(2011)_298K_248-340nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_JPL-2010(2011)_298K_248-340nm(rec).csv"
+298.0,KoffendLeone(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_KoffendLeone(1981)_298K_265-341nm.txt",Molar extinction coefficients vs. wavenumbers from Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  J.B. Koffend and S.R. Leone, ""Tunable laser photodissociation: Quantum yield of I*(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_KoffendLeone(1981)_298K_265-341nm.csv"
+295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I_Pence(1981)_295K_248,268,308nm.txt",Absorption measurements at 185-400 nm; spectrum reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 5,n-C3F7I,"heptafluoro-1-iodopropane, perfluoroheptyl iodide","
+
+  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C3F7I/n-C3F7I_Pence(1981)_295K_248,268,308nm.csv"

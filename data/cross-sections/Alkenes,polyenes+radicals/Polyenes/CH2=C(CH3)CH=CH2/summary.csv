@@ -1,0 +1,116 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,Campuzano-Jost(2004),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Campuzano-Jost(2004)_297K_203-233nm.txt",Absorption measurements using a diode array spectrometer; spectral resolution ∼0.05 nm,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P. Campuzano-Jost, M.B. Williams, L. D'Ottone, and A.J. Hynes, ""Kinetics and mechanism of the reaction of the hydroxyl radical with h","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Campuzano-Jost(2004)_297K_203-233nm.csv"
+293.0,Cias(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Cias(2007)_293K_1651.52nm.txt","A method is proposed to determine the unknown NIR absorption cross-sections using the known absorption cross-sections in the UV region, in which single-path UV absorption spectroscopy and NIR continuous wave cavity ringdown spectroscopy (cw-CRDS) are employed in a cross-arm reaction chamber for simultaneous measurements",CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P. Cias, C. Wang, and T. Dibble, ""Absorption cross-sections of the C–H overtone of volatile organic compounds: 2-methyl-1,3-butadiene (isoprene), 1,3-butadiene, and 2,3-dimethyl-1,3-butadiene"",
+  Appl. Spectrosc. 61, 230-236 (2007); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Cias(2007)_293K_1651.csv"
+298.0,Dillon(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Dillon(2017)_298K_184.95nm.txt",The absorption cross section at the Hg line 184.95 nm nm was obtained from the slope of the absorbance vs. concentration plot (see Fig. 2),CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  T.J. Dillon, K. Dulitz, C.B.M. Groß, and J.N. Crowley, ""Temperature-dependent rate coefficients for the reactions of the hydroxyl radical with the atmospheric biogenics isoprene, alpha-pinene and delta-3-carene"",
+  Atmos. Chem. Phys. 17, 15137–15150 (2017); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Dillon(2017)_298K_184.csv"
+298.0,Dillon(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Dillon(2017)_298K_194-234nm.txt",Absorption measurements at a resolution of 0.4 nm using a D,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  T.J. Dillon, K. Dulitz, C.B.M. Groß, and J.N. Crowley, ""Temperature-dependent rate coefficients for the reactions of the hydroxyl radical with the atmospheric biogenics isoprene, alpha-pinene and delta-3-carene"",
+  Atmos. Chem. Phys. 17, 15137–15150 (2017); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Dillon(2017)_298K_194-234nm.csv"
+298.0,JacobsPlatt(1948),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_JacobsPlatt(1948)_298K_173-231nm.txt",Photographic recording of the spectrum using a vacuum fluorite spectrograph and photometric analysis ,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  L.E. Jacobs and J.R. Platt, ""Does ultraviolet absorption intensity increase in solution?"",
+  J. Chem. Phys. 16, 1137-1145 (1948); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_JacobsPlatt(1948)_298K_173-231nm.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_JonesTaylor(1955)_298K_167-228nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_JonesTaylor(1955)_298K_167-228nm.csv"
+298.0,Martins(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Martins(2009)_298K_116.0-269.0nm.txt",Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  G. Martins, A.M. Ferreira-Rodrigues, F.N. Rodrigues, G.G.B.de Souza, N.J. Mason, S. Eden, D. Duflot, J.-P. Flament, S.V. Hoffmann, J. Delwiche, M.-J. Hubin-Franskin, and P. Limão-Vieira, ""Valence shell electronic spectroscopy of isoprene studied by theoretical calculations and by electron scattering, photoelectron, and absolute photoabsorption measurements"",
+  Phys. Chem. Chem. Phys. 11, 11219 - 11231 (2009); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Martins(2009)_298K_116.csv"
+298.0,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_298K_258-268nm.txt",Room-temperature absorption measurements in the wavelength region where only the s-cis conformer absorbs,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_298K_258-268nm.csv"
+418.5,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_418.5K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_418.csv"
+447.2,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_447.2K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_447.csv"
+474.4,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_474.4K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_474.csv"
+499.8,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_499.8K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_499.csv"
+519.4,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_519.4K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_519.csv"
+545.2,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_545.2K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_545.csv"
+566.3,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_566.3K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_566.csv"
+592.3,MuiGrunwald(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_592.3K_258-268nm.txt",High-temperature absorption measurements applied to investigate the conformational equilibrium (s-cis ↔ s-trans) in isoprene,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P.W. Mui and E. Grunwald, ""Enthalpy change for the s-trans to s-cis conformational equilibrium in 2-methyl-1,3-butadiene (isoprene), as studied by high-temperature ultraviolet absorption spectroscopy"",
+  J. Phys. Chem. 88, 6340-6344 (1984); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_MuiGrunwald(1984)_592.csv"
+296.0,Sahay(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2_Sahay(2013)_296K_261-275nm.txt",The weak absorption spectrum of isoprene has been measured in the wavelength range of 261–275 nm using cavity ringdown spectroscopy,CH2=C(CH3)CH=CH2,"2-methyl-1,3-butadiene, isoprene","
+
+  P. Sahay, S.T. Scherrer, and C. Wang, ""Measurements of the weak UV absorptions of isoprene and acetone at 261–275 nm using cavity ringdown spectroscopy for evaluation of a potential portable ringdown breath analyzer"",
+  Sensors 13, 8170-8187 (2013)
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C(CH3)CH=CH2/CH2=C(CH3)CH=CH2_Sahay(2013)_296K_261-275nm.csv"

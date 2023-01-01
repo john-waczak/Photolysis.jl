@@ -1,0 +1,57 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Christianson(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_Christianson(2021)_323K_125-240nm.txt,High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,C4H4O,furan,"
+
+  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_Christianson(2021)_323K_125-240nm.csv
+298.0,Holland(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_Holland(2015)_298K_70.445-225.422nm.txt,High-resolution (0.86 meV FWHM)) absorption measurements using a synchrotron radiation-based Fourier transform spectrometer,C4H4O,furan,"
+
+  D.M.P. Holland, E.A. Seddon, A.B. Trofimov, E.V. Gromov, M. Wormit, A. Dreuw, T. Korona, N.de Oliveira, L.E. Archer, and D. Joyeux, ""A study of the excited electronic states of normal and fully deuterated furan by photoabsorption spectroscopy and high-level ab initio calculations"",
+  J. Mol. Spectrosc. 315, 184-195 (2015); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_Holland(2015)_298K_70.csv
+298.0,Pickett(1951),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_Pickett(1951)_298K_161-222nm.txt,Photographic recording of the spectrum using a Hilger fluorite prism spectrograph with a hydrogen lamp,C4H4O,furan,"
+
+  L.W. Pickett, N.J. Hoeflich, and T.-C. Liu, ""The vacuum ultraviolet absorption spectra of cyclic ethers. II. Tetrahydrofuran, tetrahydropyran, 1,4-dioxane and furan"",
+  J. Am. Chem. Soc. 73, 4865-4869 (1951); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_Pickett(1951)_298K_161-222nm.csv
+298.0,Rennie(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_Rennie(1998)_298K_34.85-139.72nm.txt,Absorption measurements at a resolution of 25 meV FWHM using a double ion chamber and a synchrotron radiation source,C4H4O,furan,"
+
+  E.E. Rennie, C.A.F. Johnson, J.E. Parker, D.M.P. Holland, D.A. Shaw, M.A. MacDonald, M.A. Hayes, L.G. Shpinkova, ""A study of the spectroscopic and thermodynamic properties of furan by means of photoabsorption, photoelectron and photoion spectroscopy"",
+  Chem. Phys. 236, 365-385 (1998); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_Rennie(1998)_298K_34.csv
+298.0,WatanabeNakayama(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_WatanabeNakayama(1958)_298K_106.2-145.3nm.txt,Hydrogen discharge tube as a light source; vacuum monochromator at a resolution of ∼0.1 nm,C4H4O,furan,"
+
+  K. Watanabe and T. Nakayama, ""Absorption and photoionization coefficients of furan vapor"",
+  J. Chem. Phys. 29, 48-51 (1958); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_WatanabeNakayama(1958)_298K_106.csv
+298.0,WatanabeNakayama(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_WatanabeNakayama(1958)_298K_106-215nm.txt,"The digitized absorption spectra from Figs. 1, 2, and 3 have been concatenated",C4H4O,furan,"
+
+  K. Watanabe and T. Nakayama, ""Absorption and photoionization coefficients of furan vapor"",
+  J. Chem. Phys. 29, 48-51 (1958); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_WatanabeNakayama(1958)_298K_106-215nm.csv
+298.0,WatanabeNakayama(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_WatanabeNakayama(1958)_298K_135.1-171.2nm.txt,Hydrogen discharge tube as a light source; vacuum monochromator at a resolution of ∼0.1 nm,C4H4O,furan,"
+
+  K. Watanabe and T. Nakayama, ""Absorption and photoionization coefficients of furan vapor"",
+  J. Chem. Phys. 29, 48-51 (1958); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_WatanabeNakayama(1958)_298K_135.csv
+298.0,WatanabeNakayama(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H4O_WatanabeNakayama(1958)_298K_164.3-215.1nm.txt,Hydrogen discharge tube as a light source; vacuum monochromator at a resolution of ∼0.1 nm,C4H4O,furan,"
+
+  K. Watanabe and T. Nakayama, ""Absorption and photoionization coefficients of furan vapor"",
+  J. Chem. Phys. 29, 48-51 (1958); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H4O/C4H4O_WatanabeNakayama(1958)_298K_164.csv

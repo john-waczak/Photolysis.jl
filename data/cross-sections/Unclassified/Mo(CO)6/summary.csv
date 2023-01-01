@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,IversonRussell(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Mo(CO)6_IversonRussell(1970)_300K_139.5-228nm(max).txt,Absorption measurements using the continuous and many-line spectrum of molecular hydrogen as a light source,Mo(CO)6,molybdenum hexacarbonyl,"
+
+  A.A. Iverson and B.R. Russell, ""The vacuum ultraviolet spectra of three transition metal hexacarbonyls"",
+  Chem. Phys. Lett. 6, 307-311 (1970); 
+
+
+  DOI: ",data/cross-sections/Unclassified/Mo(CO)6/Mo(CO)6_IversonRussell(1970)_300K_139.csv
+298.0,Qi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Mo(CO)6_Qi(1997)_298K_40-120nm.txt,High-resolution (~0.3 nm) absorption measurements using synchrotron radiation as a light source,Mo(CO)6,molybdenum hexacarbonyl,"
+
+  F. Qi, X. Yang, S. Yang, F. Liu, L. Sheng, H. Gao, Y. Zhang, and S. Yu, ""The absolute cross sections of photoabsorption, photodissociation, and photoionization of the group VIB metal hexacarbonyls at 300–1600 Å"",
+  J. Chem. Phys. 106, 9474-9482 (1997); 
+
+
+  DOI: ",data/cross-sections/Unclassified/Mo(CO)6/Mo(CO)6_Qi(1997)_298K_40-120nm.csv

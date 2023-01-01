@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bridges(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H5SH_Bridges(1972)_298K_185-270nm.txt,Absorption measurements with a Cary spectrometer,C2H5SH,"ethanethiol, ethyl mercaptan","
+
+  L. Bridges, G.L. Hemphill, and J.M. White, ""Photochemistry of ethanethiol at 254 and 214 nm"",
+  J. Phys. Chem. 76, 2668-2673 (1972); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C2H5SH/C2H5SH_Bridges(1972)_298K_185-270nm.csv
+298.0,Bridges(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H5SH_Bridges(1972)_298K_214,254nm.txt",A low-pressure Hg resonance lamp (254 nm) and a low-pressure Zn resonance lamp (214 nm) were used as  the light sources for the photolysis of ethanethiol,C2H5SH,"ethanethiol, ethyl mercaptan","
+
+  L. Bridges, G.L. Hemphill, and J.M. White, ""Photochemistry of ethanethiol at 254 and 214 nm"",
+  J. Phys. Chem. 76, 2668-2673 (1972); 
+
+
+  DOI: ","data/cross-sections/Sulfur compounds/Organic S-compounds/C2H5SH/C2H5SH_Bridges(1972)_298K_214,254nm.csv"
+298.0,Wine(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H5SH_Wine(1984)_298K_202.6,213.9nm.txt",A Zn hollow cathode lamp was used as the light source,C2H5SH,"ethanethiol, ethyl mercaptan","
+
+  P.H. Wine, R.J. Thompson, and D.H. Semmes, ""Kinetics of OH reactions with aliphatic thiols"",
+  Int. J. Chem. Kinet. 16, 1623-1636 (1984); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C2H5SH/C2H5SH_Wine(1984)_298K_202.csv

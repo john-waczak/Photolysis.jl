@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH3CHI2_JPL-2010(2011)_298K_220-360nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH3CHI2,"1,1-diiodoethane","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH3CHI2/CH3CHI2_JPL-2010(2011)_298K_220-360nm(rec).csv"
+298.0,SchmittComes(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH3CHI2_SchmittComes(1980)_298K_220-360nm.txt",Absorption measurements using a double-beam spectrometer,CH3CHI2,"1,1-diiodoethane","
+
+  G. Schmitt and F.J. Comes, ""Photolysis of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH3CHI2/CH3CHI2_SchmittComes(1980)_298K_220-360nm.csv"

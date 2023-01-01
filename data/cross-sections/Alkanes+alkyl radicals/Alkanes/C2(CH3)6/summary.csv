@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2(CH3)6_RaymondaSimpson(1967)_298K_128.6-173.0nm.txt,"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",C2(CH3)6,hexamethylethane,"
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2(CH3)6/C2(CH3)6_RaymondaSimpson(1967)_298K_128.csv

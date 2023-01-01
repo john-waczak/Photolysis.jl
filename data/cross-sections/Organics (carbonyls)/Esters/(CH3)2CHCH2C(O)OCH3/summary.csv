@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Smialek(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/(CH3)2CHCH2C(O)OCH3_Smialek(2017)_298K_115-290nm.txt,High-resolution (0.075 nm) absorption measurements using synchrotron radiation as the light source,(CH3)2CHCH2C(O)OCH3,"isobutyl acetate, isobutyl ester","
+
+  M.A. Smialek, M. Labuda, M.-J. Hubin-Franskin, J. Delwiche, S.V. Hoffmann, N.C. Jones, N.J. Mason, and P. Limão-Vieira, ""Isobutyl acetate: electronic state spectroscopy by high-resolution vacuum ultraviolet photoabsorption, He(I) photoelectron spectroscopy and ab initio  calculations"",
+  Eur. Phys. J. D 71, 129 (2017); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/(CH3)2CHCH2C(O)OCH3/(CH3)2CHCH2C(O)OCH3_Smialek(2017)_298K_115-290nm.csv

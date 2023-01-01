@@ -1,0 +1,116 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+210.0,Gillotay(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Gillotay(1993)_210K_166-338nm(int-c).txt,Absorption measurements at 210 to 295 K using a classical double-beam equipment,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Ultraviolet absorption cross-sections of some carbonyl compounds and their temperature dependence"",
+  Aeronomica Acta A 368, 1-15 (1993)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Gillotay(1993)_210K_166-338nm(int-c).csv
+230.0,Gillotay(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Gillotay(1993)_230K_166-338nm(int-c).txt,Absorption measurements at 210 to 295 K using a classical double-beam equipment,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Ultraviolet absorption cross-sections of some carbonyl compounds and their temperature dependence"",
+  Aeronomica Acta A 368, 1-15 (1993)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Gillotay(1993)_230K_166-338nm(int-c).csv
+250.0,Gillotay(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Gillotay(1993)_250K_166-338nm(int-c).txt,Absorption measurements at 210 to 295 K using a classical double-beam equipment,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Ultraviolet absorption cross-sections of some carbonyl compounds and their temperature dependence"",
+  Aeronomica Acta A 368, 1-15 (1993)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Gillotay(1993)_250K_166-338nm(int-c).csv
+270.0,Gillotay(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Gillotay(1993)_270K_166-338nm(int-c).txt,Absorption measurements at 210 to 295 K using a classical double-beam equipment,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Ultraviolet absorption cross-sections of some carbonyl compounds and their temperature dependence"",
+  Aeronomica Acta A 368, 1-15 (1993)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Gillotay(1993)_270K_166-338nm(int-c).csv
+295.0,Gillotay(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Gillotay(1993)_295K_166-338nm(int-c).txt,Absorption measurements at 210 to 295 K using a classical double-beam equipment,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  D. Gillotay, P.C. Simon, and L. Dierickx, ""Ultraviolet absorption cross-sections of some carbonyl compounds and their temperature dependence"",
+  Aeronomica Acta A 368, 1-15 (1993)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Gillotay(1993)_295K_166-338nm(int-c).csv
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_IUPAC(2008)_298K_200-344nm(rec).txt,IUPAC(2008) recommendation:,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_IUPAC(2008)_298K_200-344nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_JPL-2010(2011)_298K_200-344nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_JPL-2010(2011)_298K_200-344nm(rec).csv
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Libuda(1992)_298K_233.1-358.5nm.txt,"Absorption measurements using a deuterium lamp, a modified 22 cm monochromator, and a diode array detector; spectral resolution 0.6 nm",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  H.G. Libuda, F. Zabel, and K.H. Becker, ""UV spectra of some organic chlorine and bromine compounds of atmospheric interest,"" presented at the Kinetics and Mechanisms for the Reactions of Halogenated Organic Compounds in the Troposphere. STEP-HALOCSIDE/AFEAS WORKSHOP, Dublin, Ireland, 1991,",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Libuda(1992)_298K_233.csv
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Libuda(1992)_298K_255-360nm(1nm).txt,"Absorption measurements using a deuterium lamp, a modified 22 cm monochromator, and a diode array detector; spectral resolution 0.6 nm",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  H.G. Libuda, F. Zabel, and K.H. Becker, ""UV spectra of some organic chlorine and bromine compounds of atmospheric interest,"" presented at the Kinetics and Mechanisms for the Reactions of Halogenated Organic Compounds in the Troposphere. STEP-HALOCSIDE/AFEAS WORKSHOP, Dublin, Ireland, 1991,",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Libuda(1992)_298K_255-360nm(1nm).csv
+298.0,LucazeauSandorfy(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_LucazeauSandorfy(1970)_298K_117.1-181.6nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  G. Lucazeau and C. Sandorfy, ""The far-ultraviolet spectra of some simple aldehydes"",
+  J. Mol. Spectrosc. 35, 214-231 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_LucazeauSandorfy(1970)_298K_117.csv
+298.0,LucazeauSandorfy(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_LucazeauSandorfy(1970)_298K_248.2-343.8nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  G. Lucazeau and C. Sandorfy, ""The far-ultraviolet spectra of some simple aldehydes"",
+  J. Mol. Spectrosc. 35, 214-231 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_LucazeauSandorfy(1970)_298K_248.csv
+298.0,OhtaMizoguchi(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_OhtaMizoguchi(1980)_298K_239.7-340.3nm.txt,Extinction coefficients plotted in Fig. 4 have been digitized and converted to absorption cross sections (conversion factor 3.8235× 10,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  T. Ohta and I. Mizoguchi, ""Determination of the mechanism of the oxidation of the trichloromethyl radical by the photolysis of chloral in the presence of oxygen"",
+  Int. J. Chem. Kinet. 12, 717-727  (1980)
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_OhtaMizoguchi(1980)_298K_239.csv
+243.0,Rattigan(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Rattigan(1993)_243K_200-360nm.txt,Averages over 5-nm intervals of the spectrum measured at a resolution of 1.2 nm (FWHM) using a dual-beam diode-array spectrometer,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  O.V. Rattigan, O. Wild, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Rattigan(1993)_243K_200-360nm.csv
+296.0,Rattigan(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Rattigan(1993)_296K_200-360nm.txt,Averages over 5-nm intervals of the spectrum measured at a resolution of 1.2 nm (FWHM) using a dual-beam diode-array spectrometer,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  O.V. Rattigan, O. Wild, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Rattigan(1993)_296K_200-360nm.csv
+298.0,Rattigan(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Rattigan(1998)_298K_200-360nm.txt,Absorption measurements at 243 to 298 K using a diode array spectrometer,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  O.V. Rattigan, O. Wild, and R.A. Cox, ""UV absorption cross-sections and atmospheric photolysis lifetimes of halogenated aldehydes"",
+  J. Photochem. Photobiol. A: Chem. 112, 1-7 (1998); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Rattigan(1998)_298K_200-360nm.csv
+240.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_240K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_240K_200-344nm(calc).csv
+260.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_260K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_260K_200-344nm(calc).csv
+280.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_280K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_280K_200-344nm(calc).csv
+298.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_298K_200-344nm(meas).txt,Absorption cross sections measured at 298 K and with a resolution of 1 nm (D,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_298K_200-344nm(meas).csv
+298.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_298K_213.9nm.txt,The absorption cross section was determined by slowly flowing the compound through a 25.4 cm or a 10 cm long absorption cell at a known pressure and measuring the absorbance,CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_298K_213.csv
+320.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_320K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_320K_200-344nm(calc).csv
+340.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_340K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_340K_200-344nm(calc).csv
+360.0,Talukdar(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CCl3CHO_Talukdar(2001)_360K_200-344nm(calc).txt,"Absorption measurements at 240, 260, 280, 298, 320, 340, and 360 K using a D",CCl3CHO,"trichloroacetaldehyde, chloral","
+
+  R.K. Talukdar, A. Mellouki, J.B. Burkholder, M.K. Gilles, G. Le Bras, and A.R. Ravishankara, ""Quantification of the tropospheric removal of chloral (CCl",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CCl3CHO/CCl3CHO_Talukdar(2001)_360K_200-344nm(calc).csv

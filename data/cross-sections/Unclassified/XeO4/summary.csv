@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+288.0,Aleinikov(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/XeO4_Aleinikov(1997)_288K_207-300nm.txt,Dual  beam spectrometer; wavelengths accuracy ±0.3 nm,XeO4,xenon tetroxide,"
+
+  N.N. Aleinikov, G.K. Vasiliev, S.A. Kashtanov, E.F. Makarov, and Yu. A. Chernishev, ""Absorption cross sections and products of photodissociation of xenon tetroxide"",
+  Chem. Phys. Lett. 267, 155-157 (1997); 
+
+
+  DOI: ",data/cross-sections/Unclassified/XeO4/XeO4_Aleinikov(1997)_288K_207-300nm.csv
+288.0,Aleinikov(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/XeO4_Aleinikov(1997)_288K_253.6nm.txt,Dual  beam spectrometer; wavelengths accuracy ±0.3 nm,XeO4,xenon tetroxide,"
+
+  N.N. Aleinikov, G.K. Vasiliev, S.A. Kashtanov, E.F. Makarov, and Yu. A. Chernishev, ""Absorption cross sections and products of photodissociation of xenon tetroxide"",
+  Chem. Phys. Lett. 267, 155-157 (1997); 
+
+
+  DOI: ",data/cross-sections/Unclassified/XeO4/XeO4_Aleinikov(1997)_288K_253.csv

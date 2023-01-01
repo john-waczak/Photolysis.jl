@@ -1,0 +1,51 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_295K_190-200nm.txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_295K_190-200nm.csv
+325.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_325K_190-200nm.txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_325K_190-200nm.csv
+337.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_337K_190-200nm(I).txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_337K_190-200nm(I).csv
+337.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_337K_190-200nm(II).txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_337K_190-200nm(II).csv
+355.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_355K_190-220nm.txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_355K_190-220nm.csv
+360.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_360K_190-200nm.txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_360K_190-200nm.csv
+375.0,Fahr(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Fahr(2003)_375K_190-200nm.txt,Data at 0.5-nm intervals from,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Fahr, ""UV spectrum and cross sections of vinyl bromide (C",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Fahr(2003)_375K_190-200nm.csv
+298.0,Hoxha(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Hoxha(2000)_298K_62-248nm.txt,Absorption measurements using synchrotron radiation,CH2=CHBr,"bromoethene, vinyl bromide","
+
+  A. Hoxha, R. Locht, B. Leyh, D. Dehareng, K. Hottmann, H.W. Jochims, and H. Baumgärtel, ""The photoabsorption and constant ionic state spectroscopy of vinylbromide"",
+  Chem. Phys. 260, 237-247 (2000); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Hoxha(2000)_298K_62-248nm.csv
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_JPL-2010(2011)_295K_180-254nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CH2=CHBr,"bromoethene, vinyl bromide","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_JPL-2010(2011)_295K_180-254nm(rec).csv
+295.0,Orkin(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_Orkin(2002)_295K_164-254nm.txt,"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm
+",CH2=CHBr,"bromoethene, vinyl bromide","
+
+  V.L. Orkin, F. Louis, R.E. Huie, M.J. Kurylo, ""Photochemistry of bromine-containing fluorinated alkenes: Reactivity toward OH and UV spectra"",
+  J. Phys. Chem. A 106, 10195-10199 (2002); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_Orkin(2002)_295K_164-254nm.csv
+298.0,SchanderRussell(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr_SchanderRussell(1976)_298K_111-209nm.txt,"The spectrum was obtained using a McPherson RS-225 1-m vacuum ultraviolet spectrophotometer equipped with a bipartite grating having 600 lines/mm, and the light source was a Hinteregger hydrogen discharge lamp, differentially pumped to allow windowless operation",CH2=CHBr,"bromoethene, vinyl bromide","
+
+  J. Schander and B.R. Russell, ""Vacuum ultraviolet spectra of bromoethylene and dibromoethylenes"",
+  J. Am. Chem. Soc. 98, 6900-6904 (1976); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CH2=CHBr/CH2=CHBr_SchanderRussell(1976)_298K_111-209nm.csv

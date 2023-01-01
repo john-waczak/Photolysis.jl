@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,ChenVenables(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C3H7_ChenVenables(2011)_296K_335.082-375.975nm.txt",The paper describes a novel incoherent broad-band cavity-enhanced absorption spectroscopy (IBBCEAS) instrument for measuring very weak absorption spectra from 335 to 375 nm; the resolution is 0.31 nm at 365 nm,CH3C(O)C3H7,"methyl n-propyl ketone, 2-pentanone","
+
+  J. Chen and D.S. Venables, ""A broadband optical cavity spectrometer for measuring weak near-ultraviolet absorption spectra of gases"",
+  Atmos. Meas. Tech. 4, 425-436 (2011); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C3H7/CH3C(O)C3H7_ChenVenables(2011)_296K_335.csv"
+298.0,Horowitz(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C3H7_Horowitz(1999)_298K_210-360nm.txt",Spectral resolution 0.07 nm,CH3C(O)C3H7,"methyl n-propyl ketone, 2-pentanone","
+
+  A. Horowitz, ""Absorption cross sections of 2-pentanone, 3-pentanone, and 3-hexanone"",
+  unpublished data (1999) of the Max-Planck-Institut für Chemie, Mainz, Germany
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C3H7/CH3C(O)C3H7_Horowitz(1999)_298K_210-360nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C3H7_Ito(1969)_298K_165-200nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C3H7,"methyl n-propyl ketone, 2-pentanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C3H7/CH3C(O)C3H7_Ito(1969)_298K_165-200nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C3H7_Ito(1969)_298K_170.7-195.0nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C3H7,"methyl n-propyl ketone, 2-pentanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C3H7/CH3C(O)C3H7_Ito(1969)_298K_170.csv"
+300.0,Martinez(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C3H7_Martinez(1992)_300K_202-354nm.txt",Absorption measurements were made on a u.v.-visible spectrophotometer with a spectral resolution of 0.50 nm,CH3C(O)C3H7,"methyl n-propyl ketone, 2-pentanone","
+
+  R.D. Martinez, A.A. Buitrago, N.W. Howell, C.H. Hearn, and J.A. Joens, ""The near UV absorption spectra of several aliphatic aldehydes and ketones"",
+  Atmos. Environ. 26A, 785-792 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C3H7/CH3C(O)C3H7_Martinez(1992)_300K_202-354nm.csv"

@@ -1,0 +1,32 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,CadmanSimons(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)_CadmanSimons(1966)_298K_209.9-257.0nm.txt",Extinction coefficients ε,CH2ClBr(Halon-1011),chlorobromomethane (Halon-1011),"
+
+  P. Cadman and J.P. Simon, ""Reactions of hot halomethyl radicals"",
+  Trans. Faraday Soc. 62, 631-641 (1966); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)/CH2ClBr(Halon-1011)_CadmanSimons(1966)_298K_209.csv"
+295.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)_JPL-2010(2011)_295K_187-290nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH2ClBr(Halon-1011),chlorobromomethane (Halon-1011),"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)/CH2ClBr(Halon-1011)_JPL-2010(2011)_295K_187-290nm(rec).csv"
+295.0,Orkin(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)_Orkin(1997)_295K_164-290nm.txt",The spectrum was recorded with an increment of 0.1-0.5 nm and a spectral slit width ranging from 0.2 to 1.0 nm using a double-beam diffraction spectrophotometer,CH2ClBr(Halon-1011),chlorobromomethane (Halon-1011),"
+
+  V.L. Orkin, V.G. Khamaganov, A.G. Guschin, R.E. Huie, and M.J. Kurylo, ""Atmospheric fate of chlorobromomethane: Rate constant for the reaction with OH, UV spectrum, and water solubility"",
+  J. Phys. Chem. A 101, 174-178 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)/CH2ClBr(Halon-1011)_Orkin(1997)_295K_164-290nm.csv"
+295.0,Orkin(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)_Orkin(1997)_295K_187-290nm.txt","The spectrum was recorded with an increment of 0.1-0.5 nm and a spectral slit width
+ranging from 0.2 to 1.0 nm using a double-beam diffraction spectrophotometer
+
+",CH2ClBr(Halon-1011),chlorobromomethane (Halon-1011),"
+
+  V.L. Orkin, V.G. Khamaganov, A.G. Guschin, R.E. Huie, and M.J. Kurylo, ""Atmospheric fate of chlorobromomethane: Rate constant for the reaction with OH, UV spectrum, and water solubility"",
+  J. Phys. Chem. A 101, 174-178 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CH2ClBr(Halon-1011)/CH2ClBr(Halon-1011)_Orkin(1997)_295K_187-290nm.csv"

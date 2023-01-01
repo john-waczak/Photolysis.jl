@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+2000.0,Cobos(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkynes+radicals/CF_Cobos(2018)_2000K_200-285nm(upper%20limits).txt,The thermal unimolecular dissociation of CH,CF,"fluoromethylidyne, fluorocarbyne","
+
+  C.J. Cobos, G. Knight, L. Sölter, E. Tellbach, and J. Troe, ""Experimental and modelling study of the multichannel thermal dissociations of CH",data/cross-sections/Halogeno-alkynes+radicals/CF/CF_Cobos(2018)_2000K_200-285nm(upper limits).csv

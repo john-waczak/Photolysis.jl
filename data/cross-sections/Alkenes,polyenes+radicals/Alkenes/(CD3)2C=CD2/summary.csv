@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CD3)2C=CD2_Bertrand(1975)_298K_123.6nm.txt",Kr resonance line as as a light source,(CD3)2C=CD2,"isobutene-d8, 2-methylpropene-d8","
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CD3)2C=CD2/(CD3)2C=CD2_Bertrand(1975)_298K_123.csv"

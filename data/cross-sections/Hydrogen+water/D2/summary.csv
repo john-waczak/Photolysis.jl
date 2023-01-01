@@ -1,0 +1,52 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Brolley(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Brolley(1973)_298K_58.4nm.txt,Helium discharge as a radiation source,D2,deuterium,"
+
+  J.E. Brolley, L.E. Porter, R.H. Sherman, J.K. Theobald, and J.C. Fong, ""Photoabsorption cross sections of H",data/cross-sections/Hydrogen+water/D2/D2_Brolley(1973)_298K_58.csv
+298.0,CookMetzger(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_CookMetzger(1964)_298K_78.30-84.89nm.txt,Absorption measurements at a spectral resolution of 0.05 nm using the Hopfield-continuum light source,D2,deuterium,"
+
+  G.R. Cook and P.H. Metzger, ""Photoionization and absorption cross sections of H",data/cross-sections/Hydrogen+water/D2/D2_CookMetzger(1964)_298K_78.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_74.00-74.85nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_74.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_74.83-74.91nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_74.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_74.90-75.06nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_74.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_75.04-75.94nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_75.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_75.92-76.53nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_75.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_76.50-77.09nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_76.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_77.07-77.77nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_77.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_77.74-78.34nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_77.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_78.32-79.01nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_78.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_78.99-79.59nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_78.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_79.57-79.90nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_79.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_79.89-80.18nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_79.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_80.17-80.25nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_80.csv
+298.0,Glass-Maujean(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Glass-Maujean(2015)_298K_80.24-81.00nm.txt,Absorption measurements at high resolution (0.001 nm) using synchrotron radiation as a light source and a 10 m-normal incidence monochromator equipped with a 4800 lines /mm grating,D2,deuterium,"
+
+  M. Glass-Maujean, A.-M. Vasserot, C. Jungen, H. Schmoranzer, A. Knie, S. Kubler, and A. Ehresmann, ""Experimental and theoretical study of the npπ ",data/cross-sections/Hydrogen+water/D2/D2_Glass-Maujean(2015)_298K_80.csv
+298.0,Lee(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2_Lee(1976)_298K_18-70nm.txt,Absorption measurements using synchrotron radiation; spectral resolution ∼0.1nm,D2,deuterium,"
+
+  L.C. Lee, R.W. Carlson, and D.L. Judge, ""The absorption cross sections of H",data/cross-sections/Hydrogen+water/D2/D2_Lee(1976)_298K_18-70nm.csv

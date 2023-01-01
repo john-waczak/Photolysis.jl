@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BettsBack(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH2OH_BettsBack(1965)_298K_157-225nm(meas).txt",Absorption measurements using a silica cell attached to a vacuum grating monochromator equipped with a photomultiplier detector,NH2OH,hydroxylamine,"
+
+  J. Betts and R.A. Back, ""Photolysis and mercury-photosensitited decomposition of hydroxylamine vapor"",
+  Can. J. Chem. 43, 2678-2684 (1965); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH2OH/NH2OH_BettsBack(1965)_298K_157-225nm(meas).csv"
+298.0,BettsBack(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NH2OH_BettsBack(1965)_298K_157-225nm(smoo).txt",Absorption measurements using a silica cell attached to a vacuum grating monochromator equipped with a photomultiplier detector,NH2OH,hydroxylamine,"
+
+  J. Betts and R.A. Back, ""Photolysis and mercury-photosensitited decomposition of hydroxylamine vapor"",
+  Can. J. Chem. 43, 2678-2684 (1965); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/NH2OH/NH2OH_BettsBack(1965)_298K_157-225nm(smoo).csv"

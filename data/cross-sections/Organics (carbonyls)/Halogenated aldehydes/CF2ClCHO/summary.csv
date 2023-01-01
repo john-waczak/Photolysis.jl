@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF2ClCHO_IUPAC(2008)_298K_235-370nm(rec).txt,IUPAC(2008) recommendation:,CF2ClCHO,chlorodifluoroacetaldehyde,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF2ClCHO/CF2ClCHO_IUPAC(2008)_298K_235-370nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF2ClCHO_JPL-2010(2011)_298K_235-370nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CF2ClCHO,chlorodifluoroacetaldehyde,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF2ClCHO/CF2ClCHO_JPL-2010(2011)_298K_235-370nm(rec).csv
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF2ClCHO_Libuda(1992)_298K_235-360nm(0.07nm).txt,The spectrum was recorded at a resolution of 0.6 nm,CF2ClCHO,chlorodifluoroacetaldehyde,"
+
+  H.G. Libuda, ""Spektroskopische und kinetische Untersuchungen an halogenierten Carbonylverbindungen von atmosphärischem Interesse"",
+  PhD-Thesis, Univ. Wuppertal, 1992
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF2ClCHO/CF2ClCHO_Libuda(1992)_298K_235-360nm(0.csv
+298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF2ClCHO_Libuda(1992)_298K_241-359nm(1nm).txt,Averages over 1-nm intervals of the medium-resolution (0.6 nm) spectrum have been obtained by personal communication from H.G. Libuda (1994),CF2ClCHO,chlorodifluoroacetaldehyde,"
+
+  H.G. Libuda, ""Spektroskopische und kinetische Untersuchungen an halogenierten Carbonylverbindungen von atmosphärischem Interesse"",
+  PhD-Thesis, Univ. Wuppertal, 1992
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF2ClCHO/CF2ClCHO_Libuda(1992)_298K_241-359nm(1nm).csv
+298.0,Rattigan(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF2ClCHO_Rattigan(1998)_298K_235-370nm.txt,Absorption measurements at 243 to 298 K using a diode array spectrometer,CF2ClCHO,chlorodifluoroacetaldehyde,"
+
+  O.V. Rattigan, O. Wild, and R.A. Cox, ""UV absorption cross-sections and atmospheric photolysis lifetimes of halogenated aldehydes"",
+  J. Photochem. Photobiol. A: Chem. 112, 1-7 (1998); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF2ClCHO/CF2ClCHO_Rattigan(1998)_298K_235-370nm.csv

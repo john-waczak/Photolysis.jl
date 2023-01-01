@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+348.0,Aslan(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3_Aslan(2017)_348K_220-358nm.txt",The UV absorption spectrum of 4H4M2P in the gas phase was measured using a deuterium lamp plus monochromator and photomultiplier (PM) device (spectral resolution 0.1 nm),(CH3)2C(OH)CH2C(O)CH3,"4-hydroxy-4-methyl-2-pentanone , 4H4M2P, diacetone alcohol","
+
+  L. Aslan, H. Laversin, P. Coddeville, C. Fittschen, E. Roth, A. Tomas, and A. Chakir, ""Kinetics of the photolysis and OH reaction of 4-hydroxy-4-methyl-2-pentanone: Atmospheric implications"",
+   Atmos. Environ. 150, 256-263 (2017); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3/(CH3)2C(OH)CH2C(O)CH3_Aslan(2017)_348K_220-358nm.csv"
+303.0,Magneron(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_213.8nm.txt",Absorption measurents using a Zn pen-ray lamp and a photodiode with a filter at 213.8 nm,(CH3)2C(OH)CH2C(O)CH3,"4-hydroxy-4-methyl-2-pentanone , 4H4M2P, diacetone alcohol","
+
+  I. Magneron,  V. Bossoutrot, A. Mellouki, G. Laverdet, and G. Le Bras, ""The OH-initiated oxidation of hexylene glycol and diacetone alcohol"",
+   Environ. Sci. Technol. 37, 4170-4181 (2003); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_213.csv"
+303.0,Magneron(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_234-330nm.txt","The collimated output of a deuterium lamp passed through an absorption cell and was focused onto the entrance slit of a spectrograph equipped with a 1800 grooves/mm grating, which dispersed the radiation onto a 1024 element diode array detector (resolution 0.04 nm)",(CH3)2C(OH)CH2C(O)CH3,"4-hydroxy-4-methyl-2-pentanone , 4H4M2P, diacetone alcohol","
+
+  I. Magneron,  V. Bossoutrot, A. Mellouki, G. Laverdet, and G. Le Bras, ""The OH-initiated oxidation of hexylene glycol and diacetone alcohol"",
+   Environ. Sci. Technol. 37, 4170-4181 (2003); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_234-330nm.csv"
+303.0,Magneron(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_254nm.txt",Absorption measurents using a Hg pen-ray lamp and a photodiode with a filter at 254 nm,(CH3)2C(OH)CH2C(O)CH3,"4-hydroxy-4-methyl-2-pentanone , 4H4M2P, diacetone alcohol","
+
+  I. Magneron,  V. Bossoutrot, A. Mellouki, G. Laverdet, and G. Le Bras, ""The OH-initiated oxidation of hexylene glycol and diacetone alcohol"",
+   Environ. Sci. Technol. 37, 4170-4181 (2003); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/(CH3)2C(OH)CH2C(O)CH3/(CH3)2C(OH)CH2C(O)CH3_Magneron(2003)_303K_254nm.csv"

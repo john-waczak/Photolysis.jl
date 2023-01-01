@@ -1,0 +1,34 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Cheng(2006)_298K_140-226nm(0.02nm).txt",The absorption spectra of NH,NHD2,ammonia-d2,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Cheng(2006)_298K_140-226nm(0.csv"
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Cheng(2006)_298K_143.98-168.66nm(B-X).txt",The absorption spectra of NH,NHD2,ammonia-d2,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Cheng(2006)_298K_143.csv"
+298.0,Cheng(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Cheng(2006)_298K_169.54-215.14nm(A-X).txt",The absorption spectra of NH,NHD2,ammonia-d2,"
+
+  B.-M. Cheng, H.-C. Lu, H.-K. Chen, M. Bahou, Y.-P. Lee, A.M. Mebel, L.C. Lee, M.-C. Liang, and Y.L. Yung, ""Absorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Cheng(2006)_298K_169.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_106-144nm(0.02nm).txt",The absorption spectra of NH,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_106-144nm(0.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_111.96-128.80nm(G-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_111.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_114.68-128.66nm(F-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_114.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_116.78-133.00nm(E-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_116.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_124.91-143.34nm(D-X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_124.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_128.10-139.04nm(D%20III%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_128.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_128.96-142-70nm(D%20I%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_128.csv"
+295.0,Wu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/NHD2_Wu(2007)_295K_129.06-142.78nm(D%20II%20-%20X).txt",High-resolution (0.02 nm) absorption spectrum measured using synchrotron radiation,NHD2,ammonia-d2,"
+
+  Y.-J. Wu, H.-C. Lu, H.-K. Chen, and B.-M. Cheng, ""Photoabsorption cross sections of NH","data/cross-sections/Nitrogen+compounds(N,H,O)/NHD2/NHD2_Wu(2007)_295K_129.csv"

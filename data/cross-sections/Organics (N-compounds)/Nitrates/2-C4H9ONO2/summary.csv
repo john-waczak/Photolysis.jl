@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/2-C4H9ONO2_IUPAC(2006)_298K_250-320nm(rec).txt,IUPAC(2006) recommendation:,2-C4H9ONO2,2-butyl nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/2-C4H9ONO2/2-C4H9ONO2_IUPAC(2006)_298K_250-320nm(rec).csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/2-C4H9ONO2_RobertsFajer(1989)_298K_254.2-320.3nm(meas).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,2-C4H9ONO2,2-butyl nitrate,"
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/2-C4H9ONO2/2-C4H9ONO2_RobertsFajer(1989)_298K_254.csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/2-C4H9ONO2_RobertsFajer(1989)_298K_270-322nm(fit).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,2-C4H9ONO2,2-butyl nitrate,"
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/2-C4H9ONO2/2-C4H9ONO2_RobertsFajer(1989)_298K_270-322nm(fit).csv

@@ -1,0 +1,23 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Chiappero(2006)_297K_230-365nm(5nm).txt,Diode array spectrometer operated at a resolution of 1 nm,C3F7CHO,heptafluorobutyraldehyde,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Chiappero(2006)_297K_230-365nm(5nm).csv
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Chiappero(2006)_297K_230-367nm(1nm).txt,Diode array spectrometer operated at a resolution of 1 nm,C3F7CHO,heptafluorobutyraldehyde,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Chiappero(2006)_297K_230-367nm(1nm).csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Hashikawa(2004)_296K_185-500nm(1nm).txt,UV absorption spectra of C,C3F7CHO,heptafluorobutyraldehyde,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Hashikawa(2004)_296K_185-500nm(1nm).csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Hashikawa(2004)_296K_250-350nm(10nm).txt,UV absorption spectra of C,C3F7CHO,heptafluorobutyraldehyde,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Hashikawa(2004)_296K_250-350nm(10nm).csv
+298.0,Pritchard(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Pritchard(1962)_298K_319nm(max).txt,Absorption maximum : Extinction coefficient has been converted to absorption cross section; conversion factor 3.8235×10,C3F7CHO,heptafluorobutyraldehyde,"
+
+  G.O. Pritchard, G.H. Miller, and J.K. Foote, ""The hydrogen-abstraction reactions in the photolysis of pentafluoropropanal and heptafluorobutanal"",
+  Can. J. Chem. 40, 1830-1835 (1962); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Pritchard(1962)_298K_319nm(max).csv
+298.0,Solignac(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C3F7CHO_Solignac(2007)_298K_230-365nm.txt,The optical set-up utilized a D,C3F7CHO,heptafluorobutyraldehyde,"
+
+  G. Solignac, A. Mellouki, G. Le Bras, M. Yujing, and H. Sidebottom, ""The gas phase tropospheric removal of fluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C3F7CHO/C3F7CHO_Solignac(2007)_298K_230-365nm.csv

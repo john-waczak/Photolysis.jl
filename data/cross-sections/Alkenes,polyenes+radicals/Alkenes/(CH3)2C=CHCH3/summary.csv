@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3_Bertrand(1975)_298K_123.6,147.0nm.txt",Kr and Xe resonance lines as light sources,(CH3)2C=CHCH3,"2-methyl-2-butene, trimethylethene","
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3/(CH3)2C=CHCH3_Bertrand(1975)_298K_123.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3_JonesTaylor(1955)_298K_168-208nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",(CH3)2C=CHCH3,"2-methyl-2-butene, trimethylethene","
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3/(CH3)2C=CHCH3_JonesTaylor(1955)_298K_168-208nm.csv"
+298.0,Semenow(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3_Semenow(1954)_298K_154.7-219.6nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",(CH3)2C=CHCH3,"2-methyl-2-butene, trimethylethene","
+
+  D. Semenow, A.J. Harrison, and E.P. Carr, ""Absorption intensities of the isomeric pentenes in the vacuum ultraviolet"",
+  J. Chem. Phys. 22, 638-642 (1954); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CHCH3/(CH3)2C=CHCH3_Semenow(1954)_298K_154.csv"

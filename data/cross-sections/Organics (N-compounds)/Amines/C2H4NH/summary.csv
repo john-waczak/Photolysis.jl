@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Basch(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H4NH_Basch(1969)_298K_111.1-213.8nm.txt,Absorption measurements using a D,C2H4NH,"ethyleneimine, azacyclopropane, aziridine","
+
+  H. Basch, M.B. Robin, N.A. Kuebler, C. Baker, and D.W. Turner, ""Optical and photoelectron spectra of small rings. III. The saturated three-membered rings"",
+  J. Chem. Phys. 51, 52-66 (1969); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C2H4NH/C2H4NH_Basch(1969)_298K_111.csv
+298.0,ClarkPickett(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H4NH_ClarkPickett(1976)_298K_164.8-184.0nm.txt,Absorption measurements were made on flowing vapor samples with a Hilger fluorite prism vacuum spectrograph,C2H4NH,"ethyleneimine, azacyclopropane, aziridine","
+
+  P.A. Clark, and L.W. Pickett, ""The vacuum ultraviolet spectra of ethyleneimine and trimethyleneimine"",
+  J. Chem. Phys. 64, 2062-2064 (1976); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C2H4NH/C2H4NH_ClarkPickett(1976)_298K_164.csv

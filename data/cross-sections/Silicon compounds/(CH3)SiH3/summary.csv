@@ -1,0 +1,16 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Alexander(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)SiH3_Alexander(1972)_298K_135.1-165.6nm.txt,"Absorption measurements using a vacuum UV double beam spectrophotometer and the continuum of a deuterium discharge lamp as a light source
+",(CH3)SiH3,methylsilane,"
+
+  A.G. Alexander, O.P. Strausz, R. Pottier, and G.P. Semeluk, ""The vacuum ultraviolet spectra of methylated silanes"",
+  Chem. Phys. Lett. 13, 608-609 (1972); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)SiH3/(CH3)SiH3_Alexander(1972)_298K_135.csv
+298.0,Roberge(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)SiH3_Roberge(1978)_298K_120.2-175.5nm.txt,Absorption measurements using a vacuum uv spectrometer with a hydrogen discharge source,(CH3)SiH3,methylsilane,"
+
+  R. Roberge, C. Sandorfy, J.I. Matthews, and O.P. Strausz, ""The far ultraviolet and He I photoelectron spectra of alkyl and fluorine substituted silane derivatives"",
+  J. Chem. Phys. 69, 5105-5112 (1978); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)SiH3/(CH3)SiH3_Roberge(1978)_298K_120.csv

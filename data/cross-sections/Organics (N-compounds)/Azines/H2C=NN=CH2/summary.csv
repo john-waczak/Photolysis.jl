@@ -1,0 +1,18 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HorneNorrish(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azines/H2C=NN=CH2_HorneNorrish(1970)_298K_202-333nm.txt,Absorption measurements using a Unicam SP 800 spectrometer,H2C=NN=CH2,"methanal azine, formaldazine","
+
+  D.G. Horne and R.G.W. Norrish, ""The photolysis of acyclic azines and the electronic spectra of R",data/cross-sections/Organics (N-compounds)/Azines/H2C=NN=CH2/H2C=NN=CH2_HorneNorrish(1970)_298K_202-333nm.csv
+298.0,OgilvieHorne(1968),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azines/H2C=NN=CH2_OgilvieHorne(1968)_298K_193,226.5,290nm(max).txt",Maxima of the absorption spectrum recorded on a  Unicam SP800C double-beam prism spectrophotometer with fused silica optics,H2C=NN=CH2,"methanal azine, formaldazine","
+
+  J.F. Ogilvie and D.G. Horn, ""Electronic absorption spectra of methanal azine and the methyleniminyl free radical"",
+  J. Chem. Phys. 48, 2248-2256 (1968);
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azines/H2C=NN=CH2/H2C=NN=CH2_OgilvieHorne(1968)_298K_193,226.csv"
+298.0,OgilvieHorne(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azines/H2C=NN=CH2_OgilvieHorne(1968)_298K_209.6-366.9nm.txt,Absorption spectrum recorded on a  Unicam SP800C double-beam prism spectrophotometer with fused silica optics,H2C=NN=CH2,"methanal azine, formaldazine","
+
+  J.F. Ogilvie and D.G. Horn, ""Electronic absorption spectra of methanal azine and the methyleniminyl free radical"",
+  J. Chem. Phys. 48, 2248-2256 (1968);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Azines/H2C=NN=CH2/H2C=NN=CH2_OgilvieHorne(1968)_298K_209.csv

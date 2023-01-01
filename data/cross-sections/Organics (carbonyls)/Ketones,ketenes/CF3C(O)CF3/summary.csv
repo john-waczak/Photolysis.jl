@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Giacometti(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CF3C(O)CF3_Giacometti(1959)_296K_253.7-334.0nm.txt",Molar extinction coefficients listed in Table 1 have been converted to absorption cross sections using factor 3.8235×10,CF3C(O)CF3,hexafluoroacetone,"
+
+  G. Giacometti, H. Okabe, and E.W.R. Steacie, ""The wavelength- and temperature-dependence of the fluorescence efficiency and of the primary photochemical yield in hexafluoroacetone vapour"",
+  Proc. Roy. Soc. London A 250, 287-300 (1959); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CF3C(O)CF3/CF3C(O)CF3_Giacometti(1959)_296K_253.csv"
+298.0,Inel(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CF3C(O)CF3_Inel(1993)_298K_147nm.txt","Absorption coefficient k (atm, 298K)",CF3C(O)CF3,hexafluoroacetone,"
+
+  Y. Inel, ""Absorption coefficient determination of nitrogen trifluoride at 147 nm"",
+  J. Photochem Photobiol. A: Chem. 70, 1-3 (1993); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CF3C(O)CF3/CF3C(O)CF3_Inel(1993)_298K_147nm.csv"
+298.0,MagenheimerTimmons(1970),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CF3C(O)CF3_MagenheimerTimmons(1970)_298K_147nm.txt","Absorption coefficient k(atm, 298 K)",CF3C(O)CF3,hexafluoroacetone,"
+
+  J.J. Magenheimer and R.B. Timmons, ""Photolysis of hexafluoroacetone at 1470 Å. A convenient vacuum-ultraviolet chemical actinometer"",
+  J. Chem. Phys.. 52, 2790-2791 (1970); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CF3C(O)CF3/CF3C(O)CF3_MagenheimerTimmons(1970)_298K_147nm.csv"

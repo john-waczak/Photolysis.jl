@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Braun(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)_Braun(1991)_298K_160-210nm.txt",Corrections for obvious misprints in Table 2 (as compared with Fig. 1):,CF2ClCF2CHFCl(HCFC-225cb),"1,1,2,2,3-pentafluoro-1,3-dichloropropane (HCFC-225cb)","
+
+  W. Braun, A. Fahr, R. Klein, M.J. Kurylo, and R.E. Huie, ""UV gas and liquid phase absorption cross section measuements of hydrofluorochlorocarbons HCFC-225ca and HCFC-225cb"",
+  J. Geophys. Res. 96(D7), 13009-13015 (1991); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)/CF2ClCF2CHFCl(HCFC-225cb)_Braun(1991)_298K_160-210nm.csv"
+298.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)_IUPAC(2008)_298K_160-210nm(rec).txt",IUPAC(2008) recommendation:,CF2ClCF2CHFCl(HCFC-225cb),"1,1,2,2,3-pentafluoro-1,3-dichloropropane (HCFC-225cb)","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)/CF2ClCF2CHFCl(HCFC-225cb)_IUPAC(2008)_298K_160-210nm(rec).csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)_JPL-2010(2011)_298K_160-210nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CF2ClCF2CHFCl(HCFC-225cb),"1,1,2,2,3-pentafluoro-1,3-dichloropropane (HCFC-225cb)","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)/CF2ClCF2CHFCl(HCFC-225cb)_JPL-2010(2011)_298K_160-210nm(rec).csv"
+298.0,JPL-97(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)_JPL-97(1997)_298K_160-210nm(rec).txt",JPL-97 recommendation:,CF2ClCF2CHFCl(HCFC-225cb),"1,1,2,2,3-pentafluoro-1,3-dichloropropane (HCFC-225cb)","
+
+  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
+  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCF2CHFCl(HCFC-225cb)/CF2ClCF2CHFCl(HCFC-225cb)_JPL-97(1997)_298K_160-210nm(rec).csv"

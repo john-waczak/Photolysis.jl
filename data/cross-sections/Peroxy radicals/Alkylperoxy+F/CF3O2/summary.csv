@@ -1,0 +1,20 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3O2_JPL-2010(2011)_295K_191.1-275.9nm(rec).txt,JPL-2010 recommendation:,CF3O2,trifluoromethylperoxy radical,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3O2/CF3O2_JPL-2010(2011)_295K_191.csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3O2_MaricqSzente(1992)_295K_190-341nm(0.5nm).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of CF,CF3O2,trifluoromethylperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3O2/CF3O2_MaricqSzente(1992)_295K_190-341nm(0.csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3O2_MaricqSzente(1992)_295K_191-276nm(corr).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of CF,CF3O2,trifluoromethylperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3O2/CF3O2_MaricqSzente(1992)_295K_191-276nm(corr).csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3O2_MaricqSzente(1992)_295K_191-276nm(uncorr).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of CF,CF3O2,trifluoromethylperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3O2/CF3O2_MaricqSzente(1992)_295K_191-276nm(uncorr).csv
+295.0,Nielsen(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3O2_Nielsen(1992)_295K_215-270nm.txt,A pulse radiolysis (SF,CF3O2,trifluoromethylperoxy radical,"
+
+  O.J. Nielsen, T. Ellermann, J. Sehested, E. Bartkiewicz, T.J. Wallington, and M.D. Hurley, ""UV absorption spectra, kinetics, and mechanisms of the self reaction of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3O2/CF3O2_Nielsen(1992)_295K_215-270nm.csv

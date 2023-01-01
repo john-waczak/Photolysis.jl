@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bolovinos(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,3,5-C3H3N3_Bolovinos(1984)_298K_135.1-318.0nm.txt","Absorption measurement using a Rank-Hilger 776 monochromator, a McPherson hydrogen light source, a dual-beam sample chamber, and a detection system (spectral resolution 0.25  nm)","1,3,5-C3H3N3","1,3,5-triazine, s-triazine","
+
+  A. Bolovinos, P. Tsekeris, J. Philis, E. Pantos, and G. Andritsopoulos, ""Absolute vacuum ultraviolet absorption spectra of some gaseous azabenzenes"",
+  J. Mol. Spectrosc. 103 (1984) 240-256; 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,3,5-C3H3N3/1,3,5-C3H3N3_Bolovinos(1984)_298K_135.csv"
+298.0,Holland(2016),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,3,5-C3H3N3_Holland(2016)_298K_31.82-278.75nm.txt",Absorption measurements at a resolution of 0.1 nm FWHM using synchrotron radiation,"1,3,5-C3H3N3","1,3,5-triazine, s-triazine","
+
+  D.M.P. Holland, D.A. Shaw, M. Stener, P. Decleva, and S. Coriani, ""A study of the valence shell electronic states of s-triazine by photoabsorption spectroscopy and ab initio calculations"",
+  Chem. Phys. 477, 96-104 (2016); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,3,5-C3H3N3/1,3,5-C3H3N3_Holland(2016)_298K_31.csv"

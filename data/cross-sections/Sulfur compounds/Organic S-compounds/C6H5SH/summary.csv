@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C6H5SH_KimuraNagakura(1965)_298K_159.1-249.7nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5SH,thiophenol,"
+
+  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
+  Mol. Phys. 9, 117-135 (1965); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C6H5SH/C6H5SH_KimuraNagakura(1965)_298K_159.csv
+298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C6H5SH_Mangini(1967)_298K_205.81-293.37nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5SH,thiophenol,"
+
+  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
+  J. Chem. Soc. B 1967, 153-165; 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C6H5SH/C6H5SH_Mangini(1967)_298K_205.csv
+298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C6H5SH_Mangini(1967)_298K_230.79-289.35nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5SH,thiophenol,"
+
+  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
+  J. Chem. Soc. B 1967, 153-165; 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C6H5SH/C6H5SH_Mangini(1967)_298K_230.csv

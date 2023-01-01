@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,Jorand(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Ketohydroperoxides/CH3C(O)CH2CH(OOH)C2H5,C2H5C(O)CH2CH(OOH)CH3(sol)_Jorand(2000)_300K_190-350nm.txt",A mixture of CH,"CH3C(O)CH2CH(OOH)C2H5,C2H5C(O)CH2CH(OOH)CH3(sol)",2-hexanone-4-hydroperoxide/3-hexanone-5-hydroperoxide mixture,"
+
+  F. Jorand, L. Kerhoas, A. Heiss, J. Einhorn, and K. Sahetchian, ""Determination of the ultraviolet absorption cross section of hexyl-ketohydroperoxides in solution in acetonitrile"",
+  J. Photochem. Photobiol. A: Chem. 134, 119-125 (2000); 
+
+
+  DOI: ","data/cross-sections/Peroxides/Ketohydroperoxides/CH3C(O)CH2CH(OOH)C2H5,C2H5C(O)CH2CH(OOH)CH3(sol)/CH3C(O)CH2CH(OOH)C2H5,C2H5C(O)CH2CH(OOH)CH3(sol)_Jorand(2000)_300K_190-350nm.csv"

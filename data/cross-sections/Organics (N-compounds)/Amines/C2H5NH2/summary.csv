@@ -1,0 +1,35 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Hubin-Franskin(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H5NH2_Hubin-Franskin(2002)_298K_137-241nm.txt,High-resolution (0.05 nm) UV-VUV photon absorption spectrum recorded at 5.0-9.0 eV using synchrotron radiation,C2H5NH2,ethylamine,"
+
+  M.-J. Hubin-Franskin, J. Delwiche, A. Giuliani, M.-P. Ska, F. Motte-Tollet, I.C. Walker, N.J. Mason, J.M. Gingell, and N.C. Jones, ""Electronic excitation and optical cross sections of methylamine and ethylamine in the UV-VUV spectral region"",
+  J. Chem. Phys. 116, 9261-9268 (2002); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C2H5NH2/C2H5NH2_Hubin-Franskin(2002)_298K_137-241nm.csv
+298.0,Hubin-Franskin(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H5NH2_Hubin-Franskin(2002)_298K_86-258nm.txt,Electron energy loss spectrum (EELS) recorded at 150 eV; energy loss energy converted to wavelengths,C2H5NH2,ethylamine,"
+
+  M.-J. Hubin-Franskin, J. Delwiche, A. Giuliani, M.-P. Ska, F. Motte-Tollet, I.C. Walker, N.J. Mason, J.M. Gingell, and N.C. Jones, ""Electronic excitation and optical cross sections of methylamine and ethylamine in the UV-VUV spectral region"",
+  J. Chem. Phys. 116, 9261-9268 (2002); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C2H5NH2/C2H5NH2_Hubin-Franskin(2002)_298K_86-258nm.csv
+298.0,Meller(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H5NH2_Meller(1999)_298K_188-262nm.txt,High-resolution (0.08 nm) absorption cross sections have been obtained by personal communication from Richard Meller (1999),C2H5NH2,ethylamine,"
+
+  R. Meller, unpublished results, 1999, Max-Planck-Institut für Chemie, Mainz, Germany
+
+
+",data/cross-sections/Organics (N-compounds)/Amines/C2H5NH2/C2H5NH2_Meller(1999)_298K_188-262nm.csv
+298.0,Tannenbaum(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H5NH2_Tannenbaum(1953)_298K_160.1-255.4nm.txt,Absorption measurements by photographic spectrophotometry using flowing and static vapors and hydrogen lamps as light sources,C2H5NH2,ethylamine,"
+
+  E. Tannenbaum, E.M. Coffin, and A.J. Harrison, ""The far ultraviolet absorption spectra of simple alkyl amines"",
+  J. Chem. Phys. 21, 311-318 (1953); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/C2H5NH2/C2H5NH2_Tannenbaum(1953)_298K_160.csv
+298.0,Tannenbaum(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/C2H5NH2_Tannenbaum(1953)_298K_177,213nm(max).txt",Absorption measurements by photographic spectrophotometry using flowing and static vapors and hydrogen lamps as light sources,C2H5NH2,ethylamine,"
+
+  E. Tannenbaum, E.M. Coffin, and A.J. Harrison, ""The far ultraviolet absorption spectra of simple alkyl amines"",
+  J. Chem. Phys. 21, 311-318 (1953); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Amines/C2H5NH2/C2H5NH2_Tannenbaum(1953)_298K_177,213nm(max).csv"

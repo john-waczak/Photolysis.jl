@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Maricq(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acylperoxy/CF3C(O)O2_Maricq(1999)_295K_190-341nm.txt,Absorption cross sections at 0.5-nm intervals have been obtained by personal communication from M.Matti Maricq (April 1999),CF3C(O)O2,trifluoroacetylperoxy radical,"
+
+  M.M. Maricq, personal communication (1999) to Max-Planck-Institut für Chemie, Mainz
+
+
+",data/cross-sections/Peroxy radicals/Acylperoxy/CF3C(O)O2/CF3C(O)O2_Maricq(1999)_295K_190-341nm.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Teruel(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/C(CH3)C(O)OCH3_Teruel(2006)_298K_215-298nm.txt,UV-visible spectrophotometer equipped with a 1800 grooves mm,C(CH3)C(O)OCH3,"methyl methacrylate, MEMEAC","
+
+  M.A. Teruel, S.I. Lane, A. Mellouki, G. Solignac, and G. Le Bras, ""OH reaction rate constants and UV absorption cross-sections of unsaturated esters"",
+  Atmos. Environ. 40, 3764-3772 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/C(CH3)C(O)OCH3/C(CH3)C(O)OCH3_Teruel(2006)_298K_215-298nm.csv

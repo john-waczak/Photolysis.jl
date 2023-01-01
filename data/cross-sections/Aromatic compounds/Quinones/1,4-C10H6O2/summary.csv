@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Brint(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/1,4-C10H6O2_Brint(1989)_298K_132.7-252.8nm.txt",The spectra were measured using a 1 m Rank-Hilger E776 monochromator fitted with a 600 line mm,"1,4-C10H6O2","1,4-naphthoquinone","
+
+  P. Brint, P. Tsekeris, A. Bolovinos, and C. Kosmidis, ""The vacuum-ultraviolet absorption spectra of substituted p- benzoquinones"",
+  J. Chem. Soc. Faraday Trans. II 85, 177-186 (1989); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Quinones/1,4-C10H6O2/1,4-C10H6O2_Brint(1989)_298K_132.csv"

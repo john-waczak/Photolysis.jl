@@ -1,0 +1,17 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+273.0,Brodersen(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O2_Brodersen(1937)_273K_220-523nm.txt,The spectra recorded on photographic plates have been photometrically analyzed ,F2O2,dioxygen difluoride,"
+
+  P.H. Brodersen, P. Frisch, and H.-J. Schumacher, ""Das Absorptionsspektrum des F",data/cross-sections/Halogen oxides/F oxides/F2O2/F2O2_Brodersen(1937)_273K_220-523nm.csv
+77.0,KirshenbaumStreng(1961),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O2_KirshenbaumStreng(1961)_77K_200-480nm(in%20liquid%20freon).txt,F,F2O2,dioxygen difluoride,"
+
+  A.D. Kirshenbaum and A.G. Streng, ""Molar extinction coefficients of liquid O",data/cross-sections/Halogen oxides/F oxides/F2O2/F2O2_KirshenbaumStreng(1961)_77K_200-480nm(in liquid freon).csv
+298.0,LymanHolland(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O2_LymanHolland(1988)_298K_215nm.txt,Photolysis (KrF laser) of F,F2O2,dioxygen difluoride,"
+
+  J.L. Lyman and R. Holland, ""Oxygen fluoride chemical kinetics"",
+  J. Phys. Chem. 92, 7232-7241 (1988); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/F oxides/F2O2/F2O2_LymanHolland(1988)_298K_215nm.csv
+195.0,Matchuk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/F2O2_Matchuk(1976)_195K_350-600nm.txt,Absorption cross sections as quoted by,F2O2,dioxygen difluoride,"
+
+  N.M. Matchuk, V.I. Tupikov, A.I. Malkova, and S.Ya. Pshezhetskii, ""Electronic absorption spectra of O",data/cross-sections/Halogen oxides/F oxides/F2O2/F2O2_Matchuk(1976)_195K_350-600nm.csv

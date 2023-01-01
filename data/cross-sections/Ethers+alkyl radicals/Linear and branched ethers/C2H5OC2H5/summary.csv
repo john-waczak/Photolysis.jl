@@ -1,0 +1,79 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Bennett(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Bennett(1971)_295K_58.4nm.txt,"Absorption coefficient k (atm, 273 K)",C2H5OC2H5,diethyl ether,"
+
+  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
+  J. Phys. Chem. 75, 719-721 (1971); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Bennett(1971)_295K_58.csv
+298.0,Bremner(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Bremner(1991)_298K_107-194nm.txt,Absorption measurements using synchrotron radiation; resolution 0.2 nm,C2H5OC2H5,diethyl ether,"
+
+  L.J. Bremner, M.G. Curtis, and I.C. Walker, ""Electronic states of some simple ethers studied by vacuum ultraviolet absorption and near-threshold electron energy-loss spectroscopy"",
+  J. Chem. Soc. Faraday Trans. 87, 1049-1055 (1991); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Bremner(1991)_298K_107-194nm.csv
+298.0,Bremner(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Bremner(1991)_298K_161-192nm.txt,Absorption measurements using synchrotron radiation; resolution 0.2 nm,C2H5OC2H5,diethyl ether,"
+
+  L.J. Bremner, M.G. Curtis, and I.C. Walker, ""Electronic states of some simple ethers studied by vacuum ultraviolet absorption and near-threshold electron energy-loss spectroscopy"",
+  J. Chem. Soc. Faraday Trans. 87, 1049-1055 (1991); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Bremner(1991)_298K_161-192nm.csv
+323.0,Doner(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Doner(2022)_323K_125-240nm.txt,High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,C2H5OC2H5,diethyl ether,"
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Doner(2022)_323K_125-240nm.csv
+298.0,FengBrion(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_FengBrion(2002)_298K_3.4-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy at low resolution (∼1 eV fwhm); energies E (in eV) and differential oscillator stengths df/dE (in 10",C2H5OC2H5,diethyl ether,"
+
+  R. Feng and C.E. Brion, ""Quantitative photoabsorption of diethyl ether in the valence and carbon 1s inner shell regions (5-360 eV)"",
+  Chem. Phys. 284, 615-623 (2002); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_FengBrion(2002)_298K_3.csv
+298.0,FengBrion(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_FengBrion(2002)_298K_3.44-4.35nm(e,e).txt","Measured by dipole (e,e) spectroscopy at high resolution (∼0.05 eV fwhm); energies E (in eV) and differential oscillator strengths df/dE (in 10",C2H5OC2H5,diethyl ether,"
+
+  R. Feng and C.E. Brion, ""Quantitative photoabsorption of diethyl ether in the valence and carbon 1s inner shell regions (5-360 eV)"",
+  Chem. Phys. 284, 615-623 (2002); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_FengBrion(2002)_298K_3.csv
+295.0,HarrisonPrice(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_HarrisonPrice(1959)_295K_159.00-193.26nm.txt,Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,C2H5OC2H5,diethyl ether,"
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_HarrisonPrice(1959)_295K_159.csv
+295.0,HarrisonPrice(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_HarrisonPrice(1959)_295K_171,188nm.txt",Absorption measurements on flowing samples with a Hilger fluorite spectrograph and a hydrogen lamp,C2H5OC2H5,diethyl ether,"
+
+  A.J. Harrison and D.R.W. Price, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. II. Ethers"",
+  J. Chem. Phys. 30, 357-360 (1959); 
+
+
+  DOI: ","data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_HarrisonPrice(1959)_295K_171,188nm.csv"
+295.0,Orkin(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Orkin(1999)_295K_160-210nm.txt,"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of either 0.5 or 0.1 nm at spectral slit widths of 0.5 and 0.1 nm
+",C2H5OC2H5,diethyl ether,"
+
+  V.L. Orkin, E. Villenave, R.E. Huie, and M.J. Kurylo, ""Atmospheric lifetimes and global warming potentials of hydrofluoroethers: Reactivity toward OH, UV spectra, and IR absorption cross sections"",
+  J. Phys. Chem. A 103, 9770-9779 (1999); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Orkin(1999)_295K_160-210nm.csv
+298.0,Tsubomura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Tsubomura(1964)_298K_157-195nm.txt,Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,C2H5OC2H5,diethyl ether,"
+
+  H. Tsubomura, K. Kimura, K. Kaya, J. Tanaka, and S. Nagakura, ""Vacuum ultraviolet absorption spectra of saturated organic compounds with non-bonding electrons"",
+  Bull. Chem. Soc. Japan 37, 417-423 (1964); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Tsubomura(1964)_298K_157-195nm.csv
+298.0,Tsubomura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OC2H5_Tsubomura(1964)_298K_188.5nm(max).txt,Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,C2H5OC2H5,diethyl ether,"
+
+  H. Tsubomura, K. Kimura, K. Kaya, J. Tanaka, and S. Nagakura, ""Vacuum ultraviolet absorption spectra of saturated organic compounds with non-bonding electrons"",
+  Bull. Chem. Soc. Japan 37, 417-423 (1964); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OC2H5/C2H5OC2H5_Tsubomura(1964)_298K_188.csv

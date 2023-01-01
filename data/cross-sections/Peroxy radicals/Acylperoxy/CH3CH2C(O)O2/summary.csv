@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,LeCrane(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acylperoxy/CH3CH2C(O)O2_LeCrane(2005)_298K_200-280nm.txt,Measurements by flash photolysis of Br,CH3CH2C(O)O2,propionylperoxy radical,"
+
+  J.-P. Le Crâne, E. Villenave, M.D. Hurley, T.J. Wallington, and J.C. Ball, ""Atmospheric chemistry of propionaldehyde: Kinetics and mechanisms of reactions with OH radicals and Cl atoms, UV spectrum, and self-reaction kinetics of CH",data/cross-sections/Peroxy radicals/Acylperoxy/CH3CH2C(O)O2/CH3CH2C(O)O2_LeCrane(2005)_298K_200-280nm.csv

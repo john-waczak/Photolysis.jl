@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Locht(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2DI_Locht(2009)_298K_118.2-225.5nm.txt",Absorption measurements using synchrotron radiation,CH2DI,"iodomethane-d1, methyl-d1 iodide","
+
+  R. Locht, B. Leyh, H.W. Jochims, and H. Baumgärtel, ""Medium and high resolution vacuum UV photoabsorption spectroscopy of methyl iodide (CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2DI/CH2DI_Locht(2009)_298K_118.csv"

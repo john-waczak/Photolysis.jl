@@ -1,0 +1,67 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Basch(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Basch(1968)_298K_114-249nm.txt,Absorption measurements using a Cary Model 14 and a McPherson 1-m normal-incidence spectrometer and LiF and quartz-windowed cells,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  H. Basch, M.B. Robin, and N.A. Kuebler, ""Electronic spectra of isoelectronic amides, acids, and acyl fluorides"",
+  J. Chem. Phys. 49, 5007-5018 (1968); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Basch(1968)_298K_114-249nm.csv
+238.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_IUPAC(2008)_238K_200-295nm(rec).txt,IUPAC(2008) recommendation:,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_IUPAC(2008)_238K_200-295nm(rec).csv
+293.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_IUPAC(2008)_293K_200-295nm(rec).txt,IUPAC(2008) recommendation:,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_IUPAC(2008)_293K_200-295nm(rec).csv
+298.0,JPL-2006(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_JPL-2006(2006)_298K_200-280nm(rec).txt,JPL-2006 recommendation:,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, G.K. Moortgat, H. Keller-Rudek, P.H. Wine, A.R. Ravishankara, C.E. Kolb, M.J. Molina, B.J. Finlayson-Pitts, R.E. Huie, V.L. Orkin, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 15"",
+  JPL Publication 06-2, Jet Propulsion Laboratory, Pasadena, 2006; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_JPL-2006(2006)_298K_200-280nm(rec).csv
+238.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_JPL-2010(2011)_238K_200-280nm(rec).txt,JPL-2010 recommendation :,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_JPL-2010(2011)_238K_200-280nm(rec).csv
+297.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_JPL-2010(2011)_297K_200-280nm(rec).txt,JPL-2010 recommendation (typo for σ(225 nm) corrected):,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_JPL-2010(2011)_297K_200-280nm(rec).csv
+238.0,Malanca(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Malanca(2005)_238K_200-280nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  F.E. Malanca, M.S. Chiappero, G.A. Argüello, and T.J. Wallington, ""Trifluoro methyl peroxynitrate (CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Malanca(2005)_238K_200-280nm.csv
+300.0,Malanca(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Malanca(2005)_300K_200-290nm.txt,Averages over 5-nm intervals of the spectrum recorded at a resolution of 1 nm using a diode array spectrometer,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  F.E. Malanca, M.S. Chiappero, G.A. Argüello, and T.J. Wallington, ""Trifluoro methyl peroxynitrate (CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Malanca(2005)_300K_200-290nm.csv
+296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Meller(1991)_296K_200-280nm(2nm).txt,Averages over 2-nm intervals of the high-resolution spectrum,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Meller (1991), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Meller(1991)_296K_200-280nm(2nm).csv
+296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Meller(1991)_296K_200-281nm(1nm).txt,Averages over 1-nm intervals of the high-resolution spectrum,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Meller (1991), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Meller(1991)_296K_200-281nm(1nm).csv
+296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Meller(1991)_296K_200-282nm(int-c).txt,"200-282nm(int-c)), i.e., averaged over the spectral intervals of 500 cm",CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Meller (1991), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Meller(1991)_296K_200-282nm(int-c).csv
+296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Meller(1991)_296K_205-275nm(5nm).txt,Averages over 5-nm intervals of the high-resolution spectrum,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  R. Meller (1991), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Meller(1991)_296K_205-275nm(5nm).csv
+238.0,Rattigan(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Rattigan(1993)_238K_200-295nm.txt,Averages over 5-nm intervals of the spectrum measured at a resolution of 1.2 nm (FWHM) using a dual-beam diode-array spectrometer,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  O.V. Rattigan, O. Wild, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Rattigan(1993)_238K_200-295nm.csv
+293.0,Rattigan(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3C(O)F_Rattigan(1993)_293K_200-295nm.txt,Averages over 5-nm intervals of the spectrum measured at a resolution of 1.2 nm (FWHM) using a dual-beam diode-array spectrometer,CF3C(O)F,trifluoroacetyl fluoride,"
+
+  O.V. Rattigan, O. Wild, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3C(O)F/CF3C(O)F_Rattigan(1993)_293K_200-295nm.csv

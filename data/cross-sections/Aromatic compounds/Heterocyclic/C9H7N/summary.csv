@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Leach(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C9H7N_Leach(2018)_298K_116-330nm.txt,Absorption measurements using synchrotron radiation as a light source and a toroidal grating monochromator with a resolution of 0.08 nm,C9H7N,"quinoline, 1-benzopyridine","
+
+  S. Leach, N.C. Jones, S.V. Hoffmann, and S. Un, ""VUV absorption spectra of gas-phase quinoline in the 3.5-10.7 eV photon energy range"",
+  J. Phys. Chem. A 122, 5832-5847 (2018);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C9H7N/C9H7N_Leach(2018)_298K_116-330nm.csv

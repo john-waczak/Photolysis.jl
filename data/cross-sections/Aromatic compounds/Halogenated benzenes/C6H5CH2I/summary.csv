@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5CH2I_Pence(1981)_295K_193,248,308nm.txt",Absorption measurements at 185-400 nm; spectrum reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 7,C6H5CH2I,benzyl iodide,"
+
+  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5CH2I/C6H5CH2I_Pence(1981)_295K_193,248,308nm.csv"

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+473.0,ShiehGregory(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Fe2Cl6_ShiehGregory(1975)_473K_210-420nm.txt,Vapor phase absorption spectra were measured with a Cary 14H recording spectrophotometer,Fe2Cl6,iron trichloride dimer,"
+
+  C.-F. Shieh and N.W. Gregory, ""Spectrophotometric study of the vapors of iron(III) chloride and of mixtures of iron(III) chloride and aluminum(lll) chloride. Evidence for formation of mixed metal dimer molecules"",
+  J. Phys. Chem. 79, 828-833 (1975); 
+
+
+  DOI: ",data/cross-sections/Unclassified/Fe2Cl6/Fe2Cl6_ShiehGregory(1975)_473K_210-420nm.csv

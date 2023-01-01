@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,StockwellCalvert(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O3_StockwellCalvert(1978)_298K_300-400nm.txt,UV-visible spectrophotometer; spectral resolution <1 nm in the 325-450 nm range and <5 nm in the 300-325 nm range,N2O3,dinitrogen trioxide,"
+
+  W.R. Stockwell and J.G. Calvert, ""The near ultraviolet absorption spectrum of gaseous HONO and N",data/cross-sections/Nitrogen oxides/N2O3/N2O3_StockwellCalvert(1978)_298K_300-400nm.csv

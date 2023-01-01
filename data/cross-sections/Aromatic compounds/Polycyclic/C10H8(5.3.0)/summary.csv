@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+1500.0,Brouwer(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8(5.3.0)_Brouwer(1985)_1500K_220-300nm.txt,Absorption measurements (spectral resolution of 2.5 nm) in azulene highly diluted with Ar and heated in incident and reflected shock waves,C10H8(5.3.0),"azulene, cyclopentacycloheptene, bicyclo[5.3.0]decapentaene ","
+
+  L. Brouwer, H. Hippler, L. Lindemann, and J. Troe, ""Measurement of internal energies by hot ultraviolet absorption spectroscopy: Spectra of excited azulene  molecules"",
+  J. Phys. Chem. 89, 4608-4612 (1985); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8(5.csv
+300.0,Brouwer(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8(5.3.0)_Brouwer(1985)_300K_220-300nm.txt,Room temperature absorption spectrum measured in a Cary 17 D spectrometer with capacity manometry,C10H8(5.3.0),"azulene, cyclopentacycloheptene, bicyclo[5.3.0]decapentaene ","
+
+  L. Brouwer, H. Hippler, L. Lindemann, and J. Troe, ""Measurement of internal energies by hot ultraviolet absorption spectroscopy: Spectra of excited azulene  molecules"",
+  J. Phys. Chem. 89, 4608-4612 (1985); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8(5.csv
+800.0,Brouwer(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8(5.3.0)_Brouwer(1985)_800K_220-300nm.txt,Absorption measurements (spectral resolution of 2.5 nm) in azulene highly diluted with Ar and heated in incident and reflected shock waves,C10H8(5.3.0),"azulene, cyclopentacycloheptene, bicyclo[5.3.0]decapentaene ","
+
+  L. Brouwer, H. Hippler, L. Lindemann, and J. Troe, ""Measurement of internal energies by hot ultraviolet absorption spectroscopy: Spectra of excited azulene  molecules"",
+  J. Phys. Chem. 89, 4608-4612 (1985); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8(5.csv
+298.0,Nozoe(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8(5.3.0)_Nozoe(1962)_298K_227-359nm(sol).txt,Absorption measurements with azulene in methanol,C10H8(5.3.0),"azulene, cyclopentacycloheptene, bicyclo[5.3.0]decapentaene ","
+
+  T. Nozoe, S. Seto, S. Matsumara, and Y. Murase, ""The synthesis of azulene derivatives from troponoids"",
+  Bull. Chem. Soc. Japan 35, 1179-1188 (1962); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8(5.csv
+298.0,Nozoe(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C10H8(5.3.0)_Nozoe(1962)_298K_238-700nm(max)(sol).txt,Absorption measurements with azulene in methanol,C10H8(5.3.0),"azulene, cyclopentacycloheptene, bicyclo[5.3.0]decapentaene ","
+
+  T. Nozoe, S. Seto, S. Matsumara, and Y. Murase, ""The synthesis of azulene derivatives from troponoids"",
+  Bull. Chem. Soc. Japan 35, 1179-1188 (1962); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C10H8(5.csv

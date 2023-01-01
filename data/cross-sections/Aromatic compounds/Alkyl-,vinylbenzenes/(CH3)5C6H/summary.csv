@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bolovinos(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/(CH3)5C6H_Bolovinos(1982)_298K_140.3-295.0nm.txt","Absorption measurement using a Rank-Hilger 776 monochromator, a McPherson hydrogen light source, a dual-beam sample chamber, and a detection system (spectral resolution 0.25  nm)",(CH3)5C6H,pentamethylbenzene,"
+
+  A. Bolovinos, J. Philis, E. Pantos, P. Tsekeris, and G. Andritsopoulos, ""The methylbenzenes vis-a-vis benzene. Comparison of their spectra in the valence shell transition region"",
+  J. Mol. Spectrosc. 94, 55-68 (1982); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/(CH3)5C6H/(CH3)5C6H_Bolovinos(1982)_298K_140.csv"

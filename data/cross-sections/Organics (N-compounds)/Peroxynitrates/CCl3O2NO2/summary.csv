@@ -1,0 +1,5 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Morel(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CCl3O2NO2_Morel(1980)_296K_220-280nm.txt,"Pulsed deuterium light source, double beam optical arrangement, grating monochromator
+providing a spectral band width of 0.9 nm, measurements at steps of  0.9 nm",CCl3O2NO2,trichloromethyl peroxynitrate,"
+
+  O. Morel, R. Simonaitis, and J. Heicklen, ""Ultraviolet absorption spectra of HO",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CCl3O2NO2/CCl3O2NO2_Morel(1980)_296K_220-280nm.csv

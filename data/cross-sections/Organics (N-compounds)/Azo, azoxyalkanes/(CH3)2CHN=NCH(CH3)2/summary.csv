@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Robin(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/(CH3)2CHN=NCH(CH3)2_Robin(1967)_298K_128.2-217.7nm.txt",Absorption measurements using a D,(CH3)2CHN=NCH(CH3)2,azoisopropane,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/(CH3)2CHN=NCH(CH3)2/(CH3)2CHN=NCH(CH3)2_Robin(1967)_298K_128.csv"
+298.0,Robin(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/(CH3)2CHN=NCH(CH3)2_Robin(1967)_298K_356.0nm(max).txt",Absorption measurements using a D,(CH3)2CHN=NCH(CH3)2,azoisopropane,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/(CH3)2CHN=NCH(CH3)2/(CH3)2CHN=NCH(CH3)2_Robin(1967)_298K_356.csv"

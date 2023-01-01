@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Amaral(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CD3SOCD3_Amaral(2004)_298K_190-240nm.txt,Absorbances vs. wavelength shown in Fig. 1 have been digitized and scaled to σ(193 nm) = 9.4×10,CD3SOCD3,"dimethyl-d6 sulfoxide, DMSO-d6","
+
+  G.A. Amaral, I. Torres, G.A. Pino, F.J. Aoiz, and L. Bañares, ""Photodissociation dynamics of dimethyl sulfoxide-d6 at 210 nm: experimental evidence for a prompt anisotropic CD",data/cross-sections/Sulfur compounds/Organic S-compounds/CD3SOCD3/CD3SOCD3_Amaral(2004)_298K_190-240nm.csv
+298.0,Rudolph(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CD3SOCD3_Rudolph(1997)_298K_193,222nm.txt",Absorption cross sectiona at the ArF and KrCl excimer laser lines,CD3SOCD3,"dimethyl-d6 sulfoxide, DMSO-d6","
+
+  R.N. Rudolph, S.W. North, G.E. Hall, and T.J. Sears, ""Diode laser measurements of CD","data/cross-sections/Sulfur compounds/Organic S-compounds/CD3SOCD3/CD3SOCD3_Rudolph(1997)_298K_193,222nm.csv"

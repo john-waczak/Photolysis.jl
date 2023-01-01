@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Anastasi(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/CH2CH2OH_Anastasi(1990)_298K_210-265nm.txt,Pulse radiolysis/kinetic absorption technique; Ar/SF,CH2CH2OH,ß-hydroxyethyl radical,"
+
+  C. Anastasi, V. Simpson, J. Munk, and P. Pagsberg, ""UV spectrum and the kinetics and reaction pathways of the self-reaction of CH",data/cross-sections/Unclassified/CH2CH2OH/CH2CH2OH_Anastasi(1990)_298K_210-265nm.csv

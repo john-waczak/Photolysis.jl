@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Sellevag(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CHF2CHO_Sellevag(2005)_298K_190-500nm.txt,"The absorption cross sections were measured at a spectral resolution of 2 nm using a photodiode array spectrometer, and the spectra were recorded in the wavelength region from 190 nm to 1100 nm at sampling intervals of 1 nm",CHF2CHO,"2,2-difluoroacetaldehyde","
+
+  S.R. Sellevåg, Y. Stenstrøm, T. Helgaker, and C.J. Nielsen, ""Atmospheric chemistry of CHF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CHF2CHO/CHF2CHO_Sellevag(2005)_298K_190-500nm.csv

@@ -1,0 +1,103 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Basch(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Basch(1969)_298K_108.9-170.9nm.txt,Absorption measurements using a D,c-C3H6,cyclopropane,"
+
+  H. Basch, M.B. Robin, N.A. Kuebler, C. Baker, and D.W. Turner, ""Optical and photoelectron spectra of small rings. III. The saturated three-membered rings"",
+  J. Chem. Phys. 51, 52-66 (1969); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Basch(1969)_298K_108.csv
+298.0,Bragg(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Bragg(1985)_298K_710.43nm.txt,Absorption measurements using a multipass absorption cell and a Fourier transform spectrometer,c-C3H6,cyclopropane,"
+
+  S.L. Bragg, S.A. Lawton, and C.E. Wiswall, ""Absolute measurements of absorption at the iodine-laser frequency in atmospheric gases"",
+  Opt. Lett. 10, 321-323 (1985); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Bragg(1985)_298K_710.csv
+298.0,Currie(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Currie(1963)_298K_147nm.txt,"The absorption coefficient k (atm, 298 K)",c-C3H6,cyclopropane,"
+
+  C.L. Currie, H. Okabe, and J.R. McNesby, ""Vacuum ultraviolet photochemistry. VI. Photolysisis of cyclopropane with the xenon resonance line"",
+  J. Phys. Chem. 67, 1494-1497 (1963); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Currie(1963)_298K_147nm.csv
+298.0,Gingell(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Gingell(1999)_298K_109.8-177.1nm(opt).txt,The absorption spectrum has been measured at steps of 0.05nm using monochromated synchroton radiation,c-C3H6,cyclopropane,"
+
+  J.M. Gingell, N.J. Mason, I.C. Walker, G. Marston, H. Zhao, and M.R.F. Siggel, ""The electonic states of cyclopropane studied by VUV absorption and electron energy-loss spectroscopies"",
+  J. Phys. B: At. Mol. Opt. Phys. 32, 2729-2744 (1999); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Gingell(1999)_298K_109.csv
+298.0,Gingell(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Gingell(1999)_298K_31.1-177.3nm(opt+EEL).txt,A best-estimate cross section curve constructed by combination of optical and EEL measurements is shown in Fig. 8,c-C3H6,cyclopropane,"
+
+  J.M. Gingell, N.J. Mason, I.C. Walker, G. Marston, H. Zhao, and M.R.F. Siggel, ""The electonic states of cyclopropane studied by VUV absorption and electron energy-loss spectroscopies"",
+  J. Phys. B: At. Mol. Opt. Phys. 32, 2729-2744 (1999); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Gingell(1999)_298K_31.csv
+298.0,Gingell(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Gingell(1999)_298K_31.8-156.9nm(opt).txt,The absorption spectrum has been measured at steps of 0.05nm using monochromated synchroton radiation,c-C3H6,cyclopropane,"
+
+  J.M. Gingell, N.J. Mason, I.C. Walker, G. Marston, H. Zhao, and M.R.F. Siggel, ""The electonic states of cyclopropane studied by VUV absorption and electron energy-loss spectroscopies"",
+  J. Phys. B: At. Mol. Opt. Phys. 32, 2729-2744 (1999); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Gingell(1999)_298K_31.csv
+298.0,Gingell(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Gingell(1999)_298K_94-157nm(EEL).txt,High-resolution electron energy loss spectroscopy (EEL),c-C3H6,cyclopropane,"
+
+  J.M. Gingell, N.J. Mason, I.C. Walker, G. Marston, H. Zhao, and M.R.F. Siggel, ""The electonic states of cyclopropane studied by VUV absorption and electron energy-loss spectroscopies"",
+  J. Phys. B: At. Mol. Opt. Phys. 32, 2729-2744 (1999); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Gingell(1999)_298K_94-157nm(EEL).csv
+298.0,Kameta(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Kameta(1999)_298K_50.8-129.6nm.txt,"Absorption measurements using a double ionization chamber and synchrotron radiation as a continuous-wavelength light source; wavelength scan-step of 0.02 nm
+",c-C3H6,cyclopropane,"
+
+  K. Kameta, K. Muramatsu, S. Machida, N. Kouchi, and Y. Hatano, ""Photoabsorption, photoionization and neutral-dissociation cross sections of cyclopropane in the photon energy range of 10-24 eV"",
+  J. Phys. B: At. Mol. Opt. Phys. 32, 2719-2728 (1999); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Kameta(1999)_298K_50.csv
+298.0,Koizumi(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Koizumi(1985)_298K_33.5-123.2nm.txt,High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,c-C3H6,cyclopropane,"
+
+  H. Koizumi, T. Yoshimi, K. Shinsaka, M. Morita, Y. Hatano, A. Yagishita, and K. Ito, ""VUV-optical oscillator strength distributions of C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Koizumi(1985)_298K_33.csv
+298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_RaymondaSimpson(1967)_298K_107.6-173.5nm.txt,"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",c-C3H6,cyclopropane,"
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_RaymondaSimpson(1967)_298K_107.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Schoen(1962)_295K_45.9-137.7nm(smoo).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",c-C3H6,cyclopropane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Schoen(1962)_295K_45.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Schoen(1962)_295K_46.3-137.6nm(meas).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",c-C3H6,cyclopropane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Schoen(1962)_295K_46.csv
+298.0,SzeBrion(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_SzeBrion(1991)_298K_56.4-157nm(EEL).txt,High-resolution electron energy loss spectroscopy (EEL),c-C3H6,cyclopropane,"
+
+  K.H. Sze and C.E. Brion, ""Inner-shell and valence-shell electronic excitation of cyclopropane and ethylene oxide by high resolution electron energy loss spectroscopy"",
+  J. Electron Spectrosc. Relat. Phenom. 57, 117-135 (1991); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_SzeBrion(1991)_298K_56.csv
+298.0,Walker(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Walker(2007)_298K_42.25-179.98nm.txt,The absorption spectrum has been measured using monochromated synchroton radiation at a resolution of 0.1 nm,c-C3H6,cyclopropane,"
+
+  I.C. Walker, D.M.P. Holland, D.A. Shaw, I.J. McEwen, and M.F. Guest, ""The electronic states of cyclopropane studied by VUV absorption and ab initio multireference configuration interaction calculations"",
+  J. Phys. B: At. Mol. Opt. Phys. 40, 1875-1888 (2007); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Walker(2007)_298K_42.csv
+298.0,Walker(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/c-C3H6_Walker(2007)_298K_42.8-156.9nm.txt,The absorption spectrum has been measured using monochromated synchroton radiation at a resolution of 0.1 nm,c-C3H6,cyclopropane,"
+
+  I.C. Walker, D.M.P. Holland, D.A. Shaw, I.J. McEwen, and M.F. Guest, ""The electronic states of cyclopropane studied by VUV absorption and ab initio multireference configuration interaction calculations"",
+  J. Phys. B: At. Mol. Opt. Phys. 40, 1875-1888 (2007); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/c-C3H6/c-C3H6_Walker(2007)_298K_42.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Gratien(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CHDO_Gratien(2007)_298K_250-360nm.txt,Absorption measurements were performed at a spectral resolution of 0.15 nm,CHDO,"formaldehyde-d1, methanal-d1","
+
+  A. Gratien, E. Nilsson, J.-F. Doussin, M.S. Johnson, C.J. Nielsen, Y. Stenstrøm, and B. Picquet-Varrault, ""UV and IR absorption cross sections of HCHO, HCDO, and DCDO"",
+  J. Phys. Chem. A 111, 11506-11513 (2007);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CHDO/CHDO_Gratien(2007)_298K_250-360nm.csv

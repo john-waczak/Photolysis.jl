@@ -1,0 +1,43 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Bauer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_Bauer(1998)_295K_280-500nm.txt,D,HOI,hypoiodous acid,"
+
+  D. Bauer, T. Ingham, S.A. Carl, G.K. Moortgat, and J.N. Crowley, ""Ultraviolet-visible absorption cross sections of gaseous HOI and its photolysis at 355 nm"",
+  J. Phys. Chem. A 102, 2857-2864 (1998); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_Bauer(1998)_295K_280-500nm.csv
+295.0,Bauer(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_Bauer(1998)_295K_340.4,406.4nm(max).txt",D,HOI,hypoiodous acid,"
+
+  D. Bauer, T. Ingham, S.A. Carl, G.K. Moortgat, and J.N. Crowley, ""Ultraviolet-visible absorption cross sections of gaseous HOI and its photolysis at 355 nm"",
+  J. Phys. Chem. A 102, 2857-2864 (1998); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_Bauer(1998)_295K_340.csv
+295.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_IUPAC(2007)_295K_280-490nm(rec).txt,IUPAC(2007) recommendation:,HOI,hypoiodous acid,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_IUPAC(2007)_295K_280-490nm(rec).csv
+295.0,Jenkin(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_Jenkin(1991)_295K_293-500nm(orig).txt,Measured absorption cross sections,HOI,hypoiodous acid,"
+
+  M.E. Jenkin, ""Kinetic and spectroscopic studies of peroxy radical reactions related to tropospheric photo-oxidation chemistry"",
+  Thesis, Univ. of East Anglia, UK, 1991
+
+
+",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_Jenkin(1991)_295K_293-500nm(orig).csv
+295.0,Jenkin(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_Jenkin(1991)_295K_302-472nm(fit).txt,Smooth fit of the measured data points,HOI,hypoiodous acid,"
+
+  M.E. Jenkin, ""Kinetic and spectroscopic studies of peroxy radical reactions related to tropospheric photo-oxidation chemistry"",
+  Thesis, Univ. of East Anglia, UK, 1991
+
+
+",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_Jenkin(1991)_295K_302-472nm(fit).csv
+298.0,Rowley(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOI_Rowley(1999)_298K_280-470nm.txt,Absorption measurements using a flash photolysis/UV absorption spectroscopy system,HOI,hypoiodous acid,"
+
+  D.M. Rowley, J.C. Mössinger, R.A. Cox, and R.L. Jones, ""The UV-visible absorption cross-sections and atmospheric photolysis rate of HOI"",
+  J. Atmos. Chem. 34, 137-151 (1999); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/HOI/HOI_Rowley(1999)_298K_280-470nm.csv

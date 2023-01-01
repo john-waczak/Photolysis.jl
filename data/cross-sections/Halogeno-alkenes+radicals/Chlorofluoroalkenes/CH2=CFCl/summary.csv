@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Locht(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl_Locht(2014)_298K_123.98-206.64nm.txt,Absorption measurements using synchrotron radiation; wavelength resolution 0.02 nm,CH2=CFCl,"1,1-fluorochloroethene","
+
+  R. Locht, D. Dehareng, and B. Leyh, ""Vibronic valence and Rydberg transitions in geminal chloro-fluoro-ethene (1,1-C",data/cross-sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl/CH2=CFCl_Locht(2014)_298K_123.csv
+298.0,Locht(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl_Locht(2014)_298K_82.66-247.97nm.txt,Absorption measurements using synchrotron radiation; wavelength resolution 0.1 nm,CH2=CFCl,"1,1-fluorochloroethene","
+
+  R. Locht, D. Dehareng, and B. Leyh, ""Vibronic valence and Rydberg transitions in geminal chloro-fluoro-ethene (1,1-C",data/cross-sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl/CH2=CFCl_Locht(2014)_298K_82.csv
+298.0,Tornow(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl_Tornow(1990)_298K_99.38-189.81nm.txt,Absorption measurements using synchrotron radiation; wavelength resolution 0.05 nm,CH2=CFCl,"1,1-fluorochloroethene","
+
+  G. Tornow, R. Locht, R. Kaufel, H. Baumgärtel, and H.-W. Jochims, ""The vacuum ultraviolet photoabsorption and photoelectron spectroscopy of fluorochloroethenes. The 1,1-, cis- and trans-C",data/cross-sections/Halogeno-alkenes+radicals/Chlorofluoroalkenes/CH2=CFCl/CH2=CFCl_Tornow(1990)_298K_99.csv

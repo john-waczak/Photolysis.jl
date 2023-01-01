@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,VesineMellouki(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OC4H9_VesineMellouki(1997)_297K_211-260nm.txt,Averages over 1- and 2-nm intervals of the high-resolution (∼0.04 nm) spectrum measured using a diode array spectrometer,HC(O)OC4H9,n-butyl formate,"
+
+  E. Vésine and A. Mellouki, ""UV absorption cross sections for a series of formates"",
+  J. Chim. Phys. Physico-Chim. Biol. 94, 1634-1641 (1997); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OC4H9/HC(O)OC4H9_VesineMellouki(1997)_297K_211-260nm.csv

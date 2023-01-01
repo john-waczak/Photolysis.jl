@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Catoire(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CHCl2O2_Catoire(1996)_298K_205-290nm(Gaussian%20fit).txt,Flash photolysis of Cl,CHCl2O2,dichloromethylperoxy radical,"
+
+  V. Catoire, R. Lesclaux, W.F. Schneider, and T.J. Wallington, ""Kinetics and mechanism of the self-reactions of CCl",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CHCl2O2/CHCl2O2_Catoire(1996)_298K_205-290nm(Gaussian fit).csv
+298.0,Catoire(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CHCl2O2_Catoire(1996)_298K_220-280nm.txt,Flash photolysis of Cl,CHCl2O2,dichloromethylperoxy radical,"
+
+  V. Catoire, R. Lesclaux, W.F. Schneider, and T.J. Wallington, ""Kinetics and mechanism of the self-reactions of CCl",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CHCl2O2/CHCl2O2_Catoire(1996)_298K_220-280nm.csv

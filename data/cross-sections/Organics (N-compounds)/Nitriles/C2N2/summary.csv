@@ -1,0 +1,31 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Connors(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_Connors(1974)_298K_105-170nm.txt,Absorption measurements at medium resolution (0. 1 nm) using a 1-m vacuum monochromator equipped with a 600 groves / mm MgF,C2N2,"cyanogen, ethanedinitrile","
+
+  R.E. Connors, J.L. Roebber, and K. Weiss, ""Vacuum ultraviolet spectroscopy of cyanogen and cyanoacetylenes"",
+  J. Chem. Phys. 60, 5011-5024 (1974); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_Connors(1974)_298K_105-170nm.csv
+298.0,Halpern(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_Halpern(2018)_298K_149.57-172.06nm.txt,Absorption measurements at a resolution of ~0.1 nm using a 1 m MacPherson model 225 vacuum-UV monochromator with a 30 W Hamamatsu deuterium lamp and a 1200 lines/mm grating at the National Institute of Standards and Technology (NIST),C2N2,"cyanogen, ethanedinitrile","
+
+  J.B. Halpern, ""The C ",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_Halpern(2018)_298K_149.csv
+298.0,Halpern(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_Halpern(2018)_298K_161.947-171.033nm.txt,"Absorption measurements using a  0.3 m MacPherson model 218 vacuum-UV monochromator operated in the second order (0.03 nm bandwidth, space between points measured 0.004 nm) with a 10 W Hellma deuterium lamp and a 2400 grooves/mm UV grating (Howard University)",C2N2,"cyanogen, ethanedinitrile","
+
+  J.B. Halpern, ""The C ",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_Halpern(2018)_298K_161.csv
+183.0,LISA(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_LISA(1999)_183K_214.260-225.253nm.txt,High-resolution (0.007 nm) absorption cross sections,C2N2,"cyanogen, ethanedinitrile","
+
+  LISA group (Laboratoire Interuniversitaire des Systèmes Atmosphériques), ""Mid-UV Absorption Coefficients"",
+  http://losno.lisa.univ-paris-diderot.fr/services/DiffuseUVdata/
+
+
+",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_LISA(1999)_183K_214.csv
+293.0,LISA(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_LISA(1999)_293K_185.000-225.773nm.txt,High-resolution (0.007 nm) absorption cross sections,C2N2,"cyanogen, ethanedinitrile","
+
+  LISA group (Laboratoire Interuniversitaire des Systèmes Atmosphériques), ""Mid-UV Absorption Coefficients"",
+  http://losno.lisa.univ-paris-diderot.fr/services/DiffuseUVdata/
+
+
+",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_LISA(1999)_293K_185.csv
+298.0,NuthGlicker(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/C2N2_NuthGlicker(1982)_298K_59.94-167.80nm.txt,"High-resolution (0.05 nm) absorption measurements using a Hopfield continuum lamp as a light source for the 60-105-nm region and three microwave excited continuum lamps containing 250 torr of Ar, Kr, and Xe as light sources for the 105-168-nm region",C2N2,"cyanogen, ethanedinitrile","
+
+  J.A. Nuth and S. Glicker, ""The vacuum ultraviolet spectra of HCN, C",data/cross-sections/Organics (N-compounds)/Nitriles/C2N2/C2N2_NuthGlicker(1982)_298K_59.csv

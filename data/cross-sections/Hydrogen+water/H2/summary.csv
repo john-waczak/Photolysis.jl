@@ -1,0 +1,57 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Backx(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Backx(1976)_298K_17.7-124nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",H2,hydrogen,"
+
+  C. Backx, G.R. Wight, and M.J. Van der Wiel, ""Oscillator strengths (10-70 eV) for absorption, ionization and dissociation in H",data/cross-sections/Hydrogen+water/H2/H2_Backx(1976)_298K_17.csv
+295.0,Bennett(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Bennett(1971)_295K_58.4nm.txt,"Absorption coefficient k (atm, 273 K)",H2,hydrogen,"
+
+  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
+  J. Phys. Chem. 75, 719-721 (1971); 
+
+
+  DOI: ",data/cross-sections/Hydrogen+water/H2/H2_Bennett(1971)_295K_58.csv
+298.0,Brolley(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Brolley(1973)_298K_58.4nm.txt,Helium discharge as a radiation source,H2,hydrogen,"
+
+  J.E. Brolley, L.E. Porter, R.H. Sherman, J.K. Theobald, and J.C. Fong, ""Photoabsorption cross sections of H",data/cross-sections/Hydrogen+water/H2/H2_Brolley(1973)_298K_58.csv
+298.0,Bunch(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Bunch(1958)_298K_46.6-80.4nm(smoo).txt,"The smooth absorption curve connecting the measured data points (absorption coefficients k(atm, 273 K)",H2,hydrogen,"
+
+  S.M. Bunch, G.R. Cook, M. Ogawa, and A.W. Ehler, ""Absorption coefficients of C",data/cross-sections/Hydrogen+water/H2/H2_Bunch(1958)_298K_46.csv
+298.0,Bunch(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Bunch(1958)_298K_49.9-80.4nm(meas-1).txt,"Photoelectric method, grazing incidence spectrograph
+
+The data points for the measured absorption coefficients k(atm, 273 K)",H2,hydrogen,"
+
+  S.M. Bunch, G.R. Cook, M. Ogawa, and A.W. Ehler, ""Absorption coefficients of C",data/cross-sections/Hydrogen+water/H2/H2_Bunch(1958)_298K_49.csv
+298.0,Bunch(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Bunch(1958)_298K_54.8-80.1nm(meas-2).txt,"Photoelectric method, normal incidence spectrograph
+
+The data points for the measured absorption coefficients k(atm, 273 K)",H2,hydrogen,"
+
+  S.M. Bunch, G.R. Cook, M. Ogawa, and A.W. Ehler, ""Absorption coefficients of C",data/cross-sections/Hydrogen+water/H2/H2_Bunch(1958)_298K_54.csv
+298.0,ComesWellern(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_ComesWellern(1968)_298K_79.0-85.5nm.txt,High-resolution (0.05 nm) absorption measurements using the He discharge (Hopfield continuum) as a light source,H2,hydrogen,"
+
+  F.J. Comes and H.O. Wellern, ""Die Spektroskopie des Wasserstoffmoleküls in der Nähe seiner Ionisierungsgrenze"",
+  Z. Naturforsch. 23a, 881-887 (1968)
+
+
+",data/cross-sections/Hydrogen+water/H2/H2_ComesWellern(1968)_298K_79.csv
+298.0,ComesWellern(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_ComesWellern(1968)_298K_79.4-81.6nm.txt,High-resolution (0.02 nm) absorption measurements using the He discharge (Hopfield continuum) as a light source,H2,hydrogen,"
+
+  F.J. Comes and H.O. Wellern, ""Die Spektroskopie des Wasserstoffmoleküls in der Nähe seiner Ionisierungsgrenze"",
+  Z. Naturforsch. 23a, 881-887 (1968)
+
+
+",data/cross-sections/Hydrogen+water/H2/H2_ComesWellern(1968)_298K_79.csv
+298.0,CookMetzger(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_CookMetzger(1964)_298K_77.00-86.88nm.txt,Absorption measurements at a spectral resolution of 0.05 nm using the Hopfield-continuum light source,H2,hydrogen,"
+
+  G.R. Cook and P.H. Metzger, ""Photoionization and absorption cross sections of H",data/cross-sections/Hydrogen+water/H2/H2_CookMetzger(1964)_298K_77.csv
+298.0,Lee(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_Lee(1976)_298K_18-70nm.txt,Absorption measurements using synchrotron radiation; spectral resolution ∼0.1nm,H2,hydrogen,"
+
+  L.C. Lee, R.W. Carlson, and D.L. Judge, ""The absorption cross sections of H",data/cross-sections/Hydrogen+water/H2/H2_Lee(1976)_298K_18-70nm.csv
+298.0,RebbertAusloos(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_RebbertAusloos(1971)_298K_58.4,74.0nm.txt","Wavelengths 58.4 nm of the He resonance lamp, and range 73.6-74.4 nm of the Ne resonance lamp",H2,hydrogen,"
+
+  R.E. Rebbert and P. Ausloos, ""Ionization quantum yields and absorption coefficients of selected compounds at 58.4 and 73.6-74.4 nm"",
+  J. Res. Natl. Bur. Stand. A 75, 481-485 (1971); 
+
+
+  DOI: ",data/cross-sections/Hydrogen+water/H2/H2_RebbertAusloos(1971)_298K_58.csv
+298.0,SamsonCairns(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/H2_SamsonCairns(1965)_298K_20.93-45.22nm.txt,Absorption measurements at wavelengths corresponding to intense solar emission lines,H2,hydrogen,"
+
+  J.A.R. Samson and R.B. Cairns, ""Total absorption cross sections of H",data/cross-sections/Hydrogen+water/H2/H2_SamsonCairns(1965)_298K_20.csv

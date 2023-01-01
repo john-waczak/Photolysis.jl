@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H5OC2H5_KimuraNagakura(1965)_298K_162.2-224.5nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5OC2H5,"phenetole, ethyl phenyl ether, ethoxybenzene","
+
+  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
+  Mol. Phys. 9, 117-135 (1965); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H5OC2H5/C6H5OC2H5_KimuraNagakura(1965)_298K_162.csv

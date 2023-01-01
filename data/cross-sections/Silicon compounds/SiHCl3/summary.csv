@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Roberge(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiHCl3_Roberge(1979)_298K_120.1-172.8nm.txt,Absorption measurements using a vacuum uv spectrometer with a hydrogen discharge source,SiHCl3,trichlorosilane,"
+
+  R. Roberge, C. Sandorfy, and O.P. Strausz, ""The electronic spectra of the alkyl, fluorine and chlorine substituted derivatives of silane"",
+  Theoret. Chim. Acta 52, 171-179 (1979); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/SiHCl3/SiHCl3_Roberge(1979)_298K_120.csv

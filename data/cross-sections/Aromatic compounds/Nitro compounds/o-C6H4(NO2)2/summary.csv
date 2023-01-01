@@ -1,0 +1,5 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Shama(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(NO2)2_Shama(1991)_298K_171.3-296.9nm.txt,"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 38) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",o-C6H4(NO2)2,o-dinitrobenzene,"
+
+  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
+  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;",data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(NO2)2/o-C6H4(NO2)2_Shama(1991)_298K_171.csv

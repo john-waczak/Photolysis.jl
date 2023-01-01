@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,RobertsFajer(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_250.1-330.2nm(meas).txt",Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,"t-C4H9ONO2,(CH3)3CONO2","tert-butyl nitrate, 1,1-dimethyl-1-ethyl nitrate","
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_250.csv"
+298.0,RobertsFajer(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_270-330nm.txt",Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,"t-C4H9ONO2,(CH3)3CONO2","tert-butyl nitrate, 1,1-dimethyl-1-ethyl nitrate","
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_270-330nm.csv"
+298.0,RobertsFajer(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_270-332nm(fit).txt",Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,"t-C4H9ONO2,(CH3)3CONO2","tert-butyl nitrate, 1,1-dimethyl-1-ethyl nitrate","
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitrates/t-C4H9ONO2,(CH3)3CONO2/t-C4H9ONO2,(CH3)3CONO2_RobertsFajer(1989)_298K_270-332nm(fit).csv"

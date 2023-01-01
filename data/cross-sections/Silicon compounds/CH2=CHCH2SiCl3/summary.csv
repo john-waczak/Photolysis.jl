@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,DeSain(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/CH2=CHCH2SiCl3_DeSain(2006)_298K_191-213nm.txt,UV-Vis-near-IR grating spectrometer with 0.5 nm resolution,CH2=CHCH2SiCl3,allyltrichlorosilane,"
+
+  J.D. DeSain, L.E. Jusinski, and C.A. Taatjes, ""Ultraviolet photochemistry of trichlorovinylsilane and allyltrichlorosilane: vinyl radical (HCCH",data/cross-sections/Silicon compounds/CH2=CHCH2SiCl3/CH2=CHCH2SiCl3_DeSain(2006)_298K_191-213nm.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Kumar(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20ethers/C6H2Cl3OCH3_Kumar(2021)_298K_115-320nm.txt,High-resolution (~0.08 nm) absorption measurements using synchrotron radiation as a light source,C6H2Cl3OCH3,"2,4,6-trichloroanisole, 1,3,5-trichloro-2-methoxybenzene","
+
+  P. Kumar, D. Duflot, S. V. Hoffmann, N. C. Jones, P. Bolognesi, C. L. R. Richter, L. Avaldi, M. J. Brunger, and P. Limão-Vieira, ""A combined experimental and theoretical study of the lowest-lying valence, Rydberg and ionic electronic states of 2,4,6-trichloroanisole"",
+  J. Quant. Spectrosc. Radiat. Transfer 271, 107751 (2021);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic ethers/C6H2Cl3OCH3/C6H2Cl3OCH3_Kumar(2021)_298K_115-320nm.csv

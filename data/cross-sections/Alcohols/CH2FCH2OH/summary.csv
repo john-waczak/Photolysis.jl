@@ -1,0 +1,21 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2FCH2OH_JPL-2019(2020)_295K_163-220nm(rec).txt,JPL-2019(2020) recommendation:,CH2FCH2OH,2-fluoroethanol,"
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
+Data for Use in Atmospheric Studies, Evaluation No. 19"",
+  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
+2019, http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Alcohols/CH2FCH2OH/CH2FCH2OH_JPL-2019(2020)_295K_163-220nm(rec).csv
+295.0,Orkin(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2FCH2OH_Orkin(2011)_295K_163.0-195.5nm.txt,"Absorption measurements using a deuterium lamp as the radiation source and a photomultiplier; the spectrum was recorded at increments of 0.5 nm at a spectral silt width of 0.16 nm
+",CH2FCH2OH,2-fluoroethanol,"
+
+  V.L. Orkin, V. G. Khamaganov, L.E Martynova, and M.J. Kurylo, ""High-accuracy measurements of OH* reaction rate constants and IR and UV absorption spectra: Ethanol and partially fluorinated ethyl alcohols"",
+  J. Phys. Chem. A 115, 8656-8668 (2011); 
+
+
+  DOI: ",data/cross-sections/Alcohols/CH2FCH2OH/CH2FCH2OH_Orkin(2011)_295K_163.csv
+298.0,Rajakumar(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2FCH2OH_Rajakumar(2005)_298K_185nm.txt,"Hg lamp, 185 nm band pass filter, and a solar blind photomultiplier tube were used",CH2FCH2OH,2-fluoroethanol,"
+
+  B. Rajakumar, J.B. Burkholder, R.W. Portmann, and A.R. Ravishankara, ""Rate coefficients for the OH + CFH",data/cross-sections/Alcohols/CH2FCH2OH/CH2FCH2OH_Rajakumar(2005)_298K_185nm.csv

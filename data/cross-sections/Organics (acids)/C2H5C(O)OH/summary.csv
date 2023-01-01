@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,Hintze(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C2H5C(O)OH_Hintze(2001)_297K_195-220nm.txt,Absorption measurements using a high brightness deuterium lamp and a photomultiplier tube; resolution 0.1 nm,C2H5C(O)OH,propionic acid,"
+
+  P. Hintze, S. Aloisio, and V. Vaida, ""Electronic spectroscopy of organic acid dimers"",
+  Chem. Phys. Lett. 343, 159-165 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C2H5C(O)OH/C2H5C(O)OH_Hintze(2001)_297K_195-220nm.csv
+297.8,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C2H5C(O)OH_Singleton(1990)_297.8K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,C2H5C(O)OH,propionic acid,"
+
+  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
+  J. Phys. Chem. 94, 695-699 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C2H5C(O)OH/C2H5C(O)OH_Singleton(1990)_297.csv
+375.0,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C2H5C(O)OH_Singleton(1990)_375.0K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,C2H5C(O)OH,propionic acid,"
+
+  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
+  J. Phys. Chem. 94, 695-699 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C2H5C(O)OH/C2H5C(O)OH_Singleton(1990)_375.csv
+313.0,Vicente(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C2H5C(O)OH_Vicente(2009)_313K_115.5-257.0nm.txt,Absorption measurements at a resolution of 0.075 nm using synchrotron radiation,C2H5C(O)OH,propionic acid,"
+
+  A. Vicente, R. Antunes, D. Almeida, I. J. A. Franco, S. V. Hoffmann, N. J. Mason, S. Eden, D. Duflot, S. Canneaux, J. Delwiche, M.-J. Hubin-Franskin, and P. Limão-Vieira, ""Photoabsorption measurements and theoretical calculations of the electronic state spectroscopy of propionic, butyric, and valeric acids"",
+  Phys. Chem. Chem. Phys. 11, 5729-5741 (2009); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C2H5C(O)OH/C2H5C(O)OH_Vicente(2009)_313K_115.csv

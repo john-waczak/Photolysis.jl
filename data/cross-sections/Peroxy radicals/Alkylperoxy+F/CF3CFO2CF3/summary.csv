@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Mogelberg(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CFO2CF3_Mogelberg(1996)_296K_220-280nm.txt,"Peroxy radical of 1,1,1,2,3,3,3-heptafluoropropane CF",CF3CFO2CF3,heptafluoroiosopropylperoxy radical,"
+
+  T.E. Møgelberg, J. Sehested, M. Bilde, T.J. Wallington, and O.J. Nielsen, ""Atmospheric chemistry of CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CFO2CF3/CF3CFO2CF3_Mogelberg(1996)_296K_220-280nm.csv

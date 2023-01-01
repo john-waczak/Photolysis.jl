@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Khamaganov(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CH3C(O)Br_Khamaganov(2007)_298K_210-304nm.txt,The relative absorption spectrum was measured between 210 and 305 nm using a Xe lamp as analysis light source and a 0.25-m monochromator coupled to a 1024 pixel linear diode array detector,CH3C(O)Br,acetyl bromide,"
+
+  V. Khamaganov, R. Karunanandan, A. Rodriguez, and J.N. Crowley, ""Photolysis of CH",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CH3C(O)Br/CH3C(O)Br_Khamaganov(2007)_298K_210-304nm.csv

@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Giessing(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CF3CF2CF2O2_Giessing(1996)_296K_230-270nm.txt,"Peroxy radical of 3,2,2-heptafluoropropane CF",CF3CF2CF2O2,heptafluoropropylperoxy radical,"
+
+  A.M.B. Giessing, A. Feilberg, T.E. Møgelberg, J. Sehested, M. Bilde, T.J. Wallington, and O.J. Nielsen, ""Atmospheric chemistry of HFC-227ca: Spectrokinetic investigation of the CF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CF3CF2CF2O2/CF3CF2CF2O2_Giessing(1996)_296K_230-270nm.csv

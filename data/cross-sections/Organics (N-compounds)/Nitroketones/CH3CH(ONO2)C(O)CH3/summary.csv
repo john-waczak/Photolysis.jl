@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barnes(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3CH(ONO2)C(O)CH3_Barnes(1993)_298K_245-340nm(meas).txt,Absorption measurements using a diode array spectrometer; spectral resolution 0.7 nm,CH3CH(ONO2)C(O)CH3,3-nitrooxy-2-butanone,"
+
+  I. Barnes, K.H. Becker, and T. Zhu, ""Near UV absorption spectra and photolysis products of difunctional organic nitrates: Possible importance as NO",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3CH(ONO2)C(O)CH3/CH3CH(ONO2)C(O)CH3_Barnes(1993)_298K_245-340nm(meas).csv
+298.0,Barnes(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3CH(ONO2)C(O)CH3_Barnes(1993)_298K_270-330nm(fit).txt,Absorption measurements using a diode array spectrometer; spectral resolution 0.7 nm,CH3CH(ONO2)C(O)CH3,3-nitrooxy-2-butanone,"
+
+  I. Barnes, K.H. Becker, and T. Zhu, ""Near UV absorption spectra and photolysis products of difunctional organic nitrates: Possible importance as NO",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3CH(ONO2)C(O)CH3/CH3CH(ONO2)C(O)CH3_Barnes(1993)_298K_270-330nm(fit).csv

@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Robin(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H8N2_Robin(1967)_298K_127.2-218.9nm.txt,    N=N,C4H8N2,3-methyl-1-pyrazoline,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H8N2/C4H8N2_Robin(1967)_298K_127.csv
+298.0,Robin(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H8N2_Robin(1967)_298K_324.0nm(max).txt,    N=N,C4H8N2,3-methyl-1-pyrazoline,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H8N2/C4H8N2_Robin(1967)_298K_324.csv

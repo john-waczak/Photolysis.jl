@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/(C2H5)In(CH3)2_Okabe(1991)_298K_186-321nm.txt,The UV absorption spectrum was measured several times by a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,(C2H5)In(CH3)2,"ethyldimethylindium, EDMIn","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/(C2H5)In(CH3)2/(C2H5)In(CH3)2_Okabe(1991)_298K_186-321nm.csv
+298.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/(C2H5)In(CH3)2_Okabe(1991)_298K_193-308nm.txt,The UV absorption spectrum was measured several times with a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,(C2H5)In(CH3)2,"ethyldimethylindium, EDMIn","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/(C2H5)In(CH3)2/(C2H5)In(CH3)2_Okabe(1991)_298K_193-308nm.csv

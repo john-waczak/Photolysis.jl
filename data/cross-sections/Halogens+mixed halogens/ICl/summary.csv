@@ -1,0 +1,76 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+293.0,Binder(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Binder(1938)_293K_216-310nm.txt,Absorption coefficients measured by photographic photometry (in L mol,ICl,iodine monochloride,"
+
+  J.L. Binder, ""The continuous absorption spectrum of iodine monochloride in the ultraviolet"",
+  Phys. Rev. 54, 114-117 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Binder(1938)_293K_216-310nm.csv
+387.0,Binder(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Binder(1938)_387K_216-310nm.txt,Absorption coefficients measured by photographic photometry (in L mol,ICl,iodine monochloride,"
+
+  J.L. Binder, ""The continuous absorption spectrum of iodine monochloride in the ultraviolet"",
+  Phys. Rev. 54, 114-117 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Binder(1938)_387K_216-310nm.csv
+489.0,Binder(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Binder(1938)_489K_216-310nm.txt,Absorption coefficients measured by photographic photometry (in L mol,ICl,iodine monochloride,"
+
+  J.L. Binder, ""The continuous absorption spectrum of iodine monochloride in the ultraviolet"",
+  Phys. Rev. 54, 114-117 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Binder(1938)_489K_216-310nm.csv
+685.0,Binder(1938),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Binder(1938)_685K_216-310nm.txt,Absorption coefficients measured by photographic photometry (in L mol,ICl,iodine monochloride,"
+
+  J.L. Binder, ""The continuous absorption spectrum of iodine monochloride in the ultraviolet"",
+  Phys. Rev. 54, 114-117 (1938); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Binder(1938)_685K_216-310nm.csv
+298.0,GibsonRamsperger(1927),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_GibsonRamsperger(1927)_298K_377-570nm(smoo).txt,Absorption measurements by photographic photometry,ICl,iodine monochloride,"
+
+  G.E. Gibson and H.C. Ramsperger, ""Band spectra and dissociation of iodine monochloride"",
+  Phys. Rev. 30, 598-607 (1927); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_GibsonRamsperger(1927)_298K_377-570nm(smoo).csv
+298.0,GibsonRamsperger(1927),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_GibsonRamsperger(1927)_298K_394-570nm(meas).txt,Absorption measurements by photographic photometry,ICl,iodine monochloride,"
+
+  G.E. Gibson and H.C. Ramsperger, ""Band spectra and dissociation of iodine monochloride"",
+  Phys. Rev. 30, 598-607 (1927); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_GibsonRamsperger(1927)_298K_394-570nm(meas).csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_IUPAC(2007)_298K_220-600nm(rec).txt,IUPAC(2007) recommendation:,ICl,iodine monochloride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_IUPAC(2007)_298K_220-600nm(rec).csv
+298.0,Jenkin(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Jenkin(1990)_298K_210-690nm.txt,Absorption measurements with use of deuterium or tungsten lamp sources with dispersion and detection on a conventional monochromator/ photomultiplier arrangement or on a 1024 channel photodiode array,ICl,iodine monochloride,"
+
+  M.E. Jenkin, R.A. Cox, A. Mellouki, G. Le Bras, and G. Poulet, ""Kinetics of the reaction of iodine atoms with HO",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Jenkin(1990)_298K_210-690nm.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_JPL-2010(2011)_298K_210-600nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",ICl,iodine monochloride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogens+mixed halogens/ICl/ICl_JPL-2010(2011)_298K_210-600nm(rec).csv
+298.0,Mashnin(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Mashnin(1993)_298K_437-490nm.txt,Decompostion of the experimental absorption curve of,ICl,iodine monochloride,"
+
+  T.S. Mashnin, A.V. Cheryshev, and L.N. Krasnoperov, ""Laser photolysis of ICl. A time-resolved LMR measurement of Cl(",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Mashnin(1993)_298K_437-490nm.csv
+298.0,Mashnin(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Mashnin(1993)_298K_437-532nm.txt,Decomposition of the experimental absorption curve of,ICl,iodine monochloride,"
+
+  T.S. Mashnin, A.V. Cheryshev, and L.N. Krasnoperov, ""Laser photolysis of ICl. A time-resolved LMR measurement of Cl(",data/cross-sections/Halogens+mixed halogens/ICl/ICl_Mashnin(1993)_298K_437-532nm.csv
+298.0,Mashnin(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_Mashnin(1993)_298K_530,532nm.txt",Decomposition of the experimental absorption curve of,ICl,iodine monochloride,"
+
+  T.S. Mashnin, A.V. Cheryshev, and L.N. Krasnoperov, ""Laser photolysis of ICl. A time-resolved LMR measurement of Cl(","data/cross-sections/Halogens+mixed halogens/ICl/ICl_Mashnin(1993)_298K_530,532nm.csv"
+298.0,SeeryBritton(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ICl_SeeryBritton(1964)_298K_220-600nm.txt,Absorption measurements were made on a Cary Model 11 recording spectrophotometer using 10-cm quartz cells,ICl,iodine monochloride,"
+
+  D.J. Seery and D. Britton, ""The continuous absorption spectra of chlorine, bromine, bromine chloride, iodine chloride, and iodine bromide"",
+  J. Phys. Chem. 68, 2263-2266 (1964); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ICl/ICl_SeeryBritton(1964)_298K_220-600nm.csv

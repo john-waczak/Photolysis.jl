@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Nielsen(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br_Nielsen(1991)_298K_220-350nm.txt,A pulse radiolysis (SF,CH2Br,bromomethyl radical,"
+
+  O.J. Nielsen, J. Munk, G. Locke, and T.J. Wallington, ""Ultraviolet absorption spectra and kinetics of the self-reaction of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br/CH2Br_Nielsen(1991)_298K_220-350nm.csv
+298.0,VillenaveLesclaux(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br_VillenaveLesclaux(1995)_298K_220-280nm.txt,Absorption measurements using the flash photolysis technique applied to slowly flowing Cl,CH2Br,bromomethyl radical,"
+
+  E. Villenave and R. Lesclaux, ""The UV absorption spectra of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br/CH2Br_VillenaveLesclaux(1995)_298K_220-280nm.csv

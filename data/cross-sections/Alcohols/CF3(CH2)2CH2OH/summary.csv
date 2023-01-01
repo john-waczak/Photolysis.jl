@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jimenez(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3(CH2)2CH2OH_Jimenez(2010)_298K_200-230nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,CF3(CH2)2CH2OH,"4,4,4-trifluorobutanol","
+
+  E. Jiménez, M. Antiñolo, B. Ballesteros, E. Martinez, and J. Albaladejo, ""E. Jimenez, M. Antinolo, B. Ballesteros, E. Martinez, and J. Albaladejo"",
+  ChemPhysChem. 11, 4079-4087 (2010); 
+
+
+  DOI: ",data/cross-sections/Alcohols/CF3(CH2)2CH2OH/CF3(CH2)2CH2OH_Jimenez(2010)_298K_200-230nm.csv

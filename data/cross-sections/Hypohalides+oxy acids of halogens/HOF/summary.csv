@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Elliott(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOF_Elliott(1983)_295K_200.0-387.5nm.txt,Absorption measurements with a Cary UV-visible spectrophotometer interfaced to a computer for data manipulation,HOF,hypofluorous acid,"
+
+  S. Elliott, ""Ultraviolet absorption spectra of FNO",data/cross-sections/Hypohalides+oxy acids of halogens/HOF/HOF_Elliott(1983)_295K_200.csv

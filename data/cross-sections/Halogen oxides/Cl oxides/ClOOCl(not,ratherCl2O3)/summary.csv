@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+240.0,MolinaMolina(1987),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl(not,ratherCl2O3)_MolinaMolina(1987)_240K_200-346nm.txt",Reaction of Cl atoms with one of three different ClO precursors: O,"ClOOCl(not,ratherCl2O3)",dichlorine dioxide or dichlorine trioxide,"
+
+  L.T. Molina and M.J. Molina, ""Production of Cl","data/cross-sections/Halogen oxides/Cl oxides/ClOOCl(not,ratherCl2O3)/ClOOCl(not,ratherCl2O3)_MolinaMolina(1987)_240K_200-346nm.csv"

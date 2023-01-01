@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Au(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PF3_Au(1997)_298K_4.13-9.92nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",PF3,phosphor trifluoride,"
+
+  J.W. Au, G. Cooper, and C.E. Brion, ""Photoabsorption and photoionization of the valence and inner (P 2p, 2s) shells of PF3: Absolute oscillator strengths and dipole-induced breakdown pathways"",
+  Chem. Phys. 215, 397-418 (1997); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PF3/PF3_Au(1997)_298K_4.csv
+298.0,Au(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/PF3_Au(1997)_298K_9.5-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",PF3,phosphor trifluoride,"
+
+  J.W. Au, G. Cooper, and C.E. Brion, ""Photoabsorption and photoionization of the valence and inner (P 2p, 2s) shells of PF3: Absolute oscillator strengths and dipole-induced breakdown pathways"",
+  Chem. Phys. 215, 397-418 (1997); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/PF3/PF3_Au(1997)_298K_9.csv

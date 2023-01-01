@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Giuliani(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H3O(CH3)_Giuliani(2003)_298K_103.3-275.5nm(e,e).txt",High-resolution (0.008 eV) electron energy loss spectroscopy (HREELS) ,C4H3O(CH3),2-methylfuran,"
+
+  A. Giuliani, J. Delwiche, S.V. Hoffmann, P. Limão-Vieira, N.J. Mason, and M.-J. Hubin-Franskin, ""2-methyl furan: An experimental study of the excited electronic levels by electron energy loss spectroscopy, vacuum ultraviolet photoabsorption, and photoelectron spectroscopy"",
+  J. Chem. Phys. 119, 3670-3680 (2003); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H3O(CH3)/C4H3O(CH3)_Giuliani(2003)_298K_103.csv
+298.0,Giuliani(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H3O(CH3)_Giuliani(2003)_298K_123.8-243.0nm.txt,"Photoabsorption using synchrotron radiation, resolution better than 0.1 nm",C4H3O(CH3),2-methylfuran,"
+
+  A. Giuliani, J. Delwiche, S.V. Hoffmann, P. Limão-Vieira, N.J. Mason, and M.-J. Hubin-Franskin, ""2-methyl furan: An experimental study of the excited electronic levels by electron energy loss spectroscopy, vacuum ultraviolet photoabsorption, and photoelectron spectroscopy"",
+  J. Chem. Phys. 119, 3670-3680 (2003); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H3O(CH3)/C4H3O(CH3)_Giuliani(2003)_298K_123.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/1,3-C3H3NS_Palmer(2008)_298K_106-260nm.txt",Absorption measurements using a synchrotron radiation source,"1,3-C3H3NS",thiazole,"
+
+  M.H. Palmer, ""The electronic states of thiazole studied by VUV absorption spectroscopy and ab initio configuration interaction mehods"",
+  Chem. Phys. 344, 21-34 (2008); 
+
+
+  DOI: ","data/cross-sections/Sulfur compounds/Organic S-compounds/1,3-C3H3NS/1,3-C3H3NS_Palmer(2008)_298K_106-260nm.csv"

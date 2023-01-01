@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Klotz(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)_Klotz(1995)_298K_292.5-352.5nm.txt","Average cross sections for intervals of 5 nm, 290-295 nm, 295-300 nm, etc.","HCOCH=CHCH=CHCHO(E,E)","E,E-2,4-hexadienedial","
+
+  B.G. Klotz, A. Bierbach, I. Barnes, and K.H. Becker, ""Kinetic and mechanistic study of the atmospheric chemistry of muconaldehydes"",
+  Environ. Sci. Technol. 29, 2322-2332 (1995); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)/HCOCH=CHCH=CHCHO(E,E)_Klotz(1995)_298K_292.csv"
+295.0,XiangZhu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)_XiangZhu(2007)_295K_248nm.txt",Photolysis of HCOCH=CHCH=CHCHO,"HCOCH=CHCH=CHCHO(E,E)","E,E-2,4-hexadienedial","
+
+  B. Xiang and L. Zhu, ""Absorption cross sections of E,E-2,4-hexadienedial at 248nm, and in the 290-430 nm region, and photolysis study at 248, 308, and 351 nm"",
+  Chem. Phys. Lett. 450, 31-38 (2007); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)/HCOCH=CHCH=CHCHO(E,E)_XiangZhu(2007)_295K_248nm.csv"
+295.0,XiangZhu(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)_XiangZhu(2007)_295K_290-430nm.txt",Absorption measurements by cavity ring-down spectroscopy,"HCOCH=CHCH=CHCHO(E,E)","E,E-2,4-hexadienedial","
+
+  B. Xiang and L. Zhu, ""Absorption cross sections of E,E-2,4-hexadienedial at 248nm, and in the 290-430 nm region, and photolysis study at 248, 308, and 351 nm"",
+  Chem. Phys. Lett. 450, 31-38 (2007); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,E)/HCOCH=CHCH=CHCHO(E,E)_XiangZhu(2007)_295K_290-430nm.csv"

@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Klotz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Benzene%20oxide-oxepin,toluene%20oxide-methyloxepin/(CH3)C6H5O_Klotz(2000)_295K_230-413nm.txt",Absorption measurements in a glass reaction chamber fitted with an FTIR and a UV spectrometer with a diode array detector,(CH3)C6H5O,"toluene-1,2-oxide/2-methyloxepin","
+
+  B. Klotz, I. Barnes, B.T. Golding, and K.-H. Becker, ""Atmospheric chemistry of toluene-1,2-oxide/2-methyloxepin"",
+  Phys. Chem. Chem. Phys. 2, 227-235 (2000); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Benzene oxide-oxepin,toluene oxide-methyloxepin/(CH3)C6H5O/(CH3)C6H5O_Klotz(2000)_295K_230-413nm.csv"
+295.0,Klotz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Benzene%20oxide-oxepin,toluene%20oxide-methyloxepin/(CH3)C6H5O_Klotz(2000)_295K_230-450nm(5nm).txt",Absorption measurements in a glass reaction chamber fitted with an FTIR and a UV spectrometer with a diode array detector,(CH3)C6H5O,"toluene-1,2-oxide/2-methyloxepin","
+
+  B. Klotz, I. Barnes, B.T. Golding, and K.-H. Becker, ""Atmospheric chemistry of toluene-1,2-oxide/2-methyloxepin"",
+  Phys. Chem. Chem. Phys. 2, 227-235 (2000); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Benzene oxide-oxepin,toluene oxide-methyloxepin/(CH3)C6H5O/(CH3)C6H5O_Klotz(2000)_295K_230-450nm(5nm).csv"
+295.0,Klotz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Benzene%20oxide-oxepin,toluene%20oxide-methyloxepin/(CH3)C6H5O_Klotz(2000)_295K_290nm(max).txt",Absorption measurements in a glass reaction chamber fitted with an FTIR and a UV spectrometer with a diode array detector,(CH3)C6H5O,"toluene-1,2-oxide/2-methyloxepin","
+
+  B. Klotz, I. Barnes, B.T. Golding, and K.-H. Becker, ""Atmospheric chemistry of toluene-1,2-oxide/2-methyloxepin"",
+  Phys. Chem. Chem. Phys. 2, 227-235 (2000); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Benzene oxide-oxepin,toluene oxide-methyloxepin/(CH3)C6H5O/(CH3)C6H5O_Klotz(2000)_295K_290nm(max).csv"

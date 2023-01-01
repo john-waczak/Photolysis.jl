@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,Kapnas(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CHI2Cl_Kapnas(2017)_294K_200-450nm.txt",Absorption measurements using a UV-visible spectrometer (Cary 50),CHI2Cl,chlorodiiodomethane,"
+
+  K.M. Kapnas, B.W. Toulson, E.S. Foreman, S.A. Block, J.G. Hill, and C. Murray, ""UV photodissociation dynamics of CHI","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CHI2Cl/CHI2Cl_Kapnas(2017)_294K_200-450nm.csv"

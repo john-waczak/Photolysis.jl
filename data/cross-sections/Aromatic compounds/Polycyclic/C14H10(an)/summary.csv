@@ -1,0 +1,122 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+423.0,DygdalaStefanski(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_DygdalaStefanski(1980)_423K_295-379nm.txt,Absorption measurements using a mercury lamp and a halogen lamps as light sources,C14H10(an),anthracene,"
+
+  R.S. Dygdala and K. Stefanski, ""Absorption investigations of anthracene vapour"",
+  Chem. Phys. 53, 51-62  (1980)
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_DygdalaStefanski(1980)_423K_295-379nm.csv
+313.0,Ferguson(1957),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_Ferguson(1957)_313K_220-248nm.txt,"Absorption measurements using a xenon high-pressure arc as the light source
+",C14H10(an),anthracene,"
+
+  J. Ferguson, L.W. Reeves, and W.G. Schneider, ""Vapor absorption spectra and oscillator strehgths of naphtalene, anthracene, and pyrene"",
+  Can. J. Chem. 35, 1117-1136 (1957); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_Ferguson(1957)_313K_220-248nm.csv
+313.0,Ferguson(1957),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_Ferguson(1957)_313K_300.5-375.2nm.txt,"Absorption measurements using a xenon high-pressure arc as the light source
+",C14H10(an),anthracene,"
+
+  J. Ferguson, L.W. Reeves, and W.G. Schneider, ""Vapor absorption spectra and oscillator strehgths of naphtalene, anthracene, and pyrene"",
+  Can. J. Chem. 35, 1117-1136 (1957); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_Ferguson(1957)_313K_300.csv
+433.0,HardtlScharmann(1957),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_HardtlScharmann(1957)_433K_295-380nm.txt,Absorption measurements using a quartz double monochromator with a hydrogen lamp,C14H10(an),anthracene,"
+
+  K.H.Härdtl and A. Scharmann, ""Fluoreszenzmessungen an Anthracendampf"",
+  Z. Naturforsch. 12a, 715-719 (1957)
+
+
+",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_HardtlScharmann(1957)_433K_295-380nm.csv
+295.0,Kitagawa(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_Kitagawa(1968)_295K_160.4-300.4nm.txt,"Absorption measurements using a vacuum ultraviolet spectrometer and a hydrogen discharge lamp as a light source, presumably at room temperature or possibly at higher temperatures",C14H10(an),anthracene,"
+
+  T. Kitagawa, ""Absorption spectra and photoionization of polycyclic aromatics in vacuum ultraviolet region"",
+  J. Mol. Spectrosc. 26, 1-23 (1968); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_Kitagawa(1968)_295K_160.csv
+423.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_423K_200-260nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_423K_200-260nm.csv
+423.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_423K_236.7-362.4nm(max).txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_423K_236.csv
+423.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_423K_249-398nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_423K_249-398nm.csv
+573.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_573K_200-260nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_573K_200-260nm.csv
+573.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_573K_237.1-363.6nm(max).txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_573K_237.csv
+573.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_573K_250-398nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_573K_250-398nm.csv
+723.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_723K_200-260nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_723K_200-260nm.csv
+723.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_723K_237.6-364.7nm(max).txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_723K_237.csv
+723.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_723K_253-398nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_723K_253-398nm.csv
+823.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_823K_200-260nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_823K_200-260nm.csv
+823.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_823K_238.3-364.9nm(max).txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_823K_238.csv
+823.0,ThonyRossi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Polycyclic/C14H10(an)_ThonyRossi(1997)_823K_255-398nm.txt,Absorption measurements in the wavelength range 200-400 nm (deuterium lamp) at elevated temperatures and at 1 atm of air in a slowly flowing gas mixture,C14H10(an),anthracene,"
+
+  A. Thöny and M.J. Rossi, ""Gas-phase UV spectroscopy of anthracene, xanthone, pyrene, 1-bromopyrene and 1,2,4-trichlorobenzene at elevated temperatures"",
+  J. Photochem. Photobiol. A: Chem. 104, 25-33 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Polycyclic/C14H10(an)/C14H10(an)_ThonyRossi(1997)_823K_255-398nm.csv

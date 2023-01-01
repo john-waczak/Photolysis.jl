@@ -1,0 +1,21 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barnes(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)_Barnes(1993)_298K_245-340nm(meas).txt,Absorption measurements using a diode array spectrometer; spectral resolution 0.7 nm,CH3C(O)CH2(ONO2),"nitrooxy-acetone, NOA","
+
+  I. Barnes, K.H. Becker, and T. Zhu, ""Near UV absorption spectra and photolysis products of difunctional organic nitrates: Possible importance as NO",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)/CH3C(O)CH2(ONO2)_Barnes(1993)_298K_245-340nm(meas).csv
+298.0,Barnes(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)_Barnes(1993)_298K_270-340nm(fit).txt,Absorption measurements using a diode array spectrometer; spectral resolution 0.7 nm,CH3C(O)CH2(ONO2),"nitrooxy-acetone, NOA","
+
+  I. Barnes, K.H. Becker, and T. Zhu, ""Near UV absorption spectra and photolysis products of difunctional organic nitrates: Possible importance as NO",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)/CH3C(O)CH2(ONO2)_Barnes(1993)_298K_270-340nm(fit).csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)_RobertsFajer(1989)_298K_249.7-334.3nm(meas).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,CH3C(O)CH2(ONO2),"nitrooxy-acetone, NOA","
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)/CH3C(O)CH2(ONO2)_RobertsFajer(1989)_298K_249.csv
+298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)_RobertsFajer(1989)_298K_284-336nm(fit).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,CH3C(O)CH2(ONO2),"nitrooxy-acetone, NOA","
+
+  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
+  Environ. Sci. Technol. 23, 945-951 (1989); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitroketones/CH3C(O)CH2(ONO2)/CH3C(O)CH2(ONO2)_RobertsFajer(1989)_298K_284-336nm(fit).csv

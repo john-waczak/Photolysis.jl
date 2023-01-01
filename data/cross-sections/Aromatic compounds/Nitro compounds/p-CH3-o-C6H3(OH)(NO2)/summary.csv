@@ -1,0 +1,16 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+293.0,Chen(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/p-CH3-o-C6H3(OH)(NO2)_Chen(2011)_293K_320-450nm.txt,A broadband cavity absorption spectrometer has been coupled to an atmospheric simulation chamber for the measurement of the gas-phase absorption spectrum,p-CH3-o-C6H3(OH)(NO2),4-methyl-2-nitrophenol,"
+
+  J. Chen, J.C. Wenger, and D.S. Venables, ""Near-ultraviolet absorption cross sections of nitrophenols and their potential influence on tropospheric oxidation capacity"",
+  J. Phys. Chem. A 115, 12235-12242 (2011); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/p-CH3-o-C6H3(OH)(NO2)/p-CH3-o-C6H3(OH)(NO2)_Chen(2011)_293K_320-450nm.csv
+298.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/p-CH3-o-C6H3(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).txt,"IUPAC(2012) recommendation:
+Data of ",p-CH3-o-C6H3(OH)(NO2),4-methyl-2-nitrophenol,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Aromatic compounds/Nitro compounds/p-CH3-o-C6H3(OH)(NO2)/p-CH3-o-C6H3(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).csv

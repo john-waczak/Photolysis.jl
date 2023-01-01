@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Russell(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH2Cl(CH2)2CH2Cl_Russell(1973)_298K_122-187nm.txt,Extinction coefficients have been digitized from Fig. 2 and converted to absorption cross sections (conversion factor 3.8235×10,CH2Cl(CH2)2CH2Cl,"1,4-dichlorobutane","
+
+  B.R. Russell, L.O. Edwards, and J.W. Raymonda, ""Vacuum ultraviolet absorption spectra of the chloromethanes"",
+  J. Am. Chem. Soc. 95, 2129-2133 (1973); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH2Cl(CH2)2CH2Cl/CH2Cl(CH2)2CH2Cl_Russell(1973)_298K_122-187nm.csv

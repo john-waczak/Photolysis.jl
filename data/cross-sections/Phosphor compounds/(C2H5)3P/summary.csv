@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+293.0,HalpernRamachandran(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/(C2H5)3P_HalpernRamachandran(1992)_293K_185-236nm.txt,"Absorption spectra were obtained with a Varian 2300 spectrophotometer, which was purged with dry N",(C2H5)3P,triethylphosphine,"
+
+  A.M Halpern and B.R. Ramachandran, ""The electronic spectroscopy and photophysics of saturated phosphines"",
+  J. Mol. Spectrosc. 151, 26-32 (1992); 
+
+
+  DOI: ",data/cross-sections/Phosphor compounds/(C2H5)3P/(C2H5)3P_HalpernRamachandran(1992)_293K_185-236nm.csv

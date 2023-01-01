@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Kuo(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Iodoalkenes/ICH2CH=CICH3_Kuo(2021)_298K_210.61-349.06nm.txt,"Absorption measurements in an absorption cell (path length L = 75.3 cm) with a D2 lamp (Hamamatsu, L12515) and an UV spectrometer (Ibsen photonic, FHW-380) ",ICH2CH=CICH3,"1,3-diiodo-but-2-ene","
+
+  M.-T. Kuo, J.-N. Yang, J. J.-M. Lin, and K. Takahashi, ""Substituent effect in the reactions between Criegee intermediates and 3‑aminopropanol"",
+  J. Phys.  Chem. A 125, 6580-6590 (2021);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Iodoalkenes/ICH2CH=CICH3/ICH2CH=CICH3_Kuo(2021)_298K_210.csv
+298.0,Kuo(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Iodoalkenes/ICH2CH=CICH3_Kuo(2021)_298K_240nm(max).txt,"Absorption measurements in an absorption cell (path length L = 75.3 cm) with a D2 lamp (Hamamatsu, L12515) and an UV spectrometer (Ibsen photonic, FHW-380)",ICH2CH=CICH3,"1,3-diiodo-but-2-ene","
+
+  M.-T. Kuo, J.-N. Yang, J. J.-M. Lin, and K. Takahashi, ""Substituent effect in the reactions between Criegee intermediates and 3‑aminopropanol"",
+  J. Phys.  Chem. A 125, 6580-6590 (2021);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Iodoalkenes/ICH2CH=CICH3/ICH2CH=CICH3_Kuo(2021)_298K_240nm(max).csv

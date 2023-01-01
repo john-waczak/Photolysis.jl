@@ -1,0 +1,39 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Au(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_Au(1993)_298K_5.6-165nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",n-C5H12,n-pentane,"
+
+  J.W. Au, G. Cooper, G.R. Burton, T.N. Olney, and C.E. Brion, ""The valence shell photoabsorption of the linear alkanes, C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_Au(1993)_298K_5.csv
+298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_Lombos(1967)_298K_117.0-161.0nm(max).txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,n-C5H12,n-pentane,"
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
+  J. Mol. Spectrosc. 24, 253-269 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_Lombos(1967)_298K_117.csv
+298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_Lombos(1967)_298K_117.5-160.4nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,n-C5H12,n-pentane,"
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
+  J. Mol. Spectrosc. 24, 253-269 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_Lombos(1967)_298K_117.csv
+298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_RaymondaSimpson(1967)_298K_107.7-165.6nm.txt,"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",n-C5H12,n-pentane,"
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_RaymondaSimpson(1967)_298K_107.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_Schoen(1962)_295K_45.9-137.7nm(smoo).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",n-C5H12,n-pentane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_Schoen(1962)_295K_45.csv
+295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/n-C5H12_Schoen(1962)_295K_46.1-136.3nm(meas).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",n-C5H12,n-pentane,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/n-C5H12/n-C5H12_Schoen(1962)_295K_46.csv

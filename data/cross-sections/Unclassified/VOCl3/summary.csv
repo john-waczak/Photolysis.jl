@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+273.0,MillerWhite(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/VOCl3_MillerWhite(1965)_273K_219.8-370.3nm.txt,Absorption measurements with a Cary spectrophotometer (vapor pressure 4.6 Torr),VOCl3,vanadium oxytrichloride,"
+
+  F.A. Miller and W.B. White, ""Electronic spectrum and apparent thermochromism of VOCl",data/cross-sections/Unclassified/VOCl3/VOCl3_MillerWhite(1965)_273K_219.csv

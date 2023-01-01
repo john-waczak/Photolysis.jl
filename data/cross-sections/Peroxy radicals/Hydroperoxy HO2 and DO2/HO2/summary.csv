@@ -1,0 +1,134 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,CoxBurrows(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_CoxBurrows(1979)_298K_197-253nm(smoo).txt,Molecular modulation (Cl,HO2,hydroperoxy radical,"
+
+  R.A. Cox and J.P. Burrows, ""Kinetics and mechanism of the disproportionation of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_CoxBurrows(1979)_298K_197-253nm(smoo).csv
+298.0,CoxBurrows(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_CoxBurrows(1979)_298K_200-250nm(L-rev).txt,Molecular modulation (Cl,HO2,hydroperoxy radical,"
+
+  R.A. Cox and J.P. Burrows, ""Kinetics and mechanism of the disproportionation of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_CoxBurrows(1979)_298K_200-250nm(L-rev).csv
+298.0,CoxBurrows(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_CoxBurrows(1979)_298K_200-250nm(meas).txt,Molecular modulation (Cl,HO2,hydroperoxy radical,"
+
+  R.A. Cox and J.P. Burrows, ""Kinetics and mechanism of the disproportionation of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_CoxBurrows(1979)_298K_200-250nm(meas).csv
+298.0,CoxBurrows(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_CoxBurrows(1979)_298K_200-250nm(W-rev).txt,Molecular modulation (Cl,HO2,hydroperoxy radical,"
+
+  R.A. Cox and J.P. Burrows, ""Kinetics and mechanism of the disproportionation of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_CoxBurrows(1979)_298K_200-250nm(W-rev).csv
+298.0,Crowley(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Crowley(1991)_298K_190-260nm(Mainz).txt,The molecular modulation technique coupled with UV spectroscopy,HO2,hydroperoxy radical,"
+
+  J.N. Crowley, F.G. Simon, J.P. Burrows, G.K. Moortgat, M.E. Jenkin, and R.A. Cox, ""The HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Crowley(1991)_298K_190-260nm(Mainz).csv
+298.0,Crowley(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Crowley(1991)_298K_200-260nm(Harwell).txt,The molecular modulation technique coupled with UV spectroscopy,HO2,hydroperoxy radical,"
+
+  J.N. Crowley, F.G. Simon, J.P. Burrows, G.K. Moortgat, M.E. Jenkin, and R.A. Cox, ""The HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Crowley(1991)_298K_200-260nm(Harwell).csv
+296.0,Hochanadel(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Hochanadel(1972)_296K_185-260nm.txt,Flash photolysis of H,HO2,hydroperoxy radical,"
+
+  C.J. Hochanadel, J.A. Ghormley, and P.J. Ogren, ""Absorption spectrum and reaction kinetics of the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Hochanadel(1972)_296K_185-260nm.csv
+296.0,Hochanadel(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Hochanadel(1972)_296K_185-260nm(L-rev).txt,Flash photolysis of H,HO2,hydroperoxy radical,"
+
+  C.J. Hochanadel, J.A. Ghormley, and P.J. Ogren, ""Absorption spectrum and reaction kinetics of the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Hochanadel(1972)_296K_185-260nm(L-rev).csv
+296.0,Hochanadel(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Hochanadel(1972)_296K_185-260nm(L-rev,W-rev).txt",Flash photolysis of H,HO2,hydroperoxy radical,"
+
+  C.J. Hochanadel, J.A. Ghormley, and P.J. Ogren, ""Absorption spectrum and reaction kinetics of the HO","data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Hochanadel(1972)_296K_185-260nm(L-rev,W-rev).csv"
+296.0,Hochanadel(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Hochanadel(1972)_296K_190-260nm(W-rev).txt,Flash photolysis of H,HO2,hydroperoxy radical,"
+
+  C.J. Hochanadel, J.A. Ghormley, and P.J. Ogren, ""Absorption spectrum and reaction kinetics of the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Hochanadel(1972)_296K_190-260nm(W-rev).csv
+296.0,Hochanadel(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Hochanadel(1980)_296K_205nm(max).txt,Flash photolysis of H,HO2,hydroperoxy radical,"
+
+  C.J. Hochanadel, T.J. Sworski, and P.J. Ogren, ""Rate constants for the reaction of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Hochanadel(1980)_296K_205nm(max).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_JPL-2010(2011)_298K_190-260nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",HO2,hydroperoxy radical,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_JPL-2010(2011)_298K_190-260nm(rec).csv
+298.0,JPL-97(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_JPL-97(1997)_298K_190-250nm(rec).txt,JPL-97 recommendation:,HO2,hydroperoxy radical,"
+
+  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
+  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
+
+
+",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_JPL-97(1997)_298K_190-250nm(rec).csv
+298.0,Kurylo(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Kurylo(1987)_298K_210-250nm(meas).txt,Pulse radiolysis (Cl,HO2,hydroperoxy radical,"
+
+  M.J. Kurylo, T.J. Wallington, and P.A. Ouellette, ""Measurements of the UV absorption cross sections for HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Kurylo(1987)_298K_210-250nm(meas).csv
+298.0,Kurylo(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Kurylo(1987)_298K_210-250nm(smoo).txt,Pulse radiolysis (Cl,HO2,hydroperoxy radical,"
+
+  M.J. Kurylo, T.J. Wallington, and P.A. Ouellette, ""Measurements of the UV absorption cross sections for HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Kurylo(1987)_298K_210-250nm(smoo).csv
+298.0,Lightfoot(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Lightfoot(1988)_298K_210-227.5nm.txt,Flash photolysis of Cl,HO2,hydroperoxy radical,"
+
+  P.D. Lightfoot, B. Veyret, and R. Lesclaux, ""The rate constant for the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Lightfoot(1988)_298K_210-227.csv
+298.0,Lightfoot(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Lightfoot(1992)_298K_190-260nm(rec).txt,Recommendation based on the measurements of,HO2,hydroperoxy radical,"
+
+  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
+  Atmos. Environ. 26A, 1805-1961 (1992); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Lightfoot(1992)_298K_190-260nm(rec).csv
+298.0,LightfootJemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_LightfootJemi-Alade(1991)_298K_210-250nm.txt,Flash photolysis technique (Cl,HO2,hydroperoxy radical,"
+
+  P.D. Lightfoot and A.A. Jemi-Alade, ""The temperature dependence of the UV spectra of the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_LightfootJemi-Alade(1991)_298K_210-250nm.csv
+295.0,MaricqSzente(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_MaricqSzente(1994)_295K_186-273nm.txt,Flash photolysis (F,HO2,hydroperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""A kinetic study of the reaction between ethylperoxy radicals and HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_MaricqSzente(1994)_295K_186-273nm.csv
+295.0,MaricqSzente(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_MaricqSzente(1994)_295K_190.04-273.35nm.txt,Flash photolysis (F,HO2,hydroperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""A kinetic study of the reaction between ethylperoxy radicals and HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_MaricqSzente(1994)_295K_190.csv
+298.0,McAdam(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_McAdam(1987)_298K_200-260nm.txt,Flash photolysis of Cl,HO2,hydroperoxy radical,"
+
+  K. McAdam, B. Veyret, and R. Lesclaux, ""Absorption spectra of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_McAdam(1987)_298K_200-260nm.csv
+298.0,Moortgat(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Moortgat(1989)_298K_195-270nm.txt,Cross section data ata as used for kinetic simulations of the reactions of the acetylperoxy radical ,HO2,hydroperoxy radical,"
+
+  G.K. Moortgat, B. Veyret, and R. Lesclaux, ""Absorption spectrum and kinetics of reactions of the acetylperoxy radical"",
+  J. Phys. Chem. 93, 2362-2368 (1989); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Moortgat(1989)_298K_195-270nm.csv
+298.0,Nielsen(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Nielsen(2002)_298K_240nm.txt,A pulse radiolysis (SF,HO2,hydroperoxy radical,"
+
+  O.J. Nielsen, M.S. Johnson, T.J. Wallington, L.K. Christensen, and J. Platz, ""UV absorption cross sections of HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Nielsen(2002)_298K_240nm.csv
+295.0,Noziere(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Noziere(1994)_295K_220-260nm.txt,Flash photolysis/UV absorption techniques applied for the study of the self-reaction and reaction with HO,HO2,hydroperoxy radical,"
+
+  B. Nozière, R. Lesclaux, M.D. Hurley, M.A. Dearth, and T.J. Wallington, ""A kinetic and mechanistic study of the self-reaction and reaction with HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Noziere(1994)_295K_220-260nm.csv
+295.0,PaukertJohnston(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_PaukertJohnston(1972)_295K_195-245nm(L-rev,W-rev).txt",Molecular modulation /UV absorption spectrometry,HO2,hydroperoxy radical,"
+
+  T.T. Paukert and H.S. Johnston, ""Spectra and kinetics of the hydroxylperoxyl free radical in the gas phase"",
+  J. Chem. Phys. 56, 2824-2838 (1972); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_PaukertJohnston(1972)_295K_195-245nm(L-rev,W-rev).csv"
+295.0,PaukertJohnston(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_PaukertJohnston(1972)_295K_195-245nm(W-rev).txt,Molecular modulation /UV absorption spectrometry,HO2,hydroperoxy radical,"
+
+  T.T. Paukert and H.S. Johnston, ""Spectra and kinetics of the hydroxylperoxyl free radical in the gas phase"",
+  J. Chem. Phys. 56, 2824-2838 (1972); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_PaukertJohnston(1972)_295K_195-245nm(W-rev).csv
+295.0,PaukertJohnston(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_PaukertJohnston(1972)_295K_200-245nm(L-rev).txt,Molecular modulation /UV absorption spectrometry,HO2,hydroperoxy radical,"
+
+  T.T. Paukert and H.S. Johnston, ""Spectra and kinetics of the hydroxylperoxyl free radical in the gas phase"",
+  J. Chem. Phys. 56, 2824-2838 (1972); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_PaukertJohnston(1972)_295K_200-245nm(L-rev).csv
+298.0,RoehlBauer(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_RoehlBauer(1996)_298K_210-255nm.txt,HO,HO2,hydroperoxy radical,"
+
+  C.M. Roehl, D. Bauer, and G.K. Moortgat, ""Absorption spectrum and kinetics of the acetylperoxy radical"",
+  J. Phys. Chem. 100, 4038-4047 (1996); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_RoehlBauer(1996)_298K_210-255nm.csv
+298.0,Sander(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Sander(1982)_298K_227.5nm.txt,Flash photolysis of Cl,HO2,hydroperoxy radical,"
+
+  S.P. Sander, M. Peterson, R.T. Watson, and R. Patrick, ""Kinetics studies of the HO",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Sander(1982)_298K_227.csv
+298.0,Tyndall(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Tyndall(2001)_298K_190-260nm(eval).txt,Recommendation based on the data of,HO2,hydroperoxy radical,"
+
+  G.S. Tyndall, R.A. Cox, C. Granier, R. Lesclaux, G.K. Moortgat, M.J. Pilling, A.R. Ravishankara, and T.J. Wallington, ""The atmospheric chemistry of small organic peroxy radicals"",
+  J. Geophys. Res. 106(D11), 12157-12182 (2001); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Tyndall(2001)_298K_190-260nm(eval).csv
+298.0,Wallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroperoxy%20HO2%20and%20DO2/HO2_Wallington(1992)_298K_185-270nm(rec).txt,Recommendation based on a fit to the composite data set (1972-1989),HO2,hydroperoxy radical,"
+
+  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Ultraviolet absorption cross sections and reaction kinetics and mechanisms for peroxy radicals in the gas phase"",
+  Chem. Rev. 92, 667-710 (1992); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Hydroperoxy HO2 and DO2/HO2/HO2_Wallington(1992)_298K_185-270nm(rec).csv

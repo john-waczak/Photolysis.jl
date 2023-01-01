@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Villenave(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2BrCH2OH_Villenave(2003)_296K_210,220,230nm.txt",Hewlett-Packard spectrophotometer; resolution 2 nm,CH2BrCH2OH,2-bromoethanol,"
+
+  E. Villenave, S. Moisan, and R. Lesclaux, ""Kinetic study of the self-reactions of BrCH","data/cross-sections/Alcohols/CH2BrCH2OH/CH2BrCH2OH_Villenave(2003)_296K_210,220,230nm.csv"

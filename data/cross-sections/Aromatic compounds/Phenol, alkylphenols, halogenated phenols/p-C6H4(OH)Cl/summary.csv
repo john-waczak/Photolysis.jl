@@ -1,0 +1,5 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Shama(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/p-C6H4(OH)Cl_Shama(1991)_298K_177.4-289.1nm.txt","A logarithmic plot (absorption cross section vs. wavenumber, Fig. 32) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",p-C6H4(OH)Cl,p-chlorophenol,"
+
+  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
+  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/p-C6H4(OH)Cl/p-C6H4(OH)Cl_Shama(1991)_298K_177.csv"

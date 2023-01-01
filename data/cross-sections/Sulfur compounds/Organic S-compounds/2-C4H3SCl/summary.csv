@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Oliveira(2023),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/2-C4H3SCl_Oliveira(2023)_298K_115-320nm.txt,High-resolution (better than 0.08 nm) absorption measurements using synchrotron radiation as a light source,2-C4H3SCl,2-chlorothiophene,"
+
+  F.V.S. Oliveira, A. Souza Barbosa, N. . Jones, S.V. Hoffmann, and P. Limão-Vieira, ""The electronic spectra of 2- chlorothiophene and 3-chlorothiophene in the vacuum ultraviolet photoabsorption energy region (3.9–10.8 eV)"",
+  J. Quant. Spectrosc. Radiat. Transfer 296, 108443 (2023);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/2-C4H3SCl/2-C4H3SCl_Oliveira(2023)_298K_115-320nm.csv

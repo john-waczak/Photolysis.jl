@@ -1,0 +1,27 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Chim(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_Chim(2003)_298K_47.7-206.6nm.txt,Absorption measurements at a spectral resolution of 0.12 nm using synchrotron radiation,SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  R.Y.L. Chim, R.A. Kennedy, and R.P. Tuckett, ""The vacuum-UV absorption spectrum of SF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_Chim(2003)_298K_47.csv
+298.0,HatherlyFlaxman(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_HatherlyFlaxman(2003)_298K_58.4,74.11nm.txt","Absorption measurements at the He(I) line at 21.22 eV (58.43 nm) and the Ne (I) lines at 16.62 and 16.84 eV (74.60 and 73.63 nm, average 74.11 nm)",SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  P.A. Hatherly and A.J. Flaxman, ""On the absolute absorption cross-section of SF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_HatherlyFlaxman(2003)_298K_58.csv
+298.0,Holland(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_Holland(2005)_298K_31.56-160.08nm.txt,Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  D.M.P. Holland, D.A. Shaw, I.C. Walker, J. McEwen, E. Aprà, and M.F. Guest, ""A study of the valence shell photoelectron and photoabsorption spectra of CF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_Holland(2005)_298K_31.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_JPL-2010(2011)_298K_121.6nm(rec).txt,JPL-2010 recommendation:,SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_JPL-2010(2011)_298K_121.csv
+298.0,Limao-Vieira(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_Limao-Vieira(2004)_298K_113-310nm.txt,High-resolution (∼0.075 nm) absorption measurements using synchrotron radiation,SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  P. Limão-Vieira, S. Eden, P.A. Kendall, N.J. Masona, A. Giuliani, J. Heinesch, M.-J. Hubin-Franskin, J. Delwiche, and S.V. Hoffmann, ""An experimental study of SF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_Limao-Vieira(2004)_298K_113-310nm.csv
+298.0,Takahashi(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_Takahashi(2002)_298K_105.0-154.7nm.txt,"Synchrotron radiation as a radiation source, resolution λ/dλ = 100",SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  K. Takahashi, T. Nakayama, Y. Matsumi, S. Solomom, T. Gejo, T. Shigemasa, and T.J. Wallington, ""Atmospheric lifetime of SF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_Takahashi(2002)_298K_105.csv
+298.0,Takahashi(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SF5CF3_Takahashi(2002)_298K_121.6nm.txt,"
+Absorption cross section measurements at 121.6 nm with a tunable VUV laser",SF5CF3,trifluoromethyl sulfur pentafluoride,"
+
+  K. Takahashi, T. Nakayama, Y. Matsumi, S. Solomom, T. Gejo, T. Shigemasa, and T.J. Wallington, ""Atmospheric lifetime of SF",data/cross-sections/Sulfur compounds/Organic S-compounds/SF5CF3/SF5CF3_Takahashi(2002)_298K_121.csv

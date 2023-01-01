@@ -1,0 +1,32 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+303.0,Braun(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CD3C(O)CD3_Braun(1990)_303K_190.0-195.0nm.txt",Absorption coefficients were measured with a 1 m normal incidence vacuum monochromator with 0.05 nm resolution,CD3C(O)CD3,"dimethyl-d6 ketone, acetone-d6","
+
+  W. Braun, R. Klein, A. Fahr, H. Okabe, and A. Mele, ""Laser photolysis of trimethylgallium at 193 nm: Quantum yields for methyl radical and ethane production"",
+  Chem. Phys. Lett. 166, 397-403 (1990); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CD3C(O)CD3/CD3C(O)CD3_Braun(1990)_303K_190.csv"
+303.0,Braun(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CD3C(O)CD3_Braun(1990)_303K_193.3nm.txt",Absorption cross section at the ArF excimer laser line,CD3C(O)CD3,"dimethyl-d6 ketone, acetone-d6","
+
+  W. Braun, R. Klein, A. Fahr, H. Okabe, and A. Mele, ""Laser photolysis of trimethylgallium at 193 nm: Quantum yields for methyl radical and ethane production"",
+  Chem. Phys. Lett. 166, 397-403 (1990); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CD3C(O)CD3/CD3C(O)CD3_Braun(1990)_303K_193.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CD3C(O)CD3_Ito(1969)_298K_166.3-194.6nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CD3C(O)CD3,"dimethyl-d6 ketone, acetone-d6","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CD3C(O)CD3/CD3C(O)CD3_Ito(1969)_298K_166.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CD3C(O)CD3_Ito(1969)_298K_180-196nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CD3C(O)CD3,"dimethyl-d6 ketone, acetone-d6","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CD3C(O)CD3/CD3C(O)CD3_Ito(1969)_298K_180-196nm.csv"
+298.0,Rudolph(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CD3C(O)CD3_Rudolph(1996)_298K_193nm.txt",Absorption cross section at the ArF excimer laser line,CD3C(O)CD3,"dimethyl-d6 ketone, acetone-d6","
+
+  R.N. Rudolph, G.E. Hall, and T.J. Sears, ""Measurement of the ν","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CD3C(O)CD3/CD3C(O)CD3_Rudolph(1996)_298K_193nm.csv"

@@ -1,0 +1,549 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_AhmedKumar(1992)_298K_188-232nm.txt,Medium-resolution (0.2 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  S.M. Ahmed and V. Kumar, ""Quantitative photoabsorption and fluorescence spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_AhmedKumar(1992)_298K_188-232nm.csv
+298.0,AhmedKumar(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_AhmedKumar(1992)_298K_278-320nm.txt,Medium-resolution (0.2 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  S.M. Ahmed and V. Kumar, ""Quantitative photoabsorption and fluorescence spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_AhmedKumar(1992)_298K_278-320nm.csv
+298.0,Bertrand(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bertrand(1975)_298K_123.6nm.txt,Kr resonance line as a light source,SO2,sulfur dioxide,"
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bertrand(1975)_298K_123.csv
+198.0,Blackie(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Blackie(2011)_198K_212-326nm.txt,High-resolution absorption measurements using a Fourier transform spectrometer with a xenon arc lamp as a continuum light source; a range of resolution from 0.06 cm,SO2,sulfur dioxide,"
+
+  D. Blackie, R. Blackwell-Whitehead, G. Stark, J.C. Pickering, P.L. Smith, J. Rufus, and A.P. Thorne, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Blackie(2011)_198K_212-326nm.csv
+203.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bogumil(2003)_203K_239-395nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,SO2,sulfur dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bogumil(2003)_203K_239-395nm.csv
+223.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bogumil(2003)_223K_239-395nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,SO2,sulfur dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bogumil(2003)_223K_239-395nm.csv
+243.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bogumil(2003)_243K_239-395nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,SO2,sulfur dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bogumil(2003)_243K_239-395nm.csv
+273.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bogumil(2003)_273K_239-395nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,SO2,sulfur dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bogumil(2003)_273K_239-395nm.csv
+293.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Bogumil(2003)_293K_239-395nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,SO2,sulfur dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Bogumil(2003)_293K_239-395nm.csv
+294.0,Brassington(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Brassington(1981)_294K_290-317nm.txt,Absorption measurements using a frquency-doubled dye laser source with a 0.05-nm linewidth,SO2,sulfur dioxide,"
+
+  D.J. Brassington, ""Sulfur dioxide absorption cross-section measurements from 290 nm to 317 nm"",
+  Appl. Opt. 20, 3774-3779 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Brassington(1981)_294K_290-317nm.csv
+296.0,ChenVenables(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_ChenVenables(2011)_296K_336.058-375.975nm.txt,The paper describes a novel incoherent broad-band cavity-enhanced absorption spectroscopy (IBBCEAS) instrument for measuring very weak absorption spectra from 335 to 375 nm; the resolution is 0.31 nm at 365 nm,SO2,sulfur dioxide,"
+
+  J. Chen and D.S. Venables, ""A broadband optical cavity spectrometer for measuring weak near-ultraviolet absorption spectra of gases"",
+  Atmos. Meas. Tech. 4, 425-436 (2011); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_ChenVenables(2011)_296K_336.csv
+298.0,Chung(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Chung(1975)_298K_235.1-334.2nm.txt,"Molar extinction coefficients for the first allowed band, ",SO2,sulfur dioxide,"
+
+  K. Chung, J.G. Calvert, and J.W. Bottenheim, ""The photochemistry of sulfur dioxide excited within its first allowed band (3130 Å) and the ""forbidden"" band (3700-4000 Å)"",
+  Int. J. Chem. Kinet. 7, 161-182 (1975); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Chung(1975)_298K_235.csv
+298.0,Chung(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Chung(1975)_298K_337.6-400.0nm.txt,"Molar extinction coefficients for the ""forbidden"" band, ",SO2,sulfur dioxide,"
+
+  K. Chung, J.G. Calvert, and J.W. Bottenheim, ""The photochemistry of sulfur dioxide excited within its first allowed band (3130 Å) and the ""forbidden"" band (3700-4000 Å)"",
+  Int. J. Chem. Kinet. 7, 161-182 (1975); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Chung(1975)_298K_337.csv
+298.0,Cooper(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Cooper(1991)_298K_4.77-7.75nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SO2,sulfur dioxide,"
+
+  G. Cooper, E.B. Zarate, R.K. Jones, and C.E. Brion, ""Absolute oscillator strengths for photoabsorption, photoionization and ionic photofragmentation of sulfur dioxide. II. The S 2p and 2s inner shells"",
+  Chem. Phys. 150, 251-261 (1991); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Cooper(1991)_298K_4.csv
+298.0,Cooper(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Cooper(1991)_298K_7.7-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SO2,sulfur dioxide,"
+
+  G. Cooper, E.B. Zarate, R.K. Jones, and C.E. Brion, ""Absolute oscillator strengths for photoabsorption, photoionization and ionic photofragmentation of sulfur dioxide. I. The valence shell"",
+  Chem. Phys. 150, 237-250 (1991); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Cooper(1991)_298K_7.csv
+293.0,Danielache(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Danielache(2008)_293K_183-350nm(32SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  S.O. Danielache, C. Eskebjerg, M.S. Johnson, Y. Ueno, and N. Yoshida, ""High-precision spectroscopy of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Danielache(2008)_293K_183-350nm(32SO2).csv
+293.0,Danielache(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Danielache(2008)_293K_183-350nm(33SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  S.O. Danielache, C. Eskebjerg, M.S. Johnson, Y. Ueno, and N. Yoshida, ""High-precision spectroscopy of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Danielache(2008)_293K_183-350nm(33SO2).csv
+293.0,Danielache(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Danielache(2008)_293K_183-350nm(34SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  S.O. Danielache, C. Eskebjerg, M.S. Johnson, Y. Ueno, and N. Yoshida, ""High-precision spectroscopy of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Danielache(2008)_293K_183-350nm(34SO2).csv
+293.0,Endo(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Endo(2015)_293K_189.50-225.00nm(32SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  Y. Endo, S.O. Danielache, Y. Ueno, S. Hattori, M.S. Johnson, N. Yoshida, and H.G. Kjaergaard, ""Photoabsorption cross-section measurements of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Endo(2015)_293K_189.csv
+293.0,Endo(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Endo(2015)_293K_189.50-225.00nm(33SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  Y. Endo, S.O. Danielache, Y. Ueno, S. Hattori, M.S. Johnson, N. Yoshida, and H.G. Kjaergaard, ""Photoabsorption cross-section measurements of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Endo(2015)_293K_189.csv
+293.0,Endo(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Endo(2015)_293K_189.50-225.00nm(34SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  Y. Endo, S.O. Danielache, Y. Ueno, S. Hattori, M.S. Johnson, N. Yoshida, and H.G. Kjaergaard, ""Photoabsorption cross-section measurements of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Endo(2015)_293K_189.csv
+293.0,Endo(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Endo(2015)_293K_189.50-225.00nm(36SO2).txt,Absorption cross sections of isotopically enriched ,SO2,sulfur dioxide,"
+
+  Y. Endo, S.O. Danielache, Y. Ueno, S. Hattori, M.S. Johnson, N. Yoshida, and H.G. Kjaergaard, ""Photoabsorption cross-section measurements of ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Endo(2015)_293K_189.csv
+291.0,FajansGoodeve(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_FajansGoodeve(1936)_291K_204-311nm.txt,Absorption measurements using two Hilger quartz spectrographs and a hydrogen discharge tube as a source of continuous ultra-violet light,SO2,sulfur dioxide,"
+
+  E. Fajans and C.F. Goodeve, ""The absorption spectrum of sulphur trioxide"",
+  Trans. Faraday Soc. 32, 511-514 (1936);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_FajansGoodeve(1936)_291K_204-311nm.csv
+298.0,Feng(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Feng(1999)_298K_4.77-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SO2,sulfur dioxide,"
+
+  R. Feng, G. Cooper, G.R. Burton, C.E. Brion, and L. Avaldi, ""Absolute photoabsorption oscillator strengths by electron energy loss methods: the valence and S 2p and 2s inner shells of sulphur dioxide in the discrete and continuum regions (3.5 - 260 eV)"",
+  Chem. Phys. 240, 371-386 (1999); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Feng(1999)_298K_4.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_171.079-172.413nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_171.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_172.414-175.438nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_172.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_175.439-178.571nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_175.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_178.572-181.817nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_178.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_181.818-185.185nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_181.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_185.185-188.679nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_185.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_188.679-192.307nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_188.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_192.307-196.078nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_192.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_196.078-200.000nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_196.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_200.000-204.082nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_200.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_204.082-208.333nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_204.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_208.333-212.766nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_208.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_212.766-217.391nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_212.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_217.391-222.222nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_217.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_222.222-227.273nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_222.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_227.272-232.558nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_227.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_232.558-238.095nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_232.csv
+213.0,Freeman(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Freeman(1984)_213K_238.095-239.860nm.txt,High-resolution (FWHM = 0.002 nm) absorption measurements,SO2,sulfur dioxide,"
+
+  D.E. Freeman, K. Yoshino, J.R. Esmond, and W.H. Parkinson, ""High resolution cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Freeman(1984)_213K_238.csv
+298.0,Golomb(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Golomb(1962)_298K_106-217nm.txt,"Hydrogen discharge tube as a light source, vacuum monochromator with a resolution of about 0.1 nm",SO2,sulfur dioxide,"
+
+  D. Golomb, K. Watanabe, and F.F. Marmo, ""Absorption coefficients of sulfur dioxide in the vacuum ultraviolet"",
+  J. Chem. Phys. 36, 958-960 (1962); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Golomb(1962)_298K_106-217nm.csv
+298.0,Hamdy(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hamdy(1991)_298K_14.7-101.7nm.txt,"Absorption cross sections were measured at high resolution (0.06 nm) by use of a double ion chamber in the region of 101.7-14.7 nm and by a static gas absorption cell with Al-metal thin film windows in the 36-17 nm region; VUV radiation was produced by spark discharges in low-pressure gases (Ar, N",SO2,sulfur dioxide,"
+
+  H. Hamdy, Z.X. He, and J.A.R. Samson, ""Precision photoabsorption cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hamdy(1991)_298K_14.csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_HearnJoens(1991)_300K_265-313nm(I).txt,High-resolution (0.06 nm) absorption spectrum between 228 and 339 nm measured by using a double-beam apparatus and a Hg lamp as a light source,SO2,sulfur dioxide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_HearnJoens(1991)_300K_265-313nm(I).csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_HearnJoens(1991)_300K_265-313nm(II).txt,High-resolution (0.06 nm) absorption spectrum between 271 and 374 nm measured by using a double-beam apparatus and a deuterium continuum lamp as a light source,SO2,sulfur dioxide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_HearnJoens(1991)_300K_265-313nm(II).csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_HearnJoens(1991)_300K_310-320nm.txt,High-resolution (0.06 nm) absorption measurements between 271 and 374 nm using a double-beam apparatus and as light sources a Hg lamp or a deuterium continuum lamp,SO2,sulfur dioxide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_HearnJoens(1991)_300K_310-320nm.csv
+300.0,HearnJoens(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_HearnJoens(1991)_300K_320-328nm.txt,High-resolution (0.06 nm) absorption measurements between 271 and 374 nm using a double-beam apparatus and as light sources a Hg lamp or a deuterium continuum lamp,SO2,sulfur dioxide,"
+
+  C.H. Hearn and J.A. Joens, ""The near UV absorption spectrum of CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_HearnJoens(1991)_300K_320-328nm.csv
+199.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hicks(1979)_199K_281-314nm.txt,High-resolution (0.015 nm) absorption measurements in the UV using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hicks(1979)_199K_281-314nm.csv
+223.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hicks(1979)_223K_281-314nm.txt,High-resolution (0.015 nm) absorption measurements in the UV using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hicks(1979)_223K_281-314nm.csv
+253.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hicks(1979)_253K_281-314nm.txt,High-resolution (0.015 nm) absorption measurements in the UV using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hicks(1979)_253K_281-314nm.csv
+273.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hicks(1979)_273K_281-314nm.txt,High-resolution (0.015 nm) absorption measurements in the UV using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hicks(1979)_273K_281-314nm.csv
+300.0,Hicks(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hicks(1979)_300K_281-314nm.txt,High-resolution (0.015 nm) absorption measurements in the UV using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  E. Hicks, B. Leroy, P. Rigaud, J.-L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet et le visible des composés minoritaires atmosphériques NO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hicks(1979)_300K_281-314nm.csv
+1500.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_1500K_190-390nm.txt,High vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_1500K_190-390nm.csv
+2000.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_2000K_190-400nm.txt,High vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_2000K_190-400nm.csv
+3000.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_3000K_190-400nm.txt,High vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_3000K_190-400nm.csv
+300.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_300K_190-320nm.txt,Room temperature absoption cross sections of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_300K_190-320nm.csv
+300.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_300K_230-436nm.txt,Vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_300K_230-436nm.csv
+300.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_300K_240-436nm.txt,Vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_300K_240-436nm.csv
+4000.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_4000K_190-400nm.txt,High vibrational excitation of SO,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_4000K_190-400nm.csv
+800.0,Hippler(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Hippler(1988)_800K_190-340nm.txt,High vibrational excitation of CS,SO2,sulfur dioxide,"
+
+  H. Hippler,  D. Nahr, H.J. Plach, and J. Troe, ""Excitation dependence of the ultraviolet absorption spectrum of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Hippler(1988)_800K_190-340nm.csv
+298.0,Holland(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Holland(2005)_298K_40.0-100.4nm.txt,High-resolution (0.04 nm FWHM) absorption measurements using monochromated synchrotron radiation,SO2,sulfur dioxide,"
+
+  D.M.P. Holland, D.A. Shaw, and M.A. Hayes, ""A study of the absolute photoabsorption, photoionisation and photodissociation cross sections and the photoionisation quantum efficiency of sulphur dioxide from the ionisation threshold to 400 Å"",
+  Chem. Phys. 201, 299-308 (1995); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Holland(2005)_298K_40.csv
+218.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Leroy(1983)_218K_281-312nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 218, 263, and 296 K using a deuterium lamp as a light source",SO2,sulfur dioxide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Leroy(1983)_218K_281-312nm.csv
+263.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Leroy(1983)_263K_281-312nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 218, 263, and 296 K using a deuterium lamp as a light source",SO2,sulfur dioxide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Leroy(1983)_263K_281-312nm.csv
+292.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Leroy(1983)_292K_281-312nm.txt,High-resolution (0.015 nm) absorption measurements using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,SO2,sulfur dioxide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Leroy(1983)_292K_281-312nm.csv
+296.0,Leroy(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Leroy(1983)_296K_281-312nm.txt,"Medium-resolution (0.2 nm) absorption measurements at 218, 263, and 296 K using a deuterium lamp as a light source",SO2,sulfur dioxide,"
+
+  B. Leroy, P. Rigaud, J.L. Jourdain, and G. Le Bras, ""Spectres d'absorption dans le proche ultraviolet de CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Leroy(1983)_296K_281-312nm.csv
+293.0,ManattLane(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_ManattLane(1993)_293K_106.1-403.7nm.txt,Compilation of absorption cross sections available for sulfur dioxide,SO2,sulfur dioxide,"
+
+  S.L. Manatt and A.L. Lane, ""A compilation of the absorption cross sections of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_ManattLane(1993)_293K_106.csv
+300.0,MartinezJoens(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_MartinezJoens(1992)_300K_197-233nm.txt,Absorption measurements were made on a u.v.-visible spectrophotometer at a spectral bandwidth of 0.10 nm,SO2,sulfur dioxide,"
+
+  R.D. Martinez and J.A. Joens, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_MartinezJoens(1992)_300K_197-233nm.csv
+210.0,McGeeBurris(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_McGeeBurris(1987)_210K_300-320nm.txt,Absorption measurements at an instrumental resolution of  0.03 nm,SO2,sulfur dioxide,"
+
+  T.J. McGee and J. Burris, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_McGeeBurris(1987)_210K_300-320nm.csv
+295.0,McGeeBurris(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_McGeeBurris(1987)_295K_300-320nm.txt,Absorption measurements at an instrumental resolution of  0.03 nm,SO2,sulfur dioxide,"
+
+  T.J. McGee and J. Burris, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_McGeeBurris(1987)_295K_300-320nm.csv
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_McMillan(1966)_298K_217.4-332.6nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,SO2,sulfur dioxide,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 210
+
+
+",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_McMillan(1966)_298K_217.csv
+298.0,Olive(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Olive(2007)_298K_205-320nm.txt,Absorption measurements at a spectral resolution of 0.080 nm,SO2,sulfur dioxide,"
+
+  B.S. Olive, ""Absorption spectrum of sulfur dioxide"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2007
+
+
+",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Olive(2007)_298K_205-320nm.csv
+298.0,Olive(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Olive(2015)_298K_190-306nm.txt,Absorption measurements at a spectral resolution of 0.13 nm,SO2,sulfur dioxide,"
+
+  B.S. Olive, ""Absorption spectra of benzene, toluene, and sulfur dioxide"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2015
+
+
+",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Olive(2015)_298K_190-306nm.csv
+220.0,Prahlad(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Prahlad(1996)_220K_281.4-313.1nm(max).txt,Absorption maxima of the spectrum measured between 280 and 320 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad, S.M. Ahmed, and V. Kumar, ""Temperature dependence of photoabsorption cross sections of sulphur dioxide at 280-320 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 56, 57-66 (1996); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Prahlad(1996)_220K_281.csv
+240.0,Prahlad(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Prahlad(1996)_240K_281.4-313.1nm(max).txt,Absorption maxima of the spectrum measured between 280 and 320 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad, S.M. Ahmed, and V. Kumar, ""Temperature dependence of photoabsorption cross sections of sulphur dioxide at 280-320 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 56, 57-66 (1996); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Prahlad(1996)_240K_281.csv
+260.0,Prahlad(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Prahlad(1996)_260K_281.4-313.1nm(max).txt,Absorption maxima of the spectrum measured between 280 and 320 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad, S.M. Ahmed, and V. Kumar, ""Temperature dependence of photoabsorption cross sections of sulphur dioxide at 280-320 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 56, 57-66 (1996); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Prahlad(1996)_260K_281.csv
+280.0,Prahlad(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Prahlad(1996)_280K_281.4-313.1nm(max).txt,Absorption maxima of the spectrum measured between 280 and 320 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad, S.M. Ahmed, and V. Kumar, ""Temperature dependence of photoabsorption cross sections of sulphur dioxide at 280-320 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 56, 57-66 (1996); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Prahlad(1996)_280K_281.csv
+300.0,Prahlad(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Prahlad(1996)_300K_281.4-313.1nm(max).txt,Absorption maxima of the spectrum measured between 280 and 320 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad, S.M. Ahmed, and V. Kumar, ""Temperature dependence of photoabsorption cross sections of sulphur dioxide at 280-320 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 56, 57-66 (1996); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Prahlad(1996)_300K_281.csv
+220.0,PrahladKumar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_PrahladKumar(1997)_220K_188-219nm(max).txt,Absorption maxima of the spectrum measured between 188 and 220 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross-sections of sulfur dioxide at 188-220 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 57, 719-723 (1997); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_PrahladKumar(1997)_220K_188-219nm(max).csv
+240.0,PrahladKumar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_PrahladKumar(1997)_240K_188-219nm(max).txt,Absorption maxima of the spectrum measured between 188 and 220 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross-sections of sulfur dioxide at 188-220 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 57, 719-723 (1997); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_PrahladKumar(1997)_240K_188-219nm(max).csv
+260.0,PrahladKumar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_PrahladKumar(1997)_260K_188-219nm(max).txt,Absorption maxima of the spectrum measured between 188 and 220 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross-sections of sulfur dioxide at 188-220 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 57, 719-723 (1997); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_PrahladKumar(1997)_260K_188-219nm(max).csv
+280.0,PrahladKumar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_PrahladKumar(1997)_280K_188-219nm(max).txt,Absorption maxima of the spectrum measured between 188 and 220 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross-sections of sulfur dioxide at 188-220 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 57, 719-723 (1997); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_PrahladKumar(1997)_280K_188-219nm(max).csv
+300.0,PrahladKumar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_PrahladKumar(1997)_300K_188-219nm(max).txt,Absorption maxima of the spectrum measured between 188 and 220 nm with an instrumental resolution of 0.1 nm,SO2,sulfur dioxide,"
+
+  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross-sections of sulfur dioxide at 188-220 nm"",
+  J. Quant. Spectrosc. Radiat. Transfer 57, 719-723 (1997); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_PrahladKumar(1997)_300K_188-219nm(max).csv
+295.0,Rufus(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Rufus(2003)_295K_220.0-325.2nm.txt,High-resolution (0.0005-0.0032 nm) absorption cross sections measured by using a Fourier transform spectrometer ,SO2,sulfur dioxide,"
+
+  J. Rufus, G. Stark, P.L. Smith, J.C. Pickering, and A.P. Thorne, ""High-resolution photoabsorption cross section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Rufus(2003)_295K_220.csv
+160.0,Rufus(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Rufus(2009)_160K_199.6-220.0nm.txt,High-resolution (0.1 cm,SO2,sulfur dioxide,"
+
+  J. Rufus, G. Stark, A.P. Thorne, J.C. Pickering, R.J. Blackwell-Whitehead, D. Blackie, and P.L. Smith, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Rufus(2009)_160K_199.csv
+298.0,Sidebottom(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Sidebottom(1972)_298K_217.9-330.0nm.txt,Extinction coefficients plotted in Fig. 1a have been digitized and converted to absorption cross sections (conversion factor 3.8235×10,SO2,sulfur dioxide,"
+
+  W.H. Sidebottom, C.C. Badcock, G.E. Jackson, J.G. Calvert, G.W. Reinhardt, and E.K. Damon, ""Photooxidation of sulfur dioxide in the vacuum ultraviolet"",
+  Environ. Sci. Technol. 6, 72-79 (1972); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Sidebottom(1972)_298K_217.csv
+298.0,Sidebottom(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Sidebottom(1972)_298K_338.5-403.0nm.txt,"Molar extinction coefficients for the ""forbidden"" band, ",SO2,sulfur dioxide,"
+
+  W.H. Sidebottom, C.C. Badcock, G.E. Jackson, J.G. Calvert, G.W. Reinhardt, and E.K. Damon, ""Photooxidation of sulfur dioxide in the vacuum ultraviolet"",
+  Environ. Sci. Technol. 6, 72-79 (1972); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Sidebottom(1972)_298K_338.csv
+298.0,SpragueJoens(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_SpragueJoens(1995)_298K_352.72-396.16nm(max).txt,Absorption measurements in the range 320-405 nm at a resolution of 0.10 nm (see Figs. 2 and 3),SO2,sulfur dioxide,"
+
+  K.E. Sprague and J.A. Joens, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_SpragueJoens(1995)_298K_352.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_198.412-200.000nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_198.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_200.000-201.613nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_200.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_201.613-203.252nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_201.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_203.252-204.918nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_203.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_204.918-206.611nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_204.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_206.611-208.333nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_206.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_208.333-210.084nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_208.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_210.084-211.864nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_210.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_211.864-213.675nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_211.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_213.675-215.517nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_213.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_215.517-217.391nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_215.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_217.391-219.298nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_217.csv
+295.0,Stark(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Stark(1999)_295K_219.298-220.023nm.txt,High-resolution absorption measurements in the wavelength region 198-220 nm using a vacuum ultraviolet Fourier transform spectrometer,SO2,sulfur dioxide,"
+
+  G. Stark, P.L. Smith, J. Rufus, A.P. Thorne, J.C. Pickering, and G. Cox, ""High-resolution photoabsorption cross-section measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Stark(1999)_295K_219.csv
+298.0,Thompson(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Thompson(1963)_298K_185-330nm.txt,Absorption measurements with a Perkin-Elmer spectrophotometer able to measure absorption coefficients k as low as 10,SO2,sulfur dioxide,"
+
+  B.A. Thompson, P. Harteck, and R.R. Reeves, Jr., ""Ultraviolet absorption coefficients of CO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Thompson(1963)_298K_185-330nm.csv
+298.0,Thompson(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Thompson(1975)_298K_296-301nm.txt,Absorption measurements at a spectral resolution of 0.02 nm using a frequeny-doubled tunable dye laser as the radiation source,SO2,sulfur dioxide,"
+
+  R.T. Thompson, Jr., J.M. Hoell, Jr., and W.R. Wade, ""Measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Thompson(1975)_298K_296-301nm.csv
+296.0,Vandaele(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Vandaele(1994)_296K_250-333nm.txt,Absorption measurements using a Fourier transform spectrometer; spectral resolution 16 cm,SO2,sulfur dioxide,"
+
+  A.C. Vandaele, P.C. Simon, Guilmot. M., M. Carleer, and R. Colin, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Vandaele(1994)_296K_250-333nm.csv
+296.0,Vandaele(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Vandaele(1994)_296K_259-328nm.txt,Absorption measurements using a Fourier transform spectrometer; spectral resolution 2 cm,SO2,sulfur dioxide,"
+
+  A.C. Vandaele, P.C. Simon, Guilmot. M., M. Carleer, and R. Colin, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Vandaele(1994)_296K_259-328nm.csv
+298.0,VandaeleHermansFally(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_VandaeleHermansFally(2009)_298K_227.275-416.658nm.txt,High-resolution absorption measurements using a Fourier transform spectrometer at a resolution of 2 cm,SO2,sulfur dioxide,"
+
+  C. Hermans, A.C. Vandaele, and S. Fally, ""Fourier transform measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_VandaeleHermansFally(2009)_298K_227.csv
+318.0,VandaeleHermansFally(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_VandaeleHermansFally(2009)_318K_227.275-416.658nm.txt,High-resolution absorption measurements using a Fourier transform spectrometer at a resolution of 2 cm,SO2,sulfur dioxide,"
+
+  C. Hermans, A.C. Vandaele, and S. Fally, ""Fourier transform measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_VandaeleHermansFally(2009)_318K_227.csv
+338.0,VandaeleHermansFally(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_VandaeleHermansFally(2009)_338K_227.275-416.658nm.txt,High-resolution absorption measurements using a Fourier transform spectrometer at a resolution of 2 cm,SO2,sulfur dioxide,"
+
+  C. Hermans, A.C. Vandaele, and S. Fally, ""Fourier transform measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_VandaeleHermansFally(2009)_338K_227.csv
+358.0,VandaeleHermansFally(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_VandaeleHermansFally(2009)_358K_227.275-416.658nm.txt,High-resolution absorption measurements using a Fourier transform spectrometer at a resolution of 2 cm,SO2,sulfur dioxide,"
+
+  C. Hermans, A.C. Vandaele, and S. Fally, ""Fourier transform measurements of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_VandaeleHermansFally(2009)_358K_227.csv
+1073.0,Vattulainen(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Vattulainen(1997)_1073K_195-350nm(4bar).txt,"A heated and pressurized absorption cell was used to determine the absorption spectra at room temperature and temperatures of 600 and 800 °C and at pressures between 1 and 6 bar. A deuterium lamp was used as a light source, and the light was detected with a photomultiplier tube through a Czerny-Turner monochromator. The bandwidth was 0.5 nm, and scans through the wavelength range were made at 0.5-nm steps",SO2,sulfur dioxide,"
+
+  J. Vattulainen, L. Wallenius, J. Stenberg, R. Hernberg, and V. Linna, ""Experimental determination of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Vattulainen(1997)_1073K_195-350nm(4bar).csv
+293.0,Vattulainen(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Vattulainen(1997)_293K_195-350nm(4bar).txt,"A heated and pressurized absorption cell was used to determine the absorption spectra at room temperature and temperatures of 600 and 800 °C and at pressures between 1 and 6 bar. A deuterium lamp was used as a light source, and the light was detected with a photomultiplier tube through a Czerny-Turner monochromator. The bandwidth was 0.5 nm, and scans through the wavelength range were made at 0.5-nm steps",SO2,sulfur dioxide,"
+
+  J. Vattulainen, L. Wallenius, J. Stenberg, R. Hernberg, and V. Linna, ""Experimental determination of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Vattulainen(1997)_293K_195-350nm(4bar).csv
+873.0,Vattulainen(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Vattulainen(1997)_873K_195-350nm(4bar).txt,"A heated and pressurized absorption cell was used to determine the absorption spectra at room temperature and temperatures of 600 and 800 °C and at pressures between 1 and 6 bar. A deuterium lamp was used as a light source, and the light was detected with a photomultiplier tube through a Czerny-Turner monochromator. The bandwidth was 0.5 nm, and scans through the wavelength range were made at 0.5-nm steps",SO2,sulfur dioxide,"
+
+  J. Vattulainen, L. Wallenius, J. Stenberg, R. Hernberg, and V. Linna, ""Experimental determination of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Vattulainen(1997)_873K_195-350nm(4bar).csv
+298.0,Warneck(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Warneck(1964)_298K_135-230nm.txt,"Absorption measurements using a UV grating monochromator, a photomultiplier detector (resolution 0.1 nm), and as light sources a hydrogen discharge tube and a mercury utility lamp
+",SO2,sulfur dioxide,"
+
+  P. Warneck, F.F. Marmo, and J.O. Sullivan, ""Ultraviolet absorption of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Warneck(1964)_298K_135-230nm.csv
+298.0,Warneck(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Warneck(1964)_298K_200-315nm.txt,"Absorption measurements using a UV grating monochromator, a photomultiplier detector (resolution 0.1 nm), and as light sources a hydrogen discharge tube and a mercury utility lamp
+",SO2,sulfur dioxide,"
+
+  P. Warneck, F.F. Marmo, and J.O. Sullivan, ""Ultraviolet absorption of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Warneck(1964)_298K_200-315nm.csv
+298.0,Weibring(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Weibring(1986)_298K_281-320nm.txt,Reference and absorption cross sections from,SO2,sulfur dioxide,"
+
+  G. Weibring, ""Experimentelle Untersuchung und Simulation der B ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Weibring(1986)_298K_281-320nm.csv
+293.0,Woods(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Woods(1980)_293K_297-300nm.txt,High-resolution absorption measurements  using a frequency-doubled dye laser of bandwidth 0.002 nm,SO2,sulfur dioxide,"
+
+  P.T. Woods, B.W. Jollife, and B.R. Marx, ""High resolution spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Woods(1980)_293K_297-300nm.csv
+293.0,Woods(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Woods(1980)_293K_299.92-300.23nm.txt,High-resolution absorption measurements using a frequency-doubled dye laser of bandwidth 0.002 nm,SO2,sulfur dioxide,"
+
+  P.T. Woods, B.W. Jollife, and B.R. Marx, ""High resolution spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Woods(1980)_293K_299.csv
+373.0,Woods(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Woods(1980)_373K_299.971-300.155nm(smoo).txt,High-resolution absorption measurements  using a frequency-doubled dye laser of bandwidth 0.002 nm,SO2,sulfur dioxide,"
+
+  P.T. Woods, B.W. Jollife, and B.R. Marx, ""High resolution spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Woods(1980)_373K_299.csv
+373.0,Woods(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Woods(1980)_373K_299.976-300.155nm(meas).txt,High-resolution absorption measurements  using a frequency-doubled dye laser of bandwidth 0.002 nm,SO2,sulfur dioxide,"
+
+  P.T. Woods, B.W. Jollife, and B.R. Marx, ""High resolution spectroscopy of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Woods(1980)_373K_299.csv
+300.0,Wu(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Wu(1996)_300K_300.0-313.1nm(max).txt,Absorption cross sections in the absorption maxima at 300 to 313.1 nm,SO2,sulfur dioxide,"
+
+  C.Y.R. Wu, ""Absorption cross sections of sulfur dioxide SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Wu(1996)_300K_300.csv
+200.0,Wu(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Wu(2000)_200K_169.555-297.545nm.txt,"Absorption measurements at 200, 295, and 400 K using synchrotron radiation as a continuum light source; spectral resolution 0.05 nm",SO2,sulfur dioxide,"
+
+  C.Y.R. Wu, B.W. Yang, F.Z. Chen, D.L. Judge, J. Caldwell, and L.M. Trafton, ""Measurements of high-, room-, and low-temperature photoabsorption cross sections of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Wu(2000)_200K_169.csv
+295.0,Wu(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Wu(2000)_295K_171.770-289.765nm.txt,"Absorption measurements at 200, 295, and 400 K using synchrotron radiation as a continuum light source; spectral resolution 0.05 nm",SO2,sulfur dioxide,"
+
+  C.Y.R. Wu, B.W. Yang, F.Z. Chen, D.L. Judge, J. Caldwell, and L.M. Trafton, ""Measurements of high-, room-, and low-temperature photoabsorption cross sections of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Wu(2000)_295K_171.csv
+400.0,Wu(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Wu(2000)_400K_175.770-297.600nm.txt,"Absorption measurements at 200, 295, and 400 K using synchrotron radiation as a continuum light source; spectral resolution 0.05 nm",SO2,sulfur dioxide,"
+
+  C.Y.R. Wu, B.W. Yang, F.Z. Chen, D.L. Judge, J. Caldwell, and L.M. Trafton, ""Measurements of high-, room-, and low-temperature photoabsorption cross sections of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Wu(2000)_400K_175.csv
+294.0,WuJudge(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_WuJudge(1981)_294K_208.0-218.4nm.txt,Absorption measurements with a bandwidth of 0.06 nm in the 208-218 nm region using synchrotron radiation as a continuum light source ,SO2,sulfur dioxide,"
+
+  C.Y.R. Wu and D.L. Judge, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_WuJudge(1981)_294K_208.csv
+294.0,WuJudge(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_WuJudge(1981)_294K_319.1-329.9nm.txt,Absorption measurements with a bandwidth of 0.06 nm in the 299-340 nm region using synchrotron radiation as a continuum light source ,SO2,sulfur dioxide,"
+
+  C.Y.R. Wu and D.L. Judge, ""SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_WuJudge(1981)_294K_319.csv
+298.0,WuJudge(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_WuJudge(1981)_298K_17.6-83.9nm.txt,Absorption measurements at a spectral resolution of ∼0.1 nm using a double ionization chamber and synchrotron radiation,SO2,sulfur dioxide,"
+
+  C.Y.R. Wu  and D.L. Judge, ""Study of sulfur-containing molecules in the EUV region I. Photoabsorption cross section of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_WuJudge(1981)_298K_17.csv
+298.0,WuJudge(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_WuJudge(1981)_298K_70.5-78.8nm.txt,Absorption measurements at a spectral resolution of ∼0.1 nm using a double ionization chamber and synchrotron radiation,SO2,sulfur dioxide,"
+
+  C.Y.R. Wu  and D.L. Judge, ""Study of sulfur-containing molecules in the EUV region I. Photoabsorption cross section of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_WuJudge(1981)_298K_70.csv
+298.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_298K_195.0-219.4nm.txt,"Measurements of the temperature dependence in the spectral region 200-230 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_298K_195.csv
+298.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_298K_295.3-302.9nm.txt,"Measurements of the temperature dependence in the spectral region 295-303 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_298K_295.csv
+373.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_373K_195.0-219.4nm.txt,"Measurements of the temperature dependence in the spectral region 200-230 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_373K_195.csv
+373.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_373K_295.3-303.1nm.txt,"Measurements of the temperature dependence in the spectral region 295-303 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_373K_295.csv
+415.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_415K_195.0-219.4nm.txt,"Measurements of the temperature dependence in the spectral region 200-230 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_415K_195.csv
+415.0,Zhang(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2_Zhang(2008)_415K_295.3-303.1nm.txt,"Measurements of the temperature dependence in the spectral region 295-303 nm at 298–415 K, using a grating monochromator with a resolution of 0.2 nm",SO2,sulfur dioxide,"
+
+  S. Zhang, J. Zhou, and X. Chen, ""Experimental study on the temperature dependence of ultraviolet absorption cross-sections of sulfur dioxide"",
+  Front. Energy Power Eng. China 2, 183-186 (2008); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2/SO2_Zhang(2008)_415K_295.csv

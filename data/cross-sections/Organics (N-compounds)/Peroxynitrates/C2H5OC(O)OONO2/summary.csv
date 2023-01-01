@@ -1,0 +1,5 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bossolasco(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/C2H5OC(O)OONO2_Bossolasco(2011)_298K_200-314nm.txt,"Absorption measurements using a spectrophotometer with a diode array detector
+",C2H5OC(O)OONO2,"peroxy ethoxyformyl nitrate, PEFN","
+
+  A.G. Bossolasco, F.E. Malanca, and G.A. Argüello, ""Peroxy ethoxyformyl nitrate, CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/C2H5OC(O)OONO2/C2H5OC(O)OONO2_Bossolasco(2011)_298K_200-314nm.csv

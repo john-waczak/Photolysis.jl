@@ -1,0 +1,47 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,ChegodaevTupikov(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_ChegodaevTupikov(1973)_298K_220nm(gas).txt,Gas phase,FO2,fluoroperoxy radical,"
+
+  P.P. Chegodaev and B.I. Tupikov, ""Pulsed photolysis of gaseous fluorine-oxygen mixtures: absorption spectra and kinetics"",
+  Dokl. Akad. Nauk SSSR 210, 647-649 (1973)
+
+
+",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_ChegodaevTupikov(1973)_298K_220nm(gas).csv
+87.0,ChegodaevTupikov(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_ChegodaevTupikov(1973)_87K_220nm(in%20liquid%20Ar).txt,FO,FO2,fluoroperoxy radical,"
+
+  P.P. Chegodaev and B.I. Tupikov, ""Pulsed photolysis of gaseous fluorine-oxygen mixtures: absorption spectra and kinetics"",
+  Dokl. Akad. Nauk SSSR 210, 647-649 (1973)
+
+
+",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_ChegodaevTupikov(1973)_87K_220nm(in liquid Ar).csv
+295.0,Ellermann(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_Ellermann(1994)_295K_215-254nm.txt,Pulse radiolysis (SF,FO2,fluoroperoxy radical,"
+
+  T. Ellermann, J. Sehested, O.J. Nielsen, P. Pagsberg, and T.J. Wallington, ""Kinetics of the reaction of F atoms with O",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_Ellermann(1994)_295K_215-254nm.csv
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_JPL-2010(2011)_295K_185.9-265.6nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",FO2,fluoroperoxy radical,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_JPL-2010(2011)_295K_185.csv
+298.0,LymanHolland(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_LymanHolland(1988)_298K_215nm.txt,Photolysis (KrF laser) of F,FO2,fluoroperoxy radical,"
+
+  J.L. Lyman and R. Holland, ""Oxygen fluoride chemical kinetics"",
+  J. Phys. Chem. 92, 7232-7241 (1988); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_LymanHolland(1988)_298K_215nm.csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_MaricqSzente(1992)_295K_186-276nm(2.5nm).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of FO,FO2,fluoroperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_MaricqSzente(1992)_295K_186-276nm(2.csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_MaricqSzente(1992)_295K_190-275nm(5nm).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of FO,FO2,fluoroperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_MaricqSzente(1992)_295K_190-275nm(5nm).csv
+295.0,MaricqSzente(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_MaricqSzente(1992)_295K_190-341nm(0.5nm).txt,Time-resolved ultraviolet spectroscopy has been used to measure the UV absorption spectrum of FO,FO2,fluoroperoxy radical,"
+
+  M.M. Maricq and J.J. Szente, ""Flash photolysis-time-resolved UV absorption study of the reactions CF",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_MaricqSzente(1992)_295K_190-341nm(0.csv
+87.0,Matchuk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_Matchuk(1976)_87K_200-620nm(in%20liquid%20Ar).txt,FO,FO2,fluoroperoxy radical,"
+
+  N.M. Matchuk, V.I. Tupikov, A.I. Malkova, and S.Ya. Pshezhetskii, ""Electronic absorption spectra of O",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_Matchuk(1976)_87K_200-620nm(in liquid Ar).csv
+298.0,Pagsberg(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/F%20oxides/FO2_Pagsberg(1987)_298K_206-250nm.txt,Spectrokinetic studies of the gas-phase equilibrium F + O,FO2,fluoroperoxy radical,"
+
+  P. Pagsberg, E. Ratajcak, A. Sillesen, and J.T. Jodkowski, ""Spectroscopic studies of the gas-phase equilibrium F + O",data/cross-sections/Halogen oxides/F oxides/FO2/FO2_Pagsberg(1987)_298K_206-250nm.csv

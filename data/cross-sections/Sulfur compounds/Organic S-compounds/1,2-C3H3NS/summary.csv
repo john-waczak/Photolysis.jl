@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,PalmerGordon(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/1,2-C3H3NS_PalmerGordon(2007)_298K_108-260nm.txt",Absorption measurements using a synchrotron radiation source,"1,2-C3H3NS",isothiazole,"
+
+  M.H. Palmer and A.J. Gordon, ""The electronic states of isothiazole studied by VUV absorption spectroscopy and ab initio configuration interaction methods"",
+  Chem. Phys. 342, 151-162 (2007); 
+
+
+  DOI: ","data/cross-sections/Sulfur compounds/Organic S-compounds/1,2-C3H3NS/1,2-C3H3NS_PalmerGordon(2007)_298K_108-260nm.csv"

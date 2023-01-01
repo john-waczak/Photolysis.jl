@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+363.0,Leyva(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/p-C6H4CHO(NO2)_Leyva(2011)_363K_197.5-500.0nm.txt,Optical densities have been measured for the gas phase and normalized to the peak value ε,p-C6H4CHO(NO2),p-nitrobenzaldehyde,"
+
+  V. Leyva, I. Corral, T. Schmierer, P. Gilch, and L. González, ""A comparative analysis of the UV/Vis absorption spectra of nitrobenzaldehydes"",
+  Phys. Chem. Chem. Phys. 13, 4269-4278 (2011); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/p-C6H4CHO(NO2)/p-C6H4CHO(NO2)_Leyva(2011)_363K_197.csv

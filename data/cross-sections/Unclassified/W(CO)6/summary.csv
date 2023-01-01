@@ -1,0 +1,18 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,IversonRussell(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/W(CO)6_IversonRussell(1970)_300K_142-223nm(max).txt,Absorption measurements using the continuous and many-line spectrum of molecular hydrogen as a light source,W(CO)6,tungsten hexacarbonyl,"
+
+  A.A. Iverson and B.R. Russell, ""The vacuum ultraviolet spectra of three transition metal hexacarbonyls"",
+  Chem. Phys. Lett. 6, 307-311 (1970); 
+
+
+  DOI: ",data/cross-sections/Unclassified/W(CO)6/W(CO)6_IversonRussell(1970)_300K_142-223nm(max).csv
+298.0,Mendes(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/W(CO)6_Mendes(2017)_298K_115-320nm.txt,High-resolution absorption measurements using synchrotron radiation as a light source,W(CO)6,tungsten hexacarbonyl,"
+
+  M. Mendes, K. Regeta, F. Ferreira da Silva, N.C. Jones, S.V. Hoffmann, G. García, C. Daniel, and P. Limão-Vieira, ""Comprehensive investigation of the electronic excitation of W(CO)",data/cross-sections/Unclassified/W(CO)6/W(CO)6_Mendes(2017)_298K_115-320nm.csv
+298.0,Qi(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/W(CO)6_Qi(1997)_298K_40-120nm.txt,High-resolution (~0.3 nm) absorption measurements using synchrotron radiation as a light source,W(CO)6,tungsten hexacarbonyl,"
+
+  F. Qi, X. Yang, S. Yang, F. Liu, L. Sheng, H. Gao, Y. Zhang, and S. Yu, ""The absolute cross sections of photoabsorption, photodissociation, and photoionization of the group VIB metal hexacarbonyls at 300–1600 Å"",
+  J. Chem. Phys. 106, 9474-9482 (1997); 
+
+
+  DOI: ",data/cross-sections/Unclassified/W(CO)6/W(CO)6_Qi(1997)_298K_40-120nm.csv

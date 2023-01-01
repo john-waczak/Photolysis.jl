@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Turberg(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/i-C5H11ONO2,(CH3)2CH(CH2)2ONO2_Turberg(1990)_298K_185-300nm.txt",Absorption measurements using a spectrophotometer at a spectral bandwidth of 1 nm,"i-C5H11ONO2,(CH3)2CH(CH2)2ONO2","3-methyl-1-butyl nitrate, isopentyl nitrate","
+
+  M.P. Turberg, D.M. Giolando, C. Tilt, T. Soper, S. Mason, M. Davies, P. Klingensmith, and G.A. Takacs, ""Atmospheric chemistry of alkyl nitrates"",
+  J. Photochem. Photobiol. A. Chem. 51, 281-292 (1990); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitrates/i-C5H11ONO2,(CH3)2CH(CH2)2ONO2/i-C5H11ONO2,(CH3)2CH(CH2)2ONO2_Turberg(1990)_298K_185-300nm.csv"

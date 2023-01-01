@@ -1,0 +1,66 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+294.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(cis)(rec).txt,IUPAC(2012) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(cis)(rec).csv
+294.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(cis-trans)(rec).txt,IUPAC(2012) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(cis-trans)(rec).csv
+294.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(trans)(rec).txt,IUPAC(2012) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
+  http://iupac.pole-ether.fr
+
+
+",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2012)_294K_193-460nm(trans)(rec).csv
+298.0,IUPAC(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(cis)(rec).txt,IUPAC(2021) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(cis)(rec).csv
+298.0,IUPAC(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(cis-trans)(rec).txt,UPAC(2021) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(cis-trans)(rec).csv
+298.0,IUPAC(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(trans)(rec).txt,IUPAC(2021) recommendation:,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_IUPAC(2021)_298K_193-460nm(trans)(rec).csv
+295.0,Xiang(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_190-250nm(cis-trans).txt,"The absorption cross sections were determined by insertion of a 10 cm long cell into the beam path of a UV/visible spectrometer, with variation of the 4-oxo-2-pentenal pressure in the cell and monitoring of the corresponding changes in the absorbance of the UV/visible beam; the 4-oxo-2-pentenal sample had a trans/cis ratio of 0.082 : 1 (the absolute uncertainty in these cross section data is about 40-70%)",CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  B. Xiang, L. Zhu, and Y. Tang, ""Photolysis of 4-oxo-2-pentenal in the 190-460 nm region"",
+  J. Phys. Chem. A 111, 9025-9033 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_190-250nm(cis-trans).csv
+295.0,Xiang(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_193,248nm(cis).txt",The absorption cross sections at the excimer laser lines at 193 and 248 nm were determined by monitoring the transmitted photolysis fluence as a function of the 4-oxo-2-pentenal pressure in the cell,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  B. Xiang, L. Zhu, and Y. Tang, ""Photolysis of 4-oxo-2-pentenal in the 190-460 nm region"",
+  J. Phys. Chem. A 111, 9025-9033 (2007); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_193,248nm(cis).csv"
+295.0,Xiang(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_193,248nm(trans).txt",The absorption cross sections at the excimer laser lines at 193 and 248 nm were determined by monitoring the transmitted photolysis fluence as a function of the 4-oxo-2-pentenal pressure in the cell,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  B. Xiang, L. Zhu, and Y. Tang, ""Photolysis of 4-oxo-2-pentenal in the 190-460 nm region"",
+  J. Phys. Chem. A 111, 9025-9033 (2007); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_193,248nm(trans).csv"
+295.0,Xiang(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_280-460nm(cis).txt,The absorption cross section data at 10 nm intervals in the 280-460 nm region have been determined by cavity ring-down spectroscopy,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  B. Xiang, L. Zhu, and Y. Tang, ""Photolysis of 4-oxo-2-pentenal in the 190-460 nm region"",
+  J. Phys. Chem. A 111, 9025-9033 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_280-460nm(cis).csv
+295.0,Xiang(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_280-460nm(trans).txt,The absorption cross section data at 10 nm intervals in the 280-460 nm region have been determined by cavity ring-down spectroscopy,CH3C(O)CH=CHC(O)H,4-oxo-2-pentenal,"
+
+  B. Xiang, L. Zhu, and Y. Tang, ""Photolysis of 4-oxo-2-pentenal in the 190-460 nm region"",
+  J. Phys. Chem. A 111, 9025-9033 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3C(O)CH=CHC(O)H/CH3C(O)CH=CHC(O)H_Xiang(2007)_295K_280-460nm(trans).csv

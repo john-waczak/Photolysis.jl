@@ -1,0 +1,17 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+243.0,Green(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O3_Green(2003)_243K_201-320nm.txt,Structure: ClOClO,Cl2O3,"dichlorine trioxide, chlorine sesquioxide, chlorine chlorate","
+
+  T.J. Green, M. Islam, P. Guest, K. Hickson, C.E. Canosa-Mas, and R.P. Wayne, ""A discharge-flow study of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O3/Cl2O3_Green(2003)_243K_201-320nm.csv
+223.0,Harwood(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O3_Harwood(1995)_223K_220-330nm.txt,Structure: ClOClO,Cl2O3,"dichlorine trioxide, chlorine sesquioxide, chlorine chlorate","
+
+  M.H. Harwood, D.M. Rowley, R.A. Freshwater, R.A. Cox, and R.L. Jones, ""A spectroscopic study of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O3/Cl2O3_Harwood(1995)_223K_220-330nm.csv
+233.0,HaymanCox(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O3_HaymanCox(1989)_233K_220-335nm.txt,Structure: ClOClO,Cl2O3,"dichlorine trioxide, chlorine sesquioxide, chlorine chlorate","
+
+  G.D. Hayman and R. A. Cox, ""UV absorption spectrum and thermochemistry of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O3/Cl2O3_HaymanCox(1989)_233K_220-335nm.csv
+293.0,Lipscomb(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O3_Lipscomb(1956)_293K_257.7nm.txt,Structure: ClOClO,Cl2O3,"dichlorine trioxide, chlorine sesquioxide, chlorine chlorate","
+
+  F.J. Lipscomb, R.G.W. Norrish, and B.A. Thrush, ""The study of energy transfer by kinetic spectroscopy. I. The production of vibrationally excited oxygen"",
+  Proc. Roy. Soc. London A 233, 455-464 (1956); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O3/Cl2O3_Lipscomb(1956)_293K_257.csv

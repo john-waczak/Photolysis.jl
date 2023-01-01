@@ -1,0 +1,61 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Barone(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Barone(1994)_298K_184.9,193nm.txt",Absorption cross section at the Hg line and ArF excimer laser line,CH3SCH3,"dimethyl sulfide, DMS","
+
+  S.B. Barone, A.A. Turnipseed, T. Gierczak, and A. Ravishankara, ""Quantum yields of H(",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Barone(1994)_298K_184.csv
+298.0,Dillon(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Dillon(2006)_298K_253.65nm.txt,Absorption cross-sections between 230–280 nm and at a resolution of ∼2 nm (D,CH3SCH3,"dimethyl sulfide, DMS","
+
+  T.J. Dillon, R. Karunanandan, and J.N. Crowley, ""The reaction of IO with CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Dillon(2006)_298K_253.csv
+300.0,Hearn(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Hearn(1990)_300K_201-280nm.txt,UV-VIS  spectrophotometer interfaced to a data station; deuterium lamp as a light source; spectral resolution 0.10 nm,CH3SCH3,"dimethyl sulfide, DMS","
+
+  C.H. Hearn, E. Turcu, and J.A. Joens, ""The near UV absorption spectra of dimethyl sulfide, diethyl sulfide, and dimethyl disulfide"",
+  Atmos. Environ. 24A, 1939-1944 (1990); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Hearn(1990)_300K_201-280nm.csv
+298.0,Hynes(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Hynes(1986)_298K_228.8nm.txt,Reactions of OH with organic sulfides studied using the flash photolysis-resonance fluorescence technique,CH3SCH3,"dimethyl sulfide, DMS","
+
+  A.J. Hynes, P.H. Wine, and D.H. Semmes, ""Kinetics and mechanism of OH reactions with organic sulfides"",
+  J. Phys. Chem. 90, 4148-4156 (1986); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Hynes(1986)_298K_228.csv
+298.0,Limao-Vieira(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Limao-Vieira(2002)_298K_113-270nm.txt,High-resolution (∼0.075 nm) absorption measurements using synchrotron radiation,CH3SCH3,"dimethyl sulfide, DMS","
+
+  P. Limão-Vieira, S. Eden, P.A. Kendall, N.J. Mason, and S.V. Hoffmann, ""High-resolution VUV photo-absorption cross-sections for dimethylsulphide (CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Limao-Vieira(2002)_298K_113-270nm.csv
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_McMillan(1966)_298K_200.0-247.8nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3SCH3,"dimethyl sulfide, DMS","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 489
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_McMillan(1966)_298K_200.csv
+297.0,Stickel(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Stickel(1992)_297K_202.6nm.txt,A zinc hollow cathode lamp was used as the light source,CH3SCH3,"dimethyl sulfide, DMS","
+
+  R.E. Stickel, J.M. Nicovich, S.Y. Wang, Z. Zhao, and P.H. Wine, ""Kinetic and mechanistic study of the reaction of atomic chlorine with dimethyl sulfide"",
+  J. Phys. Chem. 96, 9875-9883 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Stickel(1992)_297K_202.csv
+296.0,Thompson(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Thompson(1966)_296K_184.0-232.3nm.txt,Absorption measurements with Cary recording spectrophotometers,CH3SCH3,"dimethyl sulfide, DMS","
+
+  S.D. Thompson, D.G. Carroll, F. Watson, M. O'Donnell, and S.P. McGlynn, ""Electronic spectra and structure of sulfur compounds"",
+  J. Chem. Phys. 45, 1367-1379 (1966); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Thompson(1966)_296K_184.csv
+298.0,Tokue(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Tokue(1989)_298K_115.4-214.9nm.txt,Absorption measurements at a spectral resolution of 0.2 nm using synchrotron radiation,CH3SCH3,"dimethyl sulfide, DMS","
+
+  I. Tokue, A. Hiraya, and K. Shobatake, ""Photoexcitation of dimethyl sulfide and dimethyl disulfide in the vacuum ultraviolet region: Rydberg states and photofragment emissions"",
+  Chem. Phys. 130, 401-408 (1989); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Tokue(1989)_298K_115.csv
+298.0,Williams(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Williams(2005)_298K_208.78-237.59nm.txt,High-resolution (∼0.05 nm) spectrum measured using a diode array spectrometer,CH3SCH3,"dimethyl sulfide, DMS","
+
+  M.B. Williams, P. Campuzano-Jost, D.D. Riemer, C. Tatum, and A.J. Hynes, ""Gas phase UV absorption spectra for a series of alkyl sulfides"",
+  J. Photochem. Photobiol. A.: Chem. 171, 77-82 (2005); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Williams(2005)_298K_208.csv
+298.0,Wine(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3_Wine(1981)_298K_228.8nm.txt,Absorption cross section at the wavelength of a Cd lamp,CH3SCH3,"dimethyl sulfide, DMS","
+
+  P.H. Wine, N.M. Kreutter, C.A. Gump, and A.R. Ravishankara, ""Kinetics of OH reactions with the atmospheric sulfur compounds H",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3/CH3SCH3_Wine(1981)_298K_228.csv

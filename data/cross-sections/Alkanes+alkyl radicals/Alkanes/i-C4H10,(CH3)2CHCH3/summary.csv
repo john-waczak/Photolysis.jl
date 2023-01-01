@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Lombos(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/i-C4H10,(CH3)2CHCH3_Lombos(1967)_298K_117.5-164.4nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,"i-C4H10,(CH3)2CHCH3","isobutane, 2-methylpropane","
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The far-ultraviolet spectra of branched chain paraffins"",
+  Chem. Phys. Lett. 1, 221-223 (1967); 
+
+
+  DOI: ","data/cross-sections/Alkanes+alkyl radicals/Alkanes/i-C4H10,(CH3)2CHCH3/i-C4H10,(CH3)2CHCH3_Lombos(1967)_298K_117.csv"
+298.0,Lombos(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/i-C4H10,(CH3)2CHCH3_Lombos(1967)_298K_127.5-156.0nm(max).txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,"i-C4H10,(CH3)2CHCH3","isobutane, 2-methylpropane","
+
+  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The far-ultraviolet spectra of branched chain paraffins"",
+  Chem. Phys. Lett. 1, 221-223 (1967); 
+
+
+  DOI: ","data/cross-sections/Alkanes+alkyl radicals/Alkanes/i-C4H10,(CH3)2CHCH3/i-C4H10,(CH3)2CHCH3_Lombos(1967)_298K_127.csv"
+298.0,OkabeBecker(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/i-C4H10,(CH3)2CHCH3_OkabeBecker(1962)_298K_147nm.txt","The absorption coefficient k (atm, 298 K)","i-C4H10,(CH3)2CHCH3","isobutane, 2-methylpropane","
+
+  H. Okabe and D.A. Becker, ""Vacuum ultraviolet photochemistry. V. Photolysis of isobutane"",
+  J. Am. Chem. Soc. 84, 4004-4007 (1962); 
+
+
+  DOI: ","data/cross-sections/Alkanes+alkyl radicals/Alkanes/i-C4H10,(CH3)2CHCH3/i-C4H10,(CH3)2CHCH3_OkabeBecker(1962)_298K_147nm.csv"
+298.0,OkabeBecker(1963),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/i-C4H10,(CH3)2CHCH3_OkabeBecker(1963)_298K_147nm.txt","The absorption coefficient k (atm, 298 K)","i-C4H10,(CH3)2CHCH3","isobutane, 2-methylpropane","
+
+  H. Okabe and D.A. Becker, ""Vacuum ultraviolet photochemistry. VII. Photolysis of n-butane"",
+  J. Chem. Phys, 39, 2549-2555 (1963);
+
+
+  DOI: ","data/cross-sections/Alkanes+alkyl radicals/Alkanes/i-C4H10,(CH3)2CHCH3/i-C4H10,(CH3)2CHCH3_OkabeBecker(1963)_298K_147nm.csv"
+298.0,RaymondaSimpson(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/i-C4H10,(CH3)2CHCH3_RaymondaSimpson(1967)_298K_108.2-167.2nm.txt","Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer","i-C4H10,(CH3)2CHCH3","isobutane, 2-methylpropane","
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ","data/cross-sections/Alkanes+alkyl radicals/Alkanes/i-C4H10,(CH3)2CHCH3/i-C4H10,(CH3)2CHCH3_RaymondaSimpson(1967)_298K_108.csv"

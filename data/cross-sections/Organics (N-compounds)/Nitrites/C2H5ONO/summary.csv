@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,MaricqWallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrites/C2H5ONO_MaricqWallington(1992)_295K_185-375nm.txt,The method of transient ultraviolet spectral photography has been used to follow the photolytically initiated reaction C,C2H5ONO,ethyl nitrite,"
+
+  M.M. Maricq and T.J. Wallington, ""Absolute ultraviolet cross sections of methyl and ethyl peroxy radicals"",
+  J. Phys. Chem. 96, 986-992 (1992); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrites/C2H5ONO/C2H5ONO_MaricqWallington(1992)_295K_185-375nm.csv
+298.0,Wallace-Goodeve(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrites/C2H5ONO_Wallace-Goodeve(1934)_298K_263.2-405.8nm(smoo).txt,"The smooth fit of the measured absorption coefficients k (Torr, 298 K)",C2H5ONO,ethyl nitrite,"
+
+  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
+  Trans. Faraday Soc. 30, 504-508 (1934); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrites/C2H5ONO/C2H5ONO_Wallace-Goodeve(1934)_298K_263.csv
+298.0,Wallace-Goodeve(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrites/C2H5ONO_Wallace-Goodeve(1934)_298K_265.3-406.2nm(meas).txt,"Data points for the measured absorption coefficients k (Torr, 298 K)",C2H5ONO,ethyl nitrite,"
+
+  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
+  Trans. Faraday Soc. 30, 504-508 (1934); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrites/C2H5ONO/C2H5ONO_Wallace-Goodeve(1934)_298K_265.csv

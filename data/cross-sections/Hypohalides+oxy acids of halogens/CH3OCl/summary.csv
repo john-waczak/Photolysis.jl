@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Crowley(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/CH3OCl_Crowley(1994)_295K_200-460nm.txt,Absorption measurements at a spectral resolution of 0.4nm using a diode array spectrometer,CH3OCl,methyl hypochlorite,"
+
+  J.N. Crowley, F. Helleis, R. Müller, G.K. Moortgat, P.J. Crutzen, and J.J. Orlando, ""CH",data/cross-sections/Hypohalides+oxy acids of halogens/CH3OCl/CH3OCl_Crowley(1994)_295K_200-460nm.csv
+295.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/CH3OCl_IUPAC(2008)_295K_200-460nm(rec).txt,IUPAC(2008) recommendation:,CH3OCl,methyl hypochlorite,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Hypohalides+oxy acids of halogens/CH3OCl/CH3OCl_IUPAC(2008)_295K_200-460nm(rec).csv
+298.0,Jungkamp(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/CH3OCl_Jungkamp(1995)_298K_230-394nm(2nm).txt,Absorption measurements using a long-path UV absorption flow cell in a diode array spectrometer coupled to a quadrupole mass spectrometer with a molecular beam sampling inlet for purity control.,CH3OCl,methyl hypochlorite,"
+
+  T.P.W. Jungkamp, U. Kirchner, M. Schmidt, and R.N. Schindler, ""UV-absorption cross section data for the hypochlorites ROCl (R = H, CH",data/cross-sections/Hypohalides+oxy acids of halogens/CH3OCl/CH3OCl_Jungkamp(1995)_298K_230-394nm(2nm).csv

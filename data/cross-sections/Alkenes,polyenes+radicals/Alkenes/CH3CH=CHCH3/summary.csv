@@ -1,0 +1,46 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_Bertrand(1975)_298K_123.6,147.0nm.txt",Kr and  Xe resonance lines as light sources,CH3CH=CHCH3,cis-butene-2,"
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_Bertrand(1975)_298K_123.csv"
+323.0,Doner(2022),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_Doner(2022)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH3CH=CHCH3,cis-butene-2,"
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_Doner(2022)_323K_125-240nm.csv"
+298.0,GaryPickett(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_GaryPickett(1954)_298K_158.5-207.2nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",CH3CH=CHCH3,cis-butene-2,"
+
+  J.T. Gary and L.W. Pickett, ""The far ultraviolet absorption spectra of isomeric butenes"",
+  J. Chem. Phys. 22, 599-602 (1954); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_GaryPickett(1954)_298K_158.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_JonesTaylor(1955)_298K_167-208nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH3CH=CHCH3,cis-butene-2,"
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_JonesTaylor(1955)_298K_167-208nm.csv"
+298.0,Koizumi(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_Koizumi(1985)_298K_33.5-135.3nm.txt",High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,CH3CH=CHCH3,cis-butene-2,"
+
+  H. Koizumi, T. Yoshimi, K. Shinsaka, M. Morita, Y. Hatano, A. Yagishita, and K. Ito, ""VUV-optical oscillator strength distributions of C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_Koizumi(1985)_298K_33.csv"
+295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_Schoen(1962)_295K_50.7-137.1nm(meas).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH3CH=CHCH3,cis-butene-2,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_Schoen(1962)_295K_50.csv"
+295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3_Schoen(1962)_295K_50.7-137.8nm(smoo).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH3CH=CHCH3,cis-butene-2,"
+
+  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
+  J. Chem. Phys. 37, 2032-2040 (1962); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH3CH=CHCH3/CH3CH=CHCH3_Schoen(1962)_295K_50.csv"

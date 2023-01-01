@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Christianson(2021),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C5H8O_Christianson(2021)_323K_125-240nm.txt",High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,c-C5H8O,cyclopentanone,"
+
+  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C5H8O/c-C5H8O_Christianson(2021)_323K_125-240nm.csv"
+249.0,UdvarhaziElSayed(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C5H8O_UdvarhaziElSayed(1965)_249K_167-210nm.txt",The spectra were recorded on the McPherson VUV spectrometer using a H,c-C5H8O,cyclopentanone,"
+
+  A. Udvarhazi and M. A. El-Sayed, ""Vacuum-ultraviolet spectra of cyclic ketones"",
+  J. Chem. Phys. 42, 3335-3336 (1965);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C5H8O/c-C5H8O_UdvarhaziElSayed(1965)_249K_167-210nm.csv"

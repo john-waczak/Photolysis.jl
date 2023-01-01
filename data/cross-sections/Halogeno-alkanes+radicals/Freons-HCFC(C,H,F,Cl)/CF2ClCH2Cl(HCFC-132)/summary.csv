@@ -1,0 +1,25 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,GreenWayne(1976-1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)_GreenWayne(1976-1977)_300K_183-208nm(smoo).txt",Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,CF2ClCH2Cl(HCFC-132),"1,1-difluoro-1,2-dichloroethane (HCFC-132)","
+
+  R.G. Green and R.P. Wayne, ""Ultraviolet absorption spectra of halogenated methanes and ethanes"",
+  J. Photochem. 6, 375-377 (1976-1977); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)/CF2ClCH2Cl(HCFC-132)_GreenWayne(1976-1977)_300K_183-208nm(smoo).csv"
+300.0,GreenWayne(1976-1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)_GreenWayne(1976-1977)_300K_184-207nm(meas).txt",Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,CF2ClCH2Cl(HCFC-132),"1,1-difluoro-1,2-dichloroethane (HCFC-132)","
+
+  R.G. Green and R.P. Wayne, ""Ultraviolet absorption spectra of halogenated methanes and ethanes"",
+  J. Photochem. 6, 375-377 (1976-1977); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)/CF2ClCH2Cl(HCFC-132)_GreenWayne(1976-1977)_300K_184-207nm(meas).csv"
+298.0,Minamikawa(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)_Minamikawa(1992)_298K_115-180nm.txt",Absorption measurements using a VUV spectrometer with a resolution of 4 nm and a D,CF2ClCH2Cl(HCFC-132),"1,1-difluoro-1,2-dichloroethane (HCFC-132)","
+
+  T. Minamikawa, T. Sakka, Y. Ogata, and M. Iwasaki, ""Vacuum ultraviolet spectra of CCIF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)/CF2ClCH2Cl(HCFC-132)_Minamikawa(1992)_298K_115-180nm.csv"
+298.0,YanoTschuikow(1979),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)_YanoTschuikow(1979)_298K_147nm.txt",Absorption measurements using a xenon resonance lamp as a light source,CF2ClCH2Cl(HCFC-132),"1,1-difluoro-1,2-dichloroethane (HCFC-132)","
+
+  T. Yano and E. Tschuikow-Roux, ""Photodecomposition of 1, 1-difluoro-1, 2-dichloroethane at 147 nm"",
+  J. Phys. Chem. 83, 2572-2578 (1979); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CF2ClCH2Cl(HCFC-132)/CF2ClCH2Cl(HCFC-132)_YanoTschuikow(1979)_298K_147nm.csv"

@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrites/(CH3)3CONO_McMillan(1966)_298K_202.9-439.1nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,(CH3)3CONO,"tert-butyl nitrite, 1,1-dimethylethyl nitrite","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 455
+
+
+",data/cross-sections/Organics (N-compounds)/Nitrites/(CH3)3CONO/(CH3)3CONO_McMillan(1966)_298K_202.csv

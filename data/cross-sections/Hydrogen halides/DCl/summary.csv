@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bahou(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DCl_Bahou(2001)_298K_135-220nm.txt,Selected values at 2.5- and 5-nm intervals of the absorption cross sections measured at 0.1-nm intervals by,DCl,hydrogen chloride-d,"
+
+  M. Bahou, C.-Y. Chung, Y.-P. Lee, B.-M. Cheng, Y.L. Yung, and L.C. Lee, ""Absorption cross sections for HCl and DCl at 135-232 nm: implications for photodissociation on Venus"",
+  Astrophys. J. 559, L179-L182 (2001); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/DCl/DCl_Bahou(2001)_298K_135-220nm.csv
+298.0,Cheng(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DCl_Cheng(2002)_298K_120.2-155.8nm(max).txt,Absorption measurements at a spectral resolution of 0.1-nm using synchrotron radiation,DCl,hydrogen chloride-d,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, and L.C. Lee, ""Quantitative spectral analysis of HCl and DCl in 120-220 nm: Effects of singlet-triplet mixing"",
+  J. Chem. Phys. 117, 4293-4298 (2002); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/DCl/DCl_Cheng(2002)_298K_120.csv
+298.0,Cheng(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DCl_Cheng(2002)_298K_134-220nm.txt,Absorption measurements at a spectral resolution of 0.1-nm using synchrotron radiation,DCl,hydrogen chloride-d,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, and L.C. Lee, ""Quantitative spectral analysis of HCl and DCl in 120-220 nm: Effects of singlet-triplet mixing"",
+  J. Chem. Phys. 117, 4293-4298 (2002); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/DCl/DCl_Cheng(2002)_298K_134-220nm.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DCl_JPL-2010(2011)_298K_135-220nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",DCl,hydrogen chloride-d,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Hydrogen halides/DCl/DCl_JPL-2010(2011)_298K_135-220nm(rec).csv

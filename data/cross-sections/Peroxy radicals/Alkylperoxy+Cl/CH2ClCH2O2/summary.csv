@@ -1,0 +1,20 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Chakir(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClCH2O2_Chakir(2003)_298K_215-270nm.txt,Modulated photolysis technique; spectral resolution 0.1 nm,CH2ClCH2O2,2-chloroethylperoxy radical,"
+
+  A. Chakir, J. Brion, J.P. Ganne, and D. Daumont, ""Study of ClCH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClCH2O2/CH2ClCH2O2_Chakir(2003)_298K_215-270nm.csv
+298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(meas).txt,Flash photolysis of Cl,CH2ClCH2O2,2-chloroethylperoxy radical,"
+
+  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""A flash photolysis investigation of the UV absorption spectrum and self-reaction kinetics of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClCH2O2/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(meas).csv
+298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(resc).txt,Flash photolysis of Cl,CH2ClCH2O2,2-chloroethylperoxy radical,"
+
+  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""A flash photolysis investigation of the UV absorption spectrum and self-reaction kinetics of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClCH2O2/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(resc).csv
+298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(smoo).txt,Flash photolysis of Cl,CH2ClCH2O2,2-chloroethylperoxy radical,"
+
+  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""A flash photolysis investigation of the UV absorption spectrum and self-reaction kinetics of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClCH2O2/CH2ClCH2O2_Dagaut(1988)_298K_210-290nm(smoo).csv
+298.0,Lightfoot(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClCH2O2_Lightfoot(1992)_298K_210-290nm(rec).txt,Recommendation based on a smooth fit to the data of,CH2ClCH2O2,2-chloroethylperoxy radical,"
+
+  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
+  Atmos. Environ. 26A, 1805-1961 (1992); 
+
+
+  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClCH2O2/CH2ClCH2O2_Lightfoot(1992)_298K_210-290nm(rec).csv

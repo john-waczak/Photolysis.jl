@@ -1,0 +1,136 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Burrows(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Burrows(1985)_298K_619-667nm.txt,Absorption measurements in the photolysis of Cl,NO3,nitrate radical,"
+
+  J.P. Burrows, G.S. Tyndall, and G.K. Moortgat, ""Absorption spectrum of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Burrows(1985)_298K_619-667nm.csv
+298.0,Burrows(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Burrows(1985)_298K_622nm.txt,Absorption measurements in the photolysis of Cl,NO3,nitrate radical,"
+
+  J.P. Burrows, G.S. Tyndall, and G.K. Moortgat, ""Absorption spectrum of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Burrows(1985)_298K_622nm.csv
+296.0,Canosa-Mas(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Canosa-Mas(1987)_296K_662nm.txt,A discharge flow apparatus was used to prepare NO,NO3,nitrate radical,"
+
+  C.E. Canosa-Mas, M. Fowles, P.J. Houghton, and R.P. Wayne, ""Absolute absorption cross-section measurements on NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Canosa-Mas(1987)_296K_662nm.csv
+296.0,Cox(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Cox(1984)_296K_662nm.txt,Time-resolved absorption measurements at 662 nm during the phototolysis of Cl,NO3,nitrate radical,"
+
+  R.A. Cox, R.A. Barton, E. Ljungström, and D.W. Stocker, ""The reaction of Cl and ClO with the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Cox(1984)_296K_662nm.csv
+298.0,Graham(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Graham(1975)_298K_402-696nm.txt,"Absorption cross sections as reported by
+
+R.D. Hudson, ""Chlorofluoromethanes and the stratosphere, NASA Reference Publication 1010 (1977), pp. 30 and 32",NO3,nitrate radical,"
+
+  R.A. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Graham(1975)_298K_402-696nm.csv
+298.0,GrahamJohnston(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_GrahamJohnston(1978)_298K_400-704nm.txt,Averages over 1-nm intervals of the spectrum recorded at a resolution of 0.83 nm,NO3,nitrate radical,"
+
+  R.A. Graham and H.S. Johnston, ""The photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_GrahamJohnston(1978)_298K_400-704nm.csv
+230.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_IUPAC(2004)_230K_400-690nm(rec).txt,IUPAC(2004) recommendation:,NO3,nitrate radical,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/NO3/NO3_IUPAC(2004)_230K_400-690nm(rec).csv
+298.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_IUPAC(2004)_298K_400-690nm(rec).txt,IUPAC(2004) recommendation:,NO3,nitrate radical,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/NO3/NO3_IUPAC(2004)_298K_400-690nm(rec).csv
+295.0,JohnstonGraham(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_JohnstonGraham(1974)_295K_451-680nm.txt,Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,NO3,nitrate radical,"
+
+  H.S. Johnston and R. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_JohnstonGraham(1974)_295K_451-680nm.csv
+295.0,JohnstonGraham(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_JohnstonGraham(1974)_295K_451-680nm(corr).txt,Enhancement of the absorption cross section at 662 nm from 0.347×10,NO3,nitrate radical,"
+
+  H.S. Johnston and R. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_JohnstonGraham(1974)_295K_451-680nm(corr).csv
+298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_JPL-2002(2002)_298K_600-670nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",NO3,nitrate radical,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/NO3/NO3_JPL-2002(2002)_298K_600-670nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_JPL-2010(2011)_298K_403-691nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",NO3,nitrate radical,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/NO3/NO3_JPL-2010(2011)_298K_403-691nm(rec).csv
+296.0,Marinelli(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Marinelli(1982)_296K_654.0-670.7nm.txt,"The absorption cross section of the nitrate free radical has been scanned by a tunable dye laser with 0.05 nm resolution (FWHM) between 613 and 672 nm, and portions of the region were scanned at high resolution (200 MHz) with the laser in single-frequency mode",NO3,nitrate radical,"
+
+  W.J. Marinelli, D.M. Swanson, and H.S. Johnston, ""Absorption cross sections and line shapes for the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Marinelli(1982)_296K_654.csv
+296.0,Marinelli(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Marinelli(1982)_296K_661.9nm.txt,"The absorption cross section of the nitrate free radical has been scanned by a tunable dye laser with 0.05 nm resolution (FWHM) between 613 and 672 nm, and portions of the region were scanned at high resolution (200 MHz) with the laser in single-frequency mode",NO3,nitrate radical,"
+
+  W.J. Marinelli, D.M. Swanson, and H.S. Johnston, ""Absorption cross sections and line shapes for the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Marinelli(1982)_296K_661.csv
+294.0,Mitchell(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Mitchell(1980)_294K_654.0-669.8nm.txt,Absorption cross sections derived from Fig. 3 by,NO3,nitrate radical,"
+
+  D.N. Mitchell, R.P. Wayne, P.J. Allen, R.P. Harrison, and R.J. Twin, ""Kinetics and photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Mitchell(1980)_294K_654.csv
+294.0,Mitchell(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Mitchell(1980)_294K_663nm.txt,Absorption measurements with a flow of ozone in oxygen,NO3,nitrate radical,"
+
+  D.N. Mitchell, R.P. Wayne, P.J. Allen, R.P. Harrison, and R.J. Twin, ""Kinetics and photochemistry of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Mitchell(1980)_294K_663nm.csv
+294.0,Orphal(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Orphal(2003)_294K_476-794nm.txt,High-resolution spectrum measured using Fourier transform spectroscopy; spectral resolution: 0.6 cm,NO3,nitrate radical,"
+
+  J. Orphal, C.E. Fellows, and P.-M. Flaud, ""The visible absorption spectrum of NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Orphal(2003)_294K_476-794nm.csv
+298.0,RavishankaraMauldin(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_RavishankaraMauldin(1986)_298K_653-673nm.txt,A discharge flow apparatus was used to prepare NO,NO3,nitrate radical,"
+
+  A.R. Ravishankara and R.L. Mauldin, III, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_RavishankaraMauldin(1986)_298K_653-673nm.csv
+298.0,RavishankaraWine(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_RavishankaraWine(1983)_298K_570-670nm.txt,Absorption measurements at 565 to 673 nm using a tunable dye laser,NO3,nitrate radical,"
+
+  A.R. Ravishankara and P.H. Wine, ""Absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO3/NO3_RavishankaraWine(1983)_298K_570-670nm.csv
+298.0,RavishankaraWine(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_RavishankaraWine(1983)_298K_622nm.txt,Absorption measurements at 565 to 673 nm using a tunable dye laser; absorption cross section at the 622-nm peak,NO3,nitrate radical,"
+
+  A.R. Ravishankara and P.H. Wine, ""Absorption cross sections for NO",data/cross-sections/Nitrogen oxides/NO3/NO3_RavishankaraWine(1983)_298K_622nm.csv
+230.0,Sander(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_230K_400-691nm.txt,The absorption spectrum has been measured in discharge flow reactors using a diode array spectrometer at a resolution of ∼0.4 nm; the listed points are extracted directly from the spectrum without averaging,NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_230K_400-691nm.csv
+250.0,Sander(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_250K_662nm.txt,"Absorption maximum at the 0-0 band, measured by the flash photolysis method",NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_250K_662nm.csv
+298.0,Sander(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_298K_220,225,240nm.txt",Upper limits for the absorption cross sections as measured with the discharge flow method,NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO","data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_298K_220,225,240nm.csv"
+298.0,Sander(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_298K_220-260nm.txt,Upper limits for the absorption cross sections as measured by the discharge flow method,NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_298K_220-260nm.csv
+298.0,Sander(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_298K_400-691nm.txt,Absorption spectrum measured in discharge flow reactors using a diode array spectrometer at a resolution of ∼0.4 nm; the listed points are extracted directly from the spectrum without averaging,NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_298K_400-691nm.csv
+298.0,Sander(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Sander(1986)_298K_661.9nm.txt,Absorption cross section at the peak of the (0-0) band measured by the discharge flow method,NO3,nitrate radical,"
+
+  S.P. Sander, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Sander(1986)_298K_661.csv
+1025.0,SchottDavidson(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_SchottDavidson(1958)_1025K_652nm.txt,Shock pyrolysis of N,NO3,nitrate radical,"
+
+  G. Schott and N. Davidson, ""Shock waves in chemical kinetics: The decomposition of N",data/cross-sections/Nitrogen oxides/NO3/NO3_SchottDavidson(1958)_1025K_652nm.csv
+300.0,SchottDavidson(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_SchottDavidson(1958)_300K_652nm.txt,Shock pyrolysis of N,NO3,nitrate radical,"
+
+  G. Schott and N. Davidson, ""Shock waves in chemical kinetics: The decomposition of N",data/cross-sections/Nitrogen oxides/NO3/NO3_SchottDavidson(1958)_300K_652nm.csv
+600.0,SchottDavidson(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_SchottDavidson(1958)_600K_366nm.txt,Shock pyrolysis of N,NO3,nitrate radical,"
+
+  G. Schott and N. Davidson, ""Shock waves in chemical kinetics: The decomposition of N",data/cross-sections/Nitrogen oxides/NO3/NO3_SchottDavidson(1958)_600K_366nm.csv
+650.0,SchottDavidson(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_SchottDavidson(1958)_650K_405-652nm.txt,Shock pyrolysis of N,NO3,nitrate radical,"
+
+  G. Schott and N. Davidson, ""Shock waves in chemical kinetics: The decomposition of N",data/cross-sections/Nitrogen oxides/NO3/NO3_SchottDavidson(1958)_650K_405-652nm.csv
+825.0,SchottDavidson(1958),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_SchottDavidson(1958)_825K_366,652nm.txt",Shock pyrolysis of N,NO3,nitrate radical,"
+
+  G. Schott and N. Davidson, ""Shock waves in chemical kinetics: The decomposition of N","data/cross-sections/Nitrogen oxides/NO3/NO3_SchottDavidson(1958)_825K_366,652nm.csv"
+298.0,Wangberg(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Wangberg(1997)_298K_603-682nm.txt,The measured absorbances ln(I,NO3,nitrate radical,"
+
+  I. Wängberg, T. Etzkorn, I. Barnes, U. Platt, and K.H. Becker, ""Absolute determination of the temperature behavior of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Wangberg(1997)_298K_603-682nm.csv
+220.0,Wayne(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Wayne(1991)_220K_400-691nm(rec).txt,Recommendation:,NO3,nitrate radical,"
+
+  R.P. Wayne, I. Barnes, J.P. Burrows, C.E. Canosa-Mas, J. Hjorth, G. Le Bras, G.K. Moortgat, D. Perner, G. Poulet, G. Restelli, and H. Sidebottom, ""The nitrate radical: Physics, chemistry, and the atmosphere"",
+  Atmos. Environ. 25A, 1-203 (1991); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO3/NO3_Wayne(1991)_220K_400-691nm(rec).csv
+298.0,Wayne(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Wayne(1991)_298K_400-691nm(rec).txt,Recommendation:,NO3,nitrate radical,"
+
+  R.P. Wayne, I. Barnes, J.P. Burrows, C.E. Canosa-Mas, J. Hjorth, G. Le Bras, G.K. Moortgat, D. Perner, G. Poulet, G. Restelli, and H. Sidebottom, ""The nitrate radical: Physics, chemistry, and the atmosphere"",
+  Atmos. Environ. 25A, 1-203 (1991); 
+
+
+  DOI: ",data/cross-sections/Nitrogen oxides/NO3/NO3_Wayne(1991)_298K_400-691nm(rec).csv
+220.0,Yokelson(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Yokelson(1994)_220K_440-694nm.txt,Absorption measurements using a diode array spectrometer in conjunction with a low-pressure discharge flow apparatus; spectral resolution ∼0.1 nm,NO3,nitrate radical,"
+
+  R.J. Yokelson, J.B. Burkholder, R.W. Fox, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Yokelson(1994)_220K_440-694nm.csv
+240.0,Yokelson(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Yokelson(1994)_240K_440-694nm.txt,Absorption measurements using a diode array spectrometer in conjunction with a low-pressure discharge flow apparatus; spectral resolution ∼0.1 nm,NO3,nitrate radical,"
+
+  R.J. Yokelson, J.B. Burkholder, R.W. Fox, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Yokelson(1994)_240K_440-694nm.csv
+260.0,Yokelson(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Yokelson(1994)_260K_440-694nm.txt,Absorption measurements using a diode array spectrometer in conjunction with a low-pressure discharge flow apparatus; spectral resolution ∼0.1 nm,NO3,nitrate radical,"
+
+  R.J. Yokelson, J.B. Burkholder, R.W. Fox, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Yokelson(1994)_260K_440-694nm.csv
+280.0,Yokelson(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Yokelson(1994)_280K_440-694nm.txt,Absorption measurements using a diode array spectrometer in conjunction with a low-pressure discharge flow apparatus; spectral resolution ∼0.1 nm,NO3,nitrate radical,"
+
+  R.J. Yokelson, J.B. Burkholder, R.W. Fox, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Yokelson(1994)_280K_440-694nm.csv
+298.0,Yokelson(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/NO3_Yokelson(1994)_298K_440-694nm.txt,Absorption measurements using a diode array spectrometer in conjunction with a low-pressure discharge flow apparatus; spectral resolution ∼0.1 nm,NO3,nitrate radical,"
+
+  R.J. Yokelson, J.B. Burkholder, R.W. Fox, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the NO",data/cross-sections/Nitrogen oxides/NO3/NO3_Yokelson(1994)_298K_440-694nm.csv

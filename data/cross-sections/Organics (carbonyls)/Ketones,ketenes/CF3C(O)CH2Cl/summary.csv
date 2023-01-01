@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ballesteros(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CF3C(O)CH2Cl_Ballesteros(2017)_298K_200-360nm.txt",Deuterium lamp radiation dispersed over a grating of 300 grooves/mm with a spectral resolution of 0.2 nm,CF3C(O)CH2Cl,"3-chloro-1,1,1-trifluoroacetone","
+
+  B. Ballesteros, E. Jiménez, A. Moreno, A. Soto, M. Antiñolo, and J. Albaladejo, ""Atmospheric fate of hydrofluoroolefins, C","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CF3C(O)CH2Cl/CF3C(O)CH2Cl_Ballesteros(2017)_298K_200-360nm.csv"

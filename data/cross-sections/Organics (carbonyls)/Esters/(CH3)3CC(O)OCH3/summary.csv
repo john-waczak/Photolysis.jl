@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Wallington(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/(CH3)3CC(O)OCH3_Wallington(2001)_295K_160-260nm.txt,Single-beam apparatus with a spectral slit width of 0.5 nm,(CH3)3CC(O)OCH3,"2,2-dimethylpropanoic acid methyl ester, methyl pivalate","
+
+  T.J. Wallington, Y. Ninomya, M. Mashino, M. Kawasaki, V.L. Orkin, R.E. Huie, M.J. Kurylo, W.P.L. Carter, D. Luo, and I.L. Malkina, ""Atmospheric oxidation mechanism of methyl pivalate, (CH",data/cross-sections/Organics (carbonyls)/Esters/(CH3)3CC(O)OCH3/(CH3)3CC(O)OCH3_Wallington(2001)_295K_160-260nm.csv

@@ -1,0 +1,47 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Chou(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Chou(1977)_296K_184.9-226.0nm.txt,Data (averages over each 50-wavenumber interval) as reported and recommended by,COF2,"difluorophosgene, carbonyl difluoride","
+
+  C.C. Chou, G. Crescentini, H. Vera-Ruiz, W.S. Smith, and F.S. Rowland, ""Stratospheric photochemistry of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Chou(1977)_296K_184.csv
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_IUPAC(2008)_298K_186.0-228.6nm(rec).txt,IUPAC(2008) recommendation:,COF2,"difluorophosgene, carbonyl difluoride","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_IUPAC(2008)_298K_186.csv
+298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_JPL-2002(2002)_298K_186.0-228.6nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",COF2,"difluorophosgene, carbonyl difluoride","
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_JPL-2002(2002)_298K_186.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_JPL-2010(2011)_298K_186.0-228.6nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",COF2,"difluorophosgene, carbonyl difluoride","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_JPL-2010(2011)_298K_186.csv
+296.0,MolinaMolina(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_MolinaMolina(1982)_296K_186-224nm.txt,Reported by ,COF2,"difluorophosgene, carbonyl difluoride","
+
+  L.T Molina and M.J. Molina, ""Chemistry of fluorine in the stratosphere"",
+  182nd American Chemical Society Meeting, 1982 (unpublished)
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_MolinaMolina(1982)_296K_186-224nm.csv
+296.0,Nolle(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Nolle(1992)_296K_199-232nm(0.01nm).txt,High-resolution (0.03 nm) spectrum obtained by diode array spectroscopy,COF2,"difluorophosgene, carbonyl difluoride","
+
+  A. Nölle, H. Heydtmann, R. Meller, W. Schneider, and G.K. Moortgat, ""UV absorption spectra and absorption cross sections of COF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Nolle(1992)_296K_199-232nm(0.csv
+296.0,Nolle(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Nolle(1992)_296K_200-230nm(int-c).txt,High-resolution (0.03 nm) spectrum obtained by diode array spectroscopy,COF2,"difluorophosgene, carbonyl difluoride","
+
+  A. Nölle, H. Heydtmann, R. Meller, W. Schneider, and G.K. Moortgat, ""UV absorption spectra and absorption cross sections of COF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Nolle(1992)_296K_200-230nm(int-c).csv
+296.0,Nolle(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Nolle(1992)_296K_200-231nm(1nm).txt,High-resolution (0.03 nm) spectrum obtained by diode array spectroscopy,COF2,"difluorophosgene, carbonyl difluoride","
+
+  A. Nölle, H. Heydtmann, R. Meller, W. Schneider, and G.K. Moortgat, ""UV absorption spectra and absorption cross sections of COF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Nolle(1992)_296K_200-231nm(1nm).csv
+296.0,Nolle(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Nolle(1992)_296K_202-230nm(2nm).txt,High-resolution (0.03 nm) spectrum obtained by diode array spectroscopy,COF2,"difluorophosgene, carbonyl difluoride","
+
+  A. Nölle, H. Heydtmann, R. Meller, W. Schneider, and G.K. Moortgat, ""UV absorption spectra and absorption cross sections of COF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Nolle(1992)_296K_202-230nm(2nm).csv
+296.0,Nolle(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COF2_Nolle(1992)_296K_205-225nm(5nm).txt,High-resolution (0.03 nm) spectrum obtained by diode array spectroscopy,COF2,"difluorophosgene, carbonyl difluoride","
+
+  A. Nölle, H. Heydtmann, R. Meller, W. Schneider, and G.K. Moortgat, ""UV absorption spectra and absorption cross sections of COF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COF2/COF2_Nolle(1992)_296K_205-225nm(5nm).csv

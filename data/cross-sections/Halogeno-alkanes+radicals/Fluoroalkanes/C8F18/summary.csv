@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bastien(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/C8F18_Bastien(1985)_298K_120-180nm.txt,Absorption measurements using a synchrotron radiation source;,C8F18,perfluorooctane,"
+
+  F. Bastien, P. A. Chatterton, E. Marode, and J. L. Moruzzi, ""Photoabsorption measurements in SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/C8F18/C8F18_Bastien(1985)_298K_120-180nm.csv

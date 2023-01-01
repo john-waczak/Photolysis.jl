@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Lanza(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/(CH3)2C=CHCHO_Lanza(2008)_298K_275-390nm.txt,Presumably averages over 1-nm intervals of the absorption spectrum measured at a spectral resolution of 0.19 nm,(CH3)2C=CHCHO,3-methyl-2-butenal,"
+
+  B. Lanza, E. Jiménez, B. Ballesteros, and J. Albaladejo, ""Absorption cross section determination of biogenic C",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/(CH3)2C=CHCHO/(CH3)2C=CHCHO_Lanza(2008)_298K_275-390nm.csv

@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Fernandez(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Sn(CH3)4_Fernandez(1986)_298K_110.0-185.9nm(max).txt,Absorption measurements with a moderate resolution by using a windowless spark source which emits light down to 50 nm,Sn(CH3)4,"tin tetramethyl, tetramethylstannane","
+
+  J. Fernandez, G. Lespes, and A. Dargelos, ""Theoretical and experimental study of the vacuum ultraviolet spectrum of tetrasubstituted tin derivatives SnCl",data/cross-sections/Unclassified/Sn(CH3)4/Sn(CH3)4_Fernandez(1986)_298K_110.csv
+298.0,Fernandez(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Sn(CH3)4_Fernandez(1986)_298K_110-220nm.txt,Absorption measurements with a moderate resolution by using a windowless spark source which emits light down to 50 nm,Sn(CH3)4,"tin tetramethyl, tetramethylstannane","
+
+  J. Fernandez, G. Lespes, and A. Dargelos, ""Theoretical and experimental study of the vacuum ultraviolet spectrum of tetrasubstituted tin derivatives SnCl",data/cross-sections/Unclassified/Sn(CH3)4/Sn(CH3)4_Fernandez(1986)_298K_110-220nm.csv
+298.0,TokueIbuki(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Sn(CH3)4_TokueIbuki(1997)_298K_40-201nm.txt,Absorption measurements by using synchrotron radiation as a light source (resolution 0.1 or 0.2 nm),Sn(CH3)4,"tin tetramethyl, tetramethylstannane","
+
+  I. Tokue and T. Ibuki, ""Photoabsorption cross sections and radiative processes of SnCl",data/cross-sections/Unclassified/Sn(CH3)4/Sn(CH3)4_TokueIbuki(1997)_298K_40-201nm.csv

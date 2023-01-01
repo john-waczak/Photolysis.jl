@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Christianson(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/C4H6O2_Christianson(2021)_323K_125-240nm.txt,High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,C4H6O2,tetrahydrofuran-3-one,"
+
+  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/C4H6O2/C4H6O2_Christianson(2021)_323K_125-240nm.csv

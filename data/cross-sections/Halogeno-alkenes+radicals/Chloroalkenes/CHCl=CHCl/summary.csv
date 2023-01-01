@@ -1,0 +1,36 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Berry(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl_Berry(1974)_298K_139-234nm.txt,"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",CHCl=CHCl,"cis-1,2-dichloroethene","
+
+  M.J. Berry, ""Chloroethylene photochemical lasers: Vibrational energy content of the HCl molecular elimination products"",
+  J. Chem. Phys. 61, 3114-3143 (1974);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl/CHCl=CHCl_Berry(1974)_298K_139-234nm.csv
+298.0,He(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl_He(1993)_298K_193nm.txt,Absorption cross section at the wavelength of the ArF excimer laser line,CHCl=CHCl,"cis-1,2-dichloroethene","
+
+  G.-X. He,  Y.-A. Yang, Y. Huang, and R.G. Gordon, ""Distribution of rotational states in half-collisions: 193-nm photolysis of dichloroethylene isomers"",
+  J. Phys. Chem. 97, 2186-2193 (1993);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl/CHCl=CHCl_He(1993)_298K_193nm.csv
+298.0,Locht(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl_Locht(2019)_298K_123.984-177.120nm.txt,High-resolution (0.5 meV ≈ 0.006-0.013 nm) absorption measurements using synchrotron radiation as a light source,CHCl=CHCl,"cis-1,2-dichloroethene","
+
+  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectroscopy of the cis-1,2-dichloroethylene (1,2-ClHC=CHCl) in the 5-20 eV range. An experimental and theoretical investigation"",
+  AIP Advances, 9, 015305 (2019);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl/CHCl=CHCl_Locht(2019)_298K_123.csv
+298.0,Locht(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl_Locht(2019)_298K_61.99-95.35nm.txt,Medium-resolution (15 meV ≈ 0.05-0.11 nm) absorption measurements using synchrotron radiation as a light source,CHCl=CHCl,"cis-1,2-dichloroethene","
+
+  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectroscopy of the cis-1,2-dichloroethylene (1,2-ClHC=CHCl) in the 5-20 eV range. An experimental and theoretical investigation"",
+  AIP Advances, 9, 015305 (2019);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl/CHCl=CHCl_Locht(2019)_298K_61.csv
+298.0,Locht(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl_Locht(2019)_298K_95.37-247.97nm.txt,Medium-resolution (2 meV ≈ 0.01-0.1 nm) absorption measurements using synchrotron radiation as a light source,CHCl=CHCl,"cis-1,2-dichloroethene","
+
+  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectroscopy of the cis-1,2-dichloroethylene (1,2-ClHC=CHCl) in the 5-20 eV range. An experimental and theoretical investigation"",
+  AIP Advances, 9, 015305 (2019);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CHCl/CHCl=CHCl_Locht(2019)_298K_95.csv

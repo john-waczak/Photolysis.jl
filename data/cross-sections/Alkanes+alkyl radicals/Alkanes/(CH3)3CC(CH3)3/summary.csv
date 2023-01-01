@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/(CH3)3CC(CH3)3_RaymondaSimpson(1967)_298K_128-172nm.txt,"Absorption measurements using a vacuum spectrograph, a Lyman intermittent spark as a light source, and spectroscopic plates sensitized to the vacuum ultraviolet",(CH3)3CC(CH3)3,"hexamethyl ethane, 2,3,3-tetramethyl butane","
+
+  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
+  J. Chem. Phys. 47, 430-448 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/(CH3)3CC(CH3)3/(CH3)3CC(CH3)3_RaymondaSimpson(1967)_298K_128-172nm.csv

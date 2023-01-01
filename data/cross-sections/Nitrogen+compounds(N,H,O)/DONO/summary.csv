@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/DONO_Brust(2000)_298K_312-393nm.txt",Absorption measurements in a flow system; spectral resolution 0.5 nm,DONO,nitrous acid-d,"
+
+  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
+  Atmos. Environ. 34, 13-19 (2000); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/DONO/DONO_Brust(2000)_298K_312-393nm.csv"
+298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/DONO_Brust(2000)_298K_338.2-383.5nm(max).txt",Absorption measurements in a flow system; spectral resolution 0.5 nm,DONO,nitrous acid-d,"
+
+  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
+  Atmos. Environ. 34, 13-19 (2000); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/DONO/DONO_Brust(2000)_298K_338.csv"
+298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/DONO_Brust(2000)_298K_340.5-383.5nm(max).txt",Absorption measurements in a flow system; spectral resolution 0.5 nm,DONO,nitrous acid-d,"
+
+  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
+  Atmos. Environ. 34, 13-19 (2000); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/DONO/DONO_Brust(2000)_298K_340.csv"

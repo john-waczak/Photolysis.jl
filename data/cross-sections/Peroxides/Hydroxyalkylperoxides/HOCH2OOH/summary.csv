@@ -1,0 +1,31 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BauerleMoortgat(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_BauerleMoortgat(1999)_298K_205-360nm(0.5nm).txt,Absorption measurements using a monochromator/diode array camera arrangement,HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  S. Bauerle and G.K. Moortgat, ""Absorption cross-sections of HOCH",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_BauerleMoortgat(1999)_298K_205-360nm(0.csv
+298.0,BauerleMoortgat(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_BauerleMoortgat(1999)_298K_205-360nm(5nm).txt,Absorption measurements using a monochromator/diode array camera arrangement ,HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  S. Bauerle and G.K. Moortgat, ""Absorption cross-sections of HOCH",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_BauerleMoortgat(1999)_298K_205-360nm(5nm).csv
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_IUPAC(2006)_298K_205-365nm(rec).txt,IUPAC(2006) recommendation:,HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_IUPAC(2006)_298K_205-365nm(rec).csv
+298.0,JPL-2006(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_JPL-2006(2006)_298K_205-360nm(rec).txt,JPL-2006 recommendation:,HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, G.K. Moortgat, H. Keller-Rudek, P.H. Wine, A.R. Ravishankara, C.E. Kolb, M.J. Molina, B.J. Finlayson-Pitts, R.E. Huie, V.L. Orkin, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 15"",
+  JPL Publication 06-2, Jet Propulsion Laboratory, Pasadena, 2006; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_JPL-2006(2006)_298K_205-360nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_JPL-2010(2011)_298K_205-360nm(rec).txt,JPL-2010 recommendation:,HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_JPL-2010(2011)_298K_205-360nm(rec).csv
+298.0,Roehl(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH_Roehl(2007)_298K_310-360nm.txt,"The absorption cross sections have been determined via action spectroscopy, i.e., from the yield of the photodissociation product OH measured as a function of excitation energy",HOCH2OOH,"hydroxymethylhydroperoxide, HMHP","
+
+  C.M. Roehl, Z. Marka, J.L Fry, and P.O. Wennberg, ""Near-UV photolysis cross sections of CH",data/cross-sections/Peroxides/Hydroxyalkylperoxides/HOCH2OOH/HOCH2OOH_Roehl(2007)_298K_310-360nm.csv

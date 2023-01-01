@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Hopkirk(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/N2D4_Hopkirk(1992)_298K_105-210nm.txt",High-resolution (0.1 nm) absorption measurements using synchrotron radiation as a light source,N2D4,hydrazine-d4,"
+
+  A. Hopkirk, J.A. Salthouse, R.W.P. White, J.C. Whitehead, and F. Winterbottom, ""The VUV spectroscopy of deuterated hydrazine, N","data/cross-sections/Nitrogen+compounds(N,H,O)/N2D4/N2D4_Hopkirk(1992)_298K_105-210nm.csv"

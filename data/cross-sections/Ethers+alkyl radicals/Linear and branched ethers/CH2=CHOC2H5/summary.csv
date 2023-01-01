@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH2=CHOC2H5_Doner(2022)_323K_125-240nm.txt,High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH2=CHOC2H5,"ethyl vinyl ether, EVE","
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH2=CHOC2H5/CH2=CHOC2H5_Doner(2022)_323K_125-240nm.csv
+303.0,Nieto-Gligorovski(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH2=CHOC2H5_Nieto-Gligorovski(2009)_303K_190-223nm.txt,Absorption measurements at a spectral resolution of 1 nm using double beam spectrometers equipped with a quartz-halogen lamp and a deuterium lamp,CH2=CHOC2H5,"ethyl vinyl ether, EVE","
+
+  L.I. Nieto-Gligorovski, S. Gligorovski, R. Romano, C. Della Vedova, and C. Zetzsch, ""UV absorption cross-sections of a series of vinyl ethers"",
+  J. Photochem. Photobiol. A: Chem. 204, 46-51 (2009); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH2=CHOC2H5/CH2=CHOC2H5_Nieto-Gligorovski(2009)_303K_190-223nm.csv

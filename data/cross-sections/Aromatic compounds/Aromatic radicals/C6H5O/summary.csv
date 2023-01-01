@@ -1,0 +1,35 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bayrakceken(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_Bayrakceken(2003)_298K_291nm.txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of phenol or methoxybenzene,C6H5O,phenoxy radical,"
+
+  F. Bayrakçeken, S. Aktas, M. Toptan, and A. Ünlügedik, ""High resolution electronic absorption spectra of anisole and phenoxyl radical"",
+  Spectrochim. Acta A: Mol. Biomol. Spectrosc. 59, 135-138 (2003); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_Bayrakceken(2003)_298K_291nm.csv
+298.0,BerhoLesclaux(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_BerhoLesclaux(1997)_298K_210-295nm(meas).txt,Flash photolysis (Cl,C6H5O,phenoxy radical,"
+
+  F. Berho and R. Lesclaux, ""The phenoxy radical: UV spectrum and kinetics of gas-phase reactions with itself and with oxygen"",
+  Chem. Phys. Lett. 279, 289-296 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_BerhoLesclaux(1997)_298K_210-295nm(meas).csv
+298.0,BerhoLesclaux(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_BerhoLesclaux(1997)_298K_225-295nm(smoo).txt,Flash photolysis (Cl,C6H5O,phenoxy radical,"
+
+  F. Berho and R. Lesclaux, ""The phenoxy radical: UV spectrum and kinetics of gas-phase reactions with itself and with oxygen"",
+  Chem. Phys. Lett. 279, 289-296 (1997); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_BerhoLesclaux(1997)_298K_225-295nm(smoo).csv
+298.0,Kajii(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_Kajii(1987)_298K_225-300nm.txt,Absorption spectra of the phenoxy radical in the gas phase were observed in the range of 210-300 nm in the ArF excimer laser (193 nm) flash photolysis of phenol and anisole,C6H5O,phenoxy radical,"
+
+  Y. Kajii, K. Obi, N. Nakashima, and K. Yoshihara, ""ArF laser flash photolysis of phenol and anisole"",
+  J. Chem. Phys. 87, 5059-5063 (1987); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_Kajii(1987)_298K_225-300nm.csv
+296.0,Platz(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_Platz(1998)_296K_230-300nm.txt,Pulse radiolysis (SF,C6H5O,phenoxy radical,"
+
+  J. Platz, O.J. Nielsen, T.J. Wallington, J.C. Ball, M.D. Hurley, A.M. Straccia, W.F. Schneider, and J. Sehested, ""Atmospheric chemistry of the phenoxy radical, C",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_Platz(1998)_296K_230-300nm.csv
+298.0,Tonokura(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5O_Tonokura(2004)_298K_394.4nm.txt,Cavity ring-down spectroscopy combined with pulsed laser photolysis (of anisole and phenol) has been used to study the near-ultraviolet absorption spectrum (375-410 nm) of the phenoxyl radical in 10-20 Torr of nitrogen diluent at 298 K,C6H5O,phenoxy radical,"
+
+  K. Tonokura, T. Ogura, and M. Koshi, ""Near-UV absorption spectrum of the phenoxyl radical and kinetics of its reaction with CH",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5O/C6H5O_Tonokura(2004)_298K_394.csv

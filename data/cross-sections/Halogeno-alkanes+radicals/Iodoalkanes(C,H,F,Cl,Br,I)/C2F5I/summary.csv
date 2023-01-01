@@ -1,0 +1,30 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Haszeldine(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Haszeldine(1953)_298K_224,268.5nm(min,max).txt","The extinction coefficients for the maximum and minimum, as listed in Table 3, have been converted to absorption cross sections (conversion factor 3.8235×10",C2F5I,pentafluoroiodoethane,"
+
+  R.N. Haszeldine, ""Studies in spectroscopy, III. The ultraviolet absorption spectra of halogen-containing aliphatic iodo-compounds, and the relative stability of free halogen-containig alkyl radicals"",
+  J. Chem. Soc. 1953, 1764-1771;
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Haszeldine(1953)_298K_224,268.csv"
+323.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_JPL-2010(2011)_323K_220-320nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of:",C2F5I,pentafluoroiodoethane,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_JPL-2010(2011)_323K_220-320nm(rec).csv"
+295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Pence(1981)_295K_268nm.txt",Absorption measurements at 185-400 nm; spectrum reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 6,C2F5I,pentafluoroiodoethane,"
+
+  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Pence(1981)_295K_268nm.csv"
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Zhang(1990)_323K_220-320nm(2nm).txt",2-nm interpolation of the absorption cross sections read from Fig. 2 (logarithmic plot),C2F5I,pentafluoroiodoethane,"
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Zhang(1990)_323K_220-320nm(2nm).csv"
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Zhang(1990)_323K_220-320nm(5nm).txt",5-nm interpolation of the absorption cross sections read from Fig. 2 (logarithmic plot),C2F5I,pentafluoroiodoethane,"
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Zhang(1990)_323K_220-320nm(5nm).csv"
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Zhang(1990)_323K_220-320nm(dig).txt",Absorption cross sections plotted in Fig. 2 have been digitized (no experimental details indicated),C2F5I,pentafluoroiodoethane,"
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Zhang(1990)_323K_220-320nm(dig).csv"
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I_Zhang(1990)_323K_220-320nm(read).txt",Absorption cross sections have been read from Fig. 2 ( (no experimental details indicated)),C2F5I,pentafluoroiodoethane,"
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/C2F5I/C2F5I_Zhang(1990)_323K_220-320nm(read).csv"

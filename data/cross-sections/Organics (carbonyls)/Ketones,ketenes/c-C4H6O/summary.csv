@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+231.0,UdvarhaziElSayed(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C4H6O_UdvarhaziElSayed(1965)_231K_168-210nm.txt",The spectra were recorded on the McPherson VUV spectrometer using a H,c-C4H6O,cyclobutanone,"
+
+  A. Udvarhazi and M. A. El-Sayed, ""Vacuum-ultraviolet spectra of cyclic ketones"",
+  J. Chem. Phys. 42, 3335-3336 (1965);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C4H6O/c-C4H6O_UdvarhaziElSayed(1965)_231K_168-210nm.csv"

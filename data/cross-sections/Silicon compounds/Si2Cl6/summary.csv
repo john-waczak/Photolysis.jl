@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ibuki(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2Cl6_Ibuki(1987)_298K_110.0-190.8nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,Si2Cl6,hexachlorodisilane,"
+
+  T. Ibuki, N. Washida, U. Itoh, Y. Tyoshima, and H. Onuki, ""Absorption spectra of SiCl",data/cross-sections/Silicon compounds/Si2Cl6/Si2Cl6_Ibuki(1987)_298K_110.csv

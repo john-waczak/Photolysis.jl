@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Fockenberg(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/C2H5OCCH_Fockenberg(2005)_295K_155.787-219.389nm.txt,"Vacuum scanning monochromator fitted with a 2400 grooves/mm grating; slit widths of 50 and 80 μm; deuterium lamp as a light source
+
+",C2H5OCCH,"ethyl ethynyl ether, EEE","
+
+  C. Fockenberg, ""Product study of the photolysis of ketene and ethyl ethynyl ether at 193 nm"",
+  J. Phys. Chem. A 109, 7140-7150 (2005); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/C2H5OCCH/C2H5OCCH_Fockenberg(2005)_295K_155.csv

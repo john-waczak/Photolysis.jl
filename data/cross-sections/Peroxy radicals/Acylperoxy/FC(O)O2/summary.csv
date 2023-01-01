@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Maricq(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acylperoxy/FC(O)O2_Maricq(1993)_295K_190-341nm.txt,Absorption measurements using a laser flash photolysis-time resolved UV/VIS spectrometer; photolysis of F,FC(O)O2,fluoroformylperoxy radical,"
+
+  M.M. Maricq, J.J. Szente, G.A. Khitrov, and J.S. Francisco, ""Temperature dependent kinetics of the formation and self-reactions of FC(O)O",data/cross-sections/Peroxy radicals/Acylperoxy/FC(O)O2/FC(O)O2_Maricq(1993)_295K_190-341nm.csv
+295.0,Maricq(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acylperoxy/FC(O)O2_Maricq(1993)_295K_191.1-301.6nm.txt,Absorption measurements using a laser flash photolysis-time resolved UV/VIS spectrometer; photolysis of F,FC(O)O2,fluoroformylperoxy radical,"
+
+  M.M. Maricq, J.J. Szente, G.A. Khitrov, and J.S. Francisco, ""Temperature dependent kinetics of the formation and self-reactions of FC(O)O",data/cross-sections/Peroxy radicals/Acylperoxy/FC(O)O2/FC(O)O2_Maricq(1993)_295K_191.csv
+296.0,Wallington(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acylperoxy/FC(O)O2_Wallington(1994)_296K_220-290nm.txt,Pulse radiolysis (SF,FC(O)O2,fluoroformylperoxy radical,"
+
+  T.J. Wallington, T. Ellermann, O.J. Nielsen, and J. Sehested, ""Atmospheric chemistry of FCO",data/cross-sections/Peroxy radicals/Acylperoxy/FC(O)O2/FC(O)O2_Wallington(1994)_296K_220-290nm.csv

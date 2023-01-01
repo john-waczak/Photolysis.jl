@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,ColtonRabalais(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Br2_ColtonRabalais(1974)_298K_213-586nm(sol).txt,Absorption measurements on a Cary 14 recording spectrophotometer using quartz absorption cells of various path lengths,S2Br2,disulfur dibromide,"
+
+  R.J. Colton and J.W. Rabalais, ""Photoelectron and electronis absorption spectra of SCl",data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Br2/S2Br2_ColtonRabalais(1974)_298K_213-586nm(sol).csv
+298.0,ColtonRabalais(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2Br2_ColtonRabalais(1974)_298K_296,342nm(max,sol).txt",Absorption measurements on a Cary 14 recording spectrophotometer using quartz absorption cells of various path lengths,S2Br2,disulfur dibromide,"
+
+  R.J. Colton and J.W. Rabalais, ""Photoelectron and electronis absorption spectra of SCl","data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2Br2/S2Br2_ColtonRabalais(1974)_298K_296,342nm(max,sol).csv"

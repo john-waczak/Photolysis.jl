@@ -1,0 +1,28 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/C2H5N=NC2H5_McMillan(1966)_298K_201.5-433.5nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,C2H5N=NC2H5,azoethane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 453
+
+
+","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/C2H5N=NC2H5/C2H5N=NC2H5_McMillan(1966)_298K_201.csv"
+298.0,ParkesQuinn(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/C2H5N=NC2H5_ParkesQuinn(1976)_298K_221.5-246.6nm.txt",Azoethane as a precursor for alkyl radicals,C2H5N=NC2H5,azoethane,"
+
+  D.A. Parkes and C.P. Quinn, ""Study of the spectra and recombination kinetics of alkyl radicals by molecular modulation spectrometry. Part 2. - The recombination of ethyl, isopropyl and t-butyl radicals at room temperature and t-butyl radicals between 250 and 450 K"",
+  J. Chem. Soc. Faraday Trans. I 72, 1952-1971 (1976); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/C2H5N=NC2H5/C2H5N=NC2H5_ParkesQuinn(1976)_298K_221.csv"
+298.0,Robin(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/C2H5N=NC2H5_Robin(1967)_298K_127.6-211.4nm.txt",Absorption measurements using a D,C2H5N=NC2H5,azoethane,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/C2H5N=NC2H5/C2H5N=NC2H5_Robin(1967)_298K_127.csv"
+298.0,Robin(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/C2H5N=NC2H5_Robin(1967)_298K_355.0nm(max).txt",Absorption measurements using a D,C2H5N=NC2H5,azoethane,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/C2H5N=NC2H5/C2H5N=NC2H5_Robin(1967)_298K_355.csv"

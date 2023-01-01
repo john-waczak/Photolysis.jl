@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2ICH2CF2CF2I_Zhang(1990)_323K_220-320nm.txt",Absorption cross sections plotted in Fig. 1 have been digitized (no experimental details indicated),CH2ICH2CF2CF2I,"1,1,2,2-tetrafluoro-1,4-diiodobutane","
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2ICH2CF2CF2I/CH2ICH2CF2CF2I_Zhang(1990)_323K_220-320nm.csv"
+323.0,Zhang(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2ICH2CF2CF2I_Zhang(1990)_323K_220-320nm(5nm).txt",5-nm interpolation of the digitized absorption curve in Fig. 2,CH2ICH2CF2CF2I,"1,1,2,2-tetrafluoro-1,4-diiodobutane","
+
+  L. Zhang, W. Fuss, and K.L. Kompa, ""Bond-selective photodissociation of CX (X = Br, I) in XC","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2ICH2CF2CF2I/CH2ICH2CF2CF2I_Zhang(1990)_323K_220-320nm(5nm).csv"

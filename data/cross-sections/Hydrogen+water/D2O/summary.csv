@@ -1,0 +1,49 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Cantrell(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Cantrell(1997)_298K_184.9nm.txt,Absorption cross section measured at 184.9 nm using a low-pressure mercury lamp light source,D2O,water-d2,"
+
+  C.A. Cantrell, A. Zimmer, and G.S. Tyndall, ""Absorption cross sections for water vapor from 183 to 193 nm"",
+  Geophys. Res. Lett. 24, 2195-2198 (1997) DOI: 10.1029/97GL02100;",data/cross-sections/Hydrogen+water/D2O/D2O_Cantrell(1997)_298K_184.csv
+298.0,Cheng(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Cheng(2004)_298K_125-145nm(0.02nm).txt,The absorption spectrum was measured at a resolution of ∼0.02 nm using synchrotron radiation,D2O,water-d2,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, L. C. Lee, R. van Harrevelt, and M. C. van Hemert, ""Quantitative spectroscopic and theoretical study of the optical absorption spectra of H",data/cross-sections/Hydrogen+water/D2O/D2O_Cheng(2004)_298K_125-145nm(0.csv
+298.0,Cheng(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Cheng(2004)_298K_125-145nm(1nm).txt,The absorption spectrum was measured at a resolution of ∼0.02 nm using synchrotron radiation,D2O,water-d2,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, L. C. Lee, R. van Harrevelt, and M. C. van Hemert, ""Quantitative spectroscopic and theoretical study of the optical absorption spectra of H",data/cross-sections/Hydrogen+water/D2O/D2O_Cheng(2004)_298K_125-145nm(1nm).csv
+250.0,Chung(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Chung(2001)_250K_140.0-181.8nm(0.2nm).txt,The absorption spectrum was measured at a resolution of ∼0.1 nm using synchrotron radiation,D2O,water-d2,"
+
+  C.-Y. Chung, E. P. Chew, B.-M. Cheng, M. Bahou, and Y.-P. Lee, ""Temperature dependence of absorption cross-section of H",data/cross-sections/Hydrogen+water/D2O/D2O_Chung(2001)_250K_140.csv
+250.0,Chung(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Chung(2001)_250K_140-181nm(1nm).txt,The absorption spectrum was measured at a resolution of ∼0.1 nm using synchrotron radiation,D2O,water-d2,"
+
+  C.-Y. Chung, E. P. Chew, B.-M. Cheng, M. Bahou, and Y.-P. Lee, ""Temperature dependence of absorption cross-section of H",data/cross-sections/Hydrogen+water/D2O/D2O_Chung(2001)_250K_140-181nm(1nm).csv
+275.0,Chung(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Chung(2001)_275K_140-188nm(0.2nm).txt,The absorption spectrum was measured at a resolution of ∼0.1 nm using synchrotron radiation,D2O,water-d2,"
+
+  C.-Y. Chung, E. P. Chew, B.-M. Cheng, M. Bahou, and Y.-P. Lee, ""Temperature dependence of absorption cross-section of H",data/cross-sections/Hydrogen+water/D2O/D2O_Chung(2001)_275K_140-188nm(0.csv
+295.0,Chung(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Chung(2001)_295K_140-195nm(0.2nm).txt,The absorption spectrum was measured at a resolution of ∼0.1 nm using synchrotron radiation,D2O,water-d2,"
+
+  C.-Y. Chung, E. P. Chew, B.-M. Cheng, M. Bahou, and Y.-P. Lee, ""Temperature dependence of absorption cross-section of H",data/cross-sections/Hydrogen+water/D2O/D2O_Chung(2001)_295K_140-195nm(0.csv
+295.0,Chung(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Chung(2001)_295K_140-195nm(1nm).txt,The absorption spectrum was measured at a resolution of ∼0.1 nm using synchrotron radiation,D2O,water-d2,"
+
+  C.-Y. Chung, E. P. Chew, B.-M. Cheng, M. Bahou, and Y.-P. Lee, ""Temperature dependence of absorption cross-section of H",data/cross-sections/Hydrogen+water/D2O/D2O_Chung(2001)_295K_140-195nm(1nm).csv
+298.0,Fillion(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Fillion(2004)_298K_94.920-113.110nm.txt,Absorption measurements at rotational resolution using a synchrotron radiation source in the range 10.9-12 eV ,D2O,water-d2,"
+
+  J.-H. Fillion, J. Ruiz, X.-F. Yang, M. Castillejo, F. Rostas, and J.-L. Lemaire, ""High resolution photoabsorption and photofragment fluorescence spectroscopy of water between 10.9 and 12 eV"",
+  J. Chem. Phys. 120, 6531-6541 (2004); 
+
+
+  DOI: ",data/cross-sections/Hydrogen+water/D2O/D2O_Fillion(2004)_298K_94.csv
+298.0,Gurtler(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Gurtler(1977)_298K_60.64-124.67nm.txt,Absorption measurements with H,D2O,water-d2,"
+
+  P. Gürtler, V. Saile, and E.E. Koch, ""Rydberg series in the absorption spectra of H",data/cross-sections/Hydrogen+water/D2O/D2O_Gurtler(1977)_298K_60.csv
+298.0,Katayama(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Katayama(1973)_298K_65.00-98.02nm(max,min).txt",Absorption measurements between 58 and 105 nm using the helium continuum was as a background with a bandwidth of approximately 0.05 nm ,D2O,water-d2,"
+
+  D.H. Katayama, R.E. Huffman, and C.L O'Bryan, ""Absorption and photoionization cross sections for H",data/cross-sections/Hydrogen+water/D2O/D2O_Katayama(1973)_298K_65.csv
+298.0,LauferMcNesby(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_LauferMcNesby(1965)_298K_125-180nm.txt,A hydrogen discharge as a light source; grating vacuum monochromator; band width 0.66 nm,D2O,water-d2,"
+
+  A.H. Laufer and J.R. McNesby, ""Deuterium isotope effect in vacuum-ultraviolet absorption coefficients of water and methanes"",
+  Can. J. Chem. 43, 3487-3490 (1965); 
+
+
+  DOI: ",data/cross-sections/Hydrogen+water/D2O/D2O_LauferMcNesby(1965)_298K_125-180nm.csv
+298.0,Phillips(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen+water/D2O_Phillips(1977)_298K_18-72nm.txt,Absorption measurements using synchrotron radiation; spectral resolution ∼0.1 nm,D2O,water-d2,"
+
+  E. Phillips, L.C. Lee, and D.L. Judge, ""Absolute photoabsorption cross sections for H",data/cross-sections/Hydrogen+water/D2O/D2O_Phillips(1977)_298K_18-72nm.csv

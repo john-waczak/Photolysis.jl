@@ -1,0 +1,25 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C6H10O_Doner(2019)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,c-C6H10O,cyclohexanone,"
+
+  A.C. Doner, M.G. Christianson, J.C. Davis, A.L. Koritzke, A. Larsson, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Six-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 236, 106603  (2019);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C6H10O/c-C6H10O_Doner(2019)_323K_125-240nm.csv"
+296.0,Iwasaki(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C6H10O_Iwasaki(2008)_296K_240-350nm.txt",Absorption measurements using a commercial dual beam UV spectrometer operated at a spectral resolution of 1.0 nm,c-C6H10O,cyclohexanone,"
+
+  E. Iwasaki, Y. Matsumi, K. Takahashi, T.J. Wallington, M.D. Hurley, J.J. Orlando, E.W. Kaiser, and J.G. Calvert, ""Atmospheric chemistry of cyclohexanone: UV spectrum and kinetics of reaction with chlorine atoms"",
+  Int. J. Chem. Kinet. 40, 223-229 (2008); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C6H10O/c-C6H10O_Iwasaki(2008)_296K_240-350nm.csv"
+298.0,OToole(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C6H10O_OToole(1991)_298K_133.9-204.4nm.txt",The spectrum was  measured on a photometric spectrometer consisting  of a 1 m Rank-Hilger monochromator with a 600 line mm,c-C6H10O,cyclohexanone,"
+
+  L. O'Toole, P. Brint, C. Kosmidis, G. Boulakis, and P. Tsekeris, ""Vacuum-ultraviolet absorption spectra of propanone, butanone and the cyclic ketones C","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C6H10O/c-C6H10O_OToole(1991)_298K_133.csv"
+255.0,UdvarhaziElSayed(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/c-C6H10O_UdvarhaziElSayed(1965)_255K_167-210nm.txt",The spectra were recorded on the McPherson VUV spectrometer using a H,c-C6H10O,cyclohexanone,"
+
+  A. Udvarhazi and M. A. El-Sayed, ""Vacuum-ultraviolet spectra of cyclic ketones"",
+  J. Chem. Phys. 42, 3335-3336 (1965);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/c-C6H10O/c-C6H10O_UdvarhaziElSayed(1965)_255K_167-210nm.csv"

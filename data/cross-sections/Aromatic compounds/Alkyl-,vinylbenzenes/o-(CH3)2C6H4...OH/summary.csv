@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Johnson(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/o-(CH3)2C6H4...OH_Johnson(2005)_298K_274-335nm.txt",Laser flash photolysis and time-resolved UV absorption detection of the adduct (spectral resolution 1 nm),o-(CH3)2C6H4...OH,"OH-1,2-dimethylbenzene(o-xylene) adduct","
+
+  D. Johnson, S. Raoult, R. Lesclaux, and L.N. Krasnoperov, ""UV absorption spectra of methyl-substituted hydroxy-cyclohexadienyl radicals in the gas phase"",
+  J. Photochem. Photobiol. A: Chem. 176, 98-106 (2005); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/o-(CH3)2C6H4.csv"

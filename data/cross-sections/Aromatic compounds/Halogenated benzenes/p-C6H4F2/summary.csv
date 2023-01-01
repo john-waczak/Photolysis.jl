@@ -1,0 +1,50 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Gilbert(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_Gilbert(1972)_298K_181.93,198.60nm(max).txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,p-C6H4F2,p-difluorobenzene,"
+
+  R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Valence-shell transitions in the vacuum-ultraviolet spectra of fluorobenzenes"",
+  Can. J. Chem. 50, 543-547 (1972); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_Gilbert(1972)_298K_181.csv
+298.0,Philis(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_Philis(1981)_298K_130.5-287.2nm.txt,"Absorption measurement using a Rank-Hilger 776 monochromator, a McPherson hydrogen light source, a dual-beam sample chamber, and a detection system (spectral resolution 0.25  nm)",p-C6H4F2,p-difluorobenzene,"
+
+  J. Philis, A. Bolovinos, G. Andritsopoulos, E. Pantos, and P. Tsekeris, ""A comparison of the absorption spectra of the fluorobenzenes and benzene in the region 4.5-9.5 eV"",
+  J. Phys. B: At. Mol. Phys. 14, 3621-3635 (1981); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_Philis(1981)_298K_130.csv
+298.0,PottierSemeluk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_PottierSemeluk(1976)_298K_115.2-164.8nm.txt,Deuterium light source and VUV-double-beam spectrophotometer,p-C6H4F2,p-difluorobenzene,"
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_PottierSemeluk(1976)_298K_115.csv
+298.0,PottierSemeluk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_PottierSemeluk(1976)_298K_165.0-185.1nm.txt,Deuterium light source and VUV-double-beam spectrophotometer,p-C6H4F2,p-difluorobenzene,"
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_PottierSemeluk(1976)_298K_165.csv
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_PottierSemeluk(1976)_298K_177-265nm(sh,max).txt",Deuterium light source and VUV-double-beam spectrophotometer,p-C6H4F2,p-difluorobenzene,"
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_PottierSemeluk(1976)_298K_177-265nm(sh,max).csv"
+298.0,PottierSemeluk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_PottierSemeluk(1976)_298K_185.2-210.6nm.txt,Deuterium light source and VUV-double-beam spectrophotometer,p-C6H4F2,p-difluorobenzene,"
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_PottierSemeluk(1976)_298K_185.csv
+298.0,PottierSemeluk(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4F2_PottierSemeluk(1976)_298K_232.8-280.4nm.txt,Deuterium light source and VUV-double-beam spectrophotometer,p-C6H4F2,p-difluorobenzene,"
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4F2/p-C6H4F2_PottierSemeluk(1976)_298K_232.csv

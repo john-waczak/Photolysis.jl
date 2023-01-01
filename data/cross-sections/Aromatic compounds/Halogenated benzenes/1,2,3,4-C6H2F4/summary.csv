@@ -1,0 +1,43 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Gilbert(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_Gilbert(1972)_298K_191.33,192.60nm(max).txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Valence-shell transitions in the vacuum-ultraviolet spectra of fluorobenzenes"",
+  Can. J. Chem. 50, 543-547 (1972); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_Gilbert(1972)_298K_191.csv"
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_115.0-159.5nm.txt",Deuterium light source and VUV-double-beam spectrophotometer,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_115.csv"
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_160.2-185.0nm.txt",Deuterium light source and VUV-double-beam spectrophotometer,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_160.csv"
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_175-260nm(sh,max).txt",Deuterium light source and VUV-double-beam spectrophotometer,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_175-260nm(sh,max).csv"
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_185.7-218.6nm.txt",Deuterium light source and VUV-double-beam spectrophotometer,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_185.csv"
+298.0,PottierSemeluk(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_216.0-272.9nm.txt",Deuterium light source and VUV-double-beam spectrophotometer,"1,2,3,4-C6H2F4","1,2,3,4-tetrafluorobenzene","
+
+  R. Pottier and G. Semeluk, ""Spectrophotometric studies of the fluorinated benzenes in the near and far UV"",
+  Can. J. Spectrosc. 21, 83-95 (1976)
+
+
+","data/cross-sections/Aromatic compounds/Halogenated benzenes/1,2,3,4-C6H2F4/1,2,3,4-C6H2F4_PottierSemeluk(1976)_298K_216.csv"

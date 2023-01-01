@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/cis-CH3CH=CHCH2C2H5_JonesTaylor(1955)_298K_167-206nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",cis-CH3CH=CHCH2C2H5,cis-2-hexene,"
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/cis-CH3CH=CHCH2C2H5/cis-CH3CH=CHCH2C2H5_JonesTaylor(1955)_298K_167-206nm.csv"

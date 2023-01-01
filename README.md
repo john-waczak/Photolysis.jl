@@ -8,6 +8,7 @@
 
 # Web Scrapping in Julia
 
+- [Dabbling Doggo Tutorial](https://www.youtube.com/watch?v=qv7M5oBZPWE&ab_channel=doggodotj]l)
 - [Youtube Tutorial](https://www.youtube.com/watch?v=Z3sjw9u4B8M&ab_channel=DataMaking)
 - [Julia School Tutorial](https://julia.school/julia/scraping/)
 

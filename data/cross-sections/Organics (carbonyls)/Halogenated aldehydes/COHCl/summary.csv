@@ -1,0 +1,38 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHCl_IUPAC(2008)_298K_236.1-318.7nm(rec).txt,IUPAC(2008) recommendation:,COHCl,formyl chloride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHCl/COHCl_IUPAC(2008)_298K_236.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHCl_JPL-2010(2011)_298K_240-307nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",COHCl,formyl chloride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHCl/COHCl_JPL-2010(2011)_298K_240-307nm(rec).csv
+298.0,Libuda(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHCl_Libuda(1990)_298K_236-319nm(max).txt,Absorption measurements at a resolution of 0.7 nm by using a deuterium lamp in combination with a 22-cm spectrometer and a diode array detector,COHCl,formyl chloride,"
+
+  H.G. Libuda, F. Zabel, E.H. Fink, and K.H. Becker, ""Formyl chloride: UV absorption cross sections and rate constants for the reactions with Cl and OH"",
+  J. Phys. Chem. 94, 5860-5865 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHCl/COHCl_Libuda(1990)_298K_236-319nm(max).csv
+298.0,Libuda(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHCl_Libuda(1990)_298K_239-307nm(0.07nm).txt,"Absorption measurements at a resolution of 0.7 nm by using a deuterium lamp in combination with a 22-cm spectrometer
+and a diode array detector",COHCl,formyl chloride,"
+
+  H.G. Libuda, F. Zabel, E.H. Fink, and K.H. Becker, ""Formyl chloride: UV absorption cross sections and rate constants for the reactions with Cl and OH"",
+  J. Phys. Chem. 94, 5860-5865 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHCl/COHCl_Libuda(1990)_298K_239-307nm(0.csv
+298.0,Libuda(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHCl_Libuda(1990)_298K_240-307nm(1nm).txt,"Absorption measurements at a resolution of 0.7 nm by using a deuterium lamp in combination with a 22-cm spectrometer
+and a diode array detector",COHCl,formyl chloride,"
+
+  H.G. Libuda, F. Zabel, E.H. Fink, and K.H. Becker, ""Formyl chloride: UV absorption cross sections and rate constants for the reactions with Cl and OH"",
+  J. Phys. Chem. 94, 5860-5865 (1990); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHCl/COHCl_Libuda(1990)_298K_240-307nm(1nm).csv

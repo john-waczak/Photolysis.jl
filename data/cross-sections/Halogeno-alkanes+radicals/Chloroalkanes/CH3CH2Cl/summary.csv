@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HubrichStuhl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl_HubrichStuhl(1980)_298K_160-240nm.txt,"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CH3CH2Cl,"chloroethane, ethyl chloride","
+
+  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
+  J. Photochem. 12, 93-107 (1980); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl/CH3CH2Cl_HubrichStuhl(1980)_298K_160-240nm.csv
+296.0,Ichimura(1976-1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl_Ichimura(1976-1977)_296K_147nm.txt,"The absorption coefficient k (atm, 298 K)",CH3CH2Cl,"chloroethane, ethyl chloride","
+
+  T. Ichimura, A.W. Kirk, G. Kramer, and E. Tschuikow-Roux, ""Photolysis of ethyl chloride (freon 160) at 147 nm"",
+  J. Photochem. 6, 77-90 (1976-1977); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl/CH3CH2Cl_Ichimura(1976-1977)_296K_147nm.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl_JPL-2010(2011)_298K_160-240nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",CH3CH2Cl,"chloroethane, ethyl chloride","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl/CH3CH2Cl_JPL-2010(2011)_298K_160-240nm(rec).csv
+298.0,Raymonda(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl_Raymonda(1974)_298K_111.3-179.0nm.txt,"The spectra were recorded on several spectrographs, both photoelectrically and photographically",CH3CH2Cl,"chloroethane, ethyl chloride","
+
+  J.W. Raymonda, L.O. Edwards, and B.R. Russell, ""Vacuum ultraviolet absorption spectra of some chloroalkanes"",
+  J. Am. Chem. Soc. 96, 1708-1712 (1974); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CH3CH2Cl/CH3CH2Cl_Raymonda(1974)_298K_111.csv

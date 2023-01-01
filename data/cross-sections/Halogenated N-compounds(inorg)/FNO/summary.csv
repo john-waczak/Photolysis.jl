@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Burley(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/FNO_Burley(1993)_298K_180-350nm.txt,Absorption cross sections listed at 1-nm intervals in Table II were taken from the spectrum measured at a resolution of 0.2 nm (see Fig. 1),FNO,nitrosyl fluoride,"
+
+  J.D. Burley, C.E. Miller, and H.S. Johnston, ""Spectroscopy and photoabsorption cross sections of FNO"",
+  J. Mol. Spectrosc. 158, 377-391 (1993); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/FNO/FNO_Burley(1993)_298K_180-350nm.csv
+195.0,JohnstonBertin(1959),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/FNO_JohnstonBertin(1959)_195K_260.8-349.8nm.txt,Absorption measurements using a Beckman spectrometer and point by point readings of 1 nm,FNO,nitrosyl fluoride,"
+
+  H.S. Johnston and H.J. Bertin, Jr., ""Absorption and emission spectra of nitrosyl fluoride"",
+  J. Mol. Spectrosc. 3, 683-696 (1959); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/FNO/FNO_JohnstonBertin(1959)_195K_260.csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/FNO_JPL-2010(2011)_298K_180-350nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",FNO,nitrosyl fluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/FNO/FNO_JPL-2010(2011)_298K_180-350nm(rec).csv
+298.0,Pagsberg(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/FNO_Pagsberg(1996)_298K_310.5nm.txt,Pulse radiolysis of SF,FNO,nitrosyl fluoride,"
+
+  P. Pagsberg, A. Sillesen, J.T. Jodkowski, and E. Ratajcak, ""Kinetics of the reaction F + NO + M ↔ FNO + M studied by pulse radiolysis combined with time-resolved IR and UV spectroscopy"",
+  Chem. Phys. Lett. 249, 358-364 (1996); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/FNO/FNO_Pagsberg(1996)_298K_310.csv

@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Baasandorj(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/(CH3)3COOH_Baasandorj(2010)_296K_184.8-254.0nm.txt,Single wavelength cross section measurements used to scale the spectrum,(CH3)3COOH,tert-butyl hydroperoxide,"
+
+  M. Baasandorj, D.K. Papanastasiou, R. Talukdar, A. Hansson, and J.B. Burkholder, ""(CH",data/cross-sections/Peroxides/Alkyl peroxides/(CH3)3COOH/(CH3)3COOH_Baasandorj(2010)_296K_184.csv
+296.0,Baasandorj(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/(CH3)3COOH_Baasandorj(2010)_296K_210-300nm.txt,Measurements using a diode array spectrometer,(CH3)3COOH,tert-butyl hydroperoxide,"
+
+  M. Baasandorj, D.K. Papanastasiou, R. Talukdar, A. Hansson, and J.B. Burkholder, ""(CH",data/cross-sections/Peroxides/Alkyl peroxides/(CH3)3COOH/(CH3)3COOH_Baasandorj(2010)_296K_210-300nm.csv

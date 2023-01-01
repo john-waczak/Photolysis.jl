@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Lee(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_Lee(1980)_298K_105-125nm.txt,High-resolution (0.083 nm) absorption measurements using synchrotron radiation as as light source,HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  L.C. Lee, ""CN(A ",data/cross-sections/Organics (acids)/HCN/HCN_Lee(1980)_298K_105-125nm.csv
+298.0,Lee(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_Lee(1980)_298K_127.51-154.34nm.txt,High-resolution (0.083 nm) absorption measurements using synchrotron radiation as as light source,HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  L.C. Lee, ""CN(A ",data/cross-sections/Organics (acids)/HCN/HCN_Lee(1980)_298K_127.csv
+298.0,MacphersonSimons(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_MacphersonSimons(1978)_298K_131.22-145.73nm.txt,"HC≡N
+",HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  M.T. Macpherson and J.P. Simons, ""Spectroscopic study of the predissociation H(D)CN (C ",data/cross-sections/Organics (acids)/HCN/HCN_MacphersonSimons(1978)_298K_131.csv
+290.0,Nagata(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_Nagata(1981)_290K_112.39nm(max).txt,Absorption measurements at a spectral rsolution of ≈0.3 nm or better using synchrotron radiation as a light source,HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  T. Nagata, T. Kondow, Y. Ozaki, and K. Kuchitsu, ""Absorption spectra of hydrogen cyanide and deuterium cyanide in the 130-80 nm range"",
+  Chem. Phys. 57, 45-53 (1981)
+
+
+  DOI: ",data/cross-sections/Organics (acids)/HCN/HCN_Nagata(1981)_290K_112.csv
+290.0,Nagata(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_Nagata(1981)_290K_80.60-129.63nm.txt,Absorption measurements at a spectral resolution of ≈0.3 nm or better using synchrotron radiation as a light source,HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  T. Nagata, T. Kondow, Y. Ozaki, and K. Kuchitsu, ""Absorption spectra of hydrogen cyanide and deuterium cyanide in the 130-80 nm range"",
+  Chem. Phys. 57, 45-53 (1981)
+
+
+  DOI: ",data/cross-sections/Organics (acids)/HCN/HCN_Nagata(1981)_290K_80.csv
+298.0,NuthGlicker(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HCN_NuthGlicker(1982)_298K_62.66-146.92nm.txt,"HC≡N
+",HCN,"hydrocyanic acid, hydrogen cyanide","
+
+  J.A. Nuth and S. Glicker, ""The vacuum ultraviolet spectra of HCN, C",data/cross-sections/Organics (acids)/HCN/HCN_NuthGlicker(1982)_298K_62.csv

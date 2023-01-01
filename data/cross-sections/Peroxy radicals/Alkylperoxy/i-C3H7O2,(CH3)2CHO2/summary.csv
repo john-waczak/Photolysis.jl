@@ -1,0 +1,51 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,AdachiBasco(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_219.5-283.0nm(smoo).txt",Absorption measurements using a laser photolysis (azo-iso-propane in the presence of O,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  H. Adachi and N. Basco, ""Spectra of propylperoxy radicals and rate constants for mutual interaction"",
+  Int. J. Chem. Kinet. 14, 1125-1137 (1982); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_219.csv"
+298.0,AdachiBasco(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_220-280nm(meas).txt",Absorption measurements using a laser photolysis (azo-iso-propane in the presence of O,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  H. Adachi and N. Basco, ""Spectra of propylperoxy radicals and rate constants for mutual interaction"",
+  Int. J. Chem. Kinet. 14, 1125-1137 (1982); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_220-280nm(meas).csv"
+298.0,AdachiBasco(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_220-280nm(resc,L-rev).txt",L-rev = Lightfoot review,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  H. Adachi and N. Basco, ""Spectra of propylperoxy radicals and rate constants for mutual interaction"",
+  Int. J. Chem. Kinet. 14, 1125-1137 (1982); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_220-280nm(resc,L-rev).csv"
+298.0,AdachiBasco(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_240nm(max).txt",Absorption measurements using a laser photolysis (azo-n-propane in the presence of O,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  H. Adachi and N. Basco, ""Spectra of propylperoxy radicals and rate constants for mutual interaction"",
+  Int. J. Chem. Kinet. 14, 1125-1137 (1982); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_AdachiBasco(1982)_298K_240nm(max).csv"
+298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Lightfoot(1992)_298K_220-280nm(rec).txt",Recommendation based on a smooth fit of the data of,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
+  Atmos. Environ. 26A, 1805-1961 (1992); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Lightfoot(1992)_298K_220-280nm(rec).csv"
+298.0,Munk(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_212.1-282.1nm.txt",Absorption measurements following pulse radiolysis of H,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  J. Munk, P. Pagsberg, E. Ratajczak, and A. Sillesen, ""Spectrokinetic studies of i-C","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_212.csv"
+298.0,Munk(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_212-282nm(2.5nm).txt",Absorption measurements following pulse radiolysis of H,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  J. Munk, P. Pagsberg, E. Ratajczak, and A. Sillesen, ""Spectrokinetic studies of i-C","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_212-282nm(2.csv"
+298.0,Munk(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_223nm(max).txt",Absorption measurements following pulse radiolysis of H,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  J. Munk, P. Pagsberg, E. Ratajczak, and A. Sillesen, ""Spectrokinetic studies of i-C","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Munk(1986)_298K_223nm(max).csv"
+298.0,Tomas(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Tomas(2000)_298K_275-280nm(meas).txt",Measurements by flash photolysis of Br,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  A. Tomas, E. Villenave, and R. Lesclaux, ""Kinetics of the (CH","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Tomas(2000)_298K_275-280nm(meas).csv"
+298.0,Tomas(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2_Tomas(2000)_298K_275-280nm(smoo).txt",Measurements by flash photolysis of Br,"i-C3H7O2,(CH3)2CHO2","2-propylperoxy radical, isopropylperoxy radical","
+
+  A. Tomas, E. Villenave, and R. Lesclaux, ""Kinetics of the (CH","data/cross-sections/Peroxy radicals/Alkylperoxy/i-C3H7O2,(CH3)2CHO2/i-C3H7O2,(CH3)2CHO2_Tomas(2000)_298K_275-280nm(smoo).csv"

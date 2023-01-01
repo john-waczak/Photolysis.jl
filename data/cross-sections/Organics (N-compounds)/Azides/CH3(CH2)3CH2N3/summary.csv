@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+300.0,McDonald(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azides/CH3(CH2)3CH2N3_McDonald(1970)_300K_139.8-333.4nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",CH3(CH2)3CH2N3,"n-amylazide, n-pentylazide, 1-azidopentane","
+
+  J.R. McDonald, J.W. Rabalais, and S.P. McGlynn, ""Electronic spectra of the azide ion, hydrazoic acid, and azido molecules"",
+  J. Chem. Phys. 52, 1332-1340 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Azides/CH3(CH2)3CH2N3/CH3(CH2)3CH2N3_McDonald(1970)_300K_139.csv

@@ -1,0 +1,59 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Atkinson(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Atkinson(1992)_298K_220-295nm(rec).txt,IUPAC 1992 recommendation based on the results of,COHF,formyl fluoride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, R.F. Hampson, J.A. Kerr, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Supplement IV"",
+  J. Phys. Chem. Ref. Data 21, 1125-1568 (1992); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Atkinson(1992)_298K_220-295nm(rec).csv
+298.0,GiddingsInnes(1961),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_GiddingsInnes(1961)_298K_193.3-270.0nm.txt,"High- and low-resolution photographs of the spectrum using high-pressure Xe and Xe-Hg lamps as light sources
+",COHF,formyl fluoride,"
+
+  L.E. Giddings, Jr. and K.K. Innes, ""The near ultraviolet spectra of HCOF and DCOF"",
+  J. Mol. Spectrosc. 6, 528-549 (1961); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_GiddingsInnes(1961)_298K_193.csv
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_IUPAC(2008)_298K_200-266nm(rec).txt,IUPAC(2008) recommendation:,COHF,formyl fluoride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_IUPAC(2008)_298K_200-266nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_JPL-2010(2011)_298K_200-262nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",COHF,formyl fluoride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_JPL-2010(2011)_298K_200-262nm(rec).csv
+296.0,Meller(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Meller(1992)_296K_200-260nm(5nm).txt,Averages over 5-nm intervals of the high-resolution (0.02 nm) spectrum,COHF,formyl fluoride,"
+
+  R. Meller (1992), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Meller(1992)_296K_200-260nm(5nm).csv
+296.0,Meller(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Meller(1992)_296K_200-264nm(2nm).txt,Averages over 2-nm intervals of the high-resolution (0.02 nm) spectrum,COHF,formyl fluoride,"
+
+  R. Meller (1992), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Meller(1992)_296K_200-264nm(2nm).csv
+296.0,Meller(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Meller(1992)_296K_200-266nm(1nm).txt,Averages over 1-nm intervals of the high-resolution (0.02 nm) spectrum,COHF,formyl fluoride,"
+
+  R. Meller (1992), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Meller(1992)_296K_200-266nm(1nm).csv
+296.0,Meller(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Meller(1992)_296K_200-267nm(int-c).txt,"200-230nm(int-c), i.e., high-resolution (0.02 nm) spectrum averaged over the spectral intervals of 500 cm",COHF,formyl fluoride,"
+
+  R. Meller (1992), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Meller(1992)_296K_200-267nm(int-c).csv
+298.0,Meller(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Meller(1992)_298K_194-267nm(0.016nm).txt,High-resolution (0.016 nm) spectrum,COHF,formyl fluoride,"
+
+  R. Meller (1992), personal communication to",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Meller(1992)_298K_194-267nm(0.csv
+293.0,Rattigan(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Rattigan(1994)_293K_220.9-261.3nm.txt,Absorption measurements using a dual-beam diode array spectroscopy system; spectral resolution 1.2 nm (FWHM),COHF,formyl fluoride,"
+
+  O.V. Rattigan, D.M. Rowley, O. Wild, R.L. Jones, and R.A. Cox, ""Mechanism of atmospheric oxidation of 1,1,1,2-tetrafluoroethane (HFC 134a)"",
+  J. Chem. Soc. Faraday Trans. 90, 1819-1829 (1994); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Rattigan(1994)_293K_220.csv
+293.0,Rattigan(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/COHF_Rattigan(1994)_293K_230nm(max).txt,Absorption maximum of the spectrum measured by using a dual-beam diode array spectroscopy system; spectral resolution 1.2 nm (FWHM),COHF,formyl fluoride,"
+
+  O.V. Rattigan, D.M. Rowley, O. Wild, R.L. Jones, and R.A. Cox, ""Mechanism of atmospheric oxidation of 1,1,1,2-tetrafluoroethane (HFC 134a)"",
+  J. Chem. Soc. Faraday Trans. 90, 1819-1829 (1994); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/COHF/COHF_Rattigan(1994)_293K_230nm(max).csv

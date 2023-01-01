@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,VaghjianiRavishankara(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/D2O2_VaghjianiRavishankara(1989)_297K_210-335nm.txt,Relative absorption cross sections in the wavelength range from 210 to 335 nm were obtained using a diode array spectrometer,D2O2,hydrogen peroxide-d2,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/D2O2/D2O2_VaghjianiRavishankara(1989)_297K_210-335nm.csv
+297.0,VaghjianiRavishankara(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Hydrogen%20peroxide%20H2O2/D2O2_VaghjianiRavishankara(1989)_297K_213.9,253.7nm.txt",Absolute absorption cross sections measured using a zinc lamp (213.9 nm) and a mercury lamp (253.7 nm),D2O2,hydrogen peroxide-d2,"
+
+  G.L. Vaghjiani and A.R. Ravishankara, ""Absorption cross sections of CH",data/cross-sections/Peroxides/Hydrogen peroxide H2O2/D2O2/D2O2_VaghjianiRavishankara(1989)_297K_213.csv

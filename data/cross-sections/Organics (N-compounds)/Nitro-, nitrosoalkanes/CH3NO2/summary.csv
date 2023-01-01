@@ -1,0 +1,49 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Haszeldine(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_Haszeldine(1953)_298K_275nm(max).txt","The extinction coefficient for the maximum, as listed in Table 2, has been converted to absorption cross sections (conversion factor 3.8235×10",CH3NO2,nitromethane,"
+
+  R.N. Haszeldine, ""Studies in spectroscopy. Part IV.* The infra-red and ultra-violet spectra of some aliphatic nitro-compounds"",
+  J. Chem. Soc. 1953, 2525-2527;
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_Haszeldine(1953)_298K_275nm(max).csv"
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_McMillan(1966)_298K_204.8-334.9nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3NO2,nitromethane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
+
+
+","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_McMillan(1966)_298K_204.csv"
+298.0,Nagakura(1960),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_Nagakura(1960)_298K_196-244nm.txt",Absorption measurement using Beckman and Cary spectrophotometers,CH3NO2,nitromethane,"
+
+  S. Nagakura, ""Ultra-violet absorption spectra and p-electron structures of nitromethane and the nitromethyl anion"",
+  Mol. Phys. 3, 152-162 (1960); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_Nagakura(1960)_298K_196-244nm.csv"
+298.0,NapierNorrish(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_NapierNorrish(1967)_298K_200nm(max).txt",Extinction coefficient of the absorption maximum converted to absorption cross section (conversion factor 3.8235×10,CH3NO2,nitromethane,"
+
+  I.M. Napier and R.G.W. Norrish, ""The photolysis and pyrolysis of nitromethane and methyl nitrite"",
+  Proc. Roy. Soc. London A 299, 317-336 (1967); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_NapierNorrish(1967)_298K_200nm(max).csv"
+298.0,Shastri(2021),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_Shastri(2021)_298K_105.81-229.89nm.txt",High-resolution (0.02 nm) absorption measurements using sychrotron radiation as a light source,CH3NO2,nitromethane,"
+
+  A. Shastri., A. K. Das, K. Sunanda, and B. N. Rajasekhar, ""Electronic states of nitromethane: Experimental and  theoretical studies"",
+  J. Quant. Spectrosc. Radiat. Transfer 296, 107933  (2021);
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_Shastri(2021)_298K_105.csv"
+298.0,Taylor(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_Taylor(1980)_298K_190-354nm.txt",Spectrophotometer with a resolution of 1 nm,CH3NO2,nitromethane,"
+
+  W.D. Taylor, T.D. Allston, M.J. Moscato, G.B. Fazekas, R. Koslowski, and G.A. Takacs, ""Atmospheric photodissociation lifetimes for nitromethane, methyl nitrite, and methyl nitrate"",
+  Int. J. Chem. Kinet. 12, 231-240 (1980); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_Taylor(1980)_298K_190-354nm.csv"
+298.0,Taylor(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/CH3NO2_Taylor(1980)_298K_197,275nm(max).txt",Spectrophotometer with a resolution of 1 nm,CH3NO2,nitromethane,"
+
+  W.D. Taylor, T.D. Allston, M.J. Moscato, G.B. Fazekas, R. Koslowski, and G.A. Takacs, ""Atmospheric photodissociation lifetimes for nitromethane, methyl nitrite, and methyl nitrate"",
+  Int. J. Chem. Kinet. 12, 231-240 (1980); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/CH3NO2/CH3NO2_Taylor(1980)_298K_197,275nm(max).csv"

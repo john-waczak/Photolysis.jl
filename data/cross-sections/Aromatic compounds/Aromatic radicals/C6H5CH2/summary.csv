@@ -1,0 +1,43 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+1300.0,Ikeda(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_Ikeda(1984)_1300K_220-275nm.txt,Flash photolysis technique coupled with UV absorption spectrometry; ArF excimer laser (193 nm) photolysis of benzyl chloride,C6H5CH2,benzyl radical,"
+
+  N. Ikeda, N. Nakashima, and K. Yoshihara, ""Formation and relaxation of hot benzyl radicals in the gas phase"",
+  J. Phys. Chem. 88, 5803-5806 (1984); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_Ikeda(1984)_1300K_220-275nm.csv
+300.0,Ikeda(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_Ikeda(1984)_300K_220-275nm.txt,Flash photolysis technique coupled with UV absorption spectrometry; ArF excimer laser (193 nm) photolysis of benzyl chloride,C6H5CH2,benzyl radical,"
+
+  N. Ikeda, N. Nakashima, and K. Yoshihara, ""Formation and relaxation of hot benzyl radicals in the gas phase"",
+  J. Phys. Chem. 88, 5803-5806 (1984); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_Ikeda(1984)_300K_220-275nm.csv
+300.0,Ikeda(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_Ikeda(1984)_300K_229,253,306nm(max).txt",Flash photolysis technique coupled with UV absorption spectrometry; ArF excimer laser (193 nm) photolysis of benzyl chloride,C6H5CH2,benzyl radical,"
+
+  N. Ikeda, N. Nakashima, and K. Yoshihara, ""Formation and relaxation of hot benzyl radicals in the gas phase"",
+  J. Phys. Chem. 88, 5803-5806 (1984); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_Ikeda(1984)_300K_229,253,306nm(max).csv"
+298.0,MarkertPagsberg(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_MarkertPagsberg(1993)_298K_235-316nm.txt,Pulse photolysis technique (Cl,C6H5CH2,benzyl radical,"
+
+  F. Markert and P. Pagsberg, ""UV spectra and kinetics of radicals produced in the gas phase reactions of Cl, H and OH with toluene"",
+  Chem. Phys. Lett. 209, 445-454 (1993);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_MarkertPagsberg(1993)_298K_235-316nm.csv
+298.0,MarkertPagsberg(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_MarkertPagsberg(1993)_298K_253.0,305.3nm(max).txt",Pulse photolysis technique (Cl,C6H5CH2,benzyl radical,"
+
+  F. Markert and P. Pagsberg, ""UV spectra and kinetics of radicals produced in the gas phase reactions of Cl, H and OH with toluene"",
+  Chem. Phys. Lett. 209, 445-454 (1993);
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_MarkertPagsberg(1993)_298K_253.csv
+298.0,TonokuraKoshi(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Aromatic%20radicals/C6H5CH2_TonokuraKoshi(2003)_298K_447.7nm.txt,ArF excimer laser (193 nm) photolysis of benzyl chloride or ethylbenzene,C6H5CH2,benzyl radical,"
+
+  K. Tonokura and M. Koshi, ""Cavity ring-down spectroscopy of the benzyl radical"",
+  J. Phys. Chem. A 107, 4457-4461 (2003); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Aromatic radicals/C6H5CH2/C6H5CH2_TonokuraKoshi(2003)_298K_447.csv

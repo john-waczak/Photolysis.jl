@@ -1,0 +1,14 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BelangerSandorfy(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2_BelangerSandorfy(1971)_298K_117.2-199.8nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under moderate resolution,CF2=CF2,tetrafluoroethene,"
+
+  G. Bélanger and C. Sandorfy, ""Far-ultraviolet spectra of fluoroethylenes"",
+  J. Chem. Phys., 55, 2055-2060 (1971);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2/CF2=CF2_BelangerSandorfy(1971)_298K_117.csv
+298.0,Eden(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2_Eden(2004)_298K_113-330nm.txt,Absorption measurements using synchrotron radiation; spectral resolution 0.05 nm,CF2=CF2,tetrafluoroethene,"
+
+  S. Eden, P. Limão-Vieira, P.A. Kendall, N.J. Mason, J. Delwich, M.-J. Hubin-Franskin, T. Tanaka, M. Kitajima, H. Tanaka, H. Cho, and S.V. Hoffmann, ""Electronic excitation of tetrafluoroethylene, C",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2/CF2=CF2_Eden(2004)_298K_113-330nm.csv
+295.0,Orkin(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2_Orkin(1997)_295K_164-220nm.txt,The spectrum was recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm,CF2=CF2,tetrafluoroethene,"
+
+  V.L. Orkin, R.E. Huie, and J. Kurylo, ""Rate constants for the reactions of OH with HFC-245cb (CH",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CF2/CF2=CF2_Orkin(1997)_295K_164-220nm.csv

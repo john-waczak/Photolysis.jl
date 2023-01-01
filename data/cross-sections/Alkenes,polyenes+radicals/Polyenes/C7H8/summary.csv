@@ -1,0 +1,9 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2021),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/C7H8_Palmer(2021)_298K_115.0-330.0nm.txt","High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source
+",C7H8,"2,5-norbornadiene, bicyclo[2,2,1]hepta-2,5-diene","
+
+  M. H. Palmer, S.. V. Hoffmann, N. C. Jones, M. Coreno, M. d. Simone, C. Grazioli, and R. A. Aitken, """"The vacuum ultraviolet absorption spectrum of norbornadiene: Vibrational analysis of the singlet and triplet valence states of norbornadiene by configuration interaction and density functional calculations"""",
+  J. Chem. Phys. 155, 034308 (2021)
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/C7H8/C7H8_Palmer(2021)_298K_115.csv"

@@ -1,0 +1,16 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C4F9CHO_Chiappero(2006)_297K_230-360nm(5nm).txt,Diode array spectrometer operated at a resolution of 1 nm,C4F9CHO,nonafluoropentanal,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C4F9CHO/C4F9CHO_Chiappero(2006)_297K_230-360nm(5nm).csv
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C4F9CHO_Chiappero(2006)_297K_238-362nm(1nm).txt,Diode array spectrometer operated at a resolution of 1 nm,C4F9CHO,nonafluoropentanal,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C4F9CHO/C4F9CHO_Chiappero(2006)_297K_238-362nm(1nm).csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C4F9CHO_Hashikawa(2004)_296K_185-500nm(1nm).txt,UV absorption spectra of C,C4F9CHO,nonafluoropentanal,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C4F9CHO/C4F9CHO_Hashikawa(2004)_296K_185-500nm(1nm).csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C4F9CHO_Hashikawa(2004)_296K_250-350nm(10nm).txt,UV absorption spectra of C,C4F9CHO,nonafluoropentanal,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C4F9CHO/C4F9CHO_Hashikawa(2004)_296K_250-350nm(10nm).csv
+298.0,Solignac(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/C4F9CHO_Solignac(2007)_298K_230-390nm.txt,The optical set-up utilized a D,C4F9CHO,nonafluoropentanal,"
+
+  G. Solignac, A. Mellouki, G. Le Bras, M. Yujing, and H. Sidebottom, ""The gas phase tropospheric removal of fluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/C4F9CHO/C4F9CHO_Solignac(2007)_298K_230-390nm.csv

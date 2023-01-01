@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+328.0,LePerson(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/(CH2=C(CH3))C6H5_LePerson(2008)_328K_260-310nm.txt",Absorption measurements at a resolution between 0.2 and 1 nm using a 1800 grooves/mm grating and a 1024 element diode array detector,(CH2=C(CH3))C6H5,"alpha-methylstyrene, 2-phenyl-1-propene","
+
+  A. Le Person, G. Eyglunent, V. Daële, A. Mellouki, and Y. Mu, ""The near UV absorption cross-sections and the rate coefficients for the ozonolysis of a series of styrene-like compounds"",
+  J. Photochem Photobiol. A: Chem. 195, 54-63 (2008); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/(CH2=C(CH3))C6H5/(CH2=C(CH3))C6H5_LePerson(2008)_328K_260-310nm.csv"

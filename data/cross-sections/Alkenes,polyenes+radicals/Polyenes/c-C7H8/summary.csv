@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2020),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/c-C7H8_Palmer(2020)_298K_115.00-319.96nm.txt",High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source,c-C7H8,"cyclohepta-1,3,5-triene","
+
+  M.H. Palmer, S.V. Hoffmann, N.C. Jones, M. Coreno, M.de Simone, C. Grazioli, and A. Aitken, ""The vacuum ultraviolet spectrum of cyclohepta-1, 3, 5-triene: Analysis of the singlet and triplet excited states by ab initio and density functional methods"",
+  J. Chem. Phys. 153, 054301 (2020);
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/c-C7H8/c-C7H8_Palmer(2020)_298K_115.csv"

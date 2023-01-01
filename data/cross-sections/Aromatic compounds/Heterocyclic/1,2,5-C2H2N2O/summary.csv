@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Palmer(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2,5-C2H2N2O_Palmer(2009)_298K_106.02-229.56nm.txt",Absorption measurements using a synchrotron radiation source,"1,2,5-C2H2N2O","1,2,5-oxadiazole","
+
+  M.H. Palmer, ""The electronic states of 1,2,5-oxadiazole studied by VUV absorption spectroscopy and CI, CCSD(T) and DFT methods"",
+  Chem. Phys. 360, 150-161 (2009); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,2,5-C2H2N2O/1,2,5-C2H2N2O_Palmer(2009)_298K_106.csv"

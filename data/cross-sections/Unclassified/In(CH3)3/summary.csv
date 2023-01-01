@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Ibuki(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/In(CH3)3_Ibuki(1989)_298K_105-269nm.txt,Absorption measurements using synchrotron radiation as a light source,In(CH3)3,trimethylindium,"
+
+  T. Ibuki, A. Hiraya, K. Shobatake, Y. Matsumi, and M. Kawasaki, ""He(I) Photoelectron spectra and VUV absorption cross sections of Ga(CH",data/cross-sections/Unclassified/In(CH3)3/In(CH3)3_Ibuki(1989)_298K_105-269nm.csv

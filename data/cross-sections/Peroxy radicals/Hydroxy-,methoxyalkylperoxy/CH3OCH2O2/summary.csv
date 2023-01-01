@@ -1,0 +1,26 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Dagaut(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Dagaut(1989)_298K_210-290nm(meas).txt",Flash photolysis technique: Cl,CH3OCH2O2,methoxymethylperoxy radical,"
+
+  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""Gas phase studies of substituted methylperoxy radicals: The UV absorption spectrum and self-reaction kinetics of CH","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Dagaut(1989)_298K_210-290nm(meas).csv"
+298.0,Dagaut(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Dagaut(1989)_298K_210-290nm(smoo).txt",Flash photolysis technique: Cl,CH3OCH2O2,methoxymethylperoxy radical,"
+
+  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""Gas phase studies of substituted methylperoxy radicals: The UV absorption spectrum and self-reaction kinetics of CH","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Dagaut(1989)_298K_210-290nm(smoo).csv"
+298.0,Jenkin(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Jenkin(1993)_298K_200-290nm(MM).txt",Results from molecular modulation spectrometry: modulated photolysis of Cl,CH3OCH2O2,methoxymethylperoxy radical,"
+
+  M.E. Jenkin, G.D. Hayman, T.J. Wallington, M.D. Hurley, J.C. Ball, O.J. Nielsen, and T. Ellermann, ""Kinetic and mechanistic study of the self reaction of CH","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Jenkin(1993)_298K_200-290nm(MM).csv"
+298.0,Jenkin(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Jenkin(1993)_298K_230-290nm(PR).txt",Pulse radiolysis of SF,CH3OCH2O2,methoxymethylperoxy radical,"
+
+  M.E. Jenkin, G.D. Hayman, T.J. Wallington, M.D. Hurley, J.C. Ball, O.J. Nielsen, and T. Ellermann, ""Kinetic and mechanistic study of the self reaction of CH","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Jenkin(1993)_298K_230-290nm(PR).csv"
+298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Lightfoot(1992)_298K_210-290nm(rec).txt",Recommendation based on a smooth fit to the data of,CH3OCH2O2,methoxymethylperoxy radical,"
+
+  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
+  Atmos. Environ. 26A, 1805-1961 (1992); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Lightfoot(1992)_298K_210-290nm(rec).csv"
+295.0,Maricq(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2_Maricq(1999)_295K_190-341nm.txt",Absorption cross sections at 0.5-nm intervals have been obtained by personal communication from M.Matti Maricq (April 1999),CH3OCH2O2,methoxymethylperoxy radical,"
+
+  M.M. Maricq, personal communication (1999) to Max-Planck-Institut für Chemie, Mainz
+
+
+","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH3OCH2O2/CH3OCH2O2_Maricq(1999)_295K_190-341nm.csv"

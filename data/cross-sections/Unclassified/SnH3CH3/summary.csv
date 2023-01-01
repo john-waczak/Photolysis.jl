@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Lespes(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnH3CH3_Lespes(1987)_298K_109.8-200.0nm.txt,The VUV spectrum of methylstannane was recorded with a moderate resolution vacuum spectrophotometer using a windowless spark source which emits light down to 50 nm,SnH3CH3,methylstannane,"
+
+  G. Lespes, J. Fernandez, and A. Dargelos, ""UV and photoelectron spectra of methylstannane. Theoretical and experimental approach"",
+  Chem. Phys. 115, 453-459 (1987); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SnH3CH3/SnH3CH3_Lespes(1987)_298K_109.csv
+298.0,Lespes(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnH3CH3_Lespes(1987)_298K_115.1-153.6nm(max).txt,The VUV spectrum of methylstannane was recorded with a moderate resolution vacuum spectrophotometer using a windowless spark source which emits light down to 50 nm,SnH3CH3,methylstannane,"
+
+  G. Lespes, J. Fernandez, and A. Dargelos, ""UV and photoelectron spectra of methylstannane. Theoretical and experimental approach"",
+  Chem. Phys. 115, 453-459 (1987); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SnH3CH3/SnH3CH3_Lespes(1987)_298K_115.csv

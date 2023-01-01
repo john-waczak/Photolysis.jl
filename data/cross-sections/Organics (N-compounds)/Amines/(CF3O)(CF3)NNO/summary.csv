@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HaszeldineJander(1954),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/(CF3O)(CF3)NNO_HaszeldineJander(1954)_298K_260.4-399.5nm.txt,Extinction coefficients have been digitized from the figure and converted to absorption cross sections (conversion factor 3.8235×10,(CF3O)(CF3)NNO,N-nitroso-ON-bistrifluoromethylhydroxylamine,"
+
+  R.N. Haszeldine and J. Jander, ""Studies in Spectroscopy. Part VI.* Ultra-violet and infra-red spectra of nitrosamines, nitrites, and related compounds"",
+  J. Chem. Soc. 1954, 691-695;
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/(CF3O)(CF3)NNO/(CF3O)(CF3)NNO_HaszeldineJander(1954)_298K_260.csv
+298.0,JanderHaszeldine(1954),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/(CF3O)(CF3)NNO_JanderHaszeldine(1954)_298K_320-398nm.txt,"The listed extinction coefficients for the maximum, minimum and some inflection points have been converted to absorption cross sections (conversion factor 3.8235×10",(CF3O)(CF3)NNO,N-nitroso-ON-bistrifluoromethylhydroxylamine,"
+
+  J. Jander and R.N. Haszeldine, ""Addition of free radicals to unsaturated systems. Part VI. Free-radical addition to the nitroso-group"",
+  J. Chem. Soc. 1954, 696-698;
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/(CF3O)(CF3)NNO/(CF3O)(CF3)NNO_JanderHaszeldine(1954)_298K_320-398nm.csv

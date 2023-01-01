@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,GlickerStief(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CD2O_GlickerStief(1971)_298K_123.6,147.0nm.txt","Absorption coefficients k (atm, 298 K)",CD2O,"formaldehyde-d2, methanal-d2","
+
+  S. Glicker and L.J. Stief, ""Photolysis of formaldehyde at 1470 and 1236 Å"",
+  J. Chem. Phys. 54, 2852-2857 (1971);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CD2O/CD2O_GlickerStief(1971)_298K_123.csv
+298.0,Gratien(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/CD2O_Gratien(2007)_298K_250-360nm.txt,Absorption measurements were performed at a spectral resolution of 0.15 nm,CD2O,"formaldehyde-d2, methanal-d2","
+
+  A. Gratien, E. Nilsson, J.-F. Doussin, M.S. Johnson, C.J. Nielsen, Y. Stenstrøm, and B. Picquet-Varrault, ""UV and IR absorption cross sections of HCHO, HCDO, and DCDO"",
+  J. Phys. Chem. A 111, 11506-11513 (2007);
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CD2O/CD2O_Gratien(2007)_298K_250-360nm.csv

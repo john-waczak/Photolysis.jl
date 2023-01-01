@@ -1,0 +1,27 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,CausleyRussell(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_CausleyRussell(1977)_298K_113-227nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp as radiation source,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  G.C. Causley and B.R. Russell, ""The vacuum ultraviolet absorption spectra of the Group IVA tetrachlorides"",
+  J. Electron Spectrosc. Relat. Phenom. 11, 383-397 (1977); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SnCl4/SnCl4_CausleyRussell(1977)_298K_113-227nm.csv
+298.0,CausleyRussell(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_CausleyRussell(1977)_298K_118.11-199.00nm(max).txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp as radiation source,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  G.C. Causley and B.R. Russell, ""The vacuum ultraviolet absorption spectra of the Group IVA tetrachlorides"",
+  J. Electron Spectrosc. Relat. Phenom. 11, 383-397 (1977); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SnCl4/SnCl4_CausleyRussell(1977)_298K_118.csv
+298.0,Fernandez(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_Fernandez(1986)_298K_110-227nm.txt,Absorption measurements with a moderate resolution by using a VUV spectrophotometer of moderate resolution and a windowless spark source which emits light down to 50 nm,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  J. Fernandez, G. Lespes, and A. Dargelos, ""Theoretical and experimental study of the vacuum ultraviolet spectrum of tetrasubstituted tin derivatives SnCl",data/cross-sections/Unclassified/SnCl4/SnCl4_Fernandez(1986)_298K_110-227nm.csv
+298.0,Fernandez(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_Fernandez(1986)_298K_113-201nm(max).txt,Absorption measurements by using a VUV spectrophotometer of moderate resolution and a windowless spark source which emits light down to 50 nm,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  J. Fernandez, G. Lespes, and A. Dargelos, ""Theoretical and experimental study of the vacuum ultraviolet spectrum of tetrasubstituted tin derivatives SnCl",data/cross-sections/Unclassified/SnCl4/SnCl4_Fernandez(1986)_298K_113-201nm(max).csv
+298.0,IversonRussell(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_IversonRussell(1973)_298K_113.5-199.0nm(max).txt,Maxima of the high-resolution (∼0.058 nm) absorption spectrum recorded using a discharge lamp with a small flow of H,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  A.A. Iverson and B.R. Russell, ""Electronic spectra of TiCl",data/cross-sections/Unclassified/SnCl4/SnCl4_IversonRussell(1973)_298K_113.csv
+298.0,TokueIbuki(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnCl4_TokueIbuki(1997)_298K_40-202nm.txt,Absorption measurements by using synchrotron radiation as a light source,SnCl4,"tin tetrachloride, tetrachlorostannane","
+
+  I. Tokue and T. Ibuki, ""Photoabsorption cross sections and radiative processes of SnCl",data/cross-sections/Unclassified/SnCl4/SnCl4_TokueIbuki(1997)_298K_40-202nm.csv

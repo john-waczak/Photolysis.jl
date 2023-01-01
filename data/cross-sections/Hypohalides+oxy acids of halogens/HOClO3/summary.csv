@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Tham(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hypohalides+oxy%20acids%20of%20halogens/HOClO3_Tham(2020)_298K_169.8-277.2nm(calc).txt,High-level quantum-chemical calculations of the UV absorption cross sections of HOClO,HOClO3,perchloric acid,"
+
+  Y.J. Tham, N. Sarnela, C.A. Cuevas, I. Siddharth, L. Beck, A. Saiz-Lopez, M. Sipilä, ""Observation of HClO",data/cross-sections/Hypohalides+oxy acids of halogens/HOClO3/HOClO3_Tham(2020)_298K_169.csv

@@ -1,0 +1,53 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+303.0,Braun(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Braun(1990)_303K_193.3nm.txt,Absorption cross section at the ArF excimer laser line,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  W. Braun, R. Klein, A. Fahr, H. Okabe, and A. Mele, ""Laser photolysis of trimethylgallium at 193 nm: Quantum yields for methyl radical and ethane production"",
+  Chem. Phys. Lett. 166, 397-403 (1990); 
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Braun(1990)_303K_193.csv
+298.0,Ibuki(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Ibuki(1989)_298K_105-268nm.txt,Absorption measurements using synchrotron radiation as a light source,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  T. Ibuki, A. Hiraya, K. Shobatake, Y. Matsumi, and M. Kawasaki, ""He(I) Photoelectron spectra and VUV absorption cross sections of Ga(CH",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Ibuki(1989)_298K_105-268nm.csv
+298.0,McCraryDonnelly(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_McCraryDonnelly(1987)_298K_190-245nm.txt,Optical densities OD at 298 K measured with a Beckman UV/Vis spectrophotometer and shown in Fig. 2 have been digitized and normalized to the peak absorption cross section σ(195.5nm) = 2.6×10,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  V.R. McCrary and V.M. Donelly, ""The ultraviolet absorption spectra of selected organometallic compounds used in the chemical vapor deposition of gallium arsenide"",
+  J. Crystal Growth 84, 253-258 (1987)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_McCraryDonnelly(1987)_298K_190-245nm.csv
+298.0,McCraryDonnelly(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_McCraryDonnelly(1987)_298K_193-257nm.txt,"Absorption cross sections at the ArF, KrCl, and KrF excimer laser lines and at 257 nm",Ga(CH3)3,"trimethylgallium, TMGa","
+
+  V.R. McCrary and V.M. Donelly, ""The ultraviolet absorption spectra of selected organometallic compounds used in the chemical vapor deposition of gallium arsenide"",
+  J. Crystal Growth 84, 253-258 (1987)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_McCraryDonnelly(1987)_298K_193-257nm.csv
+299.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Okabe(1991)_299K_186-266nm.txt,The UV absorption spectrum was measured several times by a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Okabe(1991)_299K_186-266nm.csv
+299.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Okabe(1991)_299K_193-248nm.txt,The UV absorption spectrum was measured several times with a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Okabe(1991)_299K_193-248nm.csv
+393.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Okabe(1991)_393K_186-220nm.txt,The UV absorption spectrum was measured several times by a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Okabe(1991)_393K_186-220nm.csv
+443.0,Okabe(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Ga(CH3)3_Okabe(1991)_443K_186-267nm.txt,The UV absorption spectrum was measured several times by a Cary 2390 (Varian) spectrophotometer with a bandwidth of 2 nm ,Ga(CH3)3,"trimethylgallium, TMGa","
+
+  H. Okabe, M.K. Emadi-Babaki, and V.R. McCrary, ""Temperature-dependent ultraviolet absorption spectra of group IIIb and Vb compounds used in photo-assisted chemical vapor deposition"",
+  J. Appl. Phys., 69, 1730-1735 (1991)
+
+
+  DOI: ",data/cross-sections/Unclassified/Ga(CH3)3/Ga(CH3)3_Okabe(1991)_443K_186-267nm.csv

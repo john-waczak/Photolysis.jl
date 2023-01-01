@@ -1,0 +1,142 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+242.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Brewer(2019)_242K_200-327nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Brewer(2019)_242K_200-327nm.csv"
+253.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Brewer(2019)_253K_200-330nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Brewer(2019)_253K_200-330nm.csv"
+273.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Brewer(2019)_273K_200-335nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Brewer(2019)_273K_200-335nm.csv"
+296.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Brewer(2019)_296K_200-335nm.txt","Absorption measurements (1-nm resolution, 242-320 K)) using a D",CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Brewer(2019)_296K_200-335nm.csv"
+320.0,Brewer(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Brewer(2019)_320K_200-335nm.txt","Absorption measurements (1-nm resolution, 242-320 K) using a D",CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J.F. Brewer, D. K. Papanastasiou, J. B. Burkholder, E. V. Fischer, Y. Ren, A. Mellouki, and A. R. Ravishankara, ""Atmospheric photolysis of methyl ethyl, diethyl, and propyl ethyl ketones: Temperature‐dependent UV absorption cross sections"",
+  J. Geophys. Res. Atmospheres 124, 5906-5918 (2019)
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Brewer(2019)_320K_200-335nm.csv"
+296.0,ChenVenables(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_ChenVenables(2011)_296K_335.082-375.975nm.txt",The paper describes a novel incoherent broad-band cavity-enhanced absorption spectroscopy (IBBCEAS) instrument for measuring very weak absorption spectra from 335 to 375 nm; the resolution is 0.31 nm at 365 nm,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  J. Chen and D.S. Venables, ""A broadband optical cavity spectrometer for measuring weak near-ultraviolet absorption spectra of gases"",
+  Atmos. Meas. Tech. 4, 425-436 (2011); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_ChenVenables(2011)_296K_335.csv"
+323.0,Doner(2022),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Doner(2022)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Doner(2022)_323K_125-240nm.csv"
+261.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_261K_300-340nm.txt",Absorption measurements using a deuterium lamp as the light source and a 1024-element silicon photodiode array detector (resolution 2 nm),CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_261K_300-340nm.csv"
+298.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_298K_253.7nm.txt",Absolute absorption cross section at the Hg line measured by using an interference filter/photomultiplier combination,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_298K_253.csv"
+298.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_298K_260.2-359.8nm.txt",Absorption measurements using a deuterium lamp as the light source and a 1024-element silicon photodiode array detector (resolution 2 nm),CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_298K_260.csv"
+298.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_298K_300-340nm.txt",Absorption measurements using a deuterium lamp as the light source and a 1024-element silicon photodiode array detector (resolution 2 nm),CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_298K_300-340nm.csv"
+331.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_331K_300-340nm.txt",Absorption measurements using a deuterium lamp as the light source and a 1024-element silicon photodiode array detector (resolution 2 nm),CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_331K_300-340nm.csv"
+362.0,Hynes(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Hynes(1992)_362K_300-340nm.txt",Absorption measurements using a deuterium lamp as the light source and a 1024-element silicon photodiode array detector (resolution 2 nm),CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A.J. Hynes, E.A. Kenyon, A.J. Pounds, and P.H. Wine, ""Temperature dependent absorption cross sections for acetone and n-butanone - implications for atmospheric lifetimes"",
+  Spectrochim. Acta A: Mol. Spectrosc. 48, 1235-1242 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Hynes(1992)_362K_300-340nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Ito(1969)_298K_165-200nm.txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Ito(1969)_298K_165-200nm.csv"
+298.0,Ito(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Ito(1969)_298K_166.6-196.85nm(max).txt",Absorption measurements in the region from 165 to 200 nm using a double beam spectrometer equipped with a deuterium lamp as the light source and a photomultiplier as the light detector,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  H. Ito, Y. Nogata, S. Matsuzaki, and A. Kuboyama, ""Vacuum-ultraviolet absorption spectra of aliphatic ketones"",
+  Bull. Chem. Soc. Japan 42, 2453-2458 (1969); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Ito(1969)_298K_166.csv"
+298.0,IUPAC(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_IUPAC(2006)_298K_202-355nm(rec).txt",IUPAC(2006) recommendation:,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_IUPAC(2006)_298K_202-355nm(rec).csv"
+296.0,IUPAC(2021),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_IUPAC(2021)_296K_200-355nm(rec).txt",IUPAC(2021) recommendation:,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  A. Mellouki, M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, M. E. Jenkin, F. McNeill, J. Troe, and T. J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: volume VIII – gas-phase reactions of organic species with four, or more, carbon atoms ( ≥  C","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_IUPAC(2021)_296K_200-355nm(rec).csv"
+300.0,Martinez(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Martinez(1992)_300K_202-355nm.txt",Absorption measurements were made on a u.v.-visible spectrophotometer with a spectral resolution of 0.50 nm,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  R.D. Martinez, A.A. Buitrago, N.W. Howell, C.H. Hearn, and J.A. Joens, ""The near UV absorption spectra of several aliphatic aldehydes and ketones"",
+  Atmos. Environ. 26A, 785-792 (1992); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Martinez(1992)_300K_202-355nm.csv"
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_McMillan(1966)_298K_201.4-327.1nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 377
+
+
+","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_McMillan(1966)_298K_201.csv"
+296.0,Rajakumar(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_Rajakumar(2008)_296K_184.9nm.txt",The absorption cross section was measured using cavity ring-down spectroscopy,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  B. Rajakumar, T. Gierczak, J. Flad, A.R. Ravishankara, and J.B. Burkholder, ""The CH","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_Rajakumar(2008)_296K_184.csv"
+294.0,SchneiderMoortgat(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_SchneiderMoortgat(1988)_294K_196-365nm.txt",Absorption cross sections from the CD-ROM of,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  W. Schneider and G.K. Moortgat (1988), personal communication to","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_SchneiderMoortgat(1988)_294K_196-365nm.csv"
+298.0,YujingMellouki(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH3C(O)C2H5_YujingMellouki(2000)_298K_240-343nm.txt",The measurements were carried out at a spectral resolution of 0.04 nm using a diode array spectrometer,CH3C(O)C2H5,"methyl ethyl ketone, MEK, 2-butanone","
+
+  M. Yujing and A. Mellouki, ""The near-UV absorption cross sections for several ketones"",
+  J. Photochem. Photobiol. A: Chem. 134, 31-36 (2000); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH3C(O)C2H5/CH3C(O)C2H5_YujingMellouki(2000)_298K_240-343nm.csv"

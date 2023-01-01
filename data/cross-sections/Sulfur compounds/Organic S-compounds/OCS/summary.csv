@@ -1,0 +1,253 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BreckenridgeTaube(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_BreckenridgeTaube(1970)_298K_200-264nm.txt,Absorption measurements using Cary spectrometers with cells of 1-cm- and 10-cm path lengths,OCS,carbonyl sulfide,"
+
+  W.M. Breckenridge and H. Taube, ""Ultraviolet absorption spectrum of carbonyl sulfide"",
+  J. Chem. Phys. 52, 1713-1715 (1970); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_BreckenridgeTaube(1970)_298K_200-264nm.csv
+232.0,Chou(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Chou(1976)_232K_188-226nm.txt,The data are reported by,OCS,carbonyl sulfide,"
+
+  C.C. Chou, H.V. Ruiz, K. Moe, F.S. Rowland, ""UV absorption cross sections for OCS"",
+  unpublished data (1976), Dept.of Chemistry, Univ. of California, Irvine, California,
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Chou(1976)_232K_188-226nm.csv
+295.0,CookOgawa(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_CookOgawa(1969)_295K_60-96nm.txt,Absorption measurements at a spectral resolution ot 0.05 nm using the Hopfield continuum light source,OCS,carbonyl sulfide,"
+
+  G.R. Cook and M. Ogawa, ""Photoionization and absorption coefficients of OCS"",
+  J. Chem. Phys. 51, 647-652 (1969); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_CookOgawa(1969)_295K_60-96nm.csv
+298.0,Feng(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Feng(2000)_298K_3.44-248nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",OCS,carbonyl sulfide,"
+
+  R. Feng, G. Cooper, and C.E. Brion, ""Quantitative studies of the photoabsorption of carbonyl sulphide in the valence-shell, S 2p, 2s and C1s inner-shell regions (4-360 eV) by dipole electron impact spectroscopies"",
+  Chem. Phys. 252, 359-378 (2000); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Feng(2000)_298K_3.csv
+295.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_295K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_295K_210-255nm.csv
+325.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_325K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_325K_210-255nm.csv
+376.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_376K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_376K_210-255nm.csv
+427.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_427K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_427K_210-255nm.csv
+459.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_459K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_459K_210-255nm.csv
+509.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_509K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_509K_210-255nm.csv
+577.0,FerroReuben(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_FerroReuben(1971)_577K_210-255nm.txt,Absorption measurements at 295-577 nm using a spectrophotometer fitted with a small electric furnace,OCS,carbonyl sulfide,"
+
+  B.M. Ferro and B.G. Reuben, ""Temperature dependence of the absorption spectrum of carbonyl sulfide in quartz ultra-violet"",
+  Trans. Faraday Soc. 67, 2847-2851 (1971); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_FerroReuben(1971)_577K_210-255nm.csv
+294.8,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Grosch(2015)_294.8K_205-315nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,OCS,carbonyl sulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Grosch(2015)_294.csv
+423.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Grosch(2015)_423.2K_205-315nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,OCS,carbonyl sulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Grosch(2015)_423.csv
+573.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Grosch(2015)_573.2K_205-315nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,OCS,carbonyl sulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Grosch(2015)_573.csv
+773.2,Grosch(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Grosch(2015)_773.2K_205-315nm.txt,The temperature dependence of the absorption cross sections was studied between 294.8 and 773.2 K,OCS,carbonyl sulfide,"
+
+  H. Grosch, A. Fateev, and S. Clausen, ""UV absorption cross-sections of selected sulfur-containing compounds at temperatures up to 500 °C"",
+  J. Quant. Spectrosc. Radiat. Transfer 154, 28–34 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Grosch(2015)_773.csv
+295.0,Hattori(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Hattori(2011)_295K_195-260nm(O13CS).txt,Absorption spectra of four carbonyl sulfide isotopologues were measured using a dual-beam spectrometer at a spectral resolution of 0.1 nm; data were recorded at 0.02-nm intervals,OCS,carbonyl sulfide,"
+
+  S. Hattori, S.O. Danielache, M.S. Johnson, J.A. Schmidt, H.G. Kjaergaard, S. Toyoda, Y. Ueno, and N. Yoshida, ""Ultraviolet absorption cross sections of carbonyl sulfide isotopologues OC",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Hattori(2011)_295K_195-260nm(O13CS).csv
+295.0,Hattori(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Hattori(2011)_295K_195-260nm(OC32S).txt,Absorption spectra of four carbonyl sulfide isotopologues were measured using a dual-beam spectrometer at a spectral resolution of 0.1 nm; data were recorded at 0.02-nm intervals,OCS,carbonyl sulfide,"
+
+  S. Hattori, S.O. Danielache, M.S. Johnson, J.A. Schmidt, H.G. Kjaergaard, S. Toyoda, Y. Ueno, and N. Yoshida, ""Ultraviolet absorption cross sections of carbonyl sulfide isotopologues OC",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Hattori(2011)_295K_195-260nm(OC32S).csv
+295.0,Hattori(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Hattori(2011)_295K_195-260nm(OC33S).txt,Absorption spectra of four carbonyl sulfide isotopologues were measured using a dual-beam spectrometer at a spectral resolution of 0.1 nm; data were recorded at 0.02-nm intervals,OCS,carbonyl sulfide,"
+
+  S. Hattori, S.O. Danielache, M.S. Johnson, J.A. Schmidt, H.G. Kjaergaard, S. Toyoda, Y. Ueno, and N. Yoshida, ""Ultraviolet absorption cross sections of carbonyl sulfide isotopologues OC",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Hattori(2011)_295K_195-260nm(OC33S).csv
+295.0,Hattori(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Hattori(2011)_295K_195-260nm(OC34S).txt,Absorption spectra of four carbonyl sulfide isotopologues were measured using a dual-beam spectrometer at a spectral resolution of 0.1 nm; data were recorded at 0.02-nm intervals,OCS,carbonyl sulfide,"
+
+  S. Hattori, S.O. Danielache, M.S. Johnson, J.A. Schmidt, H.G. Kjaergaard, S. Toyoda, Y. Ueno, and N. Yoshida, ""Ultraviolet absorption cross sections of carbonyl sulfide isotopologues OC",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Hattori(2011)_295K_195-260nm(OC34S).csv
+298.0,HollandShaw(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_HollandShaw(2016)_298K_51.46-110.86nm.txt,High-resolution (0.01-0.04 nm) absorption measurements using synchrotron radiation,OCS,carbonyl sulfide,"
+
+  D.M.P. Holland and D.A. Shaw, ""A study of the valence shell absolute photoabsorption, photoionisation and photodissociation cross sections and the photoionisation quantum efficiency of carbonyl sulphide"",
+  Chem. Phys. 479, 151-159 (2016); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_HollandShaw(2016)_298K_51.csv
+295.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_IUPAC(2004)_295K_185-300nm(rec).txt,IUPAC(2004) recommendation:,OCS,carbonyl sulfide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_IUPAC(2004)_295K_185-300nm(rec).csv
+225.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_JPL-2010(2011)_225K_186.1-292.0nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",OCS,carbonyl sulfide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_JPL-2010(2011)_225K_186.csv
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_JPL-2010(2011)_295K_186.1-296.3nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",OCS,carbonyl sulfide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_JPL-2010(2011)_295K_186.csv
+294.0,Leroy(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Leroy(1981)_294K_212-260nm.txt,High-resolution (0.015 nm) absorption measurements using a deuterium lamp as a light source; the spectra recorded on photographic plates have been analyzed by using a microdensitometer,OCS,carbonyl sulfide,"
+
+  B. Leroy, G. Le Bras, and P. Rigaud, ""Spectres d'absorption dans l'ultraviolet de composés soufrés d'intérêt aéronomique (COS, CS",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Leroy(1981)_294K_212-260nm.csv
+298.0,Limao-Vieira(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Limao-Vieira(2015)_298K_115-320nm.txt,High-resolution (0.075 nm) absorption measurements using synchrotron radiation,OCS,carbonyl sulfide,"
+
+  P. Limão-Vieira, P., F. Ferreira da Silva, D. Almeida, M. Hoshino, H. Tanaka, D. Mogi, T. Tanioka, N.J. Mason, S.V. Hoffmann, M.-J. Hubin-Franskin, and J. Delwiche, ""Electronic excitation of carbonyl sulphide (COS) by high-resolution vacuum ultraviolet photoabsorption and electron-impact spectroscopy in the energy region from 4 to 11 eV"",
+  J. Chem. Phys. 142, 064303-1 - 064303-13 (2015); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Limao-Vieira(2015)_298K_115-320nm.csv
+298.0,MatsunagaWatanabe(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_MatsunagaWatanabe(1967)_298K_107-142nm.txt,"High-resolution (0.05 nm) absorption measurements using a windowless, hydrogen discharge as a light source",OCS,carbonyl sulfide,"
+
+  F.M. Matsunaga and K. Watanabe, ""Ionization potential and absorption coefficient of COS"",
+  J. Chem. Phys. 46, 4457-4459 (1967);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_MatsunagaWatanabe(1967)_298K_107-142nm.csv
+298.0,MatsunagaWatanabe(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_MatsunagaWatanabe(1967)_298K_141-170nm.txt,"High-resolution (0.05 nm) absorption measurements using a windowless, hydrogen discharge as a light source",OCS,carbonyl sulfide,"
+
+  F.M. Matsunaga and K. Watanabe, ""Ionization potential and absorption coefficient of COS"",
+  J. Chem. Phys. 46, 4457-4459 (1967);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_MatsunagaWatanabe(1967)_298K_141-170nm.csv
+225.0,Molina(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Molina(1981)_225K_185-296nm(1nm).txt,Absorption measurements at a spectral resolution of 0.2 nm using a double-beam spectrophotometer,OCS,carbonyl sulfide,"
+
+  L.T. Molina, J.J. Lamb, and M.J. Molina, ""Temperature dependent UV absorption cross sections for carbonyl sulfide"",
+  Geophys. Res. Lett. 8, 1008-1011 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Molina(1981)_225K_185-296nm(1nm).csv
+225.0,Molina(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Molina(1981)_225K_185-299nm(int-c).txt,Absorption measurements at a spectral resolution of 0.2 nm using a double-beam spectrophotometer,OCS,carbonyl sulfide,"
+
+  L.T. Molina, J.J. Lamb, and M.J. Molina, ""Temperature dependent UV absorption cross sections for carbonyl sulfide"",
+  Geophys. Res. Lett. 8, 1008-1011 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Molina(1981)_225K_185-299nm(int-c).csv
+295.0,Molina(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Molina(1981)_295K_185-299nm(int-c).txt,Absorption measurements at a spectral resolution of 0.2 nm using a double-beam spectrophotometer,OCS,carbonyl sulfide,"
+
+  L.T. Molina, J.J. Lamb, and M.J. Molina, ""Temperature dependent UV absorption cross sections for carbonyl sulfide"",
+  Geophys. Res. Lett. 8, 1008-1011 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Molina(1981)_295K_185-299nm(int-c).csv
+295.0,Molina(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Molina(1981)_295K_185-300nm(1nm).txt,Absorption measurements at a spectral resolution of 0.2 nm using a double-beam spectrophotometer,OCS,carbonyl sulfide,"
+
+  L.T. Molina, J.J. Lamb, and M.J. Molina, ""Temperature dependent UV absorption cross sections for carbonyl sulfide"",
+  Geophys. Res. Lett. 8, 1008-1011 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Molina(1981)_295K_185-300nm(1nm).csv
+298.0,Rabalais(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Rabalais(1971)_298K_125-250nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",OCS,carbonyl sulfide,"
+
+  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
+  Chem. Rev. 71, 73-108 (1971);
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Rabalais(1971)_298K_125-250nm.csv
+297.0,RudolphInn(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_RudolphInn(1981)_297K_200-270nm.txt,A vacuum spectrometer with a spectral slit width of 0.01 nm was used;,OCS,carbonyl sulfide,"
+
+  R.N. Rudolph and E.C.Y. Inn, ""OCS photolysis and absorption in the 200- to 300-nm region"",
+  J. Geophys. Res. 86(C10), 9891-9894 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_RudolphInn(1981)_297K_200-270nm.csv
+299.0,Sidhu(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Sidhu(1966)_299K_200-259nm.txt,"Absorptoin measurements using 10-cm long quartz cell by Cary, Model 14M, and Perkin-Elmer, Model 350, spectrophotometers",OCS,carbonyl sulfide,"
+
+  K.S. Sidhu, I.G Csizmadia, O.P. Strausz, and H.E. Gunning, ""The reactions of sulfur atoms. VII. The ultraviolet spectrum, the photolysis, and the mercury sensitization of carbonyl sulfide"",
+  J. Am. Chem. Soc. 88, 2412-2417 (1966); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Sidhu(1966)_299K_200-259nm.csv
+298.0,White(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_White(1981)_298K_12.4-206.6nm(e,e).txt","Measured by dipole (e,2e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",OCS,carbonyl sulfide,"
+
+  M.G. White, K.T. Leung, and C.E. Brion, ""Absolute dipole oscillator strengths for the photoionization and photoabsorption of COS (5-50 eV)"",
+  J. Electron Spectrosc. Relat. Phenom. 23, 127-145 (1981); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_White(1981)_298K_12.csv
+170.0,Wu(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Wu(1999)_170K_200-252nm.txt,"Absorption measurements at  a spectral bandwidth (FWHM) of 0.06 nm using synchrotron radiation as a continuum light source
+",OCS,carbonyl sulfide,"
+
+  C.Y.R. Wu, F.Z. Chen, and D.L. Judge, ""Temperature-dependent photoabsorption cross sections of OCS in the 2000-2600 Å region"",
+  J. Quant. Spectrosc. Radiat. Transfer 61, 265-271 (1999); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Wu(1999)_170K_200-252nm.csv
+295.0,Wu(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Wu(1999)_295K_200-260nm.txt,"Absorption measurements at  a spectral bandwidth (FWHM) of 0.06 nm using synchrotron radiation as a continuum light source
+",OCS,carbonyl sulfide,"
+
+  C.Y.R. Wu, F.Z. Chen, and D.L. Judge, ""Temperature-dependent photoabsorption cross sections of OCS in the 2000-2600 Å region"",
+  J. Quant. Spectrosc. Radiat. Transfer 61, 265-271 (1999); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Wu(1999)_295K_200-260nm.csv
+370.0,Wu(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_Wu(1999)_370K_200-260nm.txt,"Absorption measurements at  a spectral bandwidth (FWHM) of 0.06 nm using synchrotron radiation as a continuum light source
+",OCS,carbonyl sulfide,"
+
+  C.Y.R. Wu, F.Z. Chen, and D.L. Judge, ""Temperature-dependent photoabsorption cross sections of OCS in the 2000-2600 Å region"",
+  J. Quant. Spectrosc. Radiat. Transfer 61, 265-271 (1999); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_Wu(1999)_370K_200-260nm.csv
+298.0,WuJudge(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/OCS_WuJudge(1982)_298K_17.89-76.31nm.txt,Medium-resolution (0.1 nm) absorption measurements using a double ion chamber and synchrotron radiation as a light source,OCS,carbonyl sulfide,"
+
+  C.Y.R. Wu and D.L. Judge, ""Photoabsorption cross section of COS"",
+  J. Chem. Phys. 76, 2871-2874 (1982); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/OCS/OCS_WuJudge(1982)_298K_17.csv

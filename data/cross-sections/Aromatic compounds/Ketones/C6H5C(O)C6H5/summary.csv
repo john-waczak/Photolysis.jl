@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Ketones/C6H5C(O)C6H5_McMillan(1966)_298K_207.8-410.2nm(in%20cyclohexane).txt,C,C6H5C(O)C6H5,benzophenone,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 378
+
+
+",data/cross-sections/Aromatic compounds/Ketones/C6H5C(O)C6H5/C6H5C(O)C6H5_McMillan(1966)_298K_207.csv

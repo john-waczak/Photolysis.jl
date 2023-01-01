@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+1123.0,DavidovitsBrodhead(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaCl_DavidovitsBrodhead(1967)_1123K_200-297nm.txt,Absorption measurements between 200 and 300 nm (spectral resolution 2 nm) at temperatures of 1123 -1223 K,NaCl,sodium chloride,"
+
+  P. Davidovits and D.C. Brodhead, ""Ultraviolet absorption cross sections for the alkali halide vapors"",
+  J. Chem. Phys. 46, 2968-2973 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkali compounds/Na compounds/NaCl/NaCl_DavidovitsBrodhead(1967)_1123K_200-297nm.csv
+1123.0,DavidovitsBrodhead(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaCl_DavidovitsBrodhead(1967)_1123K_237nm(max).txt,Absorption measurements between 200 and 300 nm (spectral resolution 2 nm) at temperatures of 1123 -1223 K,NaCl,sodium chloride,"
+
+  P. Davidovits and D.C. Brodhead, ""Ultraviolet absorption cross sections for the alkali halide vapors"",
+  J. Chem. Phys. 46, 2968-2973 (1967); 
+
+
+  DOI: ",data/cross-sections/Alkali compounds/Na compounds/NaCl/NaCl_DavidovitsBrodhead(1967)_1123K_237nm(max).csv
+300.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaCl_JPL-2010(2011)_300K_189.7-291.8nm(rec).txt,JPL-2010 recommendation:,NaCl,sodium chloride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Alkali compounds/Na compounds/NaCl/NaCl_JPL-2010(2011)_300K_189.csv
+300.0,Silver(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaCl_Silver(1986)_300K_189-360nm.txt,Photodissociation cross sections of NaCl vapor measured in a flow tube,NaCl,sodium chloride,"
+
+  J.A. Silver, D.R. Worsnop, A. Freedman, and C.E. Kolb, ""Absolute photodissociation cross sections of gas phase sodium chloride at room temperature"",
+  J. Chem. Phys. 84, 4378-4384 (1986); 
+
+
+  DOI: ",data/cross-sections/Alkali compounds/Na compounds/NaCl/NaCl_Silver(1986)_300K_189-360nm.csv

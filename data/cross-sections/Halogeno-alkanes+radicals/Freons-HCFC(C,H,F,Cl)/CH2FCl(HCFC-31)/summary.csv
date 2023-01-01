@@ -1,0 +1,43 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Chou(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_Chou(1976)_296K_186-211nm.txt",Absorption cross sections have been reported by,CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  C.C. Chou, H. Vera Ruiz, K. Moe, and F.S. Rowland, ""Absorption cross sections of chlorofluoromethanes and methylchloroform"",
+  private communication, Univ. of California, Irvine, 1976
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_Chou(1976)_296K_186-211nm.csv"
+298.0,Doucet(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_Doucet(1973)_298K_121.1-199.2nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet and photoelectron spectra of fluoro-chloro derivates of methane"",
+  J. Chem. Phys. 58, 3708-3716 (1973); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_Doucet(1973)_298K_121.csv"
+298.0,Gilbert(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_Gilbert(1974)_298K_62.3-124.9nm.txt",Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-120-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet absorption spectra of chlorofluoromethanes from 120 to 65 nm"",
+  J. Chem. Phys. 60, 4820-4824 (1974); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_Gilbert(1974)_298K_62.csv"
+208.0,HubrichStuhl(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_HubrichStuhl(1980)_208K_160-200nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
+  J. Photochem. 12, 93-107 (1980); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_HubrichStuhl(1980)_208K_160-200nm.csv"
+298.0,HubrichStuhl(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_HubrichStuhl(1980)_298K_160-230nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
+  J. Photochem. 12, 93-107 (1980); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_HubrichStuhl(1980)_298K_160-230nm.csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)_JPL-2010(2011)_298K_160-230nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH2FCl(HCFC-31),fluorochloromethane (HCFC-31),"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH2FCl(HCFC-31)/CH2FCl(HCFC-31)_JPL-2010(2011)_298K_160-230nm(rec).csv"

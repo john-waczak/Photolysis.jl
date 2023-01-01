@@ -1,0 +1,71 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bacher(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Bacher(2001)_298K_205-335nm.txt,Absorption measurements using a deuterium lamp as a light source and a 1024 element diode array detector; spectrum smoothed to a resolution of 1 nm,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  C. Bacher, G.S. Tyndall, and J.J. Orlando, ""The atmospheric chemistry of glycolaldehyde"",
+  J. Atmos. Chem. 39, 171-189 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Bacher(2001)_298K_205-335nm.csv
+298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_IUPAC(2006)_298K_205-335nm(rec).txt,IUPAC(2006) recommendation:,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
+  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_IUPAC(2006)_298K_205-335nm(rec).csv
+298.0,JPL-2006(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_JPL-2006(2006)_298K_212-330nm(rec).txt,JPL-2006 recommendation:,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, G.K. Moortgat, H. Keller-Rudek, P.H. Wine, A.R. Ravishankara, C.E. Kolb, M.J. Molina, B.J. Finlayson-Pitts, R.E. Huie, V.L. Orkin, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 15"",
+  JPL Publication 06-2, Jet Propulsion Laboratory, Pasadena, 2006; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_JPL-2006(2006)_298K_212-330nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_JPL-2010(2011)_298K_208-332nm(rec).txt,JPL-2010 recommendation:,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_JPL-2010(2011)_298K_208-332nm(rec).csv
+298.0,Karunanandan(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Karunanandan(2007)_298K_184.9nm.txt,Absorption measurements using the 184.9 nm line from a low-pressure Hg lamp,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  R. Karunanandan, D. Hölscher, T.J. Dillon, A. Horowitz, and J.N. Crowley, ""Reaction of HO with glycolaldehyde, HOCH2CHO: Rate coefficients (240-362 K) and mechanism"",
+  J. Phys.Chem. A 111, 897-908 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Karunanandan(2007)_298K_184.csv
+298.0,Karunanandan(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Karunanandan(2007)_298K_205-335nm.txt,Absorption measurements using deuterium lamp and a diode-array detector; spectral resolution ∼1.6 nm,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  R. Karunanandan, D. Hölscher, T.J. Dillon, A. Horowitz, and J.N. Crowley, ""Reaction of HO with glycolaldehyde, HOCH2CHO: Rate coefficients (240-362 K) and mechanism"",
+  J. Phys.Chem. A 111, 897-908 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Karunanandan(2007)_298K_205-335nm.csv
+298.0,Karunanandan(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Karunanandan(2007)_298K_207-334nm(1nm).txt,Absorption measurements using deuterium lamp and a diode-array detector; spectral resolution ∼1.6 nm,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  R. Karunanandan, D. Hölscher, T.J. Dillon, A. Horowitz, and J.N. Crowley, ""Reaction of HO with glycolaldehyde, HOCH2CHO: Rate coefficients (240-362 K) and mechanism"",
+  J. Phys.Chem. A 111, 897-908 (2007); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Karunanandan(2007)_298K_207-334nm(1nm).csv
+298.0,Magneron(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Magneron(2005)_298K_212-330nm.txt,"Absorption measurements at a resolution of 0.3 nm using a diode array spectrometer at the Max-Planck-Institut für Chemie, Mainz, Germany",HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  I. Magneron, A. Mellouki, G. Le Bras, G.K. Moortgat, A. Horowitz, and K. Wirtz, ""Photolysis and OH-initiated oxidation of glycolaldehyde under atmospheric conditions"",
+  J. Phys. Chem. A 109, 4552-4561 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Magneron(2005)_298K_212-330nm.csv
+333.0,Magneron(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_Magneron(2005)_333K_256-316nm.txt,"Absorption measurements at a resolution of 0.1 nm using a diode array spectrometer at LCSR/CNRS Orléans, France",HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  I. Magneron, A. Mellouki, G. Le Bras, G.K. Moortgat, A. Horowitz, and K. Wirtz, ""Photolysis and OH-initiated oxidation of glycolaldehyde under atmospheric conditions"",
+  J. Phys. Chem. A 109, 4552-4561 (2005); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_Magneron(2005)_333K_256-316nm.csv
+295.0,ZhuZhu(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/HOCH2CHO_ZhuZhu(2010)_295K_280-340nm.txt,Investigation of the gas-phase photolysis of glycolaldehyde by laser photolysis combined with cavity ring-down spectroscopy,HOCH2CHO,"hydroxyacetaldehyde, glycolaldehyde","
+
+  C. Zhu and L. Zhu, ""Photolysis of glycolaldehyde in the 280-340nm region"",
+  J. Phys. Chem. A 114, 8384-8390 (2010); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/HOCH2CHO/HOCH2CHO_ZhuZhu(2010)_295K_280-340nm.csv

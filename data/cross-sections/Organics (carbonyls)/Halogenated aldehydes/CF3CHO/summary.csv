@@ -1,0 +1,72 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+329.0,BorkowskiAusloos(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_BorkowskiAusloos(1962)_329K_313,334nm.txt",Molar extinction coefficients from Table I. converted to absorption cross sections (conversion factor: 3.8235×10,CF3CHO,trifluoroacetaldehyde,"
+
+  R. P. Borkowski and P. Ausloos, ""The vapor phase fluorescence and its relationship to the photolysis of propionaldehyde and the butyraldehydes"",
+  J. Am. Chem. Soc. 84, 4044-4048 (1962); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_BorkowskiAusloos(1962)_329K_313,334nm.csv"
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Chiappero(2006)_297K_230-360nm(1nm).txt,Diode array spectrometer operated at a resolution of 1 nm,CF3CHO,trifluoroacetaldehyde,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Chiappero(2006)_297K_230-360nm(1nm).csv
+297.0,Chiappero(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Chiappero(2006)_297K_230-360nm(5nm).txt,Diode array spectrometer operated at a resolution of 1 nm,CF3CHO,trifluoroacetaldehyde,"
+
+  M.S. Chiappero, F.E. Malanca, G.A. Argüello, S.T. Wooldridge, M.D. Hurley, J.C. Ball, T.J. Wallington, R.L. Waterland, and R.C. Buck, ""Atmospheric chemistry of perfluoroaldehydes (C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Chiappero(2006)_297K_230-360nm(5nm).csv
+298.0,FranciscoWilliams(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_FranciscoWilliams(1992)_298K_230-400nm.txt,UV/VIS spectrometer with 0.5 nm spectral band width,CF3CHO,trifluoroacetaldehyde,"
+
+  J.S. Francisco and I.H. Williams, ""Infrared and ultraviolet spectroscopic characterization of trifluoroacetaldehyde"",
+  Mol. Phys. 76, 1433-1441 (1992); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_FranciscoWilliams(1992)_298K_230-400nm.csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Hashikawa(2004)_296K_185-500nm(1nm).txt,UV absorption spectra of C,CF3CHO,trifluoroacetaldehyde,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Hashikawa(2004)_296K_185-500nm(1nm).csv
+296.0,Hashikawa(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Hashikawa(2004)_296K_250-350nm(10nm).txt,UV absorption spectra of C,CF3CHO,trifluoroacetaldehyde,"
+
+  Y. Hashikawa, M. Kawasaki, R.L. Waterland, M.D. Hurley, J.C. Ball, T.J. Wallington, M.P. Sulbaek Andersen, and O.J. Nielsen, ""Gas phase UV and IR absorption spectra of C",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Hashikawa(2004)_296K_250-350nm(10nm).csv
+298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_IUPAC(2008)_298K_200-400nm(rec).txt,IUPAC(2008) recommendation:,CF3CHO,trifluoroacetaldehyde,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_IUPAC(2008)_298K_200-400nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_JPL-2010(2011)_298K_200-360nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CF3CHO,trifluoroacetaldehyde,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_JPL-2010(2011)_298K_200-360nm(rec).csv
+298.0,LucazeauSandorfy(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_LucazeauSandorfy(1970)_298K_116.4-169.1nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",CF3CHO,trifluoroacetaldehyde,"
+
+  G. Lucazeau and C. Sandorfy, ""The far-ultraviolet spectra of some simple aldehydes"",
+  J. Mol. Spectrosc. 35, 214-231 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_LucazeauSandorfy(1970)_298K_116.csv
+298.0,LucazeauSandorfy(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_LucazeauSandorfy(1970)_298K_251.2-353.9nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",CF3CHO,trifluoroacetaldehyde,"
+
+  G. Lucazeau and C. Sandorfy, ""The far-ultraviolet spectra of some simple aldehydes"",
+  J. Mol. Spectrosc. 35, 214-231 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_LucazeauSandorfy(1970)_298K_251.csv
+296.0,Meller(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Meller(1993)_296K_229-364nm(int-c).txt,"229-364nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CF3CHO,trifluoroacetaldehyde,"
+
+  R. Meller, D. Boglu, and G.K. Moortgat, ""Absorption cross sections and photolysis studies of halogenated carbonyl compounds. Photooxidation studies on CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Meller(1993)_296K_229-364nm(int-c).csv
+296.0,Meller(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Meller(1993)_296K_230-364nm(1nm).txt,Averages over 1-nm intervals of the high-resolution spectrum,CF3CHO,trifluoroacetaldehyde,"
+
+  R. Meller, D. Boglu, and G.K. Moortgat, ""Absorption cross sections and photolysis studies of halogenated carbonyl compounds. Photooxidation studies on CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Meller(1993)_296K_230-364nm(1nm).csv
+296.0,Meller(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Meller(1993)_296K_232-364nm(2nm).txt,Averages over 2-nm intervals of the high-resolution spectrum,CF3CHO,trifluoroacetaldehyde,"
+
+  R. Meller, D. Boglu, and G.K. Moortgat, ""Absorption cross sections and photolysis studies of halogenated carbonyl compounds. Photooxidation studies on CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Meller(1993)_296K_232-364nm(2nm).csv
+296.0,Meller(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Meller(1993)_296K_235-360nm(5nm).txt,Averages over 5-nm intervals of the high-resolution spectrum,CF3CHO,trifluoroacetaldehyde,"
+
+  R. Meller, D. Boglu, and G.K. Moortgat, ""Absorption cross sections and photolysis studies of halogenated carbonyl compounds. Photooxidation studies on CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Meller(1993)_296K_235-360nm(5nm).csv
+298.0,Sellevag(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CF3CHO_Sellevag(2004)_298K_200-400nm.txt,"The absorption cross sections were measured at a spectral resolution of 2 nm using a photodiode array spectrometer, and the spectra were recorded in the wavelength region from 190 nm to 1100 nm at sampling intervals of 1 nm",CF3CHO,trifluoroacetaldehyde,"
+
+  S.R. Sellevåg, T. Kelly, H. Sidebottom, and C.J. Nielsen, ""A study of the IR and UV-Vis absorption cross sections, photolysis and OH-initiated oxidation of CF",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CF3CHO/CF3CHO_Sellevag(2004)_298K_200-400nm.csv

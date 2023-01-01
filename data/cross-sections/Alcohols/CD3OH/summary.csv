@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Cheng(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CD3OH_Cheng(2002)_298K_165.5-219.5nm.txt,The absorption spectrum was measured at a resolution of 0.1 nm using synchrotron radiation,CD3OH,"methyl-d3 alcohol, methanol-d3","
+
+  B.-M. Cheng, M. Bahou, Y.-P. Lee, and L. C. Lee, ""Absorption cross sections and solar photodissociation rates of deuterated isotopomers of methanol"",
+  J. Geophys. Res. Space Physics 107 (A8), SIA 7-1–SIA 7-5 (2002); 
+
+
+  DOI: ",data/cross-sections/Alcohols/CD3OH/CD3OH_Cheng(2002)_298K_165.csv

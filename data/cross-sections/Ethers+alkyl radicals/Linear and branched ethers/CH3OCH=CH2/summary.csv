@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Planckaert(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CH3OCH=CH2_Planckaert(1974)_298K_120.3-221.9nm.txt,The spectrum was photoelectrically recorded using a hydrogen discharge tube as the light source,CH3OCH=CH2,methyl vinyl ether,"
+
+  A.A. Planckaert, J. Doucet, and C. Sandorfy, ""Comparative study of the vacuum ultraviolet absorption and photoelectron spectra of some simple ethers and thioethers"",
+  J. Chem. Phys. 60, 4846-4853 (1974); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CH3OCH=CH2/CH3OCH=CH2_Planckaert(1974)_298K_120.csv

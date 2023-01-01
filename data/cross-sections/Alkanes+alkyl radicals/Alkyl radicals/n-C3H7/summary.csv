@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,AdachiBasco(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/n-C3H7_AdachiBasco(1981)_298K_225.6-259.9nm(meas-1).txt,Absorption measurements using a laser photolysis (azo-n-propane)/transient UV spectroscopy setup,n-C3H7,"1-propyl radical, n-propyl radical","
+
+  H. Adachi and N. Basco, ""A quantitative study of alkyl radical reactions by kinetic spectroscopy. IV. The flash photolysis of azopropanes"",
+  Int. J. Chem. Kinet. 13, 367-384 (1981); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/n-C3H7/n-C3H7_AdachiBasco(1981)_298K_225.csv
+298.0,AdachiBasco(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/n-C3H7_AdachiBasco(1981)_298K_226.1-261.1nm(smoo).txt,Absorption measurements using a laser photolysis (azo-n-propane)/transient UV spectroscopy setup,n-C3H7,"1-propyl radical, n-propyl radical","
+
+  H. Adachi and N. Basco, ""A quantitative study of alkyl radical reactions by kinetic spectroscopy. IV. The flash photolysis of azopropanes"",
+  Int. J. Chem. Kinet. 13, 367-384 (1981); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/n-C3H7/n-C3H7_AdachiBasco(1981)_298K_226.csv
+298.0,AdachiBasco(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/n-C3H7_AdachiBasco(1981)_298K_228.5-259.9nm(meas-2).txt,Absorption measurements using a laser photolysis (azo-n-propane)/transient UV spectroscopy setup,n-C3H7,"1-propyl radical, n-propyl radical","
+
+  H. Adachi and N. Basco, ""A quantitative study of alkyl radical reactions by kinetic spectroscopy. IV. The flash photolysis of azopropanes"",
+  Int. J. Chem. Kinet. 13, 367-384 (1981); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/n-C3H7/n-C3H7_AdachiBasco(1981)_298K_228.csv
+298.0,AdachiBasco(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/n-C3H7_AdachiBasco(1981)_298K_245nm(max).txt,Absorption measurements using a laser photolysis (azo-n-propane)/transient UV spectroscopy setup,n-C3H7,"1-propyl radical, n-propyl radical","
+
+  H. Adachi and N. Basco, ""A quantitative study of alkyl radical reactions by kinetic spectroscopy. IV. The flash photolysis of azopropanes"",
+  Int. J. Chem. Kinet. 13, 367-384 (1981); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/n-C3H7/n-C3H7_AdachiBasco(1981)_298K_245nm(max).csv

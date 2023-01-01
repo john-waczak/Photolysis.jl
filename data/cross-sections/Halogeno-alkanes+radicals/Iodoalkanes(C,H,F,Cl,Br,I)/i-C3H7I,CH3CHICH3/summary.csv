@@ -1,0 +1,74 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_BoschiSalahub(1972)_298K_122.7-204.0nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_BoschiSalahub(1972)_298K_122.csv"
+298.0,BoschiSalahub(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_BoschiSalahub(1972)_298K_204.6-301.6nm.txt",Absorption measurements using a vacuum spectrophotometer fitted with a double beam attachment,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  R.A. Boschi and D.R. Salahub, ""The far ultraviolet spectra of some branched chain iodo-alkanes, iodo-cyclo-alkanes, fluoro-iodo-alkanes and iodoalkenes"",
+  Mol. Phys. 24, 735-752 (1972); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_BoschiSalahub(1972)_298K_204.csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_JPL-2010(2011)_298K_205-380nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of","i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_JPL-2010(2011)_298K_205-380nm(rec).csv"
+298.0,Phillips(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_233-305nm.txt",The absorption spectrum for gaseous i-C,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  D.L. Phillips, A.B. Myers, and J.J. Valentini, ""Investigation of solvation effects in short-time photodissociation dynamics of alkyl iodides"",
+  J. Phys. Chem. 96, 2039-2044 (1992); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_233-305nm.csv"
+298.0,Phillips(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_234-304nm(2nm).txt",2-nm interpolation of the absorption cross sections digitized from Fig. 1,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  D.L. Phillips, A.B. Myers, and J.J. Valentini, ""Investigation of solvation effects in short-time photodissociation dynamics of alkyl iodides"",
+  J. Phys. Chem. 96, 2039-2044 (1992); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_234-304nm(2nm).csv"
+298.0,Phillips(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_235-305nm(5nm).txt",5-nm interpolation of the absorption cross sections digitized from Fig. 1,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  D.L. Phillips, A.B. Myers, and J.J. Valentini, ""Investigation of solvation effects in short-time photodissociation dynamics of alkyl iodides"",
+  J. Phys. Chem. 96, 2039-2044 (1992); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Phillips(1992)_298K_235-305nm(5nm).csv"
+298.0,Rebbert(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Rebbert(1973)_298K_147nm.txt",Photolysis with a xenon resonance lamp,"i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  R.E. Rebbert, S.G. Lias, and P. Ausloos, ""Photolysis of alkyl iodides at 147.0 nm. The reaction H + C","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Rebbert(1973)_298K_147nm.csv"
+223.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Roehl(1997)_223K_205-320nm.txt","Absorption measurements at 223, 248, 273, and 298 K with a spectral resolution of 0.3 nm using a diode array spectrometer","i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Roehl(1997)_223K_205-320nm.csv"
+248.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Roehl(1997)_248K_205-380nm.txt","Absorption measurements at 223, 248, 273, and 298 K with a spectral resolution of 0.3 nm using a diode array spectrometer","i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Roehl(1997)_248K_205-380nm.csv"
+273.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Roehl(1997)_273K_205-380nm.txt","Absorption measurements at 223, 248, 273, and 298 K with a spectral resolution of 0.3 nm using a diode array spectrometer","i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Roehl(1997)_273K_205-380nm.csv"
+298.0,Roehl(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3_Roehl(1997)_298K_205-380nm.txt","Absorption measurements at 223, 248, 273, and 298 K with a spectral resolution of 0.3 nm using a diode array spectrometer","i-C3H7I,CH3CHICH3","2-iodopropane, iodoisopropane, isopropyl iodide","
+
+  C.M. Roehl, J.B. Burkholder, G.K. Moortgat, A.R. Ravishankara, and P.J. Crutzen, ""Temperature dependence of UV absorption cross sections and atmospheric implications of several alkyl iodides"",
+  J. Geophys. Res. 102(D11), 12819-12829 (1997); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/i-C3H7I,CH3CHICH3/i-C3H7I,CH3CHICH3_Roehl(1997)_298K_205-380nm.csv"

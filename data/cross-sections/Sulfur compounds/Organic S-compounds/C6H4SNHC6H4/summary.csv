@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+483.0,Kitagawa(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C6H4SNHC6H4_Kitagawa(1968)_483K_159.1-300.8nm.txt,Absorption measurements at 483 K using a vacuum ultraviolet spectrometer and a hydrogen discharge lamp as a light source ,C6H4SNHC6H4,"phenothiazine, thiodiphenylamine","
+
+  T. Kitagawa, ""Absorption spectra and photoionization of polycyclic aromatics in vacuum ultraviolet region"",
+  J. Mol. Spectrosc. 26, 1-23 (1968); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C6H4SNHC6H4/C6H4SNHC6H4_Kitagawa(1968)_483K_159.csv

@@ -1,0 +1,29 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C3H7C(O)OH_Doner(2022)_323K_125-240nm.txt,High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,C3H7C(O)OH,butyric acid,"
+
+  A.C. Doner, A.R.Webb, N.S.Dewey, M.G. Christianson, A.L. Koritzke, A. Larsson, K.M. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized four-carbon species"",
+  J. Quant. Spectrosc. Radiat. Transfer 292, 108346 (2022);
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C3H7C(O)OH/C3H7C(O)OH_Doner(2022)_323K_125-240nm.csv
+297.0,Hintze(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C3H7C(O)OH_Hintze(2001)_297K_195-220nm.txt,Absorption measurements using a high brightness deuterium lamp and a photomultiplier tube; resolution 0.1 nm,C3H7C(O)OH,butyric acid,"
+
+  P. Hintze, S. Aloisio, and V. Vaida, ""Electronic spectroscopy of organic acid dimers"",
+  Chem. Phys. Lett. 343, 159-165 (2001); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C3H7C(O)OH/C3H7C(O)OH_Hintze(2001)_297K_195-220nm.csv
+303.0,Vicente(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C3H7C(O)OH_Vicente(2009)_303K_115.5-320.0nm.txt,Absorption measurements at a resolution of 0.075 nm using synchrotron radiation,C3H7C(O)OH,butyric acid,"
+
+  A. Vicente, R. Antunes, D. Almeida, I. J. A. Franco, S. V. Hoffmann, N. J. Mason, S. Eden, D. Duflot, S. Canneaux, J. Delwiche, M.-J. Hubin-Franskin, and P. Limão-Vieira, ""Photoabsorption measurements and theoretical calculations of the electronic state spectroscopy of propionic, butyric, and valeric acids"",
+  Phys. Chem. Chem. Phys. 11, 5729-5741 (2009); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C3H7C(O)OH/C3H7C(O)OH_Vicente(2009)_303K_115.csv
+303.0,Vicente(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C3H7C(O)OH_Vicente(2009)_303K_186.5-320.0nm(smoo).txt,Absorption measurements at a resolution of 0.075 nm using synchrotron radiation,C3H7C(O)OH,butyric acid,"
+
+  A. Vicente, R. Antunes, D. Almeida, I. J. A. Franco, S. V. Hoffmann, N. J. Mason, S. Eden, D. Duflot, S. Canneaux, J. Delwiche, M.-J. Hubin-Franskin, and P. Limão-Vieira, ""Photoabsorption measurements and theoretical calculations of the electronic state spectroscopy of propionic, butyric, and valeric acids"",
+  Phys. Chem. Chem. Phys. 11, 5729-5741 (2009); 
+
+
+  DOI: ",data/cross-sections/Organics (acids)/C3H7C(O)OH/C3H7C(O)OH_Vicente(2009)_303K_186.csv

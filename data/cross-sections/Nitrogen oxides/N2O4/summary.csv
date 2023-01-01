@@ -1,0 +1,44 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HallBlacet(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HallBlacet(1952)_298K_239.9-392.2nm.txt,Absorption measurements with NO,N2O4,dinitrogen tetraoxide,"
+
+  T.C. Hall and F.E. Blacet, ""Separation of the absorption spectra of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HallBlacet(1952)_298K_239.csv
+213.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HarwoodJones(1994)_213K_320-405nm.txt,Absorption measurements using a diode array spectrometer;,N2O4,dinitrogen tetraoxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HarwoodJones(1994)_213K_320-405nm.csv
+225.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HarwoodJones(1994)_225K_320-405nm.txt,Absorption measurements using a diode array spectrometer;,N2O4,dinitrogen tetraoxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HarwoodJones(1994)_225K_320-405nm.csv
+233.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HarwoodJones(1994)_233K_320-430nm.txt,Absorption measurements using a diode array spectrometer;,N2O4,dinitrogen tetraoxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HarwoodJones(1994)_233K_320-430nm.csv
+243.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HarwoodJones(1994)_243K_320-430nm.txt,Absorption measurements using a diode array spectrometer; ,N2O4,dinitrogen tetraoxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HarwoodJones(1994)_243K_320-430nm.csv
+253.0,HarwoodJones(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HarwoodJones(1994)_253K_320-430nm.txt,Absorption measurements using a diode array spectrometer;,N2O4,dinitrogen tetraoxide,"
+
+  M.H. Harwood and R.L. Jones, ""Temperature dependent ultraviolet-visible absorption cross sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HarwoodJones(1994)_253K_320-430nm.csv
+298.0,HolmesDaniels(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_HolmesDaniels(1934)_298K_265-405nm.txt,"Absorption coefficients k (Torr, 273 K)",N2O4,dinitrogen tetraoxide,"
+
+  H.H. Holmes and F. Daniels, ""The photolysis of nitrogen oxides: N",data/cross-sections/Nitrogen oxides/N2O4/N2O4_HolmesDaniels(1934)_298K_265-405nm.csv
+220.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_JPL-2010(2011)_220K_252-390nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",N2O4,dinitrogen tetraoxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Nitrogen oxides/N2O4/N2O4_JPL-2010(2011)_220K_252-390nm(rec).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_Merienne(1997)_220K_200-380nm(5nm).txt,"Averages over the 5-nm intervals 202.5-207.5, 207.5-212.5, ......., 377.5-382.5 nm of the high-resolution spectrum; first column: center of interval (listed in Table III)",N2O4,dinitrogen tetraoxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_Merienne(1997)_220K_200-380nm(5nm).csv
+220.0,Merienne(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_Merienne(1997)_220K_200-390nm(0.05nm).txt,"High-resolution (0.05 nm) absorption measurements using a coolable multipass cell, a monochromator equipped with a 2400 lines/mm grating and an Ar arc and a Xe lamp as light sources",N2O4,dinitrogen tetraoxide,"
+
+  M.F. Mérienne, A. Jenouvrier, B. Coquart, and J.P. Lux, ""The NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_Merienne(1997)_220K_200-390nm(0.csv
+298.0,Schneider(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_Schneider(1987)_298K_198-230nm.txt,High-resolution (0.04 nm) absorption measurements,N2O4,dinitrogen tetraoxide,"
+
+  W. Schneider, G.K. Moortgat, J.P. Burrows, and G.S. Tyndall, ""Absorption cross-sections of NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_Schneider(1987)_298K_198-230nm.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_Vandaele(1998)_220K_250-455nm.txt,Absorption measurements using a Fourier transform spectrometer at a spectral resolution of 2 cm,N2O4,dinitrogen tetraoxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_Vandaele(1998)_220K_250-455nm.csv
+220.0,Vandaele(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O4_Vandaele(1998)_220K_252-452nm(2nm).txt,"Averages over 2-nm intervals of the high-resolution spectrum, calulated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (May 2005)",N2O4,dinitrogen tetraoxide,"
+
+  A.C. Vandaele, C. Hermans, P.C. Simon, M. Carleer, R. Colins, S. Fally, M.F. Mérienne, A. Jenouvrier, and B. Coquart, ""Measurements of the NO",data/cross-sections/Nitrogen oxides/N2O4/N2O4_Vandaele(1998)_220K_252-452nm(2nm).csv

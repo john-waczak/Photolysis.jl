@@ -1,0 +1,34 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_IUPAC(2008)_298K_215-390nm(rec).txt",IUPAC(2008) recommendation:,CH2BrI,bromoiodomethane,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
+  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_IUPAC(2008)_298K_215-390nm(rec).csv"
+298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_JPL-2010(2011)_298K_215-390nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH2BrI,bromoiodomethane,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_JPL-2010(2011)_298K_215-390nm(rec).csv"
+298.0,Man(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_Man(1996)_298K_197.3-336.7nm.txt","Perkin-Elmer UV/VIS absorption spectrometer; ""low resolution""",CH2BrI,bromoiodomethane,"
+
+  S.-Q. Man, W.M. Kwok, D.L. Phillips, and A.E. Johnson, ""Short-time photodissociation dynamics of A-band and B-band bromoiodomethane in solution: An examination of bond selective electronic excitation"",
+  J. Chem. Phys. 105, 5842-5857 (1996); 
+
+
+  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_Man(1996)_298K_197.csv"
+273.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_Mossinger(1998)_273K_215-375nm(calc).txt",Absorption measurements at 273 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2BrI,bromoiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_Mossinger(1998)_273K_215-375nm(calc).csv"
+298.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_Mossinger(1998)_298K_215-390nm(meas).txt","Absorption cross sections measured at 298 K; dual-beam diode array spectrometer, resolution ∼0.6nm",CH2BrI,bromoiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_Mossinger(1998)_298K_215-390nm(meas).csv"
+348.0,Mossinger(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_Mossinger(1998)_348K_215-375nm(calc).txt",Absorption measurements at 273 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2BrI,bromoiodomethane,"
+
+  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_Mossinger(1998)_348K_215-375nm(calc).csv"
+298.0,Recio(2022),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI_Recio(2022)_298K_112.969-256.806nm.txt",High-resolution (0.001 nm) absorption measurements at the DESIRS beam line of the SOLEIL synchrotron facility,CH2BrI,bromoiodomethane,"
+
+  P. Recio, J. Cachón, L. Rubio-Lago, D. V. Chicharro, A. Zanchet, P. Limão-Vieira, N. de Oliveira, P. C. Samartzis, S. M. Poullain, and L. Bañares, ""Imaging the photodissociation dynamics and fragment alignment of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2BrI/CH2BrI_Recio(2022)_298K_112.csv"

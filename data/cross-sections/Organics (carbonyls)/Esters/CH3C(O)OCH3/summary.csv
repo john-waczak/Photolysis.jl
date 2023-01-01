@@ -1,0 +1,7 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OCH3_McMillan(1966)_298K_201.1-249.5nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3C(O)OCH3,"methyl acetate, acetic acid methyl ester","
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 429
+
+
+",data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OCH3/CH3C(O)OCH3_McMillan(1966)_298K_201.csv

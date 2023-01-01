@@ -1,0 +1,11 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Eden(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CFCF3_Eden(2003)_298K_115-330nm.txt,Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,CF2=CFCF3,"hexafluoromethylethylene, hexafluoropropene","
+
+  S. Eden, P. Limão-Vieira, S.V. Hoffmann, and N.J. Mason, ""VUV photoabsorption by hexafluoropropene"",
+  Chem. Phys. Lett. 379, 170-176 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CFCF3/CF2=CFCF3_Eden(2003)_298K_115-330nm.csv
+295.0,Orkin(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CFCF3_Orkin(1997)_295K_164-222nm.txt,The spectrum was recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm,CF2=CFCF3,"hexafluoromethylethylene, hexafluoropropene","
+
+  V.L. Orkin, R.E. Huie, and J. Kurylo, ""Rate constants for the reactions of OH with HFC-245cb (CH",data/cross-sections/Halogeno-alkenes+radicals/Fluoroalkenes/CF2=CFCF3/CF2=CFCF3_Orkin(1997)_295K_164-222nm.csv

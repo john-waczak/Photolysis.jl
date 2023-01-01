@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jimenez(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/(CH3)2C(OH)CH(CH3)2_Jimenez(2005)_298K_208-230nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with spectral resolutions of 0.19 and 0.04 nm,(CH3)2C(OH)CH(CH3)2,"2,3-dimethyl-2-butanol","
+
+  E. Jiménez, B. Lanza, A. Garzon, B. Ballesteros, and J. Albaladejo, ""Atmospheric degradation of 2-butanol, 2-methyl-2-butanol, and 2,3-dimethyl-2-butanol: OH kinetics and UV absorption cross sections"",
+  J. Phys. Chem. A 109, 10903-10909 (2005)
+
+
+  DOI: ",data/cross-sections/Alcohols/(CH3)2C(OH)CH(CH3)2/(CH3)2C(OH)CH(CH3)2_Jimenez(2005)_298K_208-230nm.csv

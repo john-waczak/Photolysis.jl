@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,HardinSandorfy(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CF3CF2CF2OCHFCF3_HardinSandorfy(1975)_298K_104.8-138.2nm.txt,The VUV absorption spectrum in the range 70000 to 95500 cm-1 was recorded using a double beam sampling attachment and dispersed radiation from a hydrogen discharge,CF3CF2CF2OCHFCF3,"heptafluoropropyl-1,2,2,2-tetrafluoroethyl ether","
+
+  A.H. Hardin and C. Sandorfy, ""Photoelectron and vacuum ultraviolet spectra of a series of fluoroethers"",
+  J. Fluorine Chem. 5, 435-442 (1975); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CF3CF2CF2OCHFCF3/CF3CF2CF2OCHFCF3_HardinSandorfy(1975)_298K_104.csv

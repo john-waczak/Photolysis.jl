@@ -1,0 +1,50 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+283.5,CoxPatrick(1979),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_CoxPatrick(1979)_283.5K_195-265nm.txt",The kinetics of the reaction HO,HO2NO2,peroxynitric acid,"
+
+  R.A. Cox and R.A. Patrick, ""Kinetics of the reaction HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_CoxPatrick(1979)_283.csv"
+269.0,Graham(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Graham(1978)_269K_190-330nm.txt",Spectral resolution 0.81 nm,HO2NO2,peroxynitric acid,"
+
+  R.A. Graham, A.M. Winer, and J.N. Pitts, Jr., ""Ultraviolet and infrared absorption cross sections of gas phase HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Graham(1978)_269K_190-330nm.csv"
+296.0,IUPAC(2004),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_IUPAC(2004)_296K_190-330nm(rec).txt",IUPAC(2004) recommendation:,HO2NO2,peroxynitric acid,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_IUPAC(2004)_296K_190-330nm(rec).csv"
+298.0,JPL-2002(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_JPL-2002(2002)_298K_190-325nm(rec).txt","JPL-2002 recommendation, adopting the earlier recommendation of ",HO2NO2,peroxynitric acid,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_JPL-2002(2002)_298K_190-325nm(rec).csv"
+273.0,Knight(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Knight(2002)_273K_280-350nm.txt","Absorption measurements at 273, 296, 318, and 343 K and over the wavelength range 220-350 nm using a 0.5 m spectrometer with a 1024 element diode array detector and a 30 W D",HO2NO2,peroxynitric acid,"
+
+  G. Knight, A.R. Ravishankara, and J.B. Burkholder, ""UV absorption cross sections of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Knight(2002)_273K_280-350nm.csv"
+296.0,Knight(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Knight(2002)_296K_280-350nm.txt","Absorption measurements at 273, 296, 318, and 343 K and over the wavelength range 220-350 nm using a 0.5 m spectrometer with a 1024 element diode array detector and a 30 W D",HO2NO2,peroxynitric acid,"
+
+  G. Knight, A.R. Ravishankara, and J.B. Burkholder, ""UV absorption cross sections of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Knight(2002)_296K_280-350nm.csv"
+318.0,Knight(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Knight(2002)_318K_280-350nm.txt","Absorption measurements at 273, 296, 318, and 343 K and over the wavelength range 220-350 nm using a 0.5 m spectrometer with a 1024 element diode array detector and a 30 W D",HO2NO2,peroxynitric acid,"
+
+  G. Knight, A.R. Ravishankara, and J.B. Burkholder, ""UV absorption cross sections of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Knight(2002)_318K_280-350nm.csv"
+343.0,Knight(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Knight(2002)_343K_280-350nm.txt","Absorption measurements at 273, 296, 318, and 343 K and over the wavelength range 220-350 nm using a 0.5 m spectrometer with a 1024 element diode array detector and a 30 W D",HO2NO2,peroxynitric acid,"
+
+  G. Knight, A.R. Ravishankara, and J.B. Burkholder, ""UV absorption cross sections of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Knight(2002)_343K_280-350nm.csv"
+298.0,MolinaMolina(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_MolinaMolina(1981)_298K_190-330nm.txt",Double-beam spectrophotometer interfaced to a computer; spectral resolution 0.07 nm; data collection with spectral bandwidths of 0.1-0.2 nm above 300 nm and 0.3-0.5 nm below 300 nm,HO2NO2,peroxynitric acid,"
+
+  L.T. Molina and M.J. Molina, ""UV absorption cross sections of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_MolinaMolina(1981)_298K_190-330nm.csv"
+296.0,Morel(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Morel(1980)_296K_200-290nm.txt","Pulsed deuterium light source, double beam optical arrangement, grating monochromator
+providing a spectral band width of 0.9 nm, measurements at steps of  0.9 nm",HO2NO2,peroxynitric acid,"
+
+  O. Morel, R. Simonaitis, and J. Heicklen, ""Ultraviolet absorption spectra of HO","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Morel(1980)_296K_200-290nm.csv"
+298.0,Singer(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Singer(1989)_298K_210-329nm(1nm).txt",Modulated photolysis of flowing mixtures of either Cl,HO2NO2,peroxynitric acid,"
+
+  R.J. Singer, J.N. Crowley, J.P. Burrows, W. Schneider, and G.K. Moortgat, ""Measurement of the absorption cross-section of peroxynitric acid between 210 and 330 nm in the range 253 -298 K"",
+  J. Photochem. Photobiol. A: Chem. 48, 17-32 (1989); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Singer(1989)_298K_210-329nm(1nm).csv"
+298.0,Singer(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HO2NO2_Singer(1989)_298K_210-330nm(5nm).txt",Modulated photolysis of flowing mixtures of either Cl,HO2NO2,peroxynitric acid,"
+
+  R.J. Singer, J.N. Crowley, J.P. Burrows, W. Schneider, and G.K. Moortgat, ""Measurement of the absorption cross-section of peroxynitric acid between 210 and 330 nm in the range 253 -298 K"",
+  J. Photochem. Photobiol. A: Chem. 48, 17-32 (1989); 
+
+
+  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HO2NO2/HO2NO2_Singer(1989)_298K_210-330nm(5nm).csv"

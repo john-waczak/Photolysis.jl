@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10_Doner(2019)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,c-C6H10,cyclohexene,"
+
+  A.C. Doner, M.G. Christianson, J.C. Davis, A.L. Koritzke, A. Larsson, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Six-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 236, 106603  (2019);
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10/c-C6H10_Doner(2019)_323K_125-240nm.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10_JonesTaylor(1955)_298K_167-211nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",c-C6H10,cyclohexene,"
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10/c-C6H10_JonesTaylor(1955)_298K_167-211nm.csv"
+298.0,Pickett(1951),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10_Pickett(1951)_298K_153.9-214.7nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",c-C6H10,cyclohexene,"
+
+  L.W. Pickett, M. Muntz, and E.M. McPherson, ""Vacuum ultraviolet absorption spectra of cyclic compounds. I. Cyclohexane, cyclohexene, cyclopentane, cyclopentene and benzene"",
+  J. Am. Chem. Soc. 73, 4862-4865 (1951); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/c-C6H10/c-C6H10_Pickett(1951)_298K_153.csv"

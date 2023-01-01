@@ -1,0 +1,62 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Adachi(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Adachi(1980)_298K_215.2-217.0nm(meas).txt,Flash photolysis of azomethane and kinetic spectroscopy,CH3,methyl radical,"
+
+  H. Adachi, N. Basco, and D.G.L. James, ""Mutual interaction of the methyl and methylperoxy radicals studied by flash photolysis and kinetic spectroscopy"",
+  Int. J. Chem. Kinet. 12, 949-977 (1980); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Adachi(1980)_298K_215.csv
+298.0,Adachi(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Adachi(1980)_298K_215.27-217.00nm(smoo).txt,Flash photolysis of azomethane and kinetic spectroscopy,CH3,methyl radical,"
+
+  H. Adachi, N. Basco, and D.G.L. James, ""Mutual interaction of the methyl and methylperoxy radicals studied by flash photolysis and kinetic spectroscopy"",
+  Int. J. Chem. Kinet. 12, 949-977 (1980); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Adachi(1980)_298K_215.csv
+298.0,Adachi(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Adachi(1980)_298K_216.4nm(max).txt,Flash photolysis of azomethane and kinetic spectroscopy,CH3,methyl radical,"
+
+  H. Adachi, N. Basco, and D.G.L. James, ""Mutual interaction of the methyl and methylperoxy radicals studied by flash photolysis and kinetic spectroscopy"",
+  Int. J. Chem. Kinet. 12, 949-977 (1980); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Adachi(1980)_298K_216.csv
+298.0,Basco(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Basco(1970)_298K_216.4nm.txt,Combination reactions of the methyl radical have been studied by following the decay of the absorbance of the methyl radical during the course of the reaction by means of kinetic spectroscopy,CH3,methyl radical,"
+
+  N. Basco, D.G.L. James, and R.D. Suart, ""A quantitative study of alkyl radical reactions by kinetic spectroscopy. Part I. Mutual combination of methyl radicals and combination of methyl radicals with nitric acid"",
+  Int. J. Chem. Kinet. 2, 215-234 (1970); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Basco(1970)_298K_216.csv
+298.0,Cameron(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Cameron(2002)_298K_200-240nm.txt,The absorption spectrum produced from the reaction of Cl atoms with methane is shown in Fig. 3,CH3,methyl radical,"
+
+  M. Cameron, V. Sivakumaran, T.J. Dillon, and J.N. Crowley, ""Reaction between OH and CH",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Cameron(2002)_298K_200-240nm.csv
+298.0,Cameron(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Cameron(2002)_298K_216.4nm(max).txt,Pulsed laser dissociation of Cl,CH3,methyl radical,"
+
+  M. Cameron, V. Sivakumaran, T.J. Dillon, and J.N. Crowley, ""Reaction between OH and CH",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Cameron(2002)_298K_216.csv
+1400.0,Glanzer(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Glanzer(1976)_1400K_216nm.txt,Absorption measurements in shock-heated azomethane-argon mixtures as methyl precursor,CH3,methyl radical,"
+
+  K. Glänzer, M. Quack, and J. Troe, ""A spectroscopic determination of the methyl radical recombination rate constant in shock waves"",
+  Chem. Phys. Lett. 39, 304 -309, (1976); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Glanzer(1976)_1400K_216nm.csv
+296.0,Khamaganov(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Khamaganov(2007)_296K_214.4-218.6nm.txt,Pulsed photolysis of CH,CH3,methyl radical,"
+
+  V. Khamaganov, R. Karunanandan, A. Rodriguez, and J.N. Crowley, ""Photolysis of CH",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Khamaganov(2007)_296K_214.csv
+298.0,Macpherson(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Macpherson(1985)_298K_216.36nm(p=26-400Torr).txt,Absorption measurements over the temperature range 298-537 K by a repetitive photolysis method in which a known initial pressure of azomethane was repeatedly photolyzed with an ArF laser (193 nm) and the zero-time absorbance determined following each laser pulse; spectral resolution 0.60 nm,CH3,methyl radical,"
+
+  M.T. Macpherson, M.J. Pilling, and M.J.C. Smith, ""Determination of the absorption cross section for CH",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Macpherson(1985)_298K_216.csv
+1565.0,Oehlschlaeger(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_Oehlschlaeger(2005)_1565K_211-220nm.txt,Absorption spectrum of the B ,CH3,methyl radical,"
+
+  M.A. Oehlschlaeger, D.F. Davidson, and R.K. Hanson, ""High-temperature UV absorption of methyl radicals behind shock waves"",
+  J. Quant. Spectrosc. Radiat. Transfer 92, 393-402  (2005); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_Oehlschlaeger(2005)_1565K_211-220nm.csv
+298.0,ParkesQuinn(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/CH3_ParkesQuinn(1976)_298K_216.5nm(max).txt,Absorption measurements using the technique of molecular modulation spectrometry,CH3,methyl radical,"
+
+  D.A. Parkes and C.P. Quinn, ""Study of the spectra and recombination kinetics of alkyl radicals by molecular modulation spectrometry. Part 2. - The recombination of ethyl, isopropyl and t-butyl radicals at room temperature and t-butyl radicals between 250 and 450 K"",
+  J. Chem. Soc. Faraday Trans. I 72, 1952-1971 (1976); 
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkyl radicals/CH3/CH3_ParkesQuinn(1976)_298K_216.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Roberge(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(C2H5)3SiH_Roberge(1978)_298K_120.2-189.1nm.txt,Absorption measurements using a vacuum uv spectrometer with a hydrogen discharge source,(C2H5)3SiH,triethylsilane,"
+
+  R. Roberge, C. Sandorfy, J.I. Matthews, and O.P. Strausz, ""The far ultraviolet and He I photoelectron spectra of alkyl and fluorine substituted silane derivatives"",
+  J. Chem. Phys. 69, 5105-5112 (1978); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(C2H5)3SiH/(C2H5)3SiH_Roberge(1978)_298K_120.csv

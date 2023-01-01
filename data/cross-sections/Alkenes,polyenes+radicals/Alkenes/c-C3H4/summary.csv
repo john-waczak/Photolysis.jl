@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Robin(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/c-C3H4_Robin(1969)_298K_129.5-223.5nm.txt",Absorption measurements using a D,c-C3H4,cyclopropene,"
+
+  M.B. Robin, H. Basch, N.A. Kuebler, K.B. Wiberg, and G.B. Ellison, ""Optical spectra of small rings. II. The unsaturated three-membered rings"",
+  J. Chem. Phys. 51, 45-52 (1969); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/c-C3H4/c-C3H4_Robin(1969)_298K_129.csv"

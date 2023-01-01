@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Langbein(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Linear%20and%20branched%20ethers/CHF2OCHClCF3_Langbein(1999)_298K_200-230nm.txt,UV absorption spectra were detected with a deuterium lamp  and measured at a resolution of 0.1 nm ,CHF2OCHClCF3,"1-chloro-2,2,2-trifluoroethyl difluoromethyl ether, isoflurane","
+
+  T. Langbein, H. Sonntag, D. Trapp, A. Hoffmann, W. Malms, E.-P. Röth, V. Mörs and R. Zellner, ""Volatile anaesthetics and the atmosphere: atmospheric lifetimes and atmospheric effects of halothane, enflurane, isoflurane, desflurane and sevoflurane"",
+   Brit. J. Anaesth. 82, 66-73 (1999); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Linear and branched ethers/CHF2OCHClCF3/CHF2OCHClCF3_Langbein(1999)_298K_200-230nm.csv

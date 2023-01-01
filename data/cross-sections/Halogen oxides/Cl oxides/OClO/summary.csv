@@ -1,0 +1,494 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BascoDogra(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_BascoDogra(1971)_298K_351.5nm.txt,Absolute value for the extinction coefficient at 351.5 nm converted to absorption cross section (conversion factor 3.8235×10,OClO,chlorine dioxide,"
+
+  N. Basco and S.K. Dogra, ""Reactions of halogen oxides studied by flash photolysis. I. The flash photolysis of chlorine dioxide"",
+  Proc. Roy. Soc. London A 323, 29-68 (1971); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_BascoDogra(1971)_298K_351.csv
+298.0,BascoMorse(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_BascoMorse(1974)_298K_147.3-166.6nm.txt,The spectrum was recorded on photographic films and photometrically analyzed,OClO,chlorine dioxide,"
+
+  N. Basco and R.D. Morse, ""Reactions of halogen oxides studied by flash photolysis. IV. Vacuum ultraviolet kinetic studies on chlorine dioxide"",
+  Proc. Roy. Soc. London A 336, 495-505 (1974); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_BascoMorse(1974)_298K_147.csv
+298.0,BascoMorse(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_BascoMorse(1974)_298K_148-183nm(max).txt,The spectrum was recorded on photographic films and photometrically analyzed,OClO,chlorine dioxide,"
+
+  N. Basco and R.D. Morse, ""Reactions of halogen oxides studied by flash photolysis. IV. Vacuum ultraviolet kinetic studies on chlorine dioxide"",
+  Proc. Roy. Soc. London A 336, 495-505 (1974); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_BascoMorse(1974)_298K_148-183nm(max).csv
+298.0,BascoMorse(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_BascoMorse(1974)_298K_172.3-184.7nm.txt,The spectrum was recorded on photographic films and photometrically analyzed,OClO,chlorine dioxide,"
+
+  N. Basco and R.D. Morse, ""Reactions of halogen oxides studied by flash photolysis. IV. Vacuum ultraviolet kinetic studies on chlorine dioxide"",
+  Proc. Roy. Soc. London A 336, 495-505 (1974); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_BascoMorse(1974)_298K_172.csv
+293.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Bogumil(2003)_293K_290-460nm.txt,Absorption measurements using the SCIAMACHY PFM (scanning imaging absorption spectrometer for atmospheric chartography pre-flight model) spectrometer,OClO,chlorine dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Bogumil(2003)_293K_290-460nm.csv
+293.0,Bogumil(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Bogumil(2003)_293K_292-458nm(2nm).txt,"Averages over 2-nm intervals of the spectrum measured at a resolution of 0.24-0.44 nm, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",OClO,chlorine dioxide,"
+
+  K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, ""Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region"",
+  J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Bogumil(2003)_293K_292-458nm(2nm).csv
+298.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Burkholder(1990)_298K_240.2-339.5nm.txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),OClO,chlorine dioxide,"
+
+  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Burkholder(1990)_298K_240.csv
+294.0,ClyneCoxon(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_ClyneCoxon(1968)_294K_351.5nm.txt,Band center of the 310-380-nm absorption band,OClO,chlorine dioxide,"
+
+  M.A.A. Clyne and J.A. Coxon, ""Kinetic studies of oxy-halogen radical systems"",
+  Proc. Roy. Soc. London A 303, 207-231 (1968); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_ClyneCoxon(1968)_294K_351.csv
+298.0,Flesch(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Flesch(1993)_298K_49.55-190.75nm.txt,High-resolution absorption measurements using synchrotron radiation as a light source,OClO,chlorine dioxide,"
+
+  R. Flesch, E. Rühl, K. Hottmann, and H. Baumgärtel, ""Photoabsorption and photoionization of chlorine dioxide"",
+  J. Phys. Chem. 97, 837-844 (1993);
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Flesch(1993)_298K_49.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_125.5-148.9nm(F-X).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_125.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_127.00-144.29nm(F-X%20band%20heads).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_127.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_127-477nm(band%20heads).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_127-477nm(band heads).csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_149.0-156.9nm(E-X).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_149.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_149.83-156.75nm(E-X%20band%20heads).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_149.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_154.5-163.5nm(D-X).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_154.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_154.68-162.66nm(D-X%20band%20heads).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_154.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_174.5-184.5nm(C-X).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_174.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_176.77-183.08nm(C-X%20band%20heads).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_176.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_250.1-450.9nm(A-X).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_250.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_268.52-477.05nm(A-X%20(I)).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_268.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_341.00-470.52nm(A-X%20(II)).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_341.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_342.46-458.13nm(A-X%20(III)).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_342.csv
+298.0,HubingerNee(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_HubingerNee(1994)_298K_363.38-401.89nm(A-X%20(IV)).txt,"Absorption measurements in a a flow cell using a vacuum monochromator, deuterium lamps or a krypton microwave discharge continuum as light sources and photomultiplier sensitive
+either in the UV/nearUV or in the vacuum UV",OClO,chlorine dioxide,"
+
+  S. Hubinger and J.B. Nee, ""Photoabsorption spectrum for OClO between 125 and 470 nm"",
+  Chem. Phys. 181, 247-257 (1994); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_HubingerNee(1994)_298K_363.csv
+204.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_IUPAC(2007)_204K_272.93-461.15nm(rec).txt,IUPAC(2007) recommendation:,OClO,chlorine dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_IUPAC(2007)_204K_272.csv
+296.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_IUPAC(2007)_296K_272.93-475.53nm(rec).txt,IUPAC(2007) recommendation:,OClO,chlorine dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_IUPAC(2007)_296K_272.csv
+378.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_IUPAC(2007)_378K_279.64-461.15nm(rec).txt,IUPAC(2007) recommendation:,OClO,chlorine dioxide,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_IUPAC(2007)_378K_279.csv
+204.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_JPL-2002(2002)_204K_272-476nm(peaks)(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",OClO,chlorine dioxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_JPL-2002(2002)_204K_272-476nm(peaks)(rec).csv
+296.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_JPL-2002(2002)_296K_272-476nm(peaks)(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",OClO,chlorine dioxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_JPL-2002(2002)_296K_272-476nm(peaks)(rec).csv
+378.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_JPL-2002(2002)_378K_279-462nm(peaks)(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",OClO,chlorine dioxide,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_JPL-2002(2002)_378K_279-462nm(peaks)(rec).csv
+204.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_JPL-2010(2011)_204K_247-472nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",OClO,chlorine dioxide,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_JPL-2010(2011)_204K_247-472nm(rec).csv
+333.0,Knauth(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Knauth(1979)_333K_270-440nm.txt,Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,OClO,chlorine dioxide,"
+
+  H.D. Knauth, H. Alberti, and H. Clausen, ""Equilibrium constant of the gas reaction Cl",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Knauth(1979)_333K_270-440nm.csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_312.5-440.5nm(1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_312.csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_320.5-440.5nm(20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_320.csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_335-418nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_335-418nm(peaks-1cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_335-418nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_335-418nm(peaks-20cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_336-433nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_336-433nm(peaks-1cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_336-433nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_336-433nm(peaks-20cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_340-428nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_340-428nm(peaks-1cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_340-428nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_340-428nm(peaks-20cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_355-425nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_355-425nm(peaks-1cm-1).csv
+213.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_213K_355-425nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_213K_355-425nm(peaks-20cm-1).csv
+233.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_233K_312.5-440.5nm(1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_233K_312.csv
+233.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_233K_320.5-440.5nm(20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_233K_320.csv
+253.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_253K_312.5-440.5nm(1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_253K_312.csv
+253.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_253K_320.5-440.5nm(20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_253K_320.csv
+273.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_273K_312.5-440.5nm(1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_273K_312.csv
+273.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_273K_320.5-440.5nm(20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_273K_320.csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_312.5-440.5nm(1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_312.csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_320.5-440.5nm(20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_320.csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_335-418nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_335-418nm(peaks-1cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_335-418nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_335-418nm(peaks-20cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_336-433nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_336-433nm(peaks-1cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_336-433nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_336-433nm(peaks-20cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_341-428nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_341-428nm(peaks-1cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_341-428nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_341-428nm(peaks-20cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_355-425nm(peaks-1cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_355-425nm(peaks-1cm-1).csv
+293.0,Kromminga(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Kromminga(2003)_293K_355-425nm(peaks-20cm-1).txt,Absorption measurements using a Fourier-transform spectrometer,OClO,chlorine dioxide,"
+
+  H. Kromminga, J. Orphal, P. Spietz, S. Voigt, and J.P. Burrows, ""New measurements of OClO absorption cross sections in the 325-435 nm region and their temperature dependence between 213-293 K"",
+  J. Photochem. Photobiol. A.: Photochem. 157, 149-160 (2003); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Kromminga(2003)_293K_355-425nm(peaks-20cm-1).csv
+298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_MartinGareis(1956)_298K_263-414nm.txt,"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
+",OClO,chlorine dioxide,"
+
+  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_MartinGareis(1956)_298K_263-414nm.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_242-476nm(0.07nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_242-476nm(0.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_243.0-475.5nm(0.5nm).txt,"Averages over 0.5-nm intervals of the medium-resolution (0.25 nm, reported at 0.07-nm intervals) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_243.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_245-475nm(0.22nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_245-475nm(0.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_246.0-474.5nm(0.5nm).txt,"Averages over 0.5-nm intervals of the medium-resolution (0.25 nm, reported at 0.22-nm intervals) spectrum, calculated by Karl-heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_246.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_246.5-472.5nm(1nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_246.csv
+204.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_204K_272-476nm(peaks).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_204K_272-476nm(peaks).csv
+296.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_296K_242-476nm(0.07nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_296K_242-476nm(0.csv
+296.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_296K_245-475nm(0.22nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_296K_245-475nm(0.csv
+296.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_296K_272-476nm(peaks).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_296K_272-476nm(peaks).csv
+378.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_378K_242-476nm(0.07nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_378K_242-476nm(0.csv
+378.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_378K_245-475nm(0.22nm).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_378K_245-475nm(0.csv
+378.0,Wahner(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Wahner(1987)_378K_279-462nm(peaks).txt,Absorption measurements using light from a xenon lamp and a diode array spectrometer; spectral resolution 0.25 nm,OClO,chlorine dioxide,"
+
+  A. Wahner, G.S Tyndall, and A.R. Ravishankara, ""Absorption cross sections for OClO as a function of temperature in the wavelength range 240-480 nm"",
+  J. Phys. Chem. 91, 2734-2738 (1987); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/OClO/OClO_Wahner(1987)_378K_279-462nm(peaks).csv

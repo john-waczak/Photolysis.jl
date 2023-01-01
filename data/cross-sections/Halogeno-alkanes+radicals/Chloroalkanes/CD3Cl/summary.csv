@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Locht(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CD3Cl_Locht(2001)_298K_103-207nm.txt,High-resolution (∼0.0015 eV) absorption measurements using synchrotron radiation,CD3Cl,"chloromethane-d3, methyl-d3 chloride","
+
+  R. Locht, B. Leyh, A. Hoxha, H.W. Jochims, and H. Baumgärtel, ""The vacuum UV absorption spectrum of methyl chloride (CH",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CD3Cl/CD3Cl_Locht(2001)_298K_103-207nm.csv

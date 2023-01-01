@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+473.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/HgCl2_RoxloMandl(1980)_473K_170-230nm.txt,Absorption measurements at a spectral resolution of 1.5 nm using a Xe,HgCl2,"mercury dichloride, mercury(II) chloride","
+
+  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
+  J. Appl. Phys. 51, 2969-2972 (1980); 
+
+
+  DOI: ",data/cross-sections/Unclassified/HgCl2/HgCl2_RoxloMandl(1980)_473K_170-230nm.csv

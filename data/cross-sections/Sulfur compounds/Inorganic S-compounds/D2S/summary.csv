@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Lee(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/D2S_Lee(1987)_295K_158-235nm.txt,Absorption measurements using synchrotron radiation as a light source; spectral resolution 0.3 nm,D2S,deuterium sulfide,"
+
+  L.C. Lee, X. Wang, and M. Suto, ""Quantitative photoabsorption and fluorescence spectroscopy of H",data/cross-sections/Sulfur compounds/Inorganic S-compounds/D2S/D2S_Lee(1987)_295K_158-235nm.csv

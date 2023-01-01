@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Hynes(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CD3SCD3_Hynes(1986)_298K_228.8nm.txt,Reactions of OH with organic sulfides studied using the flash photolysis-resonance fluorescence technique,CD3SCD3,"dimethyl-d6 sulfide, DMS-d6","
+
+  A.J. Hynes, P.H. Wine, and D.H. Semmes, ""Kinetics and mechanism of OH reactions with organic sulfides"",
+  J. Phys. Chem. 90, 4148-4156 (1986); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CD3SCD3/CD3SCD3_Hynes(1986)_298K_228.csv
+297.0,Stickel(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CD3SCD3_Stickel(1992)_297K_202.6nm.txt,A zinc hollow cathode lamp was used as the light source,CD3SCD3,"dimethyl-d6 sulfide, DMS-d6","
+
+  R.E. Stickel, J.M. Nicovich, S.Y. Wang, Z. Zhao, and P.H. Wine, ""Kinetic and mechanistic study of the reaction of atomic chlorine with dimethyl sulfide"",
+  J. Phys. Chem. 96, 9875-9883 (1992); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CD3SCD3/CD3SCD3_Stickel(1992)_297K_202.csv
+298.0,Williams(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CD3SCD3_Williams(2005)_298K_207.23-237.59nm.txt,High-resolution (∼0.05 nm) spectrum measured using a diode array spectrometer,CD3SCD3,"dimethyl-d6 sulfide, DMS-d6","
+
+  M.B. Williams, P. Campuzano-Jost, D.D. Riemer, C. Tatum, and A.J. Hynes, ""Gas phase UV absorption spectra for a series of alkyl sulfides"",
+  J. Photochem. Photobiol. A.: Chem. 171, 77-82 (2005); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CD3SCD3/CD3SCD3_Williams(2005)_298K_207.csv

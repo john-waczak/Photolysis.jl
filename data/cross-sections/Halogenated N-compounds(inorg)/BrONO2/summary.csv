@@ -1,0 +1,62 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+220.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_220K_200-500nm(1nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_220K_200-500nm(1nm).csv
+220.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_220K_200-500nm(5nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_220K_200-500nm(5nm).csv
+250.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_250K_200-500nm(1nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_250K_200-500nm(1nm).csv
+250.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_250K_200-500nm(5nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_250K_200-500nm(5nm).csv
+296.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_296K_200-500nm(2nm).txt,Absorption measurements using a diode array spectrometer; averages over 2-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_296K_200-500nm(2nm).csv
+298.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_298K_200-500nm(1nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_298K_200-500nm(1nm).csv
+298.0,Burkholder(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Burkholder(1995)_298K_200-500nm(5nm).txt,Absorption measurements using a diode array spectrometer; averages over 1-nm intervals of the spectrum measured at a resolution of ∼0.5 nm,BrONO2,bromine nitrate,"
+
+  J.B. Burkholder, A.R. Ravishankara, and S Solomon, ""UV/visible and IR absorption cross sections of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Burkholder(1995)_298K_200-500nm(5nm).csv
+230.0,Deters(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Deters(1998)_230K_210-500nm(1nm).txt,Averages over 1-nm intervals of the spectrum measured at a spectral resolution of 0.23-0.46 nm between 200 and 660 nm,BrONO2,bromine nitrate,"
+
+  B. Deters, J.P. Burrows, and J. Orphal, ""UV-visible absorption cross sections of bromine nitrate determined by photolysis of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Deters(1998)_230K_210-500nm(1nm).csv
+230.0,Deters(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Deters(1998)_230K_210-500nm(5nm).txt,Data as listed in the paper at 5-nm intervals (which obviously have been selected from the averages over 1-nm intervals),BrONO2,bromine nitrate,"
+
+  B. Deters, J.P. Burrows, and J. Orphal, ""UV-visible absorption cross sections of bromine nitrate determined by photolysis of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Deters(1998)_230K_210-500nm(5nm).csv
+298.0,Deters(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Deters(1998)_298K_210-500nm(1nm).txt,Averages over 1-nm intervals of the spectrum measured at a spectral resolution of 0.23-0.46 nm between 200 and 660 nm,BrONO2,bromine nitrate,"
+
+  B. Deters, J.P. Burrows, and J. Orphal, ""UV-visible absorption cross sections of bromine nitrate determined by photolysis of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Deters(1998)_298K_210-500nm(1nm).csv
+298.0,Deters(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_Deters(1998)_298K_210-500nm(5nm).txt,Data as listed in the paper at 5-nm intervals (which obviously have been selected from the averages over 1-nm intervals),BrONO2,bromine nitrate,"
+
+  B. Deters, J.P. Burrows, and J. Orphal, ""UV-visible absorption cross sections of bromine nitrate determined by photolysis of BrONO",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_Deters(1998)_298K_210-500nm(5nm).csv
+230.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_IUPAC(2007)_230K_200-500nm(rec).txt,IUPAC(2007) recommendation:,BrONO2,bromine nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_IUPAC(2007)_230K_200-500nm(rec).csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_IUPAC(2007)_298K_200-500nm(rec).txt,IUPAC(2007) recommendation:,BrONO2,bromine nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_IUPAC(2007)_298K_200-500nm(rec).csv
+298.0,JPL-2002(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_JPL-2002(2002)_298K_200-500nm(rec,corr).txt","JPL-2002 recommendation, adopting the earlier recommendation of ",BrONO2,bromine nitrate,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+","data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_JPL-2002(2002)_298K_200-500nm(rec,corr).csv"
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO2_JPL-2010(2011)_298K_200-500nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",BrONO2,bromine nitrate,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/BrONO2/BrONO2_JPL-2010(2011)_298K_200-500nm(rec).csv

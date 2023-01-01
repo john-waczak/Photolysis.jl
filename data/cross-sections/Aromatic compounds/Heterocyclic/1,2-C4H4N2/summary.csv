@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Holland(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2-C4H4N2_Holland(2013)_298K_31.02-279.58nm.txt",Absorption measurements using a synchrotron radiation source; spectral resolution 0.1 nm FWHM,"1,2-C4H4N2","pyridazine, 1,2-diazine","
+
+  D.M.P. Holland, D.A. Shaw, S. Coriani, M. Stener, and P. Decleva, ""A study of the valence shell electronic states of pyridazine by photoabsorption spectroscopy and time-dependent density functional theory calculations"",
+  J. Phys. B: At. Mol. Opt. Phys. 46, 175103 (15 pp.) (2013); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,2-C4H4N2/1,2-C4H4N2_Holland(2013)_298K_31.csv"
+353.0,Samir(2020),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2-C4H4N2_Samir(2020)_353K_220-380nm.txt",Absorption measurements using a D,"1,2-C4H4N2","pyridazine, 1,2-diazine","
+
+  B. Samir, C. Kalalian, E. Roth, R. Salghi, and A. Chakir, ""Gas-phase UV absorption spectra of pyrazine, pyrimidine and pyridazine"",
+  Chem. Phys. Lett. 751, 137469 (2020);
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,2-C4H4N2/1,2-C4H4N2_Samir(2020)_353K_220-380nm.csv"

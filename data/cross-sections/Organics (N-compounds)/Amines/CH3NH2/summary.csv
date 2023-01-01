@@ -1,0 +1,45 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Bertrand(1975)_298K_123.6nm.txt,Kr resonance line as a light source,CH3NH2,methylamine,"
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Bertrand(1975)_298K_123.csv
+298.0,Burton(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Burton(1994)_298K_4.9-225nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CH3NH2,methylamine,"
+
+  G.R. Burton, W.F. Chan, G. Cooper, C.E. Brion, A. Kumar, and W. Meath, ""Valence shell absolute photoabsorption oscillator strengths, constrained dipole oscillator strength distributions, and dipole properties for CH",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Burton(1994)_298K_4.csv
+298.0,Hubin-Franskin(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Hubin-Franskin(2002)_298K_138-249nm.txt,High-resolution (0.05 nm) UV-VUV photon absorption spectrum recorded at 5.0-9.0 eV using synchrotron radiation,CH3NH2,methylamine,"
+
+  M.-J. Hubin-Franskin, J. Delwiche, A. Giuliani, M.-P. Ska, F. Motte-Tollet, I.C. Walker, N.J. Mason, J.M. Gingell, and N.C. Jones, ""Electronic excitation and optical cross sections of methylamine and ethylamine in the UV-VUV spectral region"",
+  J. Chem. Phys. 116, 9261-9268 (2002); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Hubin-Franskin(2002)_298K_138-249nm.csv
+298.0,Hubin-Franskin(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Hubin-Franskin(2002)_298K_83-247nm.txt,Electron energy loss spectrum (EELS) recorded at 100 eV; energy loss energy converted to wavelengths,CH3NH2,methylamine,"
+
+  M.-J. Hubin-Franskin, J. Delwiche, A. Giuliani, M.-P. Ska, F. Motte-Tollet, I.C. Walker, N.J. Mason, J.M. Gingell, and N.C. Jones, ""Electronic excitation and optical cross sections of methylamine and ethylamine in the UV-VUV spectral region"",
+  J. Chem. Phys. 116, 9261-9268 (2002); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Hubin-Franskin(2002)_298K_83-247nm.csv
+298.0,Meller(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Meller(1999)_298K_187-258nm.txt,High-resolution (0.08 nm) absorption cross sections obtained by personal communication from Richard Meller (1999),CH3NH2,methylamine,"
+
+  R. Meller, unpublished results, 1999, Max-Planck-Institut für Chemie, Mainz, Germany
+
+
+",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Meller(1999)_298K_187-258nm.csv
+298.0,Tannenbaum(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Tannenbaum(1953)_298K_153.8-254.8nm.txt,Absorption measurements by photographic spectrophotometry using flowing and static vapors and hydrogen lamps as light sources,CH3NH2,methylamine,"
+
+  E. Tannenbaum, E.M. Coffin, and A.J. Harrison, ""The far ultraviolet absorption spectra of simple alkyl amines"",
+  J. Chem. Phys. 21, 311-318 (1953); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Tannenbaum(1953)_298K_153.csv
+298.0,Tannenbaum(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Amines/CH3NH2_Tannenbaum(1953)_298K_174,215nm(max).txt",Absorption measurements by photographic spectrophotometry using flowing and static vapors and hydrogen lamps as light sources,CH3NH2,methylamine,"
+
+  E. Tannenbaum, E.M. Coffin, and A.J. Harrison, ""The far ultraviolet absorption spectra of simple alkyl amines"",
+  J. Chem. Phys. 21, 311-318 (1953); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Amines/CH3NH2/CH3NH2_Tannenbaum(1953)_298K_174,215nm(max).csv"

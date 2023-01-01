@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Pilipovich(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/ClF_Pilipovich(1972)_298K_187.5-309.6nm.txt,"Absorption coefficients k (Torr, 298 K)",ClF,chlorine monofluoride,"
+
+  D. Pilipovich, H. Rogers, and R. D. Wilson, ""Chlorine trifluoride oxide. II. Photochemical synthesis"",
+  Inorg. Chem. 11, 2192-2195 (1972);
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/ClF/ClF_Pilipovich(1972)_298K_187.csv

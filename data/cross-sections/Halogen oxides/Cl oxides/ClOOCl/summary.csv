@@ -1,0 +1,158 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+250.0,Burkholder(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Burkholder(1988)_250K_211.9-426.8nm(0.1nm).txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J.B. Burkholder, personal communication (1988) to",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Burkholder(1988)_250K_211.csv
+250.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Burkholder(1990)_250K_212-404nm.txt,A discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Burkholder(1990)_250K_212-404nm.csv
+250.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Burkholder(1990)_250K_212-410nm(2nm).txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Burkholder(1990)_250K_212-410nm(2nm).csv
+250.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Burkholder(1990)_250K_245nm(max).txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Burkholder(1990)_250K_245nm(max).csv
+200.0,Chen(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Chen(2009)_200K_308,351nm(photodiss.%20cross%20sect.).txt","Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  H.-Y. Chen, C.Y. Lien, W.-Y. Lin, Y.T. Lee, and J.J. Jim J. Lin, ""UV absorption cross sections of ClOOCl are consistent with ozone degradation models"",
+  Science 324, 781-784 (2009); 
+
+
+  DOI: ","data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Chen(2009)_200K_308,351nm(photodiss.csv"
+250.0,Chen(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Chen(2009)_250K_308,351nm(photodiss.%20cross%20sect.).txt","Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  H.-Y. Chen, C.Y. Lien, W.-Y. Lin, Y.T. Lee, and J.J. Jim J. Lin, ""UV absorption cross sections of ClOOCl are consistent with ozone degradation models"",
+  Science 324, 781-784 (2009); 
+
+
+  DOI: ","data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Chen(2009)_250K_308,351nm(photodiss.csv"
+265.0,CoxHayman(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_CoxHayman(1988)_265K_219.7-360.0nm.txt,Photolytic technique (Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  R.A. Cox and G.D. Hayman, ""The stability and photochemistry of dimers of the ClO radical and implications for Antarctic ozone depletion"",
+  Nature 332, 796-800 (1988); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_CoxHayman(1988)_265K_219.csv
+206.0,DeMoreTschuikow(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_DeMoreTschuikow(1990)_206K_190-400nm.txt,Photolysis (λ > 300 nm) of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  W.B. DeMore and E. Tschuikow-Roux, ""Ultraviolet spectrum and chemical reactivity of the ClO dimer"",
+  J. Phys. Chem. 94, 5856-5860 (1990); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_DeMoreTschuikow(1990)_206K_190-400nm.csv
+195.0,HuderDeMore(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_HuderDeMore(1995)_195K_200-450nm.txt,Photolysis (λ > 300 nm) of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  K.J. Huder and W.B. DeMore, ""Absorption cross sections of the ClO dimer"",
+  J. Phys. Chem. 99, 3905-3908 (1995); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_HuderDeMore(1995)_195K_200-450nm.csv
+200.0,Jin(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Jin(2010)_200K_330nm(photodiss.%20cross%20sect.).txt,"Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl ( presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  B. Jin, I-C. Chen, W.T. Huang, C.Y. Lien, N. Guchhait, and J.J. Lin, ""Photodissociation cross section of ClOOCl at 330 nm"",
+  J. Phys. Chem. A 114, 4791-4797 (2010); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Jin(2010)_200K_330nm(photodiss.csv
+250.0,Jin(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Jin(2010)_250K_330nm(photodiss.%20cross%20sect.).txt,"Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  B. Jin, I-C. Chen, W.T. Huang, C.Y. Lien, N. Guchhait, and J.J. Lin, ""Photodissociation cross section of ClOOCl at 330 nm"",
+  J. Phys. Chem. A 114, 4791-4797 (2010); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Jin(2010)_250K_330nm(photodiss.csv
+200.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_JPL-2015(2015)_200K_200-535nm(rec).txt,JPL-2015(2015) and JPL-2019(2020) recommendations:,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
+  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_JPL-2015(2015)_200K_200-535nm(rec).csv
+160.0,Lien(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Lien(2009)_160K_248.4nm(photodiss.%20cross%20sect.).txt,"Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield of Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  C.-Y. Lien, W.-Y. Lin, H.-Y. Chen, W.-T. Huang, B. Jin, I-Cheng Chen, and J.J. Lin, ""Photodissociation cross sections of ClOOCl at 248.4 and 266 nm"",
+  J. Chem. Phys. 131, 174301-1 -174301-6 (2009); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Lien(2009)_160K_248.csv
+200.0,Lien(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Lien(2009)_200K_248.4,266nm(photodiss.%20cross%20sect.).txt","Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  C.-Y. Lien, W.-Y. Lin, H.-Y. Chen, W.-T. Huang, B. Jin, I-Cheng Chen, and J.J. Lin, ""Photodissociation cross sections of ClOOCl at 248.4 and 266 nm"",
+  J. Chem. Phys. 131, 174301-1 -174301-6 (2009); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Lien(2009)_200K_248.csv
+200.0,Lien(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Lien(2009)_200K_248.4nm.txt,Absorption cross section at the KrF excimer laser line,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  C.-Y. Lien, W.-Y. Lin, H.-Y. Chen, W.-T. Huang, B. Jin, I-Cheng Chen, and J.J. Lin, ""Photodissociation cross sections of ClOOCl at 248.4 and 266 nm"",
+  J. Chem. Phys. 131, 174301-1 -174301-6 (2009); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Lien(2009)_200K_248.csv
+260.0,Lien(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Lien(2009)_260K_248.4nm(photodiss.%20cross%20sect.).txt,"Photodissociation cross section (Φσ), i.e., the product of the dissociation quantum yield Φ of ClOOCl (presumably = 1) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  C.-Y. Lien, W.-Y. Lin, H.-Y. Chen, W.-T. Huang, B. Jin, I-Cheng Chen, and J.J. Lin, ""Photodissociation cross sections of ClOOCl at 248.4 and 266 nm"",
+  J. Chem. Phys. 131, 174301-1 -174301-6 (2009); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Lien(2009)_260K_248.csv
+223.0,McKeachie(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_McKeachie(2004)_223K_234-398nm.txt,OClO + O radical source (dry flow tube) for the preparation of ClOOCl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  J.R. McKeachie, M.F. Appel, U. Kirchner, R.N. Schindler, and T. Benter, ""Observation of a heterogeneous source of OClO from the reaction of ClO radicals on ice"",
+  J. Phys. Chem. B 108, 16786-16796 (2004); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_McKeachie(2004)_223K_234-398nm.csv
+200.0,Papanastasiou(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Papanastasiou(2009)_200K_200-420nm.txt,Absorption measurements using a deuterium lamp and a diode-array detector; resolution ∼1 nm,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  D.K. Papanastasiou, V.C. Papadimitriou, D.W. Fahey, and J.B. Burkholder, ""UV absorption spectrum of the ClO dimer (Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Papanastasiou(2009)_200K_200-420nm.csv
+200.0,Papanastasiou(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Papanastasiou(2009)_200K_420-550nm(extrapolated).txt,Absorption cross sections at 200 K have been obtained by extrapolation of the experimental data using,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  D.K. Papanastasiou, V.C. Papadimitriou, D.W. Fahey, and J.B. Burkholder, ""UV absorption spectrum of the ClO dimer (Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Papanastasiou(2009)_200K_420-550nm(extrapolated).csv
+235.0,Permien(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Permien(1988)_235K_210-298nm.txt,The dimer was prepared by reacting Cl atoms with O,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  T. Permien, R. Vogt, and R.N. Schindler, ""Absorption spectra of HOCl and Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Permien(1988)_235K_210-298nm.csv
+193.0,Pope(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Pope(2007)_193K_226-355nm.txt,"ClOOCl was generated by laser photolysis of chlorine in the presence of ozone, or by photolysis of ozone in the presence of  CF",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  F.D. Pope, J.C. Hansen, K.D. Bayes, R.R. Friedl, and S.P. Sander, ""The ultraviolet absorption spectrum of chlorine peroxide, ClOOCl"",
+  J. Phys. Chem. A 111, 4322-4332 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Pope(2007)_193K_226-355nm.csv
+230.0,VogtSchindler(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_VogtSchindler(1990)_230K_203.2-372.0nm.txt,"The chlorine oxide dimer has been prepared in a discharge flow system by reacting Cl atoms with an excess of ozone, and absorption measurements were carried out in situ at 230 K in a multipass cell using a diode array detector",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  R. Vogt and R.N. Schindler, ""Photochemical investigations on the atmospheric chlorine-reservoir compounds HOCl and Cl",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_VogtSchindler(1990)_230K_203.csv
+240.0,Wilmouth(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Wilmouth(2009)_240K_248,308,352nm(photodiss.%20cross%20sect.).txt","Photodissociation cross section (Φσ), i.e., the product of the quantum yield Φ of the Cl atom production channel of ClOOCl (presumably 0.9 - 1.0) and the ClOOCl absorption cross section σ",ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  D.M. Wilmouth, T.F. Hanisco, R.M. Stimpfle, and J.G. Anderson, ""Chlorine-catalyzed ozone destruction: Cl atom production from ClOOCl photolysis"",
+  J. Phys. Chem. A 113, 14099-14108 (2009); 
+
+
+  DOI: ","data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Wilmouth(2009)_240K_248,308,352nm(photodiss.csv"
+197.0,Young(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Young(2014)_197K_200.0-346.5nm(0.5nm).txt,Photolysis of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  I.A.K. Young, R.L. Jones, and F.D. Pope, ""The UV and visible spectra of chlorine peroxide: Constraining the atmospheric photolysis rate"",
+  Geophys. Res. Lett. 41, 1781–1788 (2014); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Young(2014)_197K_200.csv
+197.0,Young(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Young(2014)_197K_200-345nm(5nm).txt,Photolysis of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  I.A.K. Young, R.L. Jones, and F.D. Pope, ""The UV and visible spectra of chlorine peroxide: Constraining the atmospheric photolysis rate"",
+  Geophys. Res. Lett. 41, 1781–1788 (2014); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Young(2014)_197K_200-345nm(5nm).csv
+197.0,Young(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Young(2014)_197K_509.0-536.0nm(0.5nm).txt,Photolysis of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  I.A.K. Young, R.L. Jones, and F.D. Pope, ""The UV and visible spectra of chlorine peroxide: Constraining the atmospheric photolysis rate"",
+  Geophys. Res. Lett. 41, 1781–1788 (2014); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Young(2014)_197K_509.csv
+197.0,Young(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Young(2014)_197K_510-535nm(5nm).txt,Photolysis of Cl,ClOOCl,"dichlorine dioxide, chlorine monoxide dimer, chlorine peroxide","
+
+  I.A.K. Young, R.L. Jones, and F.D. Pope, ""The UV and visible spectra of chlorine peroxide: Constraining the atmospheric photolysis rate"",
+  Geophys. Res. Lett. 41, 1781–1788 (2014); 
+
+
+  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/ClOOCl/ClOOCl_Young(2014)_197K_510-535nm(5nm).csv

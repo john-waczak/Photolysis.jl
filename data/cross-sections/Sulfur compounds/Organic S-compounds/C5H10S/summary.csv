@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Planckaert(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C5H10S_Planckaert(1974)_298K_120.7-227.5nm.txt,The spectrum was photoelectrically recorded using a hydrogen discharge tube as the light source,C5H10S,tetrahydrothiopyrane,"
+
+  A.A. Planckaert, J. Doucet, and C. Sandorfy, ""Comparative study of the vacuum ultraviolet absorption and photoelectron spectra of some simple ethers and thioethers"",
+  J. Chem. Phys. 60, 4846-4853 (1974); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C5H10S/C5H10S_Planckaert(1974)_298K_120.csv

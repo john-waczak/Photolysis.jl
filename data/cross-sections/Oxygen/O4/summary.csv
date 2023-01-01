@@ -1,0 +1,196 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,ChenVenables(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ChenVenables(2011)_296K_360.1nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  J. Chen and D.S. Venables, ""A broadband optical cavity spectrometer for measuring weak near-ultraviolet absorption spectra of gases"",
+  Atmos. Meas. Tech. 4, 425-436 (2011); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_ChenVenables(2011)_296K_360.csv
+223.0,FinkenzellerVolkamer(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_FinkenzellerVolkamer(2022)_223K_297-500nm(vac).txt,Oxygen-oxygen collision induced absorption (CIA) cross sections have been measured at spectral resolutions of 0.31 to 0.42 nm,O4,oxygen dimer,"
+
+  H. Finkenzeller and R. Volkamer, ""O",data/cross-sections/Oxygen/O4/O4_FinkenzellerVolkamer(2022)_223K_297-500nm(vac).csv
+263.0,FinkenzellerVolkamer(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_FinkenzellerVolkamer(2022)_263K_297-500nm(vac).txt,Oxygen-oxygen collision induced absorption (CIA) cross sections have been measured at spectral resolutions of 0.31 to 0.42 nm,O4,oxygen dimer,"
+
+  H. Finkenzeller and R. Volkamer, ""O",data/cross-sections/Oxygen/O4/O4_FinkenzellerVolkamer(2022)_263K_297-500nm(vac).csv
+293.0,FinkenzellerVolkamer(2022),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_FinkenzellerVolkamer(2022)_293K_297-500nm(vac).txt,Oxygen-oxygen collision induced absorption (CIA) cross sections have been measured at spectral resolutions of 0.31 to 0.42 nm,O4,oxygen dimer,"
+
+  H. Finkenzeller and R. Volkamer, ""O",data/cross-sections/Oxygen/O4/O4_FinkenzellerVolkamer(2022)_293K_297-500nm(vac).csv
+196.0,Greenblatt(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Greenblatt(1990)_196K_360.5,380.2,477.3nm(max).txt",The absorption spectra of O,O4,oxygen dimer,"
+
+  G.D. Greenblatt, J.J. Orlando, J.B. Burkholder, and A.R. Ravishankara, ""Absorption measurements of oxygen between 330 and 1140 nm"",
+  J. Geophys. Res. 95(D11), 18577-18582 (1990); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Greenblatt(1990)_196K_360.csv
+296.0,Greenblatt(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Greenblatt(1990)_296K_343.3-1065.2nm(max).txt,The absorption spectra of O,O4,oxygen dimer,"
+
+  G.D. Greenblatt, J.J. Orlando, J.B. Burkholder, and A.R. Ravishankara, ""Absorption measurements of oxygen between 330 and 1140 nm"",
+  J. Geophys. Res. 95(D11), 18577-18582 (1990); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Greenblatt(1990)_296K_343.csv
+298.0,He(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_He(2021)_298K_307.000-668.019nm.txt,Absorption measurements at a resolution of 0.8 nm using broadband cavity-enhanced spectroscopy (BBCES) with a laser-driven Xenon arc lamp source,O4,oxygen dimer,"
+
+  Q. He,  Z. Fang, O. Shoshanim, S.S. Brown, and Y. Rudich, ""Scattering and absorption cross sections of atmospheric gases in the ultraviolet–visible wavelength range (307–725 nm)"",
+  Atmos. Chem. Phys. 21, 14927–14940 (2021);
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_He(2021)_298K_307.csv
+298.0,Hermans(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Hermans(2011)_298K_335.59-666.63nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  C. Hermans, ""BIRA-IASB Spectroscopy Lab"",
+  http://spectrolab.aeronomie.be/index.htm
+
+
+",data/cross-sections/Oxygen/O4/O4_Hermans(2011)_298K_335.csv
+293.0,Lampel(2018),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Lampel(2018)_293K_328.59,419.13nm(max).txt","Using long-path differential  optical absorption spectroscopy (LP-DOAS) observations and multi-axis DOAS (MAX-DOAS) observations, the peak absorption cross sections of O",O4,oxygen dimer,"
+
+  J. Lampel, J. Zielcke, S. Schmitt, D. Pöhler, U. Frieß, U. Platt, and T. Wagner, ""Detection of O",data/cross-sections/Oxygen/O4/O4_Lampel(2018)_293K_328.csv
+87.0,LongEwing(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_LongEwing(1973)_87K_577nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  C.A. Long, and G.E. Ewing, ""Spectroscopic investigation of van der Waals molecules. I. The infrared and visible spectra of (O",data/cross-sections/Oxygen/O4/O4_LongEwing(1973)_87K_577nm(max).csv
+113.0,McKellar(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_McKellar(1972)_113K_477,577,630nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  A.R.W. McKellar, N.H. Rich, and H.L. Welsh, ""Collision-induced vibrational and electronic spectra of gaseous oxygen at low temperatures"",
+  Can. J. Phys. 50, 1-9 (1972); 
+
+
+  DOI: ","data/cross-sections/Oxygen/O4/O4_McKellar(1972)_113K_477,577,630nm(max).csv"
+295.0,McKellar(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_McKellar(1972)_295K_477,577,630nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  A.R.W. McKellar, N.H. Rich, and H.L. Welsh, ""Collision-induced vibrational and electronic spectra of gaseous oxygen at low temperatures"",
+  Can. J. Phys. 50, 1-9 (1972); 
+
+
+  DOI: ","data/cross-sections/Oxygen/O4/O4_McKellar(1972)_295K_477,577,630nm(max).csv"
+90.0,McKellar(1972),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_McKellar(1972)_90K_477,577,630nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  A.R.W. McKellar, N.H. Rich, and H.L. Welsh, ""Collision-induced vibrational and electronic spectra of gaseous oxygen at low temperatures"",
+  Can. J. Phys. 50, 1-9 (1972); 
+
+
+  DOI: ","data/cross-sections/Oxygen/O4/O4_McKellar(1972)_90K_477,577,630nm(max).csv"
+132.0,Morville(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Morville(2002)_132K_575.3,629.3nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  J. Morville, D. Romanini, A. Campargue, and R. Bacis, ""OPO-pulsed CRDS of the visible collision induced absorption bands of oxygen at low temperature"",
+  Chem. Phys. Lett. 363, 498-504 (2002); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Morville(2002)_132K_575.csv
+192.5,Morville(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Morville(2002)_192.5K_577.3,629.3nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  J. Morville, D. Romanini, A. Campargue, and R. Bacis, ""OPO-pulsed CRDS of the visible collision induced absorption bands of oxygen at low temperature"",
+  Chem. Phys. Lett. 363, 498-504 (2002); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Morville(2002)_192.csv
+296.0,Morville(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Morville(2002)_296K_576.3,629.3nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  J. Morville, D. Romanini, A. Campargue, and R. Bacis, ""OPO-pulsed CRDS of the visible collision induced absorption bands of oxygen at low temperature"",
+  Chem. Phys. Lett. 363, 498-504 (2002); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Morville(2002)_296K_576.csv
+294.0,NausUbachs(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_NausUbachs(1999)_294K_577.2,630.0nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  H. Naus and W. Ubachs, ""Visible absorption bands of the (O2)2 collision complex at pressures below 760 Torr"",
+  Appl. Opt. 38, 3423-3428 (1999); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_NausUbachs(1999)_294K_577.csv
+223.0,NewnhamBallard(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_NewnhamBallard(1998)_223K_477.3-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  D.A. Newnham and J. Ballard, ""Visible absorption cross sections and integrated absorption intensities of molecular oxygen (O",data/cross-sections/Oxygen/O4/O4_NewnhamBallard(1998)_223K_477.csv
+283.0,NewnhamBallard(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_NewnhamBallard(1998)_283K_477.3-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  D.A. Newnham and J. Ballard, ""Visible absorption cross sections and integrated absorption intensities of molecular oxygen (O",data/cross-sections/Oxygen/O4/O4_NewnhamBallard(1998)_283K_477.csv
+204.0,Osterkamp(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Osterkamp(1998)_204K_477.3,532.2,577.2nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  H. Osterkamp, F. Ferleman, H. Harder, D. Perner, U. Platt, M. Schneider, and K. Pfeilsticker, ""First measurement of the atmospheric O",data/cross-sections/Oxygen/O4/O4_Osterkamp(1998)_204K_477.csv
+256.0,Osterkamp(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Osterkamp(1998)_256K_477.3,532.2,577.2nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  H. Osterkamp, F. Ferleman, H. Harder, D. Perner, U. Platt, M. Schneider, and K. Pfeilsticker, ""First measurement of the atmospheric O",data/cross-sections/Oxygen/O4/O4_Osterkamp(1998)_256K_477.csv
+279.0,PernerPlatt(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_PernerPlatt(1980)_279K_343.4-577.2nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  D. Perner and U. Platt, ""Absorption of light in the atmosphere by collision pairs of oxygen (O",data/cross-sections/Oxygen/O4/O4_PernerPlatt(1980)_279K_343.csv
+300.0,ShardanandPrasadRao(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ShardanandPrasadRao(1977)_300K_200-250nm.txt,The listed data are the cross sections σ,O4,oxygen dimer,"
+
+  Shardanand and A.D. Prasad Rao, ""Collision-induced absorption of O",data/cross-sections/Oxygen/O4/O4_ShardanandPrasadRao(1977)_300K_200-250nm.csv
+184.0,Sneep(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Sneep(2006)_184K_477.25nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  M. Sneep, D. Ityaksov, I. Aben, H. Linnartz, and W. Ubachs, ""Temperature-dependent cross sections of O",data/cross-sections/Oxygen/O4/O4_Sneep(2006)_184K_477.csv
+190.0,Sneep(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Sneep(2006)_190K_577.6nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  M. Sneep, D. Ityaksov, I. Aben, H. Linnartz, and W. Ubachs, ""Temperature-dependent cross sections of O",data/cross-sections/Oxygen/O4/O4_Sneep(2006)_190K_577.csv
+230.0,Sneep(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Sneep(2006)_230K_477.47nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  M. Sneep, D. Ityaksov, I. Aben, H. Linnartz, and W. Ubachs, ""Temperature-dependent cross sections of O",data/cross-sections/Oxygen/O4/O4_Sneep(2006)_230K_477.csv
+268.0,Sneep(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Sneep(2006)_268K_577.3nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  M. Sneep, D. Ityaksov, I. Aben, H. Linnartz, and W. Ubachs, ""Temperature-dependent cross sections of O",data/cross-sections/Oxygen/O4/O4_Sneep(2006)_268K_577.csv
+294.0,Sneep(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Sneep(2006)_294K_477.79nm(max).txt,Maximum of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  M. Sneep, D. Ityaksov, I. Aben, H. Linnartz, and W. Ubachs, ""Temperature-dependent cross sections of O",data/cross-sections/Oxygen/O4/O4_Sneep(2006)_294K_477.csv
+296.0,Spiering(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Spiering(2010)_296K_753-771nm.txt,Collisionally induced absorption spectrum of oxygen in the A band measured using cavity ring-down spectroscopy and attributed to (O,O4,oxygen dimer,"
+
+  F.R. Spiering, M.B. Kiseleva, N.N. Filippov, H. Naus, B.v. Lieshout, C. Weijenborg, and W.J.van der Zande, ""Line mixing and collision induced absorption in the oxygen A-band using cavity ring-down spectroscopy"",
+  J. Chem. Phys. 133, 114305-1 - 114305-9 (2010); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Spiering(2010)_296K_753-771nm.csv
+296.0,Spiering(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Spiering(2011)_296K_678-695nm.txt,Collisionally induced absorption spectrum of oxygen in the B band measured using cavity ring-down spectroscopy and attributed to (O,O4,oxygen dimer,"
+
+  F.R. Spiering, M.B. Kiseleva, V.v. Kesterena, and W.J.van der Zande, ""Collision-induced absorption in the O",data/cross-sections/Oxygen/O4/O4_Spiering(2011)_296K_678-695nm.csv
+203.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_203K_335.749-600.802nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_203K_335.csv
+203.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_203K_344.0-630.1nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_203K_344.csv
+213.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_213K_344.0-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_213K_344.csv
+233.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_233K_335.646-600.033nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_233K_335.csv
+233.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_233K_343.95-630.1nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_233K_343.csv
+253.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_253K_335.147-595.957nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_253K_335.csv
+253.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_253K_344.0-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_253K_344.csv
+273.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_273K_335.696-599.976nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_273K_335.csv
+273.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_273K_343.85-630.1nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_273K_343.csv
+293.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_293K_335.749-600.802nm.txt,Collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_293K_335.csv
+293.0,ThalmanVolkamer(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_293K_446.52-630.20nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_293K_446.csv
+295.0,ThalmanVolkamer(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_ThalmanVolkamer(2013)_295K_343.90,360.97,380.32nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Thalman and R. Volkamer, ""Temperature dependent absorption cross-sections of O",data/cross-sections/Oxygen/O4/O4_ThalmanVolkamer(2013)_295K_343.csv
+295.0,Tiedje(2001),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Tiedje(2001)_295K_577,630nm(max).txt",Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  H.F. Tiedje, S. DeMille, L. MacArthur, and R.L. Brooks, ""Cavity ring-down spectroscopy of transient O","data/cross-sections/Oxygen/O4/O4_Tiedje(2001)_295K_577,630nm(max).csv"
+296.0,Volkamer(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Volkamer(1996)_296K_360.5-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  R. Volkamer, ""Absorption von Sauerstoff im Herzberg I System und Anwendungen auf die Aromatenmessungen am EUropran PHOto REactor (EUPHORE)"",
+  Diploma thesis, Univ. of Heidelberg, Germany, 1996
+
+
+",data/cross-sections/Oxygen/O4/O4_Volkamer(1996)_296K_360.csv
+242.0,Wagner(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Oxygen/O4_Wagner(2002)_242K_360.5-630.0nm(max).txt,Maxima of the collisionally induced absorption spectrum of oxygen attributed to the oxygen dimer (O,O4,oxygen dimer,"
+
+  T. Wagner, C. von Friedeburg, M. Wenig, C. Otten, and U. Platt, ""UV-visible observations of atmospheric O4 absorptions using direct moonlight and zenith-scattered sunlight for clear-sky and cloudy sky conditions"",
+  J. Geophys. Res. 107(D20), 4424 (2002); 
+
+
+  DOI: ",data/cross-sections/Oxygen/O4/O4_Wagner(2002)_242K_360.csv

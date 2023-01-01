@@ -1,0 +1,144 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bahou(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Bahou(2001)_298K_135-230nm.txt,Selected values at 2.5- and 5-nm intervals of the absorption cross sections measured at a spectral resolution of 0.1-nm using synchrotron radiation by,HCl,hydrogen chloride,"
+
+  M. Bahou, C.-Y. Chung, Y.-P. Lee, B.-M. Cheng, Y.L. Yung, and L.C. Lee, ""Absorption cross sections for HCl and DCl at 135-232 nm: implications for photodissociation on Venus"",
+  Astrophys. J. 559, L179-L182 (2001); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Bahou(2001)_298K_135-230nm.csv
+298.0,Brion(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Brion(2005)_298K_35.35-247.97nm(e,e).txt","Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HCl,hydrogen chloride,"
+
+  C.E. Brion, M. Dyck, and C. G., ""Absolute photoabsorption cross-sections (oscillator strengths) for valence and inner shell excitations in hydrogen chloride, hydrogen bromide and hydrogen iodide"",
+  J. Electron Spectrosc. Related Phenom. 144-147, 127-130 (2005); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Brion(2005)_298K_35.csv
+298.0,Brion(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Brion(2005)_298K_4.4-206.6nm(e,e).txt","Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HCl,hydrogen chloride,"
+
+  C.E. Brion, M. Dyck, and C. G., ""Absolute photoabsorption cross-sections (oscillator strengths) for valence and inner shell excitations in hydrogen chloride, hydrogen bromide and hydrogen iodide"",
+  J. Electron Spectrosc. Related Phenom. 144-147, 127-130 (2005); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Brion(2005)_298K_4.csv
+298.0,Cheng(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Cheng(2002)_298K_120.8-153.9nm(max).txt,Absorption measurements at a spectral resolution of 0.1-nm using synchrotron radiation,HCl,hydrogen chloride,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, and L.C. Lee, ""Quantitative spectral analysis of HCl and DCl in 120-220 nm: Effects of singlet-triplet mixing"",
+  J. Chem. Phys. 117, 4293-4298 (2002); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Cheng(2002)_298K_120.csv
+298.0,Cheng(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Cheng(2002)_298K_134-230nm.txt,Absorption measurements at a spectral resolution of 0.1-nm using synchrotron radiation,HCl,hydrogen chloride,"
+
+  B.-M. Cheng, C.-Y. Chung, M. Bahou, Y.-P. Lee, and L.C. Lee, ""Quantitative spectral analysis of HCl and DCl in 120-220 nm: Effects of singlet-triplet mixing"",
+  J. Chem. Phys. 117, 4293-4298 (2002); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Cheng(2002)_298K_134-230nm.csv
+298.0,Daviel(1984),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Daviel(1984)_298K_31-155nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HCl,hydrogen chloride,"
+
+  S. Daviel, Y. Iida, F. Carnovale, C.E. Brion, ""Absolute oscillator-strengths for the partial photoionization, ionic fragmentation and photoabsorption of HCl"",
+  Chem. Phys. 83, 391-406 (1984); 
+
+
+  DOI: ","data/cross-sections/Hydrogen halides/HCl/HCl_Daviel(1984)_298K_31-155nm(e,e).csv"
+298.0,Hanf(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Hanf(2003)_298K_135,193nm.txt",Absorption cross sections at the laser lines used in the gas-phase photolysis experiments,HCl,hydrogen chloride,"
+
+  A. Hanf, A. Läuter, and H.-R. Volpp, ""Absolute chlorine atom quantum yield measurements in the UV and VUV gas-laser photolysis of CCl","data/cross-sections/Hydrogen halides/HCl/HCl_Hanf(2003)_298K_135,193nm.csv"
+298.0,Inn(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Inn(1975)_298K_140-220nm.txt,Measurements in the absorption continuum of Cl,HCl,hydrogen chloride,"
+
+  E.C.Y. Inn, ""Absorption coefficient of HCl in the region 1400 to 2200 Å"",
+  J. Atmos. Sci. 32, 2375-2377 (1975); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Inn(1975)_298K_140-220nm.csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_IUPAC(2007)_298K_135-230nm(rec).txt,IUPAC(2007) recommendation (JPL-2006 recommendation adopted):,HCl,hydrogen chloride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_IUPAC(2007)_298K_135-230nm(rec).csv
+298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_JPL-2002(2002)_298K_140-220nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",HCl,hydrogen chloride,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Hydrogen halides/HCl/HCl_JPL-2002(2002)_298K_140-220nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_JPL-2010(2011)_298K_135-230nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",HCl,hydrogen chloride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Hydrogen halides/HCl/HCl_JPL-2010(2011)_298K_135-230nm(rec).csv
+298.0,Mo(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Mo(1992)_298K_193nm.txt,Absorption cross section at the the 193 nm laser line,HCl,hydrogen chloride,"
+
+  Y. Mo, K. Tonokura, Y. Matsumi, M. Kawasaki, T. Sato, T. Arikawa, P.T.A. Reilly, Y. Xie, Y. Yang, Y. Huang, and R.J. Gordon, ""Mechanisms of the ultraviolet photodissociation of chloroethylens determined from the Doppler profiles, spatial anisotropy, and power dependence of the photofragments"",
+  J. Chem. Phys. 97, 4815-4826 (1992); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Mo(1992)_298K_193nm.csv
+298.0,MyerSamson(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_MyerSamson(1970)_298K_134-215nm.txt,Absorption measurements at a spectral resolution of 0.025 nm,HCl,hydrogen chloride,"
+
+  J.A. Myer and J.A.R. Samson, ""Vacuum-ultraviolet absorption cross sections of CO, HCl, and ICN between 1050 and 2100 Å"",
+  J. Chem. Phys. 52, 266-271 (1970); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_MyerSamson(1970)_298K_134-215nm.csv
+298.0,Nee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Nee(1986)_298K_106.6-113.8nm.txt,Absorption measurements at a resolution of 0.05 nm using synchroton radiation as a light source,HCl,hydrogen chloride,"
+
+  J.B. Nee, M. Suto, and L.C. Lee, ""Quantitative photoabsorption and fluorescence study of HCl in vacuum ultraviolet"",
+  J. Chem. Phys. 85, 719-724 (1986); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Nee(1986)_298K_106.csv
+298.0,Nee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Nee(1986)_298K_113.5-123.8nm.txt,Absorption measurements at a resolution of 0.05 nm using synchroton radiation as a light source,HCl,hydrogen chloride,"
+
+  J.B. Nee, M. Suto, and L.C. Lee, ""Quantitative photoabsorption and fluorescence study of HCl in vacuum ultraviolet"",
+  J. Chem. Phys. 85, 719-724 (1986); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Nee(1986)_298K_113.csv
+298.0,Nee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Nee(1986)_298K_124.0-133.9nm.txt,Absorption measurements at a resolution of 0.05 nm using synchroton radiation as a light source,HCl,hydrogen chloride,"
+
+  J.B. Nee, M. Suto, and L.C. Lee, ""Quantitative photoabsorption and fluorescence study of HCl in vacuum ultraviolet"",
+  J. Chem. Phys. 85, 719-724 (1986); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Nee(1986)_298K_124.csv
+298.0,Nee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Nee(1986)_298K_131.9-184.7nm.txt,Absorption measurements at a resolution of 0.3 nm using synchroton radiation as a light source,HCl,hydrogen chloride,"
+
+  J.B. Nee, M. Suto, and L.C. Lee, ""Quantitative photoabsorption and fluorescence study of HCl in vacuum ultraviolet"",
+  J. Chem. Phys. 85, 719-724 (1986); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Nee(1986)_298K_131.csv
+298.0,Romand(1949),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_Romand(1949)_298K_139-207nm.txt,Absorption spectra have been obtained by photographic spectrometry,HCl,hydrogen chloride,"
+
+  J. Romand, ""Absorption ultraviolette dans la région de Schumann. Étude de: ClH, BrH et IH gazeux"",
+  Ann. Phys. (Paris) 12 (No. 4), 529-590 (1949); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_Romand(1949)_298K_139-207nm.csv
+298.0,RomandVodar(1948),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_RomandVodar(1948)_298K_137-200nm.txt,Absorption spectra have been obtained by photographic spectrometry,HCl,hydrogen chloride,"
+
+  J. Romand and B. Vodar, ""Spectre d'absorption de l'acide de chlorhydrique gazeux dans la region de Schumann"",
+  Compt. Rend. Acad. Sci. Paris 226, 238-240 (1948)
+
+
+",data/cross-sections/Hydrogen halides/HCl/HCl_RomandVodar(1948)_298K_137-200nm.csv
+298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_RoxloMandl(1980)_298K_171-215nm.txt,Absorption measurements at 170-230 nm using a Xe,HCl,hydrogen chloride,"
+
+  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
+  J. Appl. Phys. 51, 2969-2972 (1980); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_RoxloMandl(1980)_298K_171-215nm.csv
+300.0,VatsaVolpp(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HCl_VatsaVolpp(2001)_300K_121.567nm.txt,Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,HCl,hydrogen chloride,"
+
+  R.K. Vatsa and H.-R. Volpp, ""Absorption cross sections for some atmospherically important molecules at the H atom Lyman-α wavelength (121.567 nm)"",
+  Chem. Phys. Lett. 340, 289-295 (2001); 
+
+
+  DOI: ",data/cross-sections/Hydrogen halides/HCl/HCl_VatsaVolpp(2001)_300K_121.csv

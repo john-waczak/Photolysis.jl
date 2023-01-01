@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Kizilkilic(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/(CH3)2C4H4O(CH3)2_Kizilkilic(1980)_298K_184.8-199.9nm.txt,The molar extinction coefficients of the substituted tetrahydrofurans studied were determined in the region from 185 nm to near 200 nm on a Cary model 17 spectrophotometer,(CH3)2C4H4O(CH3)2,"2,2,5,5-tetramethyltetrahydrofuran, 2,2,5,5-tetramethyloxolane","
+
+  N. Kizilkilic, H.-P. Schuchmann, and C. von Sonntag, ""The photolysis of tetrahydrofuran and of some of its methyl derivatives at 185 nm"",
+  Can. J. Chem. 58, 2819-2826 (1980); 
+
+
+  DOI: ",data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/(CH3)2C4H4O(CH3)2/(CH3)2C4H4O(CH3)2_Kizilkilic(1980)_298K_184.csv

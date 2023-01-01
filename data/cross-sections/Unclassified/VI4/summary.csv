@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+700.0,Gregory(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/VI4_Gregory(1994)_700K_230-500nm.txt,Molar extinction coefficients were derived from measured absorbances using concentrations based on the equilibrium constants for the reaction VI,VI4,vanadium tetraiodide,"
+
+  N.W. Gregory, ""UV-vis absorption spectrum of vanadium tetraiodide vapor and thermodynamicproperties of the vanadium iodides"",
+  J. Chem. Eng. Data 39, 922—925 (1994);
+
+
+  DOI: ",data/cross-sections/Unclassified/VI4/VI4_Gregory(1994)_700K_230-500nm.csv

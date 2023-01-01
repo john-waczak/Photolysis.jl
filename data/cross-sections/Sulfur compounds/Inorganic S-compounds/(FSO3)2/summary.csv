@@ -1,0 +1,19 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BurleyJohnston(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_BurleyJohnston(1992)_298K_180-360nm.txt,Cross-sections for 180-360 nm were obtained from Beer’s law plots at 298 K,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  J.D. Burley and H.S. Johnston, ""Photoabsorption cross-sections of (FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_BurleyJohnston(1992)_298K_180-360nm.csv
+298.0,BurleyJohnston(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_BurleyJohnston(1992)_298K_340-450nm(I).txt,Temperature-dependent measurements and extrapolation to 298 K using the equilibrium constants for,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  J.D. Burley and H.S. Johnston, ""Photoabsorption cross-sections of (FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_BurleyJohnston(1992)_298K_340-450nm(I).csv
+298.0,BurleyJohnston(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_BurleyJohnston(1992)_298K_340-450nm(II).txt,Temperature-dependent measurements and extrapolation to 298 K using the equilibrium constant for,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  J.D. Burley and H.S. Johnston, ""Photoabsorption cross-sections of (FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_BurleyJohnston(1992)_298K_340-450nm(II).csv
+293.0,Cobos(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_Cobos(1989)_293K_193,450nm.txt",A laser flash photolysis/absorption technique has been used to measure the approach to equilibrium in the FSO,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  C.J. Cobos, A.E. Croce de Cobos, H. Hippler, and E. Castellano, ""Direct determination of the limiting high-pressure rate constants of the system FSO","data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_Cobos(1989)_293K_193,450nm.csv"
+295.0,CobosCroce(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_CobosCroce(2007)_295K_240-300nm(meas).txt,Measured values at 295 K,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  C.J. Cobos and A.E. Croce, ""Evidences for a new ultraviolet absorption band of the FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_CobosCroce(2007)_295K_240-300nm(meas).csv
+295.0,CobosCroce(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/(FSO3)2_CobosCroce(2007)_295K_260-280nm(fit).txt,Fit for the 260-280-nm region:,(FSO3)2,peroxydisulfuryl difluoride,"
+
+  C.J. Cobos and A.E. Croce, ""Evidences for a new ultraviolet absorption band of the FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/(FSO3)2/(FSO3)2_CobosCroce(2007)_295K_260-280nm(fit).csv

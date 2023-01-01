@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bastian(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)6Si2_Bastian(1980)_298K_144-209nm.txt,Absorption measurements using a microwave-powered iodine lamp as a light source,(CH3)6Si2,hexamethyldisilane,"
+
+  E. Bastian, P. Potzinger, A. Ritter, H.-P. Schuchmann, C. von Sonntag, and G. Weddle, ""The direct photolysis of tetramethylsilane in the gas and liquid phases"",
+  Ber. Bunsenges. Phys. Chem. 84, 56-62 (1980);
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)6Si2/(CH3)6Si2_Bastian(1980)_298K_144-209nm.csv
+298.0,Harada(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)6Si2_Harada(1968)_298K_119-216nm.txt,"Absorption measurements (at 1-nm intervals) using a VUV normal incidence spectrometer, a hydrogen discharge lamp as a light source, and a photomultiplier",(CH3)6Si2,hexamethyldisilane,"
+
+  Y. Harada, J.N. Murrell, and H.H. Sheena, ""The far ultraviolet spectra of methylsilanes"",
+  Chem. Phys. Lett. 1, 595-596 (1968); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)6Si2/(CH3)6Si2_Harada(1968)_298K_119-216nm.csv
+298.0,Patzer(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/(CH3)6Si2_Patzer(1997)_298K_174.7-237.6nm.txt,"The absorption spectrum was recorded on a single beam apparatus incorporating a stabilized deuterium lamp, a vacuum UV monochromator and a photomultiplier",(CH3)6Si2,hexamethyldisilane,"
+
+  S. Patzer, R.N. Arthur, P. Potzinger, and H.G. Wagner,, ""Photolysis of hexamethyldisilane at 206 nm"",
+  J. Photochem. Photobiol. A: Chem. 110, 221-227 (1997); 
+
+
+  DOI: ",data/cross-sections/Silicon compounds/(CH3)6Si2/(CH3)6Si2_Patzer(1997)_298K_174.csv

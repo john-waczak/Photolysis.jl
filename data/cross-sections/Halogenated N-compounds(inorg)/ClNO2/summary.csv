@@ -1,0 +1,63 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Furlan(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Furlan(2000)_298K_190-450nm(0.2nm).txt,No information concerning the absorption measurements is given,ClNO2,nitryl chloride,"
+
+  A. Furlan, M.A. Haeberli, and R.J. Huber, ""The 248 nm photodissociation of ClNO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Furlan(2000)_298K_190-450nm(0.csv
+298.0,Furlan(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Furlan(2000)_298K_195-445nm(5nm).txt,"Averages over 5-nm intervals of the medium-resolution (0.2 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",ClNO2,nitryl chloride,"
+
+  A. Furlan, M.A. Haeberli, and R.J. Huber, ""The 248 nm photodissociation of ClNO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Furlan(2000)_298K_195-445nm(5nm).csv
+298.0,Ganske(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ganske(1992)_298K_200-370nm.txt,Absorption measurements using a photodiode array UV-VIS spectrophotometer with with 2 nm spectral bandwidth and 0.05 nm wavelength reproducibility,ClNO2,nitryl chloride,"
+
+  J.A. Ganske, H.N. Berko, and B.J. Finlayson-Pitts, ""Absorption cross sections for gaseous ClNO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ganske(1992)_298K_200-370nm.csv
+210.0,Ghosh(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ghosh(2012)_210K_200-475nm.txt,The absorption cross sections for 210 K have been calculated using the values for 296 K and the temperature dependence parameterization for the temperature range 210 to 296 K,ClNO2,nitryl chloride,"
+
+  B. Ghosh, D.K. Papanastasiou, R.K. Talukdar, J.M. Roberts, and J.B. Burkholder, ""Nitryl chloride (ClNO2): UV/Vis absorption spectrum between 210 and 296 K and O(",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ghosh(2012)_210K_200-475nm.csv
+233.0,Ghosh(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ghosh(2012)_233K_200-475nm.txt,The absorption cross sections for 233 K have been calculated using the values for 296 K and the temperature dependence parameterization for the temperature range 210 to 296 K,ClNO2,nitryl chloride,"
+
+  B. Ghosh, D.K. Papanastasiou, R.K. Talukdar, J.M. Roberts, and J.B. Burkholder, ""Nitryl chloride (ClNO2): UV/Vis absorption spectrum between 210 and 296 K and O(",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ghosh(2012)_233K_200-475nm.csv
+253.0,Ghosh(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ghosh(2012)_253K_200-475nm.txt,The absorption cross sections for 253 K have been calculated using the values for 296 K and the temperature dependence parameterization for the temperature range 210 to 296 K,ClNO2,nitryl chloride,"
+
+  B. Ghosh, D.K. Papanastasiou, R.K. Talukdar, J.M. Roberts, and J.B. Burkholder, ""Nitryl chloride (ClNO2): UV/Vis absorption spectrum between 210 and 296 K and O(",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ghosh(2012)_253K_200-475nm.csv
+273.0,Ghosh(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ghosh(2012)_273K_200-475nm.txt,The absorption cross sections for 273 K have been calculated using the values for 296 K and the temperature dependence parameterization for the temperature range 210 to 296 K,ClNO2,nitryl chloride,"
+
+  B. Ghosh, D.K. Papanastasiou, R.K. Talukdar, J.M. Roberts, and J.B. Burkholder, ""Nitryl chloride (ClNO2): UV/Vis absorption spectrum between 210 and 296 K and O(",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ghosh(2012)_273K_200-475nm.csv
+296.0,Ghosh(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_Ghosh(2012)_296K_200-475nm.txt,The ClNO,ClNO2,nitryl chloride,"
+
+  B. Ghosh, D.K. Papanastasiou, R.K. Talukdar, J.M. Roberts, and J.B. Burkholder, ""Nitryl chloride (ClNO2): UV/Vis absorption spectrum between 210 and 296 K and O(",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_Ghosh(2012)_296K_200-475nm.csv
+298.0,IlliesTakacs(1976-1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_IlliesTakacs(1976-1977)_298K_185-400nm.txt,"Absorption measurements were made using a double beam recording spectrophotometer with a deuterium arc source, a photomultiplier detector, and a prism dispersing device",ClNO2,nitryl chloride,"
+
+  A.J. Illies and G.A. Takacs, ""Gas phase ultra-violet photoabsorption cross-sections for nitrosyl chloride and nitryl chloride"",
+  J. Photochem. 6, 35-42 (1976-1977); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_IlliesTakacs(1976-1977)_298K_185-400nm.csv
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_IUPAC(2007)_298K_190-370nm(rec).txt,IUPAC(2007) recommendation:,ClNO2,nitryl chloride,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_IUPAC(2007)_298K_190-370nm(rec).csv
+298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_JPL-2002(2002)_298K_190-370nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",ClNO2,nitryl chloride,"
+
+  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
+  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_JPL-2002(2002)_298K_190-370nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_JPL-2010(2011)_298K_195-400nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",ClNO2,nitryl chloride,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_JPL-2010(2011)_298K_195-400nm(rec).csv
+298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_MartinGareis(1956)_298K_225.5-334.9nm(smoo).txt,Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,ClNO2,nitryl chloride,"
+
+  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_MartinGareis(1956)_298K_225.csv
+298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_MartinGareis(1956)_298K_227.9-332.3nm(meas).txt,"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
+",ClNO2,nitryl chloride,"
+
+  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_MartinGareis(1956)_298K_227.csv
+298.0,NelsonJohnston(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClNO2_NelsonJohnston(1981)_298K_270-370nm.txt,Radiation from a deuterium lamp was chopped and directed through the absorption cell from where it entered a 0.3-m monochromator operating with a 0.3-nm band pass,ClNO2,nitryl chloride,"
+
+  H.H. Nelson and H.S. Johnston, ""Kinetics of the reaction of Cl with ClNO and ClNO",data/cross-sections/Halogenated N-compounds(inorg)/ClNO2/ClNO2_NelsonJohnston(1981)_298K_270-370nm.csv

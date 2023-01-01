@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Jenkin(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Vinyl-,allylperoxy/CH2=CHCH2O2_Jenkin(1993)_296K_210-300nm.txt","The laser flash photolysis technique, coupled with UV absorption spectroscopy, has been used to measure the absorption sprectrum",CH2=CHCH2O2,allylperoxy radical,"
+
+  M.E. Jenkin, T.P. Murrells, S.J. Shalliker, and G.D, Hayman, ""Kinetics and product study of the self-reactions of allyl and allyl peroxy radicals"",
+  J. Chem. Soc. Faraday Trans. 89, 433-446 (1993); 
+
+
+  DOI: ","data/cross-sections/Peroxy radicals/Vinyl-,allylperoxy/CH2=CHCH2O2/CH2=CHCH2O2_Jenkin(1993)_296K_210-300nm.csv"

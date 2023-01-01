@@ -1,0 +1,59 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+323.0,Doner(2019),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Doner(2019)_323K_125-240nm.txt",High-resolution (≤ 4 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH2=CHCH2CH3,1-butene,"
+
+  A.C. Doner, M.G. Christianson, J.C. Davis, A.L. Koritzke, A. Larsson, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Six-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 236, 106603  (2019);
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Doner(2019)_323K_125-240nm.csv"
+296.0,Es-sebbar(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Es-sebbar(2013)_296K_115-205nm.txt",The VUV measurements were performed using synchrotron radiation as a tunable VUV light source,CH2=CHCH2CH3,1-butene,"
+
+  E. Es-sebbar, Y. Benilan, and A. Farooq, ""Temperature-dependent absorption cross-section measurements of 1-butene (1-C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Es-sebbar(2013)_296K_115-205nm.csv"
+418.0,Es-sebbar(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Es-sebbar(2013)_418K_115-210nm.txt",The VUV measurements were performed using synchrotron radiation as a tunable VUV light source,CH2=CHCH2CH3,1-butene,"
+
+  E. Es-sebbar, Y. Benilan, and A. Farooq, ""Temperature-dependent absorption cross-section measurements of 1-butene (1-C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Es-sebbar(2013)_418K_115-210nm.csv"
+529.0,Es-sebbar(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Es-sebbar(2013)_529K_115-220nm.txt",The VUV measurements were performed using synchrotron radiation as a tunable VUV light source,CH2=CHCH2CH3,1-butene,"
+
+  E. Es-sebbar, Y. Benilan, and A. Farooq, ""Temperature-dependent absorption cross-section measurements of 1-butene (1-C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Es-sebbar(2013)_529K_115-220nm.csv"
+298.0,GaryPickett(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_GaryPickett(1954)_298K_159.8-197.2nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",CH2=CHCH2CH3,1-butene,"
+
+  J.T. Gary and L.W. Pickett, ""The far ultraviolet absorption spectra of isomeric butenes"",
+  J. Chem. Phys. 22, 599-602 (1954); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_GaryPickett(1954)_298K_159.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_JonesTaylor(1955)_298K_167-195nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=CHCH2CH3,1-butene,"
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_JonesTaylor(1955)_298K_167-195nm.csv"
+298.0,Koizumi(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Koizumi(1985)_298K_33.7-128.2nm.txt",High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,CH2=CHCH2CH3,1-butene,"
+
+  H. Koizumi, T. Yoshimi, K. Shinsaka, M. Morita, Y. Hatano, A. Yagishita, and K. Ito, ""VUV-optical oscillator strength distributions of C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Koizumi(1985)_298K_33.csv"
+294.0,Parkes(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Parkes(2003)_294K_1626.466nm.txt","The use of continuous wave cavity ring-down spectroscopy (cw CRDS) with near infra-red diode lasers is
+demonstrated for quantitative detection of trace levels of unsaturated volatile organic compounds (VOCs) at
+wavelengths that avoid overlapping absorptions by more abundant atmospheric constituents such as H",CH2=CHCH2CH3,1-butene,"
+
+  A.M. Parkes, B.L. Fawcett, R.E. Austin, S. Nakamichi, D.E. Shallcross, and A.J. Orr-Ewing, ""Trace detection of volatile organic compounds by diode laser cavity ring-down spectroscopy"",
+  Analyst 128, 960-965 (2003); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Parkes(2003)_294K_1626.csv"
+298.0,Samson(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Samson(1962)_298K_105.2-154.4nm.txt","Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
+",CH2=CHCH2CH3,1-butene,"
+
+  J.A.R. Samson, F.F. Marmo, and K. Watanabe, ""Absorption and photoionization coefficients of propylene and butene-1 in the vacuum ultraviolet"",
+  J. Chem. Phys. 36, 783-786 (1962); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Samson(1962)_298K_105.csv"
+298.0,Samson(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3_Samson(1962)_298K_148.0-199.7nm.txt","Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
+",CH2=CHCH2CH3,1-butene,"
+
+  J.A.R. Samson, F.F. Marmo, and K. Watanabe, ""Absorption and photoionization coefficients of propylene and butene-1 in the vacuum ultraviolet"",
+  J. Chem. Phys. 36, 783-786 (1962); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH2CH3/CH2=CHCH2CH3_Samson(1962)_298K_148.csv"

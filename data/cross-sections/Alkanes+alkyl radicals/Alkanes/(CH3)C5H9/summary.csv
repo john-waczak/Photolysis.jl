@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/(CH3)C5H9_Bertrand(1975)_298K_123.6nm.txt,Kr resonance line as a light source,(CH3)C5H9,methylcyclopentane,"
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/(CH3)C5H9/(CH3)C5H9_Bertrand(1975)_298K_123.csv
+323.0,Christianson(2021),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/(CH3)C5H9_Christianson(2021)_323K_125-240nm.txt,High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,(CH3)C5H9,methylcyclopentane,"
+
+  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
+  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
+
+
+  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/(CH3)C5H9/(CH3)C5H9_Christianson(2021)_323K_125-240nm.csv

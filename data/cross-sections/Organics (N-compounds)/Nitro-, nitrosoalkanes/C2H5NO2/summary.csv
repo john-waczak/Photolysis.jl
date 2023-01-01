@@ -1,0 +1,21 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C2H5NO2_McMillan(1966)_298K_205.4-319.1nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,C2H5NO2,nitroethane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
+
+
+","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C2H5NO2/C2H5NO2_McMillan(1966)_298K_205.csv"
+298.0,Wallace-Goodeve(1934),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C2H5NO2_Wallace-Goodeve(1934)_298K_227.2-330.7nm(smoo).txt","The smooth fit of the measured absorption coefficients k (Torr, 298 K)",C2H5NO2,nitroethane,"
+
+  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
+  Trans. Faraday Soc. 30, 504-508 (1934); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C2H5NO2/C2H5NO2_Wallace-Goodeve(1934)_298K_227.csv"
+298.0,Wallace-Goodeve(1934),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/C2H5NO2_Wallace-Goodeve(1934)_298K_227.7-354.9nm(meas).txt","Data points for the absorption coefficients k (Torr, 298 K)",C2H5NO2,nitroethane,"
+
+  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
+  Trans. Faraday Soc. 30, 504-508 (1934); 
+
+
+  DOI: ","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/C2H5NO2/C2H5NO2_Wallace-Goodeve(1934)_298K_227.csv"

@@ -1,0 +1,18 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5I_KimuraNagakura(1965)_298K_156.2-237.0nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5I,"iodobenzene, phenyl iodide","
+
+  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
+  Mol. Phys. 9, 117-135 (1965); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5I/C6H5I_KimuraNagakura(1965)_298K_156.csv
+298.0,Palmer(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5I_Palmer(2015)_298K_115-345nm.txt,Absorption measurements with synchrotron radiation using data points separated by 0.05 nm,C6H5I,"iodobenzene, phenyl iodide","
+
+  M.H. Palmer, T. Ridley, S.V. Hoffmann, N.C. Jones, M. Coreno, M.d. Simone, C. Grazioli, M. Biczysko, A. Baiardi, and P. Limão-Vieira, ""Interpretation of the vacuum ultraviolet photoabsorption spectrum of iodobenzene by ab initio computations"",
+  J. Chem. Phys. 142, 134302-1 - 134302-13 (2015): 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5I/C6H5I_Palmer(2015)_298K_115-345nm.csv
+295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5I_Pence(1981)_295K_193,248,308nm.txt",Absorption measurements at 185-400 nm; spectrum reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 7,C6H5I,"iodobenzene, phenyl iodide","
+
+  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5I/C6H5I_Pence(1981)_295K_193,248,308nm.csv"

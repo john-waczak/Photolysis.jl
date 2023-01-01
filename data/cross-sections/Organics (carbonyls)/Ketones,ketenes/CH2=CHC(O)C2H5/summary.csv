@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Jimenez(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH2=CHC(O)C2H5_Jimenez(2009)_298K_185nm.txt",Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2nm,CH2=CHC(O)C2H5,"ethyl vinyl ketone, 1-penten-3-one","
+
+  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
+  Environ. Sci. Technol. 43, 1831-1837 (2009); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH2=CHC(O)C2H5/CH2=CHC(O)C2H5_Jimenez(2009)_298K_185nm.csv"
+298.0,Jimenez(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Ketones,ketenes/CH2=CHC(O)C2H5_Jimenez(2009)_298K_275-390nm.txt",Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,CH2=CHC(O)C2H5,"ethyl vinyl ketone, 1-penten-3-one","
+
+  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
+  Environ. Sci. Technol. 43, 1831-1837 (2009); 
+
+
+  DOI: ","data/cross-sections/Organics (carbonyls)/Ketones,ketenes/CH2=CHC(O)C2H5/CH2=CHC(O)C2H5_Jimenez(2009)_298K_275-390nm.csv"

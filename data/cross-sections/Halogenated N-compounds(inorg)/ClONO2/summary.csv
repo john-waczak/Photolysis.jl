@@ -1,0 +1,106 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+220.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_220K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_220K_196-432nm(calc).csv
+230.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_230K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_230K_196-432nm(calc).csv
+240.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_240K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_240K_196-432nm(calc).csv
+250.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_250K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_250K_196-432nm(calc).csv
+260.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_260K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_260K_196-432nm(calc).csv
+280.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_280K_196-432nm(calc).txt,"The absorption cross sections at 220, 230, 240, 250, 260, and 280 K have been measured relative to those at 296 K using a diode array spectrometer (resolution ∼0.4 nm) ",ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_280K_196-432nm(calc).csv
+296.0,Burkholder(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Burkholder(1994)_296K_196-432nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at 296 K and at a resolution of ∼0.4 nm using a diode array spectrometer,ClONO2,chlorine nitrate,"
+
+  J.B. Burkholder, R.K. Talukdar, and A.R. Ravishankara, ""Temperature dependence of the ClONO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Burkholder(1994)_296K_196-432nm(meas).csv
+220.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_IUPAC(2007)_220K_200-430nm(rec).txt,IUPAC(2007) recommendation:,ClONO2,chlorine nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_IUPAC(2007)_220K_200-430nm(rec).csv
+296.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_IUPAC(2007)_296K_200-430nm(rec).txt,IUPAC(2007) recommendation:,ClONO2,chlorine nitrate,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_IUPAC(2007)_296K_200-430nm(rec).csv
+298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_JPL-2010(2011)_298K_196-432nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",ClONO2,chlorine nitrate,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_JPL-2010(2011)_298K_196-432nm(rec).csv
+223.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_223K_207-235nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_223K_207-235nm.csv
+233.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_233K_250-290nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_233K_250-290nm.csv
+243.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_243K_240-335nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_243K_240-335nm.csv
+253.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_253K_240-335nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_253K_240-335nm.csv
+263.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_263K_270-350nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_263K_270-350nm.csv
+273.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_273K_207-420nm.txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_273K_207-420nm.csv
+293.0,Knauth(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Knauth(1978)_293K_207-420nm(corr).txt,Absorption cross sections from the CD-ROM of,ClONO2,chlorine nitrate,"
+
+  H.-D. Knauth (1978), personal communication (1997) to",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Knauth(1978)_293K_207-420nm(corr).csv
+298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_MartinGareis(1956)_298K_214.1-311.0nm(smoo).txt,Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,ClONO2,chlorine nitrate,"
+
+  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_MartinGareis(1956)_298K_214.csv
+298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_MartinGareis(1956)_298K_215.2-312.0nm(meas).txt,"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
+",ClONO2,chlorine nitrate,"
+
+  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_MartinGareis(1956)_298K_215.csv
+298.0,Mason(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Mason(2001)_298K_140-300nm.txt,Absorption measurements at steps of 0.1-0.5 nm using synchrotron radiation,ClONO2,chlorine nitrate,"
+
+  N.J. Mason, N.C. Jones, L. Kaminski, B.A. Osborne, M. Marston, M.A. Fernandez, I.C. Walker, E.A. Seddon, J. Ballard, and D.A. Newnham, ""VUV optical absorption and energy loss spectroscopy of chlorine nitrate"",
+  Int. J. Mass Spectrom. 205, 183–196 (2001); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Mason(2001)_298K_140-300nm.csv
+298.0,Mason(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_Mason(2001)_298K_210-300nm.txt,High-resolution (4 cm,ClONO2,chlorine nitrate,"
+
+  N.J. Mason, N.C. Jones, L. Kaminski, B.A. Osborne, M. Marston, M.A. Fernandez, I.C. Walker, E.A. Seddon, J. Ballard, and D.A. Newnham, ""VUV optical absorption and energy loss spectroscopy of chlorine nitrate"",
+  Int. J. Mass Spectrom. 205, 183–196 (2001); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_Mason(2001)_298K_210-300nm.csv
+227.0,MolinaMolina(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_MolinaMolina(1979)_227K_190-400nm.txt,"Absorption measurements at 227, 243, and 296 K with a UV-VIS spectrophotometer using a spectral slit width of about 0.2 nm",ClONO2,chlorine nitrate,"
+
+  L.T. Molina and M.J. Molina, ""Chlorine nitrate ultraviolet absorption spectrum at stratospheric temperatures"",
+  J. Photochem. 11, 139-144 (1979); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_MolinaMolina(1979)_227K_190-400nm.csv
+243.0,MolinaMolina(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_MolinaMolina(1979)_243K_250-400nm.txt,"Absorption measurements at 227, 243, and 296 K with a UV-VIS spectrophotometer using a spectral slit width of about 0.2 nm",ClONO2,chlorine nitrate,"
+
+  L.T. Molina and M.J. Molina, ""Chlorine nitrate ultraviolet absorption spectrum at stratospheric temperatures"",
+  J. Photochem. 11, 139-144 (1979); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_MolinaMolina(1979)_243K_250-400nm.csv
+296.0,MolinaMolina(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/ClONO2_MolinaMolina(1979)_296K_190-450nm.txt,"Absorption measurements at 227, 243, and 296 K with a UV-VIS spectrophotometer using a spectral slit width of about 0.2 nm",ClONO2,chlorine nitrate,"
+
+  L.T. Molina and M.J. Molina, ""Chlorine nitrate ultraviolet absorption spectrum at stratospheric temperatures"",
+  J. Photochem. 11, 139-144 (1979); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/ClONO2/ClONO2_MolinaMolina(1979)_296K_190-450nm.csv

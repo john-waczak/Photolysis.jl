@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+373.0,Scharping(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6Cl6_Scharping(1987)_373K_190.8-260.5nm.txt,Absorption measurements at a resolution of 50 cm-1 (≈ 0.18-0.34 nm) using a gas saturation method,C6Cl6,hexachlorobenzene,"
+
+  H. Scharping, C. Zetzsch, and H. A. Dessouki, ""The UV absorption spectra of the trichlorobenzenes and the higher chlorinated benzenes in the gas-phase and in n-hexane solution"",
+  J. Mol. Spectrosc. 123, 382-391 (1987); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6Cl6/C6Cl6_Scharping(1987)_373K_190.csv

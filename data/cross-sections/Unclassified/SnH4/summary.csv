@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Fernandez(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SnH4_Fernandez(1986)_298K_110.6-166.3nm.txt,The VUV spectrum of stannane was recorded with a moderate resolution vacuum spectrophotometer using a windowless spark source which emits light down to 50 nm,SnH4,stannane,"
+
+  J. Fernandez, G. Lespes, and A. Dargelos, ""The vacuum ultraviolet spectrum of stannane"",
+  Chem. Phys. 103, 85-91 (1986); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SnH4/SnH4_Fernandez(1986)_298K_110.csv

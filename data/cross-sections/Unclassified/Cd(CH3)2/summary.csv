@@ -1,0 +1,31 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+243.0,ChenOsgood(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_ChenOsgood(1984)_243K_172-275nm.txt,"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",Cd(CH3)2,dimethylcadmium,"
+
+  C.J. Chen and R.M. Osgood, ""A spectroscopic study of the excited states of dimethylzinc, dimethylcadmium, and dimethylmercury"",
+  J. Chem. Phys. 81, 327-334 (1984);
+
+
+  DOI: ",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_ChenOsgood(1984)_243K_172-275nm.csv
+243.0,ChenOsgood(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_ChenOsgood(1984)_243K_200-232nm(max).txt,"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",Cd(CH3)2,dimethylcadmium,"
+
+  C.J. Chen and R.M. Osgood, ""A spectroscopic study of the excited states of dimethylzinc, dimethylcadmium, and dimethylmercury"",
+  J. Chem. Phys. 81, 327-334 (1984);
+
+
+  DOI: ",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_ChenOsgood(1984)_243K_200-232nm(max).csv
+298.0,Irvine(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_Irvine(1985)_298K_195-290nm.txt,Absorption measurements with Cd(CH,Cd(CH3)2,dimethylcadmium,"
+
+  S.J.C. Irvine, J.B. Mullin, D.J. Robbins, and J.L. Glasper, ""A study of UV absorption spectra and photolysis of some group II and group VI alkyls"",
+  J. Electrochem. Soc. 132, 968-972 (1985);
+
+
+  DOI: ",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_Irvine(1985)_298K_195-290nm.csv
+295.0,Suto(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_Suto(1988)_295K_114-190nm.txt,Absorption measurements at a  resolution of 0.2 nm using synchrotron radiation as a light source,Cd(CH3)2,dimethylcadmium,"
+
+  M. Suto, C. Ye, and L.C. Lee, ""Quantitative absorption and fluorescence spectroscopy of Cd(CH",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_Suto(1988)_295K_114-190nm.csv
+295.0,Suto(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_Suto(1988)_295K_140-161nm.txt,Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as a light source,Cd(CH3)2,dimethylcadmium,"
+
+  M. Suto, C. Ye, and L.C. Lee, ""Quantitative absorption and fluorescence spectroscopy of Cd(CH",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_Suto(1988)_295K_140-161nm.csv
+295.0,Suto(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Cd(CH3)2_Suto(1988)_295K_190-270nm.txt,Absorption measurements at a resolution of 0.2 nm using synchrotron radiation as a light source,Cd(CH3)2,dimethylcadmium,"
+
+  M. Suto, C. Ye, and L.C. Lee, ""Quantitative absorption and fluorescence spectroscopy of Cd(CH",data/cross-sections/Unclassified/Cd(CH3)2/Cd(CH3)2_Suto(1988)_295K_190-270nm.csv

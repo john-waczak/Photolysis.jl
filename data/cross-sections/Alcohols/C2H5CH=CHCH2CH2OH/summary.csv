@@ -1,0 +1,22 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+297.0,DavisBurkholder(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C2H5CH=CHCH2CH2OH_DavisBurkholder(2011)_297K_185nm.txt,Absorption measurements using a Hg pen-ray lamp light source combined with a solar-blind photodiode detector with a 185 nm band-pass filter,C2H5CH=CHCH2CH2OH,(Z)-3-hexen-1-ol,"
+
+  M.E. Davis and J.B. Burkholder, ""Rate coefficients for the gas-phase reaction of OH with (Z)-3-hexen-1-ol, 1-penten-3-ol, (E)-2-penten-1-ol, and (E)-2-hexen-1-ol between 243 and 404 K"",
+  Atmos. Chem. Phys. 11, 3347-3358 (2011); 
+
+
+  DOI: ",data/cross-sections/Alcohols/C2H5CH=CHCH2CH2OH/C2H5CH=CHCH2CH2OH_DavisBurkholder(2011)_297K_185nm.csv
+298.0,Jimenez(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C2H5CH=CHCH2CH2OH_Jimenez(2009)_298K_185nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,C2H5CH=CHCH2CH2OH,(Z)-3-hexen-1-ol,"
+
+  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
+  Environ. Sci. Technol. 43, 1831-1837 (2009); 
+
+
+  DOI: ",data/cross-sections/Alcohols/C2H5CH=CHCH2CH2OH/C2H5CH=CHCH2CH2OH_Jimenez(2009)_298K_185nm.csv
+298.0,Jimenez(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C2H5CH=CHCH2CH2OH_Jimenez(2009)_298K_200-290nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,C2H5CH=CHCH2CH2OH,(Z)-3-hexen-1-ol,"
+
+  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
+  Environ. Sci. Technol. 43, 1831-1837 (2009); 
+
+
+  DOI: ",data/cross-sections/Alcohols/C2H5CH=CHCH2CH2OH/C2H5CH=CHCH2CH2OH_Jimenez(2009)_298K_200-290nm.csv

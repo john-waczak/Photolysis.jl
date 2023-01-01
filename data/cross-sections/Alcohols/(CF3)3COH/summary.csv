@@ -1,0 +1,9 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Orkin(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/(CF3)3COH_Orkin(2012)_298K_163-183nm.txt,"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines per mm grating; spectra
+were recorded at increments of 0.5 nm at a spectral slit width of 0.16 nm",(CF3)3COH,"1,1,1,3,3,3-hexafluoro-2-(trifluoromethyl)-2-propanol, perfluoro-tert-butanol","
+
+  V.L. Orkin, V.G. Khamaganov, and M.J. Kurylo, ""High accuracy measurements of OH reaction rate constants and IR absorption spectra: Substituted 2-propanols"",
+  J. Phys. Chem. A 116, 6188-6198 (2012); 
+
+
+  DOI: ",data/cross-sections/Alcohols/(CF3)3COH/(CF3)3COH_Orkin(2012)_298K_163-183nm.csv

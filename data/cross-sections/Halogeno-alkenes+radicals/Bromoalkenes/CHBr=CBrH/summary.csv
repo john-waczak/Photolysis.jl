@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,SchanderRussell(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromoalkenes/CHBr=CBrH_SchanderRussell(1976)_298K_120-224nm.txt,"The spectrum was obtained using a McPherson RS-225 1-m vacuum ultraviolet spectrophotometer equipped with a bipartite grating having 600 lines/mm, and the light source was a Hinteregger hydrogen discharge lamp, differentially pumped to allow windowless operation",CHBr=CBrH,"trans-1,2-dibromoethene","
+
+  J. Schander and B.R. Russell, ""Vacuum ultraviolet spectra of bromoethylene and dibromoethylenes"",
+  J. Am. Chem. Soc. 98, 6900-6904 (1976); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Bromoalkenes/CHBr=CBrH/CHBr=CBrH_SchanderRussell(1976)_298K_120-224nm.csv

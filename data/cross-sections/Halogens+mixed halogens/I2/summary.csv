@@ -1,0 +1,161 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Bauer(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Bauer(1998)_295K_436,500nm.txt",Absorption measurements at 280-500 nm,I2,iodine,"
+
+  D. Bauer, T. Ingham, S.A. Carl, G.K. Moortgat, and J.N. Crowley, ""Ultraviolet-visible absorption cross sections of gaseous HOI and its photolysis at 355 nm"",
+  J. Phys. Chem. A 102, 2857-2864 (1998); 
+
+
+  DOI: ","data/cross-sections/Halogens+mixed halogens/I2/I2_Bauer(1998)_295K_436,500nm.csv"
+298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_IUPAC(2007)_298K_400-725nm(rec).txt,IUPAC(2007) recommendation:,I2,iodine,"
+
+  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
+  Atmos. Chem. Phys. 7, 981-1191 (2007); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_IUPAC(2007)_298K_400-725nm(rec).csv
+295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_JPL-2010(2011)_295K_185-700nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",I2,iodine,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogens+mixed halogens/I2/I2_JPL-2010(2011)_295K_185-700nm(rec).csv
+295.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_JPL-2010(2011)_295K_500.6-629.8nm(max,min,rec).txt","JPL-2010 recommendation, adopting the earlier recommendation of ",I2,iodine,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogens+mixed halogens/I2/I2_JPL-2010(2011)_295K_500.csv
+353.0,KortumFriedheim(1947),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_KortumFriedheim(1947)_353K_452.7-589.7nm.txt,Molar extinction coefficients vs. wavenumber have been digitized from Fig. 3 and converted to absorption cross sections (conversion factor 3.8235×10,I2,iodine,"
+
+  G. Kortüm and G. Friedheim, ""Lichtabsorption und Molekularzustand des Jods in Dampf und Lösung"",
+  Z. Naturforsch. 2a, 20-27 (1947)
+
+
+",data/cross-sections/Halogens+mixed halogens/I2/I2_KortumFriedheim(1947)_353K_452.csv
+613.0,KortumFriedheim(1947),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_KortumFriedheim(1947)_613K_223.7-601.2nm.txt,Molar extinction coefficients vs. wavenumber have been digitized from Fig. 3 and converted to absorption cross sections (conversion factor 3.8235×10,I2,iodine,"
+
+  G. Kortüm and G. Friedheim, ""Lichtabsorption und Molekularzustand des Jods in Dampf und Lösung"",
+  Z. Naturforsch. 2a, 20-27 (1947)
+
+
+",data/cross-sections/Halogens+mixed halogens/I2/I2_KortumFriedheim(1947)_613K_223.csv
+393.0,MathiesonRees(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_MathiesonRees(1956)_393K_622.5-848.5nm(calc).txt,The calculated absorption spectrum (derived from theoretical potential energy curves for the ,I2,iodine,"
+
+  L. Mathieson and A.L.G. Rees, ""Electronic states and potential energy diagram of the iodine molecule"",
+  J. Chem. Phys. 25, 753-761 (1956); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_MathiesonRees(1956)_393K_622.csv
+393.0,MathiesonRees(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_MathiesonRees(1956)_393K_634.6-848.5nm(meas).txt,Data points for the molar extinction coefficients vs. wavenumber plotted in Fig. 3 have been digitized and converted to absorption cross sections (conversion factor 3.8235×10,I2,iodine,"
+
+  L. Mathieson and A.L.G. Rees, ""Electronic states and potential energy diagram of the iodine molecule"",
+  J. Chem. Phys. 25, 753-761 (1956); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_MathiesonRees(1956)_393K_634.csv
+298.0,MyerSamson(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_MyerSamson(1970)_298K_175.57-201.95nm.txt,Absorption measurements at a spectral resolution of 0.025 nm,I2,iodine,"
+
+  J.A. Myer and J.A.R. Samson, ""Absorption cross section and photoionization yield of I",data/cross-sections/Halogens+mixed halogens/I2/I2_MyerSamson(1970)_298K_175.csv
+293.0,RabinowitchWood(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_RabinowitchWood(1936)_293K_440.8-605.8nm.txt,"Pointolite lamp as a light source,monochromator, Hilger spectrograph selenium iron photocell",I2,iodine,"
+
+  E. Rabinowitch and W.C. Wood, ""The extinction coefficient of iodine and other halogens"",
+  Trans. Faraday Soc. 32, 540-546 (1936); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_RabinowitchWood(1936)_293K_440.csv
+298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_RoxloMandl(1980)_298K_170-229nm.txt,Absorption measurements at 170-230 nm using a Xe,I2,iodine,"
+
+  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
+  J. Appl. Phys. 51, 2969-2972 (1980); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_RoxloMandl(1980)_298K_170-229nm.csv
+295.0,Saiz-Lopez(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Saiz-Lopez(2004)_295K_182-750nm.txt,Measurements at a resolution of 4 cm,I2,iodine,"
+
+  A. Saiz-Lopez, R.W. Saunders, D.M. Joseph, S.H. Ashworth, and J.M.C. Plane, ""Absolute absorption cross-section and photolysis rate of I",data/cross-sections/Halogens+mixed halogens/I2/I2_Saiz-Lopez(2004)_295K_182-750nm.csv
+298.0,Spietz(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Spietz(2006)_298K_428.46-588.29nm(0.59nm).txt,See also:,I2,iodine,"
+
+  P. Spietz, J.C. Gomez Martin, and J.P. Burrows, ""Effects of column density on I",data/cross-sections/Halogens+mixed halogens/I2/I2_Spietz(2006)_298K_428.csv
+298.0,Spietz(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Spietz(2006)_298K_500nm.txt,The absolute absorption cross section at 500 nm was measured by a method  independent of iodine vapor pressure to give (2.186 ± 0.021)×10,I2,iodine,"
+
+  P. Spietz, J.C. Gomez Martin, and J.P. Burrows, ""Effects of column density on I",data/cross-sections/Halogens+mixed halogens/I2/I2_Spietz(2006)_298K_500nm.csv
+298.0,Spietz(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Spietz(2006)_298K_543.21-577.95nm(0.25nm).txt,See also:,I2,iodine,"
+
+  P. Spietz, J.C. Gomez Martin, and J.P. Burrows, ""Effects of column density on I",data/cross-sections/Halogens+mixed halogens/I2/I2_Spietz(2006)_298K_543.csv
+1023.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_1023K_363.6-555.6nm.txt,"Extinction coefficients vs. wavenumber (18000, 18500, 19000, ... , 27000, 27500 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_1023K_363.csv
+1173.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_1173K_363.6-555.6nm.txt,"Extinction coefficients vs. wavenumber (18000, 18500, 19000, ... , 27000, 27500 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_1173K_363.csv
+1323.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_1323K_357.1-740.7nm.txt,"Extinction coefficients vs. wavenumber (13500, 13750, 14000, 14250, 14500, 14500, 14750, 15000, 15500, ... , 27500, 28000 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_1323K_357.csv
+423.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_423K_357.1-727.3nm.txt,"Extinction coefficients vs. wavenumber (13750, 14000, 14250, 14500, 14750, 1500, 15500, ... , 27500, 28000 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_423K_357.csv
+573.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_573K_363.6-555.6nm.txt,"Extinction coefficients vs. wavenumber (18000, 18500, 19000, ... , 27000, 27500 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_573K_363.csv
+723.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_723K_363.6-555.6nm.txt,"Extinction coefficients vs. wavenumber (18000, 18500, 19000, ... , 27000, 27500 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_723K_363.csv
+873.0,SulzerWieland(1952),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_SulzerWieland(1952)_873K_357.1-740.7nm.txt,"Extinction coefficients vs. wavenumber (13500, 13750, 14000, 14250, 14500, 14500, 14750, 15000, 15500, ... , 27500, 28000 cm",I2,iodine,"
+
+  P. Sulzer and K. Wieland, ""Intensitätsverteilung eines kontinuierlichen Absorptionsspektrums in Abhängigkeit von Temperatur und Wellenzahl"",
+  Helv. Phys. Acta 25, 653-676 (1952); 
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_SulzerWieland(1952)_873K_357.csv
+273.0,Tellinghuisen(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Tellinghuisen(2011)_273K_390-900nm.txt,Absorption measurements using a double beam spectrophotometer; resolution 2 nm,I2,iodine,"
+
+  J. Tellinghuisen, ""Least-squares analysis of overlapped bound-free absorption spectra and predissociation data in diatomics: The C(",data/cross-sections/Halogens+mixed halogens/I2/I2_Tellinghuisen(2011)_273K_390-900nm.csv
+308.0,Tellinghuisen(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Tellinghuisen(2011)_308K_390-900nm.txt,Absorption measurements using a double beam spectrophotometer; resolution 2 nm,I2,iodine,"
+
+  J. Tellinghuisen, ""Least-squares analysis of overlapped bound-free absorption spectra and predissociation data in diatomics: The C(",data/cross-sections/Halogens+mixed halogens/I2/I2_Tellinghuisen(2011)_308K_390-900nm.csv
+308.0,Tellinghuisen(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Tellinghuisen(2011)_308K_400-500,600-850nm.txt",Absorption measurements using a double beam spectrophotometer; resolution 2 nm,I2,iodine,"
+
+  J. Tellinghuisen, ""Least-squares analysis of overlapped bound-free absorption spectra and predissociation data in diatomics: The C(","data/cross-sections/Halogens+mixed halogens/I2/I2_Tellinghuisen(2011)_308K_400-500,600-850nm.csv"
+337.0,Tellinghuisen(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_Tellinghuisen(2011)_337K_400-500,600-850nm.txt",Absorption measurements using a double beam spectrophotometer; resolution 2 nm.,I2,iodine,"
+
+  J. Tellinghuisen, ""Least-squares analysis of overlapped bound-free absorption spectra and predissociation data in diatomics: The C(","data/cross-sections/Halogens+mixed halogens/I2/I2_Tellinghuisen(2011)_337K_400-500,600-850nm.csv"
+321.0,VogtKoenigsberger(1923),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_VogtKoenigsberger(1923)_321K_441.0-598.0nm.txt,Extinction coefficients plotted in Fig. 1 of,I2,iodine,"
+
+  K. Vogt  and J. Koenigsberger, ""Beobachtungen über Absorption in Joddampf and anderen Dämpfen"",
+  Z. Physik 13, 292-310 (1923)
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_VogtKoenigsberger(1923)_321K_441.csv
+361.0,VogtKoenigsberger(1923),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/I2_VogtKoenigsberger(1923)_361K_461.6-589.4nm.txt,Extinction coefficients plotted in Fig. 1 of,I2,iodine,"
+
+  K. Vogt  and J. Koenigsberger, ""Beobachtungen über Absorption in Joddampf and anderen Dämpfen"",
+  Z. Physik 13, 292-310 (1923)
+
+
+  DOI: ",data/cross-sections/Halogens+mixed halogens/I2/I2_VogtKoenigsberger(1923)_361K_461.csv

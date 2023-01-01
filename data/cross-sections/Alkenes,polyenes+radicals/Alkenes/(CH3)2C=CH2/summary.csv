@@ -1,0 +1,34 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2_Bertrand(1975)_298K_123.6nm.txt",Kr resonance line as a light source,(CH3)2C=CH2,"isobutene, 2-methylpropene","
+
+  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
+  J. Chim. Phys. 72, 719-723 (1975); 	
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2/(CH3)2C=CH2_Bertrand(1975)_298K_123.csv"
+298.0,GaryPickett(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2_GaryPickett(1954)_298K_158.8-208.2nm.txt","Absorption measurement using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",(CH3)2C=CH2,"isobutene, 2-methylpropene","
+
+  J.T. Gary and L.W. Pickett, ""The far ultraviolet absorption spectra of isomeric butenes"",
+  J. Chem. Phys. 22, 599-602 (1954); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2/(CH3)2C=CH2_GaryPickett(1954)_298K_158.csv"
+298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2_JonesTaylor(1955)_298K_168-208nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",(CH3)2C=CH2,"isobutene, 2-methylpropene","
+
+  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
+  Anal. Chem. 27, 228-237 (1955); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2/(CH3)2C=CH2_JonesTaylor(1955)_298K_168-208nm.csv"
+298.0,Koizumi(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2_Koizumi(1985)_298K_35.1-134.3nm.txt",High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,(CH3)2C=CH2,"isobutene, 2-methylpropene","
+
+  H. Koizumi, T. Yoshimi, K. Shinsaka, M. Morita, Y. Hatano, A. Yagishita, and K. Ito, ""VUV-optical oscillator strength distributions of C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2/(CH3)2C=CH2_Koizumi(1985)_298K_35.csv"
+294.0,Parkes(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2_Parkes(2003)_294K_1626.466nm.txt","The use of continuous wave cavity ring-down spectroscopy (cw CRDS) with near infra-red diode lasers is
+demonstrated for quantitative detection of trace levels of unsaturated volatile organic compounds (VOCs) at
+wavelengths that avoid overlapping absorptions by more abundant atmospheric constituents such as H",(CH3)2C=CH2,"isobutene, 2-methylpropene","
+
+  A.M. Parkes, B.L. Fawcett, R.E. Austin, S. Nakamichi, D.E. Shallcross, and A.J. Orr-Ewing, ""Trace detection of volatile organic compounds by diode laser cavity ring-down spectroscopy"",
+  Analyst 128, 960-965 (2003); 
+
+
+  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/(CH3)2C=CH2/(CH3)2C=CH2_Parkes(2003)_294K_1626.csv"

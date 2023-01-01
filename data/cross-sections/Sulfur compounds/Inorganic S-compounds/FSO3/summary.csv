@@ -1,0 +1,40 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,BurleyJohnston(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_BurleyJohnston(1992)_298K_340-450nm(I).txt,Temperature-dependent measurements and extrapolation to 298 K using the equilibrium constants for,FSO3,fluorosulfate radical,"
+
+  J.D. Burley and H.S. Johnston, ""Photoabsorption cross-sections of (FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_BurleyJohnston(1992)_298K_340-450nm(I).csv
+298.0,BurleyJohnston(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_BurleyJohnston(1992)_298K_340-450nm(II).txt,Temperature-dependent measurements and extrapolation to 298 K using the equilibrium constant for,FSO3,fluorosulfate radical,"
+
+  J.D. Burley and H.S. Johnston, ""Photoabsorption cross-sections of (FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_BurleyJohnston(1992)_298K_340-450nm(II).csv
+293.0,Cobos(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_Cobos(1989)_293K_450nm.txt,A laser flash photolysis/absorption technique has been used to measure the approach to equilibrium in the FSO,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos, A.E. Croce de Cobos, H. Hippler, and E. Castellano, ""Direct determination of the limiting high-pressure rate constants of the system FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_Cobos(1989)_293K_450nm.csv
+295.0,Cobos(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_Cobos(1994)_295K_340-470nm(interpolation).txt,Interpolation of the measured values according to,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos, A.E. Croce, and E. Castellano, ""Absorption coefficients for the fluorosulphate radical"",
+  J. Photochem. Photobiol. A: Chem. 84, 101-104 (1994); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_Cobos(1994)_295K_340-470nm(interpolation).csv
+295.0,Cobos(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_Cobos(1994)_295K_340-470nm(meas).txt,The radicals have been formed after fast collisional deactivation of the excited FSO,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos, A.E. Croce, and E. Castellano, ""Absorption coefficients for the fluorosulphate radical"",
+  J. Photochem. Photobiol. A: Chem. 84, 101-104 (1994); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_Cobos(1994)_295K_340-470nm(meas).csv
+295.0,CobosCroce(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_CobosCroce(2007)_295K_516nm.txt,Origin of the UV/VIS band system at 550-340 nm,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos and A.E. Croce, ""Evidences for a new ultraviolet absorption band of the FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_CobosCroce(2007)_295K_516nm.csv
+403.0,CobosCroce(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_CobosCroce(2007)_403K_260-275nm(I).txt,The absorption spectrum of (FSO,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos and A.E. Croce, ""Evidences for a new ultraviolet absorption band of the FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_CobosCroce(2007)_403K_260-275nm(I).csv
+403.0,CobosCroce(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_CobosCroce(2007)_403K_260-275nm(II).txt,The absorption spectrum of (FSO,FSO3,fluorosulfate radical,"
+
+  C.J. Cobos and A.E. Croce, ""Evidences for a new ultraviolet absorption band of the FSO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_CobosCroce(2007)_403K_260-275nm(II).csv
+295.0,Croce(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/FSO3_Croce(1990)_295K_340-450nm.txt,Measurement of the absorption cross sections using a laser flash photolysis (photolysis of FSO,FSO3,fluorosulfate radical,"
+
+  A.E. Croce, ""Spectrokinetic determination of fluorosulphate radical absorption cross-sections"",
+  J. Photochem. Photobiol. A: Chem. 51, 293-299 (1990); 
+
+
+  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/FSO3/FSO3_Croce(1990)_295K_340-450nm.csv

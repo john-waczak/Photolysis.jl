@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Deprez(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6F5Br_Deprez(2008)_298K_114.6-312.0nm.txt,Absorption measurements using synchrotron radiation; spectral resolution ∼0.075 nm,C6F5Br,bromopentafluorobenzene,"
+
+  N. Deprez, S. Eden, S.V. Hoffmann, N.J. Mason, J. Delwiche, and M.-J. Hubin-Franskin, ""Electronic spectroscopy of bromopentafluorobenzene by high-resolution vacuum ultraviolet photoabsorption, electron impact, and photoelectron spectroscopies"",
+  Int. J. Mass Spectrom. 277, 35-40 (2008); 
+
+
+  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6F5Br/C6F5Br_Deprez(2008)_298K_114.csv

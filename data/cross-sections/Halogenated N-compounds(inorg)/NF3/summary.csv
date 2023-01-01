@@ -1,0 +1,74 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Dillon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Dillon(2010)_298K_184-226nm.txt,Absorption measurements using a D,NF3,nitrogen trifluoride,"
+
+  T.J. Dillon, A. Horowitz, and J.N. Crowley, ""Cross-sections and quantum yields for the atmospheric photolysis of the potent greenhouse gas nitrogen trifluoride"",
+  Atmos. Environ. 44, 1186-1191 (2010); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Dillon(2010)_298K_184-226nm.csv
+298.0,Dillon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Dillon(2010)_298K_184.9nm.txt,Single measurement at the isolated Hg line at 184.9 nm,NF3,nitrogen trifluoride,"
+
+  T.J. Dillon, A. Horowitz, and J.N. Crowley, ""Cross-sections and quantum yields for the atmospheric photolysis of the potent greenhouse gas nitrogen trifluoride"",
+  Atmos. Environ. 44, 1186-1191 (2010); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Dillon(2010)_298K_184.csv
+298.0,Inel(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Inel(1993)_298K_147nm.txt,"Absorption coefficient k (atm, 298 K)",NF3,nitrogen trifluoride,"
+
+  Y. Inel, ""Absorption coefficient determination of nitrogen trifluoride at 147 nm"",
+  J. Photochem Photobiol. A: Chem. 70, 1-3 (1993); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Inel(1993)_298K_147nm.csv
+296.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_JPL-2015(2015)_296K_184.95-250nm(rec).txt,The room temperature spectrum and the parameterization for the temperature dependence (212-296 K) ,NF3,nitrogen trifluoride,"
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
+  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_JPL-2015(2015)_296K_184.csv
+298.0,LaPagliaDuncan(1961),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_LaPagliaDuncan(1961)_298K_126.8-178.8nm(smoo).txt,"Absorption coefficients were determined photometrically from photogaphic plates obtained by using a quartz spectrograph and radiation from a hydrogen discharge and a Lyman source
+",NF3,nitrogen trifluoride,"
+
+  S.R. La Paglia and A.B.F. Duncan, ""Vacuum ultraviolet absorption spectrum and dipole moment of nitrogen trifluoride"",
+  J. Chem. Phys. 34, 1003-1007 (1961); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_LaPagliaDuncan(1961)_298K_126.csv
+298.0,LaPagliaDuncan(1961),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_LaPagliaDuncan(1961)_298K_127.55-178.16nm(meas).txt,"Absorption coefficients were determined photometrically from photogaphic plates obtained by using a quartz spectrograph and radiation from a hydrogen discharge and a Lyman source
+",NF3,nitrogen trifluoride,"
+
+  S.R. La Paglia and A.B.F. Duncan, ""Vacuum ultraviolet absorption spectrum and dipole moment of nitrogen trifluoride"",
+  J. Chem. Phys. 34, 1003-1007 (1961); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_LaPagliaDuncan(1961)_298K_127.csv
+296.0,Molina(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Molina(1995)_296K_180-250nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer interfaced to a computer,NF3,nitrogen trifluoride,"
+
+  L.T. Molina, P.J. Wooldridge, and M.J. Molina, ""Atmospheric reactions and ultraviolet and infrared absorptivities of nitrogen trifluoride"",
+  Geophys. Res. Lett. 22, 1873-1876 (1995); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Molina(1995)_296K_180-250nm.csv
+212.0,Papadimitriou(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Papadimitriou(2013)_212K_184.95-250nm.txt,Absorption measurements using a 30-W deuterium (D,NF3,nitrogen trifluoride,"
+
+  V.C. Papadimitriou, M.R. McGillen, S.S. Smith, A.M. Jubb, R.W. Portmann, B.D. Hall, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""1,2-Dichlorohexafluoro-cyclobutane (1,2-c-C",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Papadimitriou(2013)_212K_184.csv
+231.0,Papadimitriou(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Papadimitriou(2013)_231K_184.95-250nm.txt,Absorption measurements using a 30-W deuterium (D,NF3,nitrogen trifluoride,"
+
+  V.C. Papadimitriou, M.R. McGillen, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""NF",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Papadimitriou(2013)_231K_184.csv
+253.0,Papadimitriou(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Papadimitriou(2013)_253K_184.95-250nm.txt,Absorption measurements using a 30-W deuterium (D,NF3,nitrogen trifluoride,"
+
+  V.C. Papadimitriou, M.R. McGillen, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""NF",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Papadimitriou(2013)_253K_184.csv
+273.0,Papadimitriou(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Papadimitriou(2013)_273K_184.95-250nm.txt,Absorption measurements using a 30-W deuterium (D,NF3,nitrogen trifluoride,"
+
+  V.C. Papadimitriou, M.R. McGillen, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""NF",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Papadimitriou(2013)_273K_184.csv
+296.0,Papadimitriou(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_Papadimitriou(2013)_296K_184.95-250nm.txt,Absorption measurements using a 30-W deuterium (D,NF3,nitrogen trifluoride,"
+
+  V.C. Papadimitriou, M.R. McGillen, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""NF",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_Papadimitriou(2013)_296K_184.csv
+298.0,SPARC(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/NF3_SPARC(2013)_298K_121.567nm(rec).txt,Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.5,NF3,nitrogen trifluoride,"
+
+  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
+  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/NF3/NF3_SPARC(2013)_298K_121.csv

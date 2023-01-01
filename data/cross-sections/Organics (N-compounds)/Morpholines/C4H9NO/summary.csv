@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+296.0,Al Rashidi(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Morpholines/C4H9NO_Al%20Rashidi(2014)_296K_200-255nm.txt,The setup used for the absorption measurements consists of a 30 W deuterium lamp providing a continuum beam extending from 200 to 400 nm.,C4H9NO,"morpholine, 1-oxa-4-azacyclohexane, diethylenimide oxide","
+
+  M. Al Rashidi, A. El Masri, E. Roth, and A. Chakir, ""UV spectra and OH-oxidation kinetics of gaseous phase morpholinic compounds"",
+  Atmos. Environ. 88, 261-268 (2014); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Morpholines/C4H9NO/C4H9NO_Al Rashidi(2014)_296K_200-255nm.csv

@@ -1,0 +1,51 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Berry(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_Berry(1974)_298K_140-220nm.txt,"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",CH2=CHCl,"chloroethene, vinyl chloride","
+
+  M.J. Berry, ""Chloroethylene photochemical lasers: Vibrational energy content of the HCl molecular elimination products"",
+  J. Chem. Phys. 61, 3114-3143 (1974);
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_Berry(1974)_298K_140-220nm.csv
+298.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_JPL-2019(2020)_298K_121.567-218nm(rec).txt,JPL-2019(2020) recommendation:,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
+Data for Use in Atmospheric Studies, Evaluation No. 19"",
+  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
+2019, http://jpldataeval.jpl.nasa.gov
+
+
+",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_JPL-2019(2020)_298K_121.csv
+298.0,Limao-Vieira(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_Limao-Vieira(2006)_298K_115-340nm.txt,High-resolution (∼0.075nm) VUV absorption measurements using synchrotron radiation,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  P. Limão-Vieira, E. Vasekova, B.N. Raja Sekhar, N.J. Mason, and S.V. Hoffmann, ""VUV photoabsorption spectroscopy of vinyl chloride studied by high resolution synchrotron radiation"",
+  Chem. Phys. 330, 265-274 (2006); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_Limao-Vieira(2006)_298K_115-340nm.csv
+298.0,Locht(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_Locht(1997)_298K_107.81-206.64nm.txt,High-resolution (0.03 to 0.09 nm) absorption measurements using synchrotron radiation,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  R. Locht, B. Leyh, K. Hottmann, and H. Baumgärtel, ""The photoabsorption spectrum of vinylchloride (C",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_Locht(1997)_298K_107.csv
+298.0,Locht(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_Locht(1997)_298K_82.65-247.97nm.txt,High-resolution (0.03 to 0.09 nm) absorption measurements using synchrotron radiation,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  R. Locht, B. Leyh, K. Hottmann, and H. Baumgärtel, ""The photoabsorption spectrum of vinylchloride (C",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_Locht(1997)_298K_82.csv
+298.0,Olive(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_Olive(2005)_298K_185-220nm.txt,Absorption measurements at a spectral resolution of 0.080 nm,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  B.S. Olive, ""Absorption spectra of ammonia, hydrogen sulfide, and several organic compounds"",
+  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2005
+
+
+",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_Olive(2005)_298K_185-220nm.csv
+298.0,SoodWatanabe(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_SoodWatanabe(1966)_298K_107-164nm.txt,Absorption measurements using a hydrogen discharge tube as a light source and a monochromator with a spectral resolution of 0.04 nm,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  S.P. Sood and K. Watanabe, ""Absorption and ionization coefficients of vinyl chloride"",
+  J. Chem. Phys. 45, 2913-2915 (1966); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_SoodWatanabe(1966)_298K_107-164nm.csv
+298.0,SoodWatanabe(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl_SoodWatanabe(1966)_298K_164.0-200.1nm.txt,Absorption measurements using a hydrogen discharge tube as a light source and a monochromator with a spectral resolution of 0.04 nm,CH2=CHCl,"chloroethene, vinyl chloride","
+
+  S.P. Sood and K. Watanabe, ""Absorption and ionization coefficients of vinyl chloride"",
+  J. Chem. Phys. 45, 2913-2915 (1966); 
+
+
+  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CHCl/CH2=CHCl_SoodWatanabe(1966)_298K_164.csv

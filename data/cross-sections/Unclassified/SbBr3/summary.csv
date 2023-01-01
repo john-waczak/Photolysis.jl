@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+400.0,Gregory(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/SbBr3_Gregory(1995)_400K_200-350nm.txt,Extinction coefficients (molar absorptivities) from Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,SbBr3,antimony tribromide,"
+
+  N.W. Gregory, ""UV-vis vapor absorption spectrum of antimony(III) chloride, antimony(V) chloride, and antimony(III) bromide. The vapor pressure of antimony(III) bromide"",
+  J. Chem. Eng. Data 40, 963-967 (1995); 
+
+
+  DOI: ",data/cross-sections/Unclassified/SbBr3/SbBr3_Gregory(1995)_400K_200-350nm.csv

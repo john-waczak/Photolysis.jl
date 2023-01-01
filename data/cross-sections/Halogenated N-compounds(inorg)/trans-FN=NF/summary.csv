@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Robin(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/trans-FN=NF_Robin(1967)_298K_128.3-204.1nm.txt,Absorption measurements using a D,trans-FN=NF,trans-difluorodiazine,"
+
+  M.B. Robin, R.R. Hart, and N.A. Kuebler, ""Electronic states of the azoalkanes"",
+  J. Am. Chem. Soc. 89, 1564-1572 (1967); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/trans-FN=NF/trans-FN=NF_Robin(1967)_298K_128.csv

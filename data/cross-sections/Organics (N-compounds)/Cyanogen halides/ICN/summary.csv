@@ -1,0 +1,61 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_Felps(1991)_295K_137.7-251.3nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,ICN,cyanogen iodide,"
+
+  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
+  J. Phys. Chem. 95, 639-656 (1991); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_Felps(1991)_295K_137.csv
+295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_Felps(1991)_295K_210-327nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,ICN,cyanogen iodide,"
+
+  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
+  J. Phys. Chem. 95, 639-656 (1991); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_Felps(1991)_295K_210-327nm.csv
+298.0,HessLeone(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_HessLeone(1987)_298K_200-328nm.txt,The absorption spectrum plotted in Fig. 5 has been digitized,ICN,cyanogen iodide,"
+
+  W.P. Hess and S.R. Leone, ""Absolute I* quantum yields for the ICN Ã state by diode laser gain-vs-absorption spectroscopy"",
+  J. Chem. Phys. 86, 3773-3789 (1987); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_HessLeone(1987)_298K_200-328nm.csv
+298.0,MacphersonSimons(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_MacphersonSimons(1979)_298K_125-180nm.txt,Unpublished data of,ICN,cyanogen iodide,"
+
+  M.T. Macpherson and J.P. Simons, ""Photodissociation spectroscopy of the cyanogen halides in the vacuum ultraviolet"",
+  J. Chem. Soc. Faraday Trans. II 75, 1572-1592 (1979);
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_MacphersonSimons(1979)_298K_125-180nm.csv
+298.0,MyerSamson(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_MyerSamson(1970)_298K_125.2-208.9nm.txt,Absorption measurements at a spectral resolution of 0.025 nm,ICN,cyanogen iodide,"
+
+  J.A. Myer and J.A.R. Samson, ""Vacuum-ultraviolet absorption cross sections of CO, HCl, and ICN between 1050 and 2100 Å"",
+  J. Chem. Phys. 52, 266-271 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_MyerSamson(1970)_298K_125.csv
+298.0,MyerSamson(1970),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_MyerSamson(1970)_298K_210-300nm.txt,Absorption measurements at a spectral resolution of 0.025 nm,ICN,cyanogen iodide,"
+
+  J.A. Myer and J.A.R. Samson, ""Vacuum-ultraviolet absorption cross sections of CO, HCl, and ICN between 1050 and 2100 Å"",
+  J. Chem. Phys. 52, 266-271 (1970); 
+
+
+  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_MyerSamson(1970)_298K_210-300nm.csv
+298.0,PittsBaronavski(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_PittsBaronavski(1980)_298K_222-280nm(meas).txt,Measured data points (extinction coefficient vs. wavenumber) sections have been digitized from Fig. 4 and converted to absorption cross sections (factor 3.8235×10,ICN,cyanogen iodide,"
+
+  W.M. Pitts and A.P. Baronavski, ""Wavelength dependence of the I(5 ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_PittsBaronavski(1980)_298K_222-280nm(meas).csv
+298.0,PittsBaronavski(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_PittsBaronavski(1980)_298K_222-282nm(smoo).txt,The smooth fit of the measured extinction coefficients vs. wavenumber in Fig. 4 have been digitized and converted to absorption cross sections (conversion factor 3.8235×10,ICN,cyanogen iodide,"
+
+  W.M. Pitts and A.P. Baronavski, ""Wavelength dependence of the I(5 ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_PittsBaronavski(1980)_298K_222-282nm(smoo).csv
+298.0,Yakovleva(1950),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_Yakovleva(1950)_298K_203.9-293.5nm.txt,Reference and data (Fig. 1 digitized) from ,ICN,cyanogen iodide,"
+
+  A.V. Yakovleva, Izvest. Akad. Nauk SSSR Ser. Fiz. 14, 517-xxx (1950)
+
+
+",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_Yakovleva(1950)_298K_203.csv
+298.0,Yakovleva(1950),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ICN_Yakovleva(1950)_298K_210-290nm.txt,Reference and data (Fig. 5 digitized) from ,ICN,cyanogen iodide,"
+
+  A.V. Yakovleva, Izvest. Akad. Nauk SSSR Ser. Fiz. 14, 517-xxx (1950)
+
+
+",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ICN/ICN_Yakovleva(1950)_298K_210-290nm.csv

@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Bolovinos(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/1,2,4,5-(CH3)4C6H2_Bolovinos(1982)_298K_137.8-289.1nm.txt","Absorption measurement using a Rank-Hilger 776 monochromator, a McPherson hydrogen light source, a dual-beam sample chamber, and a detection system (spectral resolution 0.25  nm)","1,2,4,5-(CH3)4C6H2","1,2,4,5-tetramethylbenzene","
+
+  A. Bolovinos, J. Philis, E. Pantos, P. Tsekeris, and G. Andritsopoulos, ""The methylbenzenes vis-a-vis benzene. Comparison of their spectra in the valence shell transition region"",
+  J. Mol. Spectrosc. 94, 55-68 (1982); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/1,2,4,5-(CH3)4C6H2/1,2,4,5-(CH3)4C6H2_Bolovinos(1982)_298K_137.csv"

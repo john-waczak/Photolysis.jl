@@ -1,0 +1,8 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McLaughlinClark(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Benzene,%20biphenyl/(C6H5)2_McLaughlinClark(1978)_298K_142.3-285.8nm.txt","""Zone refined biphenyl was placed in a 25 cm absorption cell of a 1-meter vacuum spectrometer, and the absorption spectrum was recorded at a variety of temperatures. Due to very uncertain vapor pressure data there is a large uncertainty in the absorption coefficients. We have chosen to simply average the reported vapor pressures to obtain our absorption values.""",(C6H5)2,"biphenyl, phenylbenzene","
+
+  T.G. McLaughlin and L.B. Clark, ""The electronic spectrum of biphenyl"",
+  Chem. Phys. 31, 11-18 (1978); 
+
+
+  DOI: ","data/cross-sections/Aromatic compounds/Benzene, biphenyl/(C6H5)2/(C6H5)2_McLaughlinClark(1978)_298K_142.csv"

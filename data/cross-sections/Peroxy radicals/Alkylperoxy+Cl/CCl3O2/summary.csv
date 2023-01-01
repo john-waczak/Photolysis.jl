@@ -1,0 +1,10 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Catoire(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CCl3O2_Catoire(1996)_298K_205-280nm(Gaussian%20fit).txt,Flash photolysis of Cl,CCl3O2,trichloromethylperoxy radical,"
+
+  V. Catoire, R. Lesclaux, W.F. Schneider, and T.J. Wallington, ""Kinetics and mechanism of the self-reactions of CCl",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CCl3O2/CCl3O2_Catoire(1996)_298K_205-280nm(Gaussian fit).csv
+298.0,Catoire(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CCl3O2_Catoire(1996)_298K_220-250nm.txt,Flash photolysis of Cl,CCl3O2,trichloromethylperoxy radical,"
+
+  V. Catoire, R. Lesclaux, W.F. Schneider, and T.J. Wallington, ""Kinetics and mechanism of the self-reactions of CCl",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CCl3O2/CCl3O2_Catoire(1996)_298K_220-250nm.csv
+298.0,Ellermann(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CCl3O2_Ellermann(1991)_298K_225-285nm.txt,Pulse radiolysis of SF,CCl3O2,trichloromethylperoxy radical,"
+
+  T. Ellermann, ""Atmospheric CCl",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CCl3O2/CCl3O2_Ellermann(1991)_298K_225-285nm.csv

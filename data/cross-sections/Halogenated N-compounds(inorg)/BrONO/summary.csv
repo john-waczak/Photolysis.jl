@@ -1,0 +1,15 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+253.0,BurkholderOrlando(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO_BurkholderOrlando(2000)_253K_200-364nm.txt,Measurements using a diode array spectrometer at a resolution of ∼0.5-1 nm; averages over 2-nm intervals,BrONO,bromine nitrite,"
+
+  J.B. Burkholder and Orlando, J.J., ""UV absorption cross-sections of cis-BrONO"",
+  Chem. Phys. Lett. 317, 603-608 (2000); 
+
+
+  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/BrONO/BrONO_BurkholderOrlando(2000)_253K_200-364nm.csv
+253.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrONO_JPL-2010(2011)_253K_200-364nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",BrONO,bromine nitrite,"
+
+  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
+  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
+
+
+",data/cross-sections/Halogenated N-compounds(inorg)/BrONO/BrONO_JPL-2010(2011)_253K_200-364nm(rec).csv

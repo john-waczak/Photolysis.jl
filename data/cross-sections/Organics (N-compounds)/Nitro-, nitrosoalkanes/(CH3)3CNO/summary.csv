@@ -1,0 +1,13 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/(CH3)3CNO_McMillan(1966)_298K_205.5-333.3nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,(CH3)3CNO,2-nitroso-2-methylpropane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
+
+
+","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/(CH3)3CNO/(CH3)3CNO_McMillan(1966)_298K_205.csv"
+298.0,McMillan(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitro-,%20nitrosoalkanes/(CH3)3CNO_McMillan(1966)_298K_525.6-745.9nm.txt",Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,(CH3)3CNO,2-nitroso-2-methylpropane,"
+
+  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
+
+
+","data/cross-sections/Organics (N-compounds)/Nitro-, nitrosoalkanes/(CH3)3CNO/(CH3)3CNO_McMillan(1966)_298K_525.csv"

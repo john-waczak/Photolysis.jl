@@ -1,0 +1,4 @@
+T,author_year,download_url,comments,formula,name,citation,fname
+298.0,Rennie(1998),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Benzene,%20biphenyl/C6D6_Rennie(1998)_298K_34.8-134.9nm.txt",Absorption measurements using a double ion chamber and monochromated synchrotron radiation,C6D6,hexadeuterobenzene,"
+
+  E.E. Rennie, C.A.F. Johnson, J.E. Parker, D.M.P. Holland, D.A. Shaw, and M.A. Hayes, ""A photoabsorption, photodissociation and photoelectron spectroscopy study of C","data/cross-sections/Aromatic compounds/Benzene, biphenyl/C6D6/C6D6_Rennie(1998)_298K_34.csv"
