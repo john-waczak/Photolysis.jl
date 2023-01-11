@@ -1,2 +1,0 @@
-download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
-https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2O2(C1)_Frandsen(2020)_273K_228.5-529.0nm(calc).txt,NaN,529.0,Frandsen(2020),UV-Vis spectrum calculated using the nuclear ensemble approach at the CCSD(T)//EOM_CCSD/aug-cc-pV(T+D)Z level of theory,228.5,disulfur dioxide (point group C1), https://doi.org/10.1021/acs.jpca.0c04388,S2O2(C1),273.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2O2(C1)/S2O2(C1)_Frandsen(2020)_273K_228.csv

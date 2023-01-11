@@ -1,2 +1,0 @@
-download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
-https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH3OD_Cheng(2002)_298K_165.5-210.5nm.txt,NaN,210.5,Cheng(2002),The absorption spectrum was measured at a resolution of 0.1 nm using synchrotron radiation,165.5,"methyl alcohol-d1, methanol-d1", https://doi.org/10.1029/2001JA000309,CH3OD,298.0,data/cross-sections/Alcohols/CH3OD/CH3OD_Cheng(2002)_298K_165.csv

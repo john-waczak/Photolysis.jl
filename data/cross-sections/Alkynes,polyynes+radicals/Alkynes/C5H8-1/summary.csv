@@ -1,2 +1,0 @@
-download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
-"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C5H8-1_Jacovella(2015)_298K_102.401-230.856nm.txt",NaN,230.856,Jacovella(2015),HC≡CC,102.401,"1-pentyne, propylacetylene", https://doi.org/10.1021/acs.jpca.5b06949,C5H8-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C5H8-1/C5H8-1_Jacovella(2015)_298K_102.csv"
