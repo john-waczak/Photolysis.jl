@@ -1,105 +1,19 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Au(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Au(1993)_298K_5.6-165nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",C2H6,ethane,"
-
-  J.W. Au, G. Cooper, G.R. Burton, T.N. Olney, and C.E. Brion, ""The valence shell photoabsorption of the linear alkanes, C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Au(1993)_298K_5.csv
-295.0,Bennett(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Bennett(1971)_295K_58.4nm.txt,"Absorption coefficient k (atm, 273 K)",C2H6,ethane,"
-
-  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
-  J. Phys. Chem. 75, 719-721 (1971); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Bennett(1971)_295K_58.csv
-295.0,ChenWu(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_ChenWu(2004)_295K_120-150nm.txt,Absorption measurements with a spectral bandwidth (FWHM) of 0.06 nm using synchrotron radiation as a continuum light source,C2H6,ethane,"
-
-  F.Z. Chen and C.Y.R. Wu, ""Temperature-dependent photoabsorption cross sections in the VUV-UV region. I. Methane and ethane"",
-  J. Quant. Spectrosc. Radiat. Transfer 85, 195-209 (2004); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_ChenWu(2004)_295K_120-150nm.csv
-298.0,Kameta(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Kameta(1996)_298K_13.8-124.6nm.txt,"Absorption measurements using an ionization chamber and synchrotron radiation as a continuous-wavelength light source
-",C2H6,ethane,"
-
-  K. Kameta, S. Machida, M. Kitajama, M. Ukai, N. Kouchi, Y. Hatano, and K. Ito, ""Photoabsorption, photoionization, and neutral-dissociation cross sections of C",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Kameta(1996)_298K_13.csv
-298.0,Lee(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lee(1973)_298K_17.5-64.8nm.txt,Absorption measurements using synchrotron radiation and a double ionization chamber; spectral resolution 0.05 nm,C2H6,ethane,"
-
-  L.C. Lee, R.W. Carlson, D.L. Judge, and M. Ogawa, ""The absorption cross sections of N",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lee(1973)_298K_17.csv
-295.0,Lee(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lee(2001)_295K_120-160nm.txt,Absorption measurements for C,C2H6,ethane,"
-
-  A.Y.T. Lee, Y.L. Yung, B.M. Cheng, M. Bahou, C.-Y. Chung, and Y.P. Lee, ""Enhancement of deuterated ethane on Jupiter"",
-  Astrophys. J. 551, L93-L96 (2001); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lee(2001)_295K_120-160nm.csv
-298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lombos(1967)_298K_115.0-157.5nm(max).txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,C2H6,ethane,"
-
-  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
-  J. Mol. Spectrosc. 24, 253-269 (1967); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lombos(1967)_298K_115.csv
-298.0,Lombos(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lombos(1967)_298K_115.3-159.1nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,C2H6,ethane,"
-
-  B.A. Lombos, P. Sauvageau, and C. Sandorfy, ""The electronic spectra of n-alkanes"",
-  J. Mol. Spectrosc. 24, 253-269 (1967); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lombos(1967)_298K_115.csv
-295.0,MetzgerCook(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_MetzgerCook(1964)_295K_56-100nm.txt,Absorption measurements at a spectral resolution ot 0.05 nm using the Hopfield continuum light source,C2H6,ethane,"
-
-  P.H. Metzger and G.R. Cook, ""On the continuous absorption, photoionization, and fluorescence of H",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_MetzgerCook(1964)_295K_56-100nm.csv
-295.0,MountMoos(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_MountMoos(1978)_295K_138-160nm.txt,Measurements also at 200 K:,C2H6,ethane,"
-
-  G.H. Mount and H.W. Moos, ""Photoabsorption cross sections of methane and ethane, 1380-1600 Å at T = 295 K and T = 200 K"",
-  Astrophys. J. 224, L35-L38 (1978); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_MountMoos(1978)_295K_138-160nm.csv
-298.0,OkabeBecker(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_OkabeBecker(1963)_298K_120.4-155.5nm.txt,Absorption measurements using a vacuum-ultraviolet monochromator and a hydrogen discharge lamp as a light source,C2H6,ethane,"
-
-  H. Okabe and D.A. Becker, ""Vacuum ultraviolet photochemistry. VII. Photolysis of n-butane"",
-  J. Chem. Phys, 39, 2549-2555 (1963);
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_OkabeBecker(1963)_298K_120.csv
-298.0,OkabeMcNesby(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_OkabeMcNesby(1962)_298K_147nm.txt,Absorption measurements using a vacuumultraviolet monochromator in conjunction with a sodium salicylate-coated photomultiplier as a detector and a hydrogen-discharge lamp as the light source,C2H6,ethane,"
-
-  H. Okabe and J.R. McNesby, ""Vacuum ultraviolet photochemistry. IV. Photolysis of propane"",
-  J. Chem. Phys. 37, 1340-1346 (1962); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_OkabeMcNesby(1962)_298K_147nm.csv
-298.0,RaymondaSimpson(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_RaymondaSimpson(1967)_298K_107.7-151.8nm.txt,"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",C2H6,ethane,"
-
-  J.W. Raymonda and W.T. Simpson, ""Experimental and theoretical study of sigma-bond electronic transitions in alkanes"",
-  J. Chem. Phys. 47, 430-448 (1967); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_RaymondaSimpson(1967)_298K_107.csv
-295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_49.1-137.6nm(smoo).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",C2H6,ethane,"
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_49.csv
-295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_50.6-136.4nm(meas).txt,"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",C2H6,ethane,"
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_50.csv
-295.0,Schoen(1962),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_58.4nm.txt,Absorption cross section as quoted by,C2H6,ethane,"
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_58.csv
-295.0,Watanabe(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Watanabe(1953)_295K_120-155nm.txt,Data and reference from,C2H6,ethane,"
-
-  K. Watanabe, M. Zelikoff, and E.C.I. Inn, ""Absorption coefficients of several atmospheric gases"",
-  Air Force Cambridge Research Center Technical Report 53-23, 1953
-
-
-",data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Watanabe(1953)_295K_120-155nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Au(1993)_298K_5.6-165nm(e,e).txt",NaN,165.0,Au(1993),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",5.6,ethane, https://doi.org/10.1016/0301-0104(93)80142-V,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Au(1993)_298K_5.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Bennett(1971)_295K_58.4nm.txt,NaN,NaN,Bennett(1971),"Absorption coefficient k (atm, 273 K)",58.4,ethane, https://doi.org/10.1021/j100675a019,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Bennett(1971)_295K_58.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_ChenWu(2004)_295K_120-150nm.txt,NaN,150.0,ChenWu(2004),Absorption measurements with a spectral bandwidth (FWHM) of 0.06 nm using synchrotron radiation as a continuum light source,120.0,ethane, https://doi.org/10.1016/S0022-4073(03)00225-5,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_ChenWu(2004)_295K_120-150nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Kameta(1996)_298K_13.8-124.6nm.txt,NaN,124.6,Kameta(1996),"Absorption measurements using an ionization chamber and synchrotron radiation as a continuous-wavelength light source
+",13.8,ethane, https://doi.org/10.1016/0368-2048(96)02879-4,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Kameta(1996)_298K_13.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lee(1973)_298K_17.5-64.8nm.txt,NaN,64.8,Lee(1973),Absorption measurements using synchrotron radiation and a double ionization chamber; spectral resolution 0.05 nm,17.5,ethane, https://doi.org/10.1016/0022-4073(73)90075-7,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lee(1973)_298K_17.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lee(2001)_295K_120-160nm.txt,NaN,160.0,Lee(2001),Absorption measurements for C,120.0,ethane, https://doi.org/10.1086/319827,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lee(2001)_295K_120-160nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lombos(1967)_298K_115.0-157.5nm(max).txt,NaN,157.5,Lombos(1967),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,115.0,ethane, https://doi.org/10.1016/0022-2852(67)90089-6,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lombos(1967)_298K_115.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Lombos(1967)_298K_115.3-159.1nm.txt,NaN,159.1,Lombos(1967),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,115.3,ethane, https://doi.org/10.1016/0022-2852(67)90089-6,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Lombos(1967)_298K_115.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_MetzgerCook(1964)_295K_56-100nm.txt,NaN,100.0,MetzgerCook(1964),Absorption measurements at a spectral resolution ot 0.05 nm using the Hopfield continuum light source,56.0,ethane, https://doi.org/10.1063/1.1725939,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_MetzgerCook(1964)_295K_56-100nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_MountMoos(1978)_295K_138-160nm.txt,NaN,160.0,MountMoos(1978),Measurements also at 200 K:,138.0,ethane, https://doi.org/10.1086/182753,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_MountMoos(1978)_295K_138-160nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_OkabeBecker(1963)_298K_120.4-155.5nm.txt,NaN,155.5,OkabeBecker(1963),Absorption measurements using a vacuum-ultraviolet monochromator and a hydrogen discharge lamp as a light source,120.4,ethane, https://doi.org/10.1063/1.1734058,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_OkabeBecker(1963)_298K_120.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_OkabeMcNesby(1962)_298K_147nm.txt,NaN,NaN,OkabeMcNesby(1962),Absorption measurements using a vacuumultraviolet monochromator in conjunction with a sodium salicylate-coated photomultiplier as a detector and a hydrogen-discharge lamp as the light source,147.0,ethane, https://doi.org/10.1063/1.1733283,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_OkabeMcNesby(1962)_298K_147nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_RaymondaSimpson(1967)_298K_107.7-151.8nm.txt,NaN,151.8,RaymondaSimpson(1967),"Normal-incidence grating vacuum spectrograph, a Lyman intermittent spark as a light source, photographic plates, and a microdensitometer",107.7,ethane, https://doi.org/10.1063/1.1711913,C2H6,298.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_RaymondaSimpson(1967)_298K_107.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_49.1-137.6nm(smoo).txt,NaN,137.6,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",49.1,ethane, https://doi.org/10.1063/1.1733423,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_49.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_50.6-136.4nm(meas).txt,NaN,136.4,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",50.6,ethane, https://doi.org/10.1063/1.1733423,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_50.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Schoen(1962)_295K_58.4nm.txt,NaN,NaN,Schoen(1962),Absorption cross section as quoted by,58.4,ethane, https://doi.org/10.1063/1.1733423,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Schoen(1962)_295K_58.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkanes/C2H6_Watanabe(1953)_295K_120-155nm.txt,NaN,155.0,Watanabe(1953),Data and reference from,120.0,ethane,,C2H6,295.0,data/cross-sections/Alkanes+alkyl radicals/Alkanes/C2H6/C2H6_Watanabe(1953)_295K_120-155nm.csv

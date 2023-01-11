@@ -1,37 +1,9 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bayrakceken(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Bayrakceken(2003)_298K_223-229nm.txt","Flash-photolysis of diallyl (1,5-hexadiene)",CH2=CHCH2,allyl radical,"
-
-  F. Bayrakçeken, S. Aktas, A. Ünlügedik, and I. Karaaslan, ""High resolution electronic absorption and extinction coefficients of the allyl radical"",
-  Spectrochim. Acta A: Mol. Biomol. Spectrosc. 59, 1663-1666 (2003); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Bayrakceken(2003)_298K_223-229nm.csv"
-298.0,DeSain(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_DeSain(2006)_298K_404nm.txt",The allyl radical was formed from the 193-nm photolsis of allyltrichlorosilane CH,CH2=CHCH2,allyl radical,"
-
-  J.D. DeSain, L.E. Jusinski, and C.A. Taatjes, ""Ultraviolet photochemistry of trichlorovinylsilane and allyltrichlorosilane: vinyl radical (HCCH","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_DeSain(2006)_298K_404nm.csv"
-296.0,Jenkin(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Jenkin(1993)_296K_210-232.5nm.txt","The laser flash photolysis technique, coupled with UV absorption spectroscopy, has been used to measure the absorption sprectrum",CH2=CHCH2,allyl radical,"
-
-  M.E. Jenkin, T.P. Murrells, S.J. Shalliker, and G.D, Hayman, ""Kinetics and product study of the self-reactions of allyl and allyl peroxy radicals"",
-  J. Chem. Soc. Faraday Trans. 89, 433-446 (1993); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Jenkin(1993)_296K_210-232.csv"
-295.0,Shimo(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Shimo(1986)_295K_220nm.txt","A transient absorption spectrum around 223 nm observed immediately
-after photolyzing allyltrimethylsilane  H",CH2=CHCH2,allyl radical,"
-
-  N. Shimo, N. Nakashima, and K. Yoshihara, ""The UV absorption spectrum of trimethylsilyl radical in the gas phase"",
-  Chem. Phys. Lett. 125, 303-306 (1986); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Shimo(1986)_295K_220nm.csv"
-297.0,TonokuraKoshi(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_TonokuraKoshi(2000)_297K_402.9nm.txt",Absorption measurements by cavity ring-down spectroscopy between 370 and 420 nm,CH2=CHCH2,allyl radical,"
-
-  K. Tonokura and M. Koshi, ""Absorption spectrum and cross sections of the allyl radical measured using cavity ring-down spectroscopy: The Ã ← X band"",
-  J. Phys. Chem. A 104, 8456-8461 (2000); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_TonokuraKoshi(2000)_297K_402.csv"
-298.0,VandenBerghCallear(1970),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_VandenBerghCallear(1970)_298K_208-233nm.txt","Flash photolysis of 1-butene
-",CH2=CHCH2,allyl radical,"
-
-  H.E. Van den Bergh and A.B. Callear, ""Experimental determination of the oscillator strength of the B(","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_VandenBerghCallear(1970)_298K_208-233nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Bayrakceken(2003)_298K_223-229nm.txt",NaN,229.0,Bayrakceken(2003),"Flash-photolysis of diallyl (1,5-hexadiene)",223.0,allyl radical, https://doi.org/10.1016/S1386-1425(02)00393-1,CH2=CHCH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Bayrakceken(2003)_298K_223-229nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_DeSain(2006)_298K_404nm.txt",NaN,NaN,DeSain(2006),The allyl radical was formed from the 193-nm photolsis of allyltrichlorosilane CH,404.0,allyl radical, https://doi.org/10.1039/B600755D,CH2=CHCH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_DeSain(2006)_298K_404nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Jenkin(1993)_296K_210-232.5nm.txt",NaN,232.5,Jenkin(1993),"The laser flash photolysis technique, coupled with UV absorption spectroscopy, has been used to measure the absorption sprectrum",210.0,allyl radical, https://doi.org/10.1039/FT9938900433,CH2=CHCH2,296.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Jenkin(1993)_296K_210-232.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_Shimo(1986)_295K_220nm.txt",NaN,NaN,Shimo(1986),"A transient absorption spectrum around 223 nm observed immediately
+after photolyzing allyltrimethylsilane  H",220.0,allyl radical, https://doi.org/10.1016/0009-2614(86)87070-1,CH2=CHCH2,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_Shimo(1986)_295K_220nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_TonokuraKoshi(2000)_297K_402.9nm.txt",NaN,NaN,TonokuraKoshi(2000),Absorption measurements by cavity ring-down spectroscopy between 370 and 420 nm,402.9,allyl radical, https://doi.org/10.1021/jp001129y,CH2=CHCH2,297.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_TonokuraKoshi(2000)_297K_402.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH2_VandenBerghCallear(1970)_298K_208-233nm.txt",NaN,233.0,VandenBerghCallear(1970),"Flash photolysis of 1-butene
+",208.0,allyl radical, https://doi.org/10.1039/TF9706602681,CH2=CHCH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH2/CH2=CHCH2_VandenBerghCallear(1970)_298K_208-233nm.csv"

@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Brint(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/C6F4O2_Brint(1989)_298K_126.8-260.4nm.txt,The spectra were measured using a 1 m Rank-Hilger E776 monochromator fitted with a 600 line mm,C6F4O2,"tetrafluoro-1,4-benzoquinone","
-
-  P. Brint, P. Tsekeris, A. Bolovinos, and C. Kosmidis, ""The vacuum-ultraviolet absorption spectra of substituted p- benzoquinones"",
-  J. Chem. Soc. Faraday Trans. II 85, 177-186 (1989); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Quinones/C6F4O2/C6F4O2_Brint(1989)_298K_126.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/C6F4O2_Brint(1989)_298K_126.8-260.4nm.txt,NaN,260.4,Brint(1989),The spectra were measured using a 1 m Rank-Hilger E776 monochromator fitted with a 600 line mm,126.8,"tetrafluoro-1,4-benzoquinone", https://doi.org/10.1039/F29898500177,C6F4O2,298.0,data/cross-sections/Aromatic compounds/Quinones/C6F4O2/C6F4O2_Brint(1989)_298K_126.csv

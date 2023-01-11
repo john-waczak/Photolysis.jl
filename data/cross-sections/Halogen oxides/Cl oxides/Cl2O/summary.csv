@@ -1,140 +1,33 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Burkholder(1990)_298K_210-330nm.txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),Cl2O,dichlorine monoxide,"
-
-  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Burkholder(1990)_298K_210-330nm.csv
-298.0,Finkelnburg(1932),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Finkelnburg(1932)_298K_220-650nm.txt,Absorption spectrum measured by photographic photometry,Cl2O,dichlorine monoxide,"
-
-  W. Finkelnburg, H.-J. Schumacher, and G. Stieger, ""Das Spektrum und der photochemische Zerfall des Chlormonoxids"",
-  Z. Physik. Chem. [Leipzig] B 15, 127-156 (1932)
-
-
-",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Finkelnburg(1932)_298K_220-650nm.csv
-298.0,GoodeveWallace(1930),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_GoodeveWallace(1930)_298K_228-620nm.txt,"Absorption measurements with a Hilger rotating sector-photometer and quartz spectrograph, and an iron spark as a light source
-",Cl2O,dichlorine monoxide,"
-
-  C.F. Goodeve and J.I. Wallace, ""The absorption spectrum of chlorine monoxide"",
-  Trans. Faraday Soc. 26, 254-260 (1930); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_GoodeveWallace(1930)_298K_228-620nm.csv
-298.0,GoodeveWallace(1930),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_GoodeveWallace(1930)_298K_230-600nm.txt,Extinction coefficients at 10- and 20-nm intervals as quoted by ,Cl2O,dichlorine monoxide,"
-
-  C.F. Goodeve and J.I. Wallace, ""The absorption spectrum of chlorine monoxide"",
-  Trans. Faraday Soc. 26, 254-260 (1930); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_GoodeveWallace(1930)_298K_230-600nm.csv
-298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_IUPAC(2007)_298K_200-500nm(rec).txt,IUPAC(2007) recommendation:,Cl2O,dichlorine monoxide,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
-  Atmos. Chem. Phys. 7, 981-1191 (2007); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_IUPAC(2007)_298K_200-500nm(rec).csv
-298.0,Johnsson(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Johnsson(1995)_298K_260nm.txt,Gas-phase absorption spectrum for comparison with the spectrum of the ClClO molecule in argon matrices,Cl2O,dichlorine monoxide,"
-
-  K. Johnsson, A. Engdahl, and B. Nelander, ""The UV and IR spectra of the ClClO molecule"",
-  J. Phys. Chem. 99, 3965-3968 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Johnsson(1995)_298K_260nm.csv
-298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2002(2002)_298K_200-500nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",Cl2O,dichlorine monoxide,"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2002(2002)_298K_200-500nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2010(2011)_298K_200-640nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",Cl2O,dichlorine monoxide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2010(2011)_298K_200-640nm(rec).csv
-298.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2015(2015)_298K_200-640nm(rec).txt,"JPL- 2015(2015) and JPL-2019(2020) recommendations:
-200-500 nm, data of",Cl2O,dichlorine monoxide,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2015(2015)_298K_200-640nm(rec).csv
-298.0,Knauth(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Knauth(1979)_298K_200-500nm.txt,Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,Cl2O,dichlorine monoxide,"
-
-  H.D. Knauth, H. Alberti, and H. Clausen, ""Equilibrium constant of the gas reaction Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Knauth(1979)_298K_200-500nm.csv
-333.0,Knauth(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Knauth(1979)_333K_200-500nm.txt,Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,Cl2O,dichlorine monoxide,"
-
-  H.D. Knauth, H. Alberti, and H. Clausen, ""Equilibrium constant of the gas reaction Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Knauth(1979)_333K_200-500nm.csv
-298.0,Lin(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Lin(1976)_298K_180-640nm.txt,Absorption measurements with Cary 15 spectrophotometer using a quartz absorption cell of 10-cm path length; wavelength calibrations were accomplished by using O,Cl2O,dichlorine monoxide,"
-
-  C.-L. Lin, ""Extinction coefficients of chlorine monoxide and chlorine heptoxide"",
-  J. Chem. Eng. Data 21, 411-413 (1976); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Lin(1976)_298K_180-640nm.csv
-298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MartinGareis(1956)_298K_224.6-325.4nm(smoo).txt,Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,Cl2O,dichlorine monoxide,"
-
-  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MartinGareis(1956)_298K_224.csv
-298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MartinGareis(1956)_298K_224.7-326.3nm(meas).txt,"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
-",Cl2O,dichlorine monoxide,"
-
-  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MartinGareis(1956)_298K_224.csv
-298.0,MolinaMolina(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MolinaMolina(1978)_298K_200-450nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer,Cl2O,dichlorine monoxide,"
-
-  L.T. Molina and M.J. Molina, ""Ultraviolet spectrum of HOCl"",
-  J. Phys. Chem. 82, 2410-2414 (1978); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MolinaMolina(1978)_298K_200-450nm.csv
-298.0,Nee(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Nee(1991)_298K_150-200nm.txt,Absorption spectrum measured using synchrotron radiation; resolution 0.17 nm,Cl2O,dichlorine monoxide,"
-
-  J.B. Nee, ""Ultraviolet absorption of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Nee(1991)_298K_150-200nm.csv
-298.0,Nee(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Nee(1991)_298K_165-200nm.txt,Absorption measurements at a resolution of 0.17 nm using synchrotron radiation as a light source,Cl2O,dichlorine monoxide,"
-
-  J.B. Nee, ""Ultraviolet absorption of Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Nee(1991)_298K_165-200nm.csv
-201.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_201K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_201K_200-500nm.csv
-208.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_208K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_208K_200-500nm.csv
-218.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_218K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_218K_200-500nm.csv
-228.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_228K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_228K_200-500nm.csv
-248.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_248K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_248K_200-500nm.csv
-273.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_273K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_273K_200-500nm.csv
-296.0,Papanastasiou(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_296K_200-500nm.txt,Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1 nm),Cl2O,dichlorine monoxide,"
-
-  D.K. Papanastasiou, K.J. Feierabend, and J.B. Burkholder, ""Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_296K_200-500nm.csv
-300.0,Simon(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_236-320nm(0.08nm).txt,Absorption measurements using a diode array camera; spectral resolution 0.3 nm,Cl2O,dichlorine monoxide,"
-
-  F.-G. Simon, W. Schneider, G.K. Moortgat, and J.P. Burrows, ""A study of the ClO absorption cross-section between 240 and 310 nm and the kinetics of the self-reaction at 300 K"",
-  J. Photochem. Photobiol. A: Chem. 55, 1-23 (1990); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_236-320nm(0.csv
-300.0,Simon(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_237-319nm(1nm).txt,"The absoprtion spectrum measured at a resolution of 0.3 nm has been averaged over 1-nm intervals: 236.5-237.5, 237.5-238.5,......, 318.5-319.5 nm; first column is center of interval",Cl2O,dichlorine monoxide,"
-
-  F.-G. Simon, W. Schneider, G.K. Moortgat, and J.P. Burrows, ""A study of the ClO absorption cross-section between 240 and 310 nm and the kinetics of the self-reaction at 300 K"",
-  J. Photochem. Photobiol. A: Chem. 55, 1-23 (1990); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_237-319nm(1nm).csv
-300.0,Simon(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_240-310nm(5nm).txt,Absorption measurements using a diode array camera; spectral resolution 0.3 nm,Cl2O,dichlorine monoxide,"
-
-  F.-G. Simon, W. Schneider, G.K. Moortgat, and J.P. Burrows, ""A study of the ClO absorption cross-section between 240 and 310 nm and the kinetics of the self-reaction at 300 K"",
-  J. Photochem. Photobiol. A: Chem. 55, 1-23 (1990); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_240-310nm(5nm).csv
-298.0,Smith(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Smith(2001)_298K_190-399nm.txt,Absorption measurements were carried out to identify and quantify possible impurities in Cl,Cl2O,dichlorine monoxide,"
-
-  G.D. Smith, F.M.G. Tablas, L.T. Molina, and M.J. Molina, ""Measurement of relative product yields from the photolysis of dichlorine monoxide (Cl",data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Smith(2001)_298K_190-399nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Burkholder(1990)_298K_210-330nm.txt,NaN,330.0,Burkholder(1990),Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),210.0,dichlorine monoxide, https://doi.org/10.1021/j100365a033,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Burkholder(1990)_298K_210-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Finkelnburg(1932)_298K_220-650nm.txt,NaN,650.0,Finkelnburg(1932),Absorption spectrum measured by photographic photometry,220.0,dichlorine monoxide, https://doi.org/10.1515/zpch-1932-1515,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Finkelnburg(1932)_298K_220-650nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_GoodeveWallace(1930)_298K_228-620nm.txt,NaN,620.0,GoodeveWallace(1930),"Absorption measurements with a Hilger rotating sector-photometer and quartz spectrograph, and an iron spark as a light source
+",228.0,dichlorine monoxide, https://doi.org/10.1039/TF9302600254,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_GoodeveWallace(1930)_298K_228-620nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_GoodeveWallace(1930)_298K_230-600nm.txt,NaN,600.0,GoodeveWallace(1930),Extinction coefficients at 10- and 20-nm intervals as quoted by ,230.0,dichlorine monoxide, https://doi.org/10.1039/TF9302600254,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_GoodeveWallace(1930)_298K_230-600nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_IUPAC(2007)_298K_200-500nm(rec).txt,NaN,500.0,IUPAC(2007),IUPAC(2007) recommendation:,200.0,dichlorine monoxide, https://doi.org/10.5194/acp-7-981-2007,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_IUPAC(2007)_298K_200-500nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Johnsson(1995)_298K_260nm.txt,NaN,NaN,Johnsson(1995),Gas-phase absorption spectrum for comparison with the spectrum of the ClClO molecule in argon matrices,260.0,dichlorine monoxide, https://doi.org/10.1021/j100012a016,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Johnsson(1995)_298K_260nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2002(2002)_298K_200-500nm(rec).txt,NaN,500.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",200.0,dichlorine monoxide,,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2002(2002)_298K_200-500nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2010(2011)_298K_200-640nm(rec).txt,NaN,640.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",200.0,dichlorine monoxide,,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2010(2011)_298K_200-640nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_JPL-2015(2015)_298K_200-640nm(rec).txt,NaN,640.0,JPL-2015(2015),"JPL- 2015(2015) and JPL-2019(2020) recommendations:
+200-500 nm, data of",200.0,dichlorine monoxide,,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_JPL-2015(2015)_298K_200-640nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Knauth(1979)_298K_200-500nm.txt,NaN,500.0,Knauth(1979),Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,200.0,dichlorine monoxide, https://doi.org/10.1021/j100475a010,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Knauth(1979)_298K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Knauth(1979)_333K_200-500nm.txt,NaN,500.0,Knauth(1979),Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,200.0,dichlorine monoxide, https://doi.org/10.1021/j100475a010,Cl2O,333.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Knauth(1979)_333K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Lin(1976)_298K_180-640nm.txt,NaN,640.0,Lin(1976),Absorption measurements with Cary 15 spectrophotometer using a quartz absorption cell of 10-cm path length; wavelength calibrations were accomplished by using O,180.0,dichlorine monoxide, https://doi.org/10.1021/je60071a030,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Lin(1976)_298K_180-640nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MartinGareis(1956)_298K_224.6-325.4nm(smoo).txt,NaN,325.4,MartinGareis(1956),Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,224.6,dichlorine monoxide, https://doi.org/10.1002/bbpc.19560600907,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MartinGareis(1956)_298K_224.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MartinGareis(1956)_298K_224.7-326.3nm(meas).txt,NaN,326.3,MartinGareis(1956),"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
+",224.7,dichlorine monoxide, https://doi.org/10.1002/bbpc.19560600907,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MartinGareis(1956)_298K_224.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_MolinaMolina(1978)_298K_200-450nm.txt,NaN,450.0,MolinaMolina(1978),Absorption measurements using a UV-VIS double-beam spectrophotometer,200.0,dichlorine monoxide, https://doi.org/10.1021/j100511a013,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_MolinaMolina(1978)_298K_200-450nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Nee(1991)_298K_150-200nm.txt,NaN,200.0,Nee(1991),Absorption spectrum measured using synchrotron radiation; resolution 0.17 nm,150.0,dichlorine monoxide, https://doi.org/10.1016/0022-4073(91)90066-Y,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Nee(1991)_298K_150-200nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Nee(1991)_298K_165-200nm.txt,NaN,200.0,Nee(1991),Absorption measurements at a resolution of 0.17 nm using synchrotron radiation as a light source,165.0,dichlorine monoxide, https://doi.org/10.1016/0022-4073(91)90066-Y,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Nee(1991)_298K_165-200nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_201K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,201.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_201K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_208K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,208.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_208K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_218K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,218.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_218K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_228K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,228.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_228K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_248K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,248.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_248K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_273K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,273.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_273K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Papanastasiou(2011)_296K_200-500nm.txt,NaN,500.0,Papanastasiou(2011),Absorption measurements over the temperature range 201-296 K using diode array spectroscopy (spectral resolution 1 nm),200.0,dichlorine monoxide, https://doi.org/10.1063/1.3592662,Cl2O,296.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Papanastasiou(2011)_296K_200-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_236-320nm(0.08nm).txt,NaN,320.0,Simon(1990),Absorption measurements using a diode array camera; spectral resolution 0.3 nm,236.0,dichlorine monoxide, https://doi.org/10.1016/1010-6030(90)80014-O,Cl2O,300.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_236-320nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_237-319nm(1nm).txt,NaN,319.0,Simon(1990),"The absoprtion spectrum measured at a resolution of 0.3 nm has been averaged over 1-nm intervals: 236.5-237.5, 237.5-238.5,......, 318.5-319.5 nm; first column is center of interval",237.0,dichlorine monoxide, https://doi.org/10.1016/1010-6030(90)80014-O,Cl2O,300.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_237-319nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Simon(1990)_300K_240-310nm(5nm).txt,NaN,310.0,Simon(1990),Absorption measurements using a diode array camera; spectral resolution 0.3 nm,240.0,dichlorine monoxide, https://doi.org/10.1016/1010-6030(90)80014-O,Cl2O,300.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Simon(1990)_300K_240-310nm(5nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Smith(2001)_298K_190-399nm.txt,NaN,399.0,Smith(2001),Absorption measurements were carried out to identify and quantify possible impurities in Cl,190.0,dichlorine monoxide, https://doi.org/10.1021/jp0100957,Cl2O,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Smith(2001)_298K_190-399nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O_Trolier(1990)_287-298K_225.5-325.4nm.txt,298.0,325.4,Trolier(1990),Discharge-flow source (Cl,225.5,dichlorine monoxide, https://doi.org/10.1021/j100375a027,Cl2O,287.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O/Cl2O_Trolier(1990)_287-298K_225.csv

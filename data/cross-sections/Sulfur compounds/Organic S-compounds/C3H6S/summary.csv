@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Holland(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C3H6S_Holland(2009)_298K_41.6-231.6nm.txt,Absorption measurements using synchroton radiation;,C3H6S,trimethylene sulfide,"
-
-  D.M.P. Holland, D.A. Shaw, I.C. Walker, I.J. McEwen, and M.F. Guest, ""The valence shell electronic states of trimethylene sulphide studied by photoabsorption and ab initio multireference configuration interaction calculations"",
-  J. Phys. B: At. Mol. Opt. Phys. 42, 035102 (12 pp.) (2009); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C3H6S/C3H6S_Holland(2009)_298K_41.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C3H6S_Holland(2009)_298K_41.6-231.6nm.txt,NaN,231.6,Holland(2009),Absorption measurements using synchroton radiation;,41.6,trimethylene sulfide, https://doi.org/10.1088/0953-4075/42/3/035102,C3H6S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C3H6S/C3H6S_Holland(2009)_298K_41.csv

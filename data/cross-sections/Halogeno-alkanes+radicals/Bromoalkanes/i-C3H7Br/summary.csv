@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_JPL-2010(2011)_295K_180-230nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",i-C3H7Br,"2-bromopropane, isopropyl bromide","
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_JPL-2010(2011)_295K_180-230nm(rec).csv
-295.0,Kozlov(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_Kozlov(2003)_295K_164-270nm.txt,"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",i-C3H7Br,"2-bromopropane, isopropyl bromide","
-
-  S.N. Kozlov, V.L. Orkin, R.E. Huie, M.J., Kurylo, ""OH reactivity and UV spectra of propane, n-propyl bromide, and isopropyl bromide"",
-  J. Phys. Chem. A 107, 1333-1338 (2003); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_Kozlov(2003)_295K_164-270nm.csv
-295.0,Kozlov(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_Kozlov(2003)_295K_180-230nm.txt,"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",i-C3H7Br,"2-bromopropane, isopropyl bromide","
-
-  S.N. Kozlov, V.L. Orkin, R.E. Huie, M.J., Kurylo, ""OH reactivity and UV spectra of propane, n-propyl bromide, and isopropyl bromide"",
-  J. Phys. Chem. A 107, 1333-1338 (2003); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_Kozlov(2003)_295K_180-230nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_JPL-2010(2011)_295K_180-230nm(rec).txt,NaN,230.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",180.0,"2-bromopropane, isopropyl bromide",,i-C3H7Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_JPL-2010(2011)_295K_180-230nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_Kozlov(2003)_295K_164-270nm.txt,NaN,270.0,Kozlov(2003),"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",164.0,"2-bromopropane, isopropyl bromide", https://doi.org/10.1021/jp021806j,i-C3H7Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_Kozlov(2003)_295K_164-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br_Kozlov(2003)_295K_180-230nm.txt,NaN,230.0,Kozlov(2003),"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",180.0,"2-bromopropane, isopropyl bromide", https://doi.org/10.1021/jp021806j,i-C3H7Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/i-C3H7Br/i-C3H7Br_Kozlov(2003)_295K_180-230nm.csv

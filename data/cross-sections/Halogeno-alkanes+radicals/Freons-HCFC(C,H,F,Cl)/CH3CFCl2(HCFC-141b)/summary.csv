@@ -1,170 +1,29 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-210.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_169-241nm(int-c).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_169-241nm(int-c).csv"
-210.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_170-240nm(2nm).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_170-240nm(2nm).csv"
-230.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_169-241nm(int-c).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_169-241nm(int-c).csv"
-230.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_170-240nm(2nm).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_170-240nm(2nm).csv"
-250.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_169-241nm(int-c).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelegth scanning at increments of 1 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_169-241nm(int-c).csv"
-250.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_170-240nm(2nm).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_170-240nm(2nm).csv"
-270.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_169-241nm(int-c).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_169-241nm(int-c).csv"
-270.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_170-240nm(2nm).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_170-240nm(2nm).csv"
-295.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_169-241nm(int-c).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_169-241nm(int-c).csv"
-295.0,GillotaySimon(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_170-240nm(2nm).txt",Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  D. Gillotay and P.C. Simon, ""Temperature-dependence of ultraviolet absorption cross-sections of alternative chlorofluoroethanes"",
-  Aeronomica Acta A 358, 1-27 (1991); J. Atmos. Chem. 12, 269-285 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_170-240nm(2nm).csv"
-210.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_210K_190-228nm(rec).txt",IUPAC(2008) recommendation:,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_210K_190-228nm(rec).csv"
-298.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_298K_190-228nm(rec).txt",IUPAC(2008) recommendation:,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_298K_190-228nm(rec).csv"
-298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_JPL-2010(2011)_298K_170-240nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_JPL-2010(2011)_298K_170-240nm(rec).csv"
-298.0,JPL-97(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_JPL-97(1997)_298K_190-220nm(rec).txt",JPL-97 recommendation:,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
-  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_JPL-97(1997)_298K_190-220nm(rec).csv"
-295.0,Orkin(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orkin(2013)_295K_190-240nm.txt",Absorption measurements using two different double-beam spectrophotometers; spectrum recorded with an increment of 0.05-0.5 nm and a spectral slit width ranging from0.1 to 1.0 nm,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  V.L. Orkin, V.G. Khamaganov, E.E. Kasimovskaya, and A.G. Guschin, ""Photochemical properties of some Cl-containing halogenated alkanes"",
-  J. Phys. Chem. A 117, 5483-5490 (2013); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orkin(2013)_295K_190-240nm.csv"
-203.0,Orlando(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_203K_190-230nm.txt","Absorption measurements at 203, 223, 243, 263, and 295 K using a D",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.J. Orlando, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of several hydrofluoroethanes and hydrochloroethanes. 2. UV absorption cross sections and atmospheric lifetimes"",
-  J. Geophys. Res. 96(D3), 5013-5023 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_203K_190-230nm.csv"
-223.0,Orlando(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_223K_190-230nm.txt","Absorption measurements at 203, 223, 243, 263, and 295 K using a D",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.J. Orlando, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of several hydrofluoroethanes and hydrochloroethanes. 2. UV absorption cross sections and atmospheric lifetimes"",
-  J. Geophys. Res. 96(D3), 5013-5023 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_223K_190-230nm.csv"
-243.0,Orlando(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_243K_190-230nm.txt","Absorption measurements at 203, 223, 243, 263, and 295 K using a D",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.J. Orlando, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of several hydrofluoroethanes and hydrochloroethanes. 2. UV absorption cross sections and atmospheric lifetimes"",
-  J. Geophys. Res. 96(D3), 5013-5023 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_243K_190-230nm.csv"
-263.0,Orlando(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_263K_190-230nm.txt","Absorption measurements at 203, 223, 243, 263, and 295 K using a D",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.J. Orlando, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of several hydrofluoroethanes and hydrochloroethanes. 2. UV absorption cross sections and atmospheric lifetimes"",
-  J. Geophys. Res. 96(D3), 5013-5023 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_263K_190-230nm.csv"
-295.0,Orlando(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_295K_190-230nm.txt","Absorption measurements at 203, 223, 243, 263, and 295 K using a D",CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.J. Orlando, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of several hydrofluoroethanes and hydrochloroethanes. 2. UV absorption cross sections and atmospheric lifetimes"",
-  J. Geophys. Res. 96(D3), 5013-5023 (1991); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_295K_190-230nm.csv"
-298.0,SPARC(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_SPARC(2013)_298K_121.567nm(rec).txt",Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 2,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
-  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_SPARC(2013)_298K_121.csv"
-203.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_203K_190-230nm.txt",Absorption measurements using a D,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Talukdar, A. Mellouki, T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_203K_190-230nm.csv"
-223.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_223K_190-230nm.txt",Absorption measurements using a D,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Talukdar, A. Mellouki, T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_223K_190-230nm.csv"
-243.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_243K_190-230nm.txt",Absorption measurements using a D,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Talukdar, A. Mellouki, T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_243K_190-230nm.csv"
-263.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_263K_190-230nm.txt",Absorption measurements using a D,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Talukdar, A. Mellouki, T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_263K_190-230nm.csv"
-295.0,Talukdar(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_295K_190-230nm.txt",Absorption measurements using a D,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R. Talukdar, A. Mellouki, T. Gierczak, J.B. Burkholder, S.A. McKeen, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_295K_190-230nm.csv"
-300.0,VatsaVolpp(2001),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_VatsaVolpp(2001)_300K_121.567nm.txt",Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,CH3CFCl2(HCFC-141b),"1,1,1-fluorodichloroethane (HCFC-141b)","
-
-  R.K. Vatsa and H.-R. Volpp, ""Absorption cross sections for some atmospherically important molecules at the H atom Lyman-α wavelength (121.567 nm)"",
-  Chem. Phys. Lett. 340, 289-295 (2001); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_VatsaVolpp(2001)_300K_121.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Fahr(1993)_298K_190-240nm.txt",NaN,240.0,Fahr(1993),,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/93JD01086,CH3CFCl2(HCFC-141b),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Fahr(1993)_298K_190-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_169-241nm(int-c).txt",NaN,241.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,169.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_169-241nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_170-240nm(2nm).txt",NaN,240.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,170.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_210K_170-240nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_169-241nm(int-c).txt",NaN,241.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,169.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_169-241nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_170-240nm(2nm).txt",NaN,240.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,170.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_230K_170-240nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_169-241nm(int-c).txt",NaN,241.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelegth scanning at increments of 1 nm,169.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_169-241nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_170-240nm(2nm).txt",NaN,240.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,170.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_250K_170-240nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_169-241nm(int-c).txt",NaN,241.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,169.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_169-241nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_170-240nm(2nm).txt",NaN,240.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,170.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_270K_170-240nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_169-241nm(int-c).txt",NaN,241.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm,169.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_169-241nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_170-240nm(2nm).txt",NaN,240.0,GillotaySimon(1991),Medium-resolution (0.1 nm) absorption spectrum; wavelength scanning at increments of 1 nm; interpolation for 2-nm intervals,170.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1007/BF00048076,CH3CFCl2(HCFC-141b),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_GillotaySimon(1991)_295K_170-240nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_210K_190-228nm(rec).txt",NaN,228.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.5194/acp-8-4141-2008,CH3CFCl2(HCFC-141b),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_210K_190-228nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_298K_190-228nm(rec).txt",NaN,228.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.5194/acp-8-4141-2008,CH3CFCl2(HCFC-141b),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_IUPAC(2008)_298K_190-228nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_JPL-2010(2011)_298K_170-240nm(rec).txt",NaN,240.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",170.0,"1,1,1-fluorodichloroethane (HCFC-141b)",,CH3CFCl2(HCFC-141b),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_JPL-2010(2011)_298K_170-240nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_JPL-97(1997)_298K_190-220nm(rec).txt",NaN,220.0,JPL-97(1997),JPL-97 recommendation:,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)",,CH3CFCl2(HCFC-141b),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_JPL-97(1997)_298K_190-220nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orkin(2013)_295K_190-240nm.txt",NaN,240.0,Orkin(2013),Absorption measurements using two different double-beam spectrophotometers; spectrum recorded with an increment of 0.05-0.5 nm and a spectral slit width ranging from0.1 to 1.0 nm,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/jp400408y,CH3CFCl2(HCFC-141b),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orkin(2013)_295K_190-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_203K_190-230nm.txt",NaN,230.0,Orlando(1991),"Absorption measurements at 203, 223, 243, 263, and 295 K using a D",190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/90JD02734,CH3CFCl2(HCFC-141b),203.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_203K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_223K_190-230nm.txt",NaN,230.0,Orlando(1991),"Absorption measurements at 203, 223, 243, 263, and 295 K using a D",190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/90JD02734,CH3CFCl2(HCFC-141b),223.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_223K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_243K_190-230nm.txt",NaN,230.0,Orlando(1991),"Absorption measurements at 203, 223, 243, 263, and 295 K using a D",190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/90JD02734,CH3CFCl2(HCFC-141b),243.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_243K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_263K_190-230nm.txt",NaN,230.0,Orlando(1991),"Absorption measurements at 203, 223, 243, 263, and 295 K using a D",190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/90JD02734,CH3CFCl2(HCFC-141b),263.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_263K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Orlando(1991)_295K_190-230nm.txt",NaN,230.0,Orlando(1991),"Absorption measurements at 203, 223, 243, 263, and 295 K using a D",190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1029/90JD02734,CH3CFCl2(HCFC-141b),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Orlando(1991)_295K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_SPARC(2013)_298K_121.567nm(rec).txt",NaN,NaN,SPARC(2013),Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 2,121.567,"1,1,1-fluorodichloroethane (HCFC-141b)",,CH3CFCl2(HCFC-141b),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_SPARC(2013)_298K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_203K_190-230nm.txt",NaN,230.0,Talukdar(1991),Absorption measurements using a D,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/j100168a021,CH3CFCl2(HCFC-141b),203.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_203K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_223K_190-230nm.txt",NaN,230.0,Talukdar(1991),Absorption measurements using a D,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/j100168a021,CH3CFCl2(HCFC-141b),223.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_223K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_243K_190-230nm.txt",NaN,230.0,Talukdar(1991),Absorption measurements using a D,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/j100168a021,CH3CFCl2(HCFC-141b),243.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_243K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_263K_190-230nm.txt",NaN,230.0,Talukdar(1991),Absorption measurements using a D,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/j100168a021,CH3CFCl2(HCFC-141b),263.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_263K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_295K_190-230nm.txt",NaN,230.0,Talukdar(1991),Absorption measurements using a D,190.0,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1021/j100168a021,CH3CFCl2(HCFC-141b),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_Talukdar(1991)_295K_190-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)_VatsaVolpp(2001)_300K_121.567nm.txt",NaN,NaN,VatsaVolpp(2001),Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,121.567,"1,1,1-fluorodichloroethane (HCFC-141b)", https://doi.org/10.1016/S0009-2614(01)00373-6,CH3CFCl2(HCFC-141b),300.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CH3CFCl2(HCFC-141b)/CH3CFCl2(HCFC-141b)_VatsaVolpp(2001)_300K_121.csv"

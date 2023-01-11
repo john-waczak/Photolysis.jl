@@ -1,23 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-464.0,Catoire(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Catoire(1994)_464K_210-260nm.txt,Flash photolysis of slowly flowing Cl,CH2ClO2,chloromethylperoxy radical,"
-
-  V. Catoire, R. Lesclaux, P.D. Lightfott, and M.-T. Rayez, ""Kinetic studies of the reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Catoire(1994)_464K_210-260nm.csv
-588.0,Catoire(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Catoire(1994)_588K_205-280nm.txt,Flash photolysis of of slowly flowing Cl,CH2ClO2,chloromethylperoxy radical,"
-
-  V. Catoire, R. Lesclaux, P.D. Lightfott, and M.-T. Rayez, ""Kinetic studies of the reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Catoire(1994)_588K_205-280nm.csv
-298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(meas).txt,Flash photolysis of Cl,CH2ClO2,chloromethylperoxy radical,"
-
-  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""The UV absorption spectra and kinetics of the self reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(meas).csv
-298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(resc).txt,Flash photolysis of Cl,CH2ClO2,chloromethylperoxy radical,"
-
-  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""The UV absorption spectra and kinetics of the self reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(resc).csv
-298.0,Dagaut(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(smoo).txt,Flash photolysis of Cl,CH2ClO2,chloromethylperoxy radical,"
-
-  P. Dagaut, T.J. Wallington, and M.J. Kurylo, ""The UV absorption spectra and kinetics of the self reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(smoo).csv
-298.0,Lightfoot(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Lightfoot(1992)_298K_210-290nm(rec).txt,Recommendation based on a smooth fit to the data of,CH2ClO2,chloromethylperoxy radical,"
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Lightfoot(1992)_298K_210-290nm(rec).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Catoire(1994)_251-393K_205-290nm.txt,393.0,290.0,Catoire(1994),Flash photolysis of slowly flowing Cl,205.0,chloromethylperoxy radical, https://doi.org/10.1021/j100062a027,CH2ClO2,251.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Catoire(1994)_251-393K_205-290nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Catoire(1994)_464K_210-260nm.txt,NaN,260.0,Catoire(1994),Flash photolysis of slowly flowing Cl,210.0,chloromethylperoxy radical, https://doi.org/10.1021/j100062a027,CH2ClO2,464.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Catoire(1994)_464K_210-260nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Catoire(1994)_588K_205-280nm.txt,NaN,280.0,Catoire(1994),Flash photolysis of of slowly flowing Cl,205.0,chloromethylperoxy radical, https://doi.org/10.1021/j100062a027,CH2ClO2,588.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Catoire(1994)_588K_205-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(meas).txt,NaN,290.0,Dagaut(1988),Flash photolysis of Cl,210.0,chloromethylperoxy radical, https://doi.org/10.1002/kin.550201006,CH2ClO2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(resc).txt,NaN,290.0,Dagaut(1988),Flash photolysis of Cl,210.0,chloromethylperoxy radical, https://doi.org/10.1002/kin.550201006,CH2ClO2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(resc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Dagaut(1988)_298K_210-290nm(smoo).txt,NaN,290.0,Dagaut(1988),Flash photolysis of Cl,210.0,chloromethylperoxy radical, https://doi.org/10.1002/kin.550201006,CH2ClO2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Dagaut(1988)_298K_210-290nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Cl/CH2ClO2_Lightfoot(1992)_298K_210-290nm(rec).txt,NaN,290.0,Lightfoot(1992),Recommendation based on a smooth fit to the data of,210.0,chloromethylperoxy radical, https://doi.org/10.1016/0960-1686(92)90423-I,CH2ClO2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy+Cl/CH2ClO2/CH2ClO2_Lightfoot(1992)_298K_210-290nm(rec).csv

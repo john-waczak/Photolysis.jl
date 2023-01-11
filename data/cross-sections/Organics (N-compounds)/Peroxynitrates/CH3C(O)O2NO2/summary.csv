@@ -1,95 +1,15 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,BascoParmar(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_BascoParmar(1987)_298K_210-250nm.txt,The techniques of flash photolysis (Cl,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  N. Basco and S.S. Parmar, ""The reaction of acetylperoxy radicals"",
-  Int. J. Chem. Kinet. 19, 115-128 (1987); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_BascoParmar(1987)_298K_210-250nm.csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_IUPAC(2006)_298K_196-350nm(rec).txt,IUPAC(2006) recommendation:,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_IUPAC(2006)_298K_196-350nm(rec).csv
-298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2002(2002)_298K_196-350nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2002(2002)_298K_196-350nm(rec).csv
-298.0,JPL-2006(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2006(2006)_298K_196-350nm(rec).txt,JPL-2006 recommendation:,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, G.K. Moortgat, H. Keller-Rudek, P.H. Wine, A.R. Ravishankara, C.E. Kolb, M.J. Molina, B.J. Finlayson-Pitts, R.E. Huie, V.L. Orkin, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 15"",
-  JPL Publication 06-2, Jet Propulsion Laboratory, Pasadena, 2006; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2006(2006)_298K_196-350nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2010(2011)_298K_196-350nm(rec).txt,JPL-2010 recommendation:,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2010(2011)_298K_196-350nm(rec).csv
-298.0,LibudaZabel(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_LibudaZabel(1995)_298K_219.7-325.0nm.txt,Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  H.G. Libuda and F. Zabel, ""UV absorption cross section of acetyl peroxynitrate and trifluoroacetyl peroxynitrate"",
-  Ber. Bunsenges. Phys. Chem. 99, 1205-1213 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_LibudaZabel(1995)_298K_219.csv
-298.0,LibudaZabel(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_LibudaZabel(1995)_298K_220-325nm(5nm).txt,Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  H.G. Libuda and F. Zabel, ""UV absorption cross section of acetyl peroxynitrate and trifluoroacetyl peroxynitrate"",
-  Ber. Bunsenges. Phys. Chem. 99, 1205-1213 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_LibudaZabel(1995)_298K_220-325nm(5nm).csv
-298.0,Senum(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Senum(1984)_298K_200-300nm.txt,Absorption measurements using a single-beam UV/visible spectrometer with a resolution of 2 nm,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  G.I. Senum, Y.-N. Lee, and J.S. Gaffney, ""Ultraviolet absorption spectrum of peroxyacetyl nitrate and peroxypropionyl nitrate"",
-  J. Phys. Chem. 88, 1269-1270 (1984); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Senum(1984)_298K_200-300nm.csv
-298.0,Stephens(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1969)_298K_218-300nm.txt,Absorption measurements for PAN diluted with 1 atm air using a Cary Model 14 recording spectrophotometer,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  E.R. Stephens, ""The formation, reactions, and properties of peroxyacyl nitrates (PANs) in photochemical air pollution"",
-  Adv. Environ. Sci. Technol. 1, 119-146 (1969)
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1969)_298K_218-300nm.csv
-298.0,Stephens(1969),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1969)_298K_220-270nm.txt,Absorption measurements for PAN diluted with 1 atm air using a Cary Model 14 recording spectrophotometer,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  E.R. Stephens, ""The formation, reactions, and properties of peroxyacyl nitrates (PANs) in photochemical air pollution"",
-  Adv. Environ. Sci. Technol. 1, 119-146 (1969)
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1969)_298K_220-270nm.csv
-298.0,Stephens(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1981)_298K_229.9-448.8nm.txt,The plotted absorption spectrum has been digitized,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  E.R. Stephens, ""Absorption spectrum of PAN (CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1981)_298K_229.csv
-250.0,Talukdar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_250K_196-344nm(calc).txt,"Absorption measurements at 250, 273, and 298 K using a diode array spectrometer with a resolution of 0.2 nm",CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  R.K. Talukdar, J.B. Burkholder, A.-M. Schmoltner, J.M. Roberts, R.R. Wilson, and A.R. Ravishankara, ""Investigation of the loss processes for peroxyacetyl nitrate in the atmosphere: UV photolysis and reaction with OH"",
-  J. Geophys. Res. 100(D7), 14163-14173 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_250K_196-344nm(calc).csv
-273.0,Talukdar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_273K_196-344nm(calc).txt,"Absorption measurements at 250, 273, and 298 K using a diode array spectrometer with a resolution of 0.2 nm",CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  R.K. Talukdar, J.B. Burkholder, A.-M. Schmoltner, J.M. Roberts, R.R. Wilson, and A.R. Ravishankara, ""Investigation of the loss processes for peroxyacetyl nitrate in the atmosphere: UV photolysis and reaction with OH"",
-  J. Geophys. Res. 100(D7), 14163-14173 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_273K_196-344nm(calc).csv
-298.0,Talukdar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_298K_196-350nm(meas).txt,Absorption cross sections measured at 298 K with a spectral resolution of 0.2 nm using a diode array spectrometer,CH3C(O)O2NO2,"peroxyacetyl nitrate, PAN","
-
-  R.K. Talukdar, J.B. Burkholder, A.-M. Schmoltner, J.M. Roberts, R.R. Wilson, and A.R. Ravishankara, ""Investigation of the loss processes for peroxyacetyl nitrate in the atmosphere: UV photolysis and reaction with OH"",
-  J. Geophys. Res. 100(D7), 14163-14173 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_298K_196-350nm(meas).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_BascoParmar(1987)_298K_210-250nm.txt,NaN,250.0,BascoParmar(1987),The techniques of flash photolysis (Cl,210.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1002/kin.550190204,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_BascoParmar(1987)_298K_210-250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_IUPAC(2006)_298K_196-350nm(rec).txt,NaN,350.0,IUPAC(2006),IUPAC(2006) recommendation:,196.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.5194/acp-6-3625-2006,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_IUPAC(2006)_298K_196-350nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2002(2002)_298K_196-350nm(rec).txt,NaN,350.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",196.0,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2002(2002)_298K_196-350nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2006(2006)_298K_196-350nm(rec).txt,NaN,350.0,JPL-2006(2006),JPL-2006 recommendation:,196.0,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2006(2006)_298K_196-350nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_JPL-2010(2011)_298K_196-350nm(rec).txt,NaN,350.0,JPL-2010(2011),JPL-2010 recommendation:,196.0,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_JPL-2010(2011)_298K_196-350nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_LibudaZabel(1995)_298K_219.7-325.0nm.txt,NaN,325.0,LibudaZabel(1995),Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,219.7,"peroxyacetyl nitrate, PAN", https://doi.org/10.1002/bbpc.199500061,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_LibudaZabel(1995)_298K_219.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_LibudaZabel(1995)_298K_220-325nm(5nm).txt,NaN,325.0,LibudaZabel(1995),Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,220.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1002/bbpc.199500061,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_LibudaZabel(1995)_298K_220-325nm(5nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Senum(1984)_298K_200-300nm.txt,NaN,300.0,Senum(1984),Absorption measurements using a single-beam UV/visible spectrometer with a resolution of 2 nm,200.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1021/j150651a001,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Senum(1984)_298K_200-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1969)_298K_218-300nm.txt,NaN,300.0,Stephens(1969),Absorption measurements for PAN diluted with 1 atm air using a Cary Model 14 recording spectrophotometer,218.0,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1969)_298K_218-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1969)_298K_220-270nm.txt,NaN,270.0,Stephens(1969),Absorption measurements for PAN diluted with 1 atm air using a Cary Model 14 recording spectrophotometer,220.0,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1969)_298K_220-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Stephens(1981)_298K_229.9-448.8nm.txt,NaN,448.8,Stephens(1981),The plotted absorption spectrum has been digitized,229.9,"peroxyacetyl nitrate, PAN",,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Stephens(1981)_298K_229.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_250K_196-344nm(calc).txt,NaN,344.0,Talukdar(1995),"Absorption measurements at 250, 273, and 298 K using a diode array spectrometer with a resolution of 0.2 nm",196.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1029/95JD00545,CH3C(O)O2NO2,250.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_250K_196-344nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_273K_196-344nm(calc).txt,NaN,344.0,Talukdar(1995),"Absorption measurements at 250, 273, and 298 K using a diode array spectrometer with a resolution of 0.2 nm",196.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1029/95JD00545,CH3C(O)O2NO2,273.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_273K_196-344nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3C(O)O2NO2_Talukdar(1995)_298K_196-350nm(meas).txt,NaN,350.0,Talukdar(1995),Absorption cross sections measured at 298 K with a spectral resolution of 0.2 nm using a diode array spectrometer,196.0,"peroxyacetyl nitrate, PAN", https://doi.org/10.1029/95JD00545,CH3C(O)O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3C(O)O2NO2/CH3C(O)O2NO2_Talukdar(1995)_298K_196-350nm(meas).csv

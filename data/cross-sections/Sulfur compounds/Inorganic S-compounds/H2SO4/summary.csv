@@ -1,25 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-473.0,Burkholder(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Burkholder(2000)_473K_195-330nm(upper%20limits).txt,The value 1×10,H2SO4,sulfuric acid,"
-
-  J.B. Burkholder, M. Mills, and S. McKeen, ""Upper limit for the UV absorption cross sections of H",data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Burkholder(2000)_473K_195-330nm(upper limits).csv
-226.5,Farahani(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Farahani(2019)_226.5K_119-248nm(calc).txt,Ab initio calculation of the electronic absorption spectrum of sulfuric acid under atmospherically relevant conditions using a nuclear ensemble approach,H2SO4,sulfuric acid,"
-
-  S. Farahani, B.N. Frandsen, H.G. Kjaergaard, and J.R. Lane, ""Simulated electronic absorption spectra of sulfur-containing molecules present in Earth’s atmosphere"",
-  J. Phys. Chem. A, 123, 6605-6617 (2019);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Farahani(2019)_226.csv
-403.0,Hintze(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Hintze(2003)_403K_140-170nm(upper%20limits).txt,The value 1×10,H2SO4,sulfuric acid,"
-
-  P. Hintze, H.G. Kjaergaard, V. Vaida, and J.B. Burkholder, ""Vibrational and electronic spectroscopy of sulfuric acid vapor"",
-  J. Phys. Chem. A 107, 1112-1118 (2003); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Hintze(2003)_403K_140-170nm(upper limits).csv
-403.0,Hintze(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Hintze(2003)_403K_170-195nm(upper%20limits).txt,The value 1×10,H2SO4,sulfuric acid,"
-
-  P. Hintze, H.G. Kjaergaard, V. Vaida, and J.B. Burkholder, ""Vibrational and electronic spectroscopy of sulfuric acid vapor"",
-  J. Phys. Chem. A 107, 1112-1118 (2003); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Hintze(2003)_403K_170-195nm(upper limits).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Burkholder(2000)_473K_195-330nm(upper%20limits).txt,NaN,330.0,Burkholder(2000),The value 1×10,195.0,sulfuric acid, https://doi.org/10.1029/1999GL011271,H2SO4,473.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Burkholder(2000)_473K_195-330nm(upper limits).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Farahani(2019)_226.5K_119-248nm(calc).txt,NaN,248.0,Farahani(2019),Ab initio calculation of the electronic absorption spectrum of sulfuric acid under atmospherically relevant conditions using a nuclear ensemble approach,119.0,sulfuric acid, https://doi.org/10.1021/acs.jpca.9b04668,H2SO4,226.5,data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Farahani(2019)_226.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Hintze(2003)_403K_140-170nm(upper%20limits).txt,NaN,170.0,Hintze(2003),The value 1×10,140.0,sulfuric acid, https://doi.org/10.1021/jp0263626,H2SO4,403.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Hintze(2003)_403K_140-170nm(upper limits).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/H2SO4_Hintze(2003)_403K_170-195nm(upper%20limits).txt,NaN,195.0,Hintze(2003),The value 1×10,170.0,sulfuric acid, https://doi.org/10.1021/jp0263626,H2SO4,403.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/H2SO4/H2SO4_Hintze(2003)_403K_170-195nm(upper limits).csv

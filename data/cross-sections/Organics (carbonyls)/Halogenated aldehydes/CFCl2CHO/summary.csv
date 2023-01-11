@@ -1,36 +1,6 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_IUPAC(2008)_298K_235-370nm(rec).txt,IUPAC(2008) recommendation:,CFCl2CHO,dichlorofluoroacetaldehyde,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_IUPAC(2008)_298K_235-370nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_JPL-2010(2011)_298K_235-370nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CFCl2CHO,dichlorofluoroacetaldehyde,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_JPL-2010(2011)_298K_235-370nm(rec).csv
-298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Libuda(1992)_298K_235-360nm(0.07nm).txt,"Absorption measurements using a deuterium lamp, a modified 22 cm monochromator, and a diode array detector; spectral resolution 0.6 nm",CFCl2CHO,dichlorofluoroacetaldehyde,"
-
-  H.G. Libuda, ""Spektroskopische und kinetische Untersuchungen an halogenierten Carbonylverbindungen von atmosphärischem Interesse"",
-  PhD-Thesis, Univ. Wuppertal, 1992
-
-
-",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Libuda(1992)_298K_235-360nm(0.csv
-298.0,Libuda(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Libuda(1992)_298K_241-359nm(1nm).txt,Averages over 1-nm intervals of the medium-resolution (0.6 nm) spectrum; data obtained by personal communication from H.G. Libuda (1994),CFCl2CHO,dichlorofluoroacetaldehyde,"
-
-  H.G. Libuda, ""Spektroskopische und kinetische Untersuchungen an halogenierten Carbonylverbindungen von atmosphärischem Interesse"",
-  PhD-Thesis, Univ. Wuppertal, 1992
-
-
-",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Libuda(1992)_298K_241-359nm(1nm).csv
-298.0,Rattigan(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Rattigan(1998)_298K_235-370nm.txt,Absorption measurements at 243 to 298 K using a diode array spectrometer,CFCl2CHO,dichlorofluoroacetaldehyde,"
-
-  O.V. Rattigan, O. Wild, and R.A. Cox, ""UV absorption cross-sections and atmospheric photolysis lifetimes of halogenated aldehydes"",
-  J. Photochem. Photobiol. A: Chem. 112, 1-7 (1998); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Rattigan(1998)_298K_235-370nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_IUPAC(2008)_298K_235-370nm(rec).txt,NaN,370.0,IUPAC(2008),IUPAC(2008) recommendation:,235.0,dichlorofluoroacetaldehyde, https://doi.org/10.5194/acp-8-4141-2008,CFCl2CHO,298.0,data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_IUPAC(2008)_298K_235-370nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_JPL-2010(2011)_298K_235-370nm(rec).txt,NaN,370.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",235.0,dichlorofluoroacetaldehyde,,CFCl2CHO,298.0,data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_JPL-2010(2011)_298K_235-370nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Libuda(1992)_298K_235-360nm(0.07nm).txt,NaN,360.0,Libuda(1992),"Absorption measurements using a deuterium lamp, a modified 22 cm monochromator, and a diode array detector; spectral resolution 0.6 nm",235.0,dichlorofluoroacetaldehyde,,CFCl2CHO,298.0,data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Libuda(1992)_298K_235-360nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Libuda(1992)_298K_241-359nm(1nm).txt,NaN,359.0,Libuda(1992),Averages over 1-nm intervals of the medium-resolution (0.6 nm) spectrum; data obtained by personal communication from H.G. Libuda (1994),241.0,dichlorofluoroacetaldehyde,,CFCl2CHO,298.0,data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Libuda(1992)_298K_241-359nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Halogenated%20aldehydes/CFCl2CHO_Rattigan(1998)_298K_235-370nm.txt,NaN,370.0,Rattigan(1998),Absorption measurements at 243 to 298 K using a diode array spectrometer,235.0,dichlorofluoroacetaldehyde, https://doi.org/10.1016/S1010-6030(97)00250-5,CFCl2CHO,298.0,data/cross-sections/Organics (carbonyls)/Halogenated aldehydes/CFCl2CHO/CFCl2CHO_Rattigan(1998)_298K_235-370nm.csv

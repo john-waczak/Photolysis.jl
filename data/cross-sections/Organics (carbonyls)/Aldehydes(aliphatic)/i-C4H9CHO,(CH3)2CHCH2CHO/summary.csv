@@ -1,11 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Lanza(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO_Lanza(2008)_298K_255-330nm.txt",Presumably averages over 1-nm intervals of the absorption spectrum measured at a spectral resolution of 0.19 nm,"i-C4H9CHO,(CH3)2CHCH2CHO","i-pentanal, 3-methylbutanal","
-
-  B. Lanza, E. Jiménez, B. Ballesteros, and J. Albaladejo, ""Absorption cross section determination of biogenic C","data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO/i-C4H9CHO,(CH3)2CHCH2CHO_Lanza(2008)_298K_255-330nm.csv"
-293.0,Zhu(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO_Zhu(1999)_293K_280-330nm.txt",The photodissociation of i-pentanal in the 280-330 nm region was investigated at 5 nm intervals by using dye laser photolysis in combination with cavity ring-down spectroscopy.,"i-C4H9CHO,(CH3)2CHCH2CHO","i-pentanal, 3-methylbutanal","
-
-  L. Zhu, T. Cronin, and A. Narang, ""Wavelength-dependent photolysis of i-pentanal and t-pentanal from 280 to 330 nm"",
-  J. Phys. Chem. A 103, 7248-7253 (1999); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO/i-C4H9CHO,(CH3)2CHCH2CHO_Zhu(1999)_293K_280-330nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO_Lanza(2008)_298K_255-330nm.txt",NaN,330.0,Lanza(2008),Presumably averages over 1-nm intervals of the absorption spectrum measured at a spectral resolution of 0.19 nm,255.0,"i-pentanal, 3-methylbutanal", https://doi.org/10.1016/j.cplett.2008.02.020,"i-C4H9CHO,(CH3)2CHCH2CHO",298.0,"data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO/i-C4H9CHO,(CH3)2CHCH2CHO_Lanza(2008)_298K_255-330nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO_Zhu(1999)_293K_280-330nm.txt",NaN,330.0,Zhu(1999),The photodissociation of i-pentanal in the 280-330 nm region was investigated at 5 nm intervals by using dye laser photolysis in combination with cavity ring-down spectroscopy.,280.0,"i-pentanal, 3-methylbutanal", https://doi.org/10.1021/jp991540p,"i-C4H9CHO,(CH3)2CHCH2CHO",293.0,"data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/i-C4H9CHO,(CH3)2CHCH2CHO/i-C4H9CHO,(CH3)2CHCH2CHO_Zhu(1999)_293K_280-330nm.csv"

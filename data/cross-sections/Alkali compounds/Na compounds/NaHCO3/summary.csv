@@ -1,21 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-200.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_JPL-2010(2011)_200K_193.4-277.0nm(rec).txt,JPL-2010 recommendation:,NaHCO3,sodium hydrogencarbonate,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_JPL-2010(2011)_200K_193.csv
-300.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_JPL-2010(2011)_300K_193.4-277.0nm(rec).txt,JPL-2010 recommendation:,NaHCO3,sodium hydrogencarbonate,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_JPL-2010(2011)_300K_193.csv
-200.0,SelfPlane(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_SelfPlane(2002)_200K_193.4-277.0nm.txt,Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,NaHCO3,sodium hydrogencarbonate,"
-
-  D.E. Self and J.M.C. Plane, ""Absolute photolysis cross sections for NaHCO",data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_SelfPlane(2002)_200K_193.csv
-300.0,SelfPlane(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_SelfPlane(2002)_300K_193.4-354.6nm.txt,Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,NaHCO3,sodium hydrogencarbonate,"
-
-  D.E. Self and J.M.C. Plane, ""Absolute photolysis cross sections for NaHCO",data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_SelfPlane(2002)_300K_193.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_JPL-2010(2011)_200K_193.4-277.0nm(rec).txt,NaN,277.0,JPL-2010(2011),JPL-2010 recommendation:,193.4,sodium hydrogencarbonate,,NaHCO3,200.0,data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_JPL-2010(2011)_200K_193.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_JPL-2010(2011)_300K_193.4-277.0nm(rec).txt,NaN,277.0,JPL-2010(2011),JPL-2010 recommendation:,193.4,sodium hydrogencarbonate,,NaHCO3,300.0,data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_JPL-2010(2011)_300K_193.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_SelfPlane(2002)_200K_193.4-277.0nm.txt,NaN,277.0,SelfPlane(2002),Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,193.4,sodium hydrogencarbonate, https://doi.org/10.1039/B107078A,NaHCO3,200.0,data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_SelfPlane(2002)_200K_193.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkali%20compounds/Na%20compounds/NaHCO3_SelfPlane(2002)_300K_193.4-354.6nm.txt,NaN,354.6,SelfPlane(2002),Photolysis cross sections measured by laser photofragment spectroscopy using a slow flow reactor or a fast flow tube,193.4,sodium hydrogencarbonate, https://doi.org/10.1039/B107078A,NaHCO3,300.0,data/cross-sections/Alkali compounds/Na compounds/NaHCO3/NaHCO3_SelfPlane(2002)_300K_193.csv

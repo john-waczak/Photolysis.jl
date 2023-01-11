@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Davis(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Davis(1958)_298K_224-299nm.txt,Absorption measurements using Beckman and Cary spectrophotometers,C2H4S,ethylene sulfide,"
-
-  R.E. Davis, ""Cyclic sulfides. I. Ultraviolet spectra of ethylene sulfides"",
-  J. Org. Chem. 23, 216-218 (1958);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Davis(1958)_298K_224-299nm.csv
-298.0,Davis(1958),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Davis(1958)_298K_236.4-259.2nm.txt,Absorption measurements using Beckman and Cary spectrophotometers,C2H4S,ethylene sulfide,"
-
-  R.E. Davis, ""Cyclic sulfides. I. Ultraviolet spectra of ethylene sulfides"",
-  J. Org. Chem. 23, 216-218 (1958);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Davis(1958)_298K_236.csv
-298.0,Holland(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Holland(2008)_298K_42-220nmnm.txt,Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,C2H4S,ethylene sulfide,"
-
-  D.M.P. Holland, D.A. Shaw, I.C. Walker, I.J. McEwen, and M.F. Guest, ""The valence shell electronic states of ethylene sulphide studied by photoabsorption and ab initio multireference configuration interaction calculations"",
-  Chem. Phys. 344, 227-236 (2008); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Holland(2008)_298K_42-220nmnm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Davis(1958)_298K_224-299nm.txt,NaN,299.0,Davis(1958),Absorption measurements using Beckman and Cary spectrophotometers,224.0,ethylene sulfide, https://doi.org/10.1021/jo01096a017,C2H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Davis(1958)_298K_224-299nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Davis(1958)_298K_236.4-259.2nm.txt,NaN,259.2,Davis(1958),Absorption measurements using Beckman and Cary spectrophotometers,236.4,ethylene sulfide, https://doi.org/10.1021/jo01096a017,C2H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Davis(1958)_298K_236.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C2H4S_Holland(2008)_298K_42-220nmnm.txt,NaN,220.0,Holland(2008),Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,42.0,ethylene sulfide, https://doi.org/10.1016/j.chemphys.2008.01.006,C2H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C2H4S/C2H4S_Holland(2008)_298K_42-220nmnm.csv

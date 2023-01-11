@@ -1,22 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_KimuraNagakura(1965)_298K_159.8-220.1nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5Br,"bromobenzene, phenyl bromide","
-
-  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
-  Mol. Phys. 9, 117-135 (1965); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_KimuraNagakura(1965)_298K_159.csv
-298.0,Palmer(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Palmer(2015)_298K_115-330nm.txt,Absorption measurements with synchrotron radiation using data points separated by 0.05 nm,C6H5Br,"bromobenzene, phenyl bromide","
-
-  M.H. Palmer, T. Ridley, S.V. Hoffmann, N.C. Jones, M. Coreno, M.de Simone, C. Grazioli, T. Zhang, M. Biczysko, A. Baiardi, and K. Peterson, ""Interpretation of the photoelectron, ultraviolet, and vacuum ultraviolet photoabsorption spectra of bromobenzene by ab initio configuration interaction and DFT computations"",
-  J. Chem. Phys. 143, 164303-1 - 164303-18 (2015); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Palmer(2015)_298K_115-330nm.csv
-298.0,Shama(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Shama(1991)_298K_171.1-278.1nm.txt,"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 10) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",C6H5Br,"bromobenzene, phenyl bromide","
-
-  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
-  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Shama(1991)_298K_171.csv
-298.0,Tonokura(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Tonokura(2002)_298K_193.3nm.txt,C,C6H5Br,"bromobenzene, phenyl bromide","
-
-  K. Tonokura, Y. Norikane, M. Koshi, Y. Nakano, S. Nakamichi, M. Goto, S. Hashimoto, M. Kawasaki, M.P.S. Andersen, M.D. Hurley, and T.J. Wallington, ""Cavity ring-down study of the visible absorption spectrum of the phenyl radical and kinetics of its reactions with Cl, Br, Cl",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Tonokura(2002)_298K_193.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_KimuraNagakura(1965)_298K_159.8-220.1nm.txt,NaN,220.1,KimuraNagakura(1965),Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,159.8,"bromobenzene, phenyl bromide", https://doi.org/10.1080/00268976500100141,C6H5Br,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_KimuraNagakura(1965)_298K_159.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Palmer(2015)_298K_115-330nm.txt,NaN,330.0,Palmer(2015),Absorption measurements with synchrotron radiation using data points separated by 0.05 nm,115.0,"bromobenzene, phenyl bromide", https://doi.org/10.1063/1.4933419,C6H5Br,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Palmer(2015)_298K_115-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Shama(1991)_298K_171.1-278.1nm.txt,NaN,278.1,Shama(1991),"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 10) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",171.1,"bromobenzene, phenyl bromide",,C6H5Br,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Shama(1991)_298K_171.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Br_Tonokura(2002)_298K_193.3nm.txt,NaN,NaN,Tonokura(2002),C,193.3,"bromobenzene, phenyl bromide", https://doi.org/10.1021/jp025585t,C6H5Br,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Br/C6H5Br_Tonokura(2002)_298K_193.csv

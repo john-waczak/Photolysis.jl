@@ -1,190 +1,40 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Adachi(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Adachi(1980)_298K_212.5-280.0nm.txt,Flash photolysis of azomethane in the presence of O,CH3O2,methylperoxy radical,"
-
-  H. Adachi, N. Basco, and D.G.L. James, ""Mutual interaction of the methyl and methylperoxy radicals studied by flash photolysis and kinetic spectroscopy"",
-  Int. J. Chem. Kinet. 12, 949-977 (1980); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Adachi(1980)_298K_212.csv
-298.0,Anastasi(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Anastasi(1978)_298K_215-280nm.txt,Absorption cross sections have been derived  from the absorbances plotted in Fig. 1 (scaling to σ(225 nm) of Adachi et al. (1980); DOI: 10.1002/kin.550121206 ?) by,CH3O2,methylperoxy radical,"
-
-  C. Anastasi, I.W.M. Smith, and D.A. Parkes, ""Flash photolysis study of the spectra of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Anastasi(1978)_298K_215-280nm.csv
-297.0,AtkinsonSpillman(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_AtkinsonSpillman(2002)_297K_1334-1336nm.txt,Pulsed laser photolytic production of the radicals with continuous laser excitation cavity ring-down spectroscopic detection in the near-infrared,CH3O2,methylperoxy radical,"
-
-  D.B. Atkinson and J.L. Spillman, ""Alkylperoxy radical kinetics measured using near-infrared CW-cavity ring-down spectroscopy"",
-  J. Phys. Chem. A 106, 8891-8902 (2002); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_AtkinsonSpillman(2002)_297K_1334-1336nm.csv
-297.0,AtkinsonSpillman(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_AtkinsonSpillman(2002)_297K_1335.1nm(max).txt,Pulsed laser photolytic production of the radicals with continuous laser excitation cavity ring-down spectroscopic detection in the near-infrared,CH3O2,methylperoxy radical,"
-
-  D.B. Atkinson and J.L. Spillman, ""Alkylperoxy radical kinetics measured using near-infrared CW-cavity ring-down spectroscopy"",
-  J. Phys. Chem. A 106, 8891-8902 (2002); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_AtkinsonSpillman(2002)_297K_1335.csv
-298.0,CoxTyndall(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_CoxTyndall(1980)_298K_250nm.txt,Molecular modulation spectrometry (m.m.s.) was employed to measure the rate constants  for the reactions of CH,CH3O2,methylperoxy radical,"
-
-  R.A. Cox and G.S. Tyndall, ""Rate constants for the reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_CoxTyndall(1980)_298K_250nm.csv
-298.0,DagautKurylo(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_DagautKurylo(1990)_298K_210-290nm(I).txt,Pulse radiolysis (Cl,CH3O2,methylperoxy radical,"
-
-  P. Dagaut and M.J. Kurylo, ""The gas phase UV absorption spectrum of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_DagautKurylo(1990)_298K_210-290nm(I).csv
-298.0,DagautKurylo(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_DagautKurylo(1990)_298K_220-280nm(II).txt,Pulse radiolysis (Cl,CH3O2,methylperoxy radical,"
-
-  P. Dagaut and M.J. Kurylo, ""The gas phase UV absorption spectrum of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_DagautKurylo(1990)_298K_220-280nm(II).csv
-298.0,Fahr(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Fahr(1997)_298K_225-310nm.txt,Absorption measurements as a calibration experiment:,CH3O2,methylperoxy radical,"
-
-  A. Fahr, A.H. Laufer, M. Krauss, and R. Osman, ""Gas phase absorption spectrum and cross sections of vinylperoxy (C",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Fahr(1997)_298K_225-310nm.csv
-298.0,Farago(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Farago(2013)_298K_1335.05-1335.44nm(max).txt,The near-infrared absorption spectrum of CH,CH3O2,methylperoxy radical,"
-
-  E.P. Faragó, B. Viskolcz, C. Schoemaecker, and C. Fittschen, ""Absorption spectrum and absolute absorption cross sections of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Farago(2013)_298K_1335.csv
-297.0,Hochanadel(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Hochanadel(1977)_297K_205-289nm(meas).txt,Flash photolysis of azomethane was used to produce CH,CH3O2,methylperoxy radical,"
-
-  C.J. Hochanadel, J.A. Ghormley, J.W. Boyle, and P.J. Ogren, ""Absorption spectrum and rates of formation and decay of the CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Hochanadel(1977)_297K_205-289nm(meas).csv
-297.0,Hochanadel(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Hochanadel(1977)_297K_205-290nm(smoo).txt,Flash photolysis of azomethane was used to produce CH,CH3O2,methylperoxy radical,"
-
-  C.J. Hochanadel, J.A. Ghormley, J.W. Boyle, and P.J. Ogren, ""Absorption spectrum and rates of formation and decay of the CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Hochanadel(1977)_297K_205-290nm(smoo).csv
-298.0,Jenkin(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Jenkin(1988)_298K_210-270nm.txt,"Original values are given at 10-nm-intervals at 210, 220, ......., 270nm",CH3O2,methylperoxy radical,"
-
-  M.E. Jenkin, R.A. Cox, G.D. Hayman, and L.J. Whyte, ""Kinetic study of the reactions CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Jenkin(1988)_298K_210-270nm.csv
-298.0,JenkinCox(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JenkinCox(1991)_298K_210-310nm.txt,Molecular modulation technique coupled with UV absorption spectroscopy; methylperoxy radicals generated by the 254-nm photolysis of CH,CH3O2,methylperoxy radical,"
-
-  M.E. Jenkin and R.A. Cox, ""Kinetics of reactions of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JenkinCox(1991)_298K_210-310nm.csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JPL-2010(2011)_298K_205-295nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",CH3O2,methylperoxy radical,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JPL-2010(2011)_298K_205-295nm(rec).csv
-298.0,JPL-97(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JPL-97(1997)_298K_210-290nm(rec).txt,JPL-97 recommendation:,CH3O2,methylperoxy radical,"
-
-  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
-  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
-
-
-",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JPL-97(1997)_298K_210-290nm(rec).csv
-298.0,Kan(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kan(1979)_298K_230-270nm.txt,Flash photolysis of azomethane-oxygen mixtures,CH3O2,methylperoxy radical,"
-
-  C.S. Kan, R.D. McQuigg, M.R. Whitbeck, and J.G. Calvert, ""Kinetic flash spectroscopic study of the CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kan(1979)_298K_230-270nm.csv
-298.0,Kurylo(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kurylo(1987)_298K_210-290nm(meas).txt,Pulse radiolysis (Cl,CH3O2,methylperoxy radical,"
-
-  M.J. Kurylo, T.J. Wallington, and P.A. Ouellette, ""Measurements of the UV absorption cross sections for HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kurylo(1987)_298K_210-290nm(meas).csv
-298.0,Kurylo(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kurylo(1987)_298K_210-290nm(smoo).txt,Pulse radiolysis (Cl,CH3O2,methylperoxy radical,"
-
-  M.J. Kurylo, T.J. Wallington, and P.A. Ouellette, ""Measurements of the UV absorption cross sections for HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kurylo(1987)_298K_210-290nm(smoo).csv
-298.0,Lightfoot(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Lightfoot(1992)_298K_210-290nm(rec).txt,Recommendation based on the data of,CH3O2,methylperoxy radical,"
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Lightfoot(1992)_298K_210-290nm(rec).csv
-298.0,LightfootJemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_298K_200-290nm.txt,Flash photolysis technique coupled with time resolved UV absorption spectrometry,CH3O2,methylperoxy radical,"
-
-  P.D. Lightfoot and A.A. Jemi-Alade, ""The temperature dependence of the UV spectra of the HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_298K_200-290nm.csv
-298.0,LightfootJemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_298K_210-290nm(resc).txt,Flash photolysis technique coupled with time resolved UV absorption spectrometry,CH3O2,methylperoxy radical,"
-
-  P.D. Lightfoot and A.A. Jemi-Alade, ""The temperature dependence of the UV spectra of the HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_298K_210-290nm(resc).csv
-662.0,LightfootJemi-Alade(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_662K_200-290nm.txt,Flash photolysis technique coupled with time resolved UV absorption spectrometry,CH3O2,methylperoxy radical,"
-
-  P.D. Lightfoot and A.A. Jemi-Alade, ""The temperature dependence of the UV spectra of the HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_662K_200-290nm.csv
-295.0,MaricqWallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_190-330nm(0.5nm).txt,Absorption measurements using a laser photolysis transient UV spectral photography apparatus,CH3O2,methylperoxy radical,"
-
-  M.M. Maricq and T.J. Wallington, ""Absolute ultraviolet cross sections of methyl and ethyl peroxy radicals"",
-  J. Phys. Chem. 96, 986-992 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_190-330nm(0.csv
-295.0,MaricqWallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm(I).txt,Absorption measurements using a laser photolysis transient UV spectral photography apparatus,CH3O2,methylperoxy radical,"
-
-  M.M. Maricq and T.J. Wallington, ""Absolute ultraviolet cross sections of methyl and ethyl peroxy radicals"",
-  J. Phys. Chem. 96, 986-992 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm(I).csv
-295.0,MaricqWallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm(II).txt,Absorption measurements using a laser photolysis transient UV spectral photography apparatus,CH3O2,methylperoxy radical,"
-
-  M.M. Maricq and T.J. Wallington, ""Absolute ultraviolet cross sections of methyl and ethyl peroxy radicals"",
-  J. Phys. Chem. 96, 986-992 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm(II).csv
-295.0,MaricqWallington(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm((I,II)av).txt",Average of the absorption cross sections from the experiments employing reaction mixtures No. 1 and No. 2,CH3O2,methylperoxy radical,"
-
-  M.M. Maricq and T.J. Wallington, ""Absolute ultraviolet cross sections of methyl and ethyl peroxy radicals"",
-  J. Phys. Chem. 96, 986-992 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm((I,II)av).csv"
-298.0,McAdam(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_McAdam(1987)_298K_200-273nm.txt,Flash photolysis of Cl,CH3O2,methylperoxy radical,"
-
-  K. McAdam, B. Veyret, and R. Lesclaux, ""Absorption spectra of HO",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_McAdam(1987)_298K_200-273nm.csv
-298.0,Moortgat(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Moortgat(1989)_298K_195-280nm.txt,Cross section data as used for kinetic simulations of the reactions of the acetylperoxy radical ,CH3O2,methylperoxy radical,"
-
-  G.K. Moortgat, B. Veyret, and R. Lesclaux, ""Absorption spectrum and kinetics of reactions of the acetylperoxy radical"",
-  J. Phys. Chem. 93, 2362-2368 (1989); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Moortgat(1989)_298K_195-280nm.csv
-298.0,Parkes(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Parkes(1973)_298K_207-280nm.txt,"Absorption measurements (resolution 1 nm) in the photolysis of mixtures of azomethane, oxygen and nitrogen using the method of molecular modulation spectrometry",CH3O2,methylperoxy radical,"
-
-  D.A. Parkes, D.M. Paul, C.P. Quinn, and R.C. Robson, ""The ultraviolet absorption by alkylperoxy radicals and their mutual reactions"",
-  Chem. Phys. Lett. 23, 425-429 (1973); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Parkes(1973)_298K_207-280nm.csv
-298.0,PillingSmith(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_PillingSmith(1985)_298K_254nm.txt,The reaction CH,CH3O2,methylperoxy radical,"
-
-  M.J. Pilling and M.J.C. Smith, ""A laser flash photolysis study of the reaction CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_PillingSmith(1985)_298K_254nm.csv
-298.0,Pushkarsky(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Pushkarsky(2000)_298K_1335.05-1354.5nm(max).txt,Cavity ringdown spectrum of the A ,CH3O2,methylperoxy radical,"
-
-  M.B. Pushkarsky, S.J. Zalyubovsky, and T.A. Miller, ""Detection and characterization of alkyl peroxy radicals using cavity ringdown spectroscopy"",
-  J. Chem. Phys. 112, 10695-10698 (2000); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Pushkarsky(2000)_298K_1335.csv
-298.0,Roehl(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Roehl(1996)_298K_210,225,240nm.txt",CH,CH3O2,methylperoxy radical,"
-
-  C.M. Roehl, D. Bauer, and G.K. Moortgat, ""Absorption spectrum and kinetics of the acetylperoxy radical"",
-  J. Phys. Chem. 100, 4038-4047 (1996); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Roehl(1996)_298K_210,225,240nm.csv"
-298.0,SanderWatson(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_SanderWatson(1981)_298K_250nm.txt,Flash photolysis-ultraviolet absorption technique used to study the self-reaction of CH,CH3O2,methylperoxy radical,"
-
-  S.P. Sander and R.T. Watson, ""Temperature dependence of the self-reaction of CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_SanderWatson(1981)_298K_250nm.csv
-300.0,Simon(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Simon(1989)_300K_210-295nm.txt,Molecular modulation spectroscopy combined with ultraviolet spectroscopic techniques have been used to observe the behavior of the CH,CH3O2,methylperoxy radical,"
-
-  F.-G. Simon, ""Spektrum und Kinetik der Selbstreaktion des Methylperoxy Radikals CH",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Simon(1989)_300K_210-295nm.csv
-300.0,Simon(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Simon(1990)_300K_210-295nm.txt,Molecular modulation spectroscopy combined with ultraviolet spectroscopic techniques have been used to observe the behavior of the CH,CH3O2,methylperoxy radical,"
-
-  F. Simon, W. Schneider, and G.K. Moortgat, ""UV-absorption spectrum of the methylperoxy radical and the kinetics of its disproportionation reaction at 300 K"",
-  Int. J. Chem. Kinet. 22, 791-813 (1990); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Simon(1990)_300K_210-295nm.csv
-298.0,Tyndall(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Tyndall(2001)_298K_205-295nm(eval).txt,Recommendation based on the data of,CH3O2,methylperoxy radical,"
-
-  G.S. Tyndall, R.A. Cox, C. Granier, R. Lesclaux, G.K. Moortgat, M.J. Pilling, A.R. Ravishankara, and T.J. Wallington, ""The atmospheric chemistry of small organic peroxy radicals"",
-  J. Geophys. Res. 106(D11), 12157-12182 (2001); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Tyndall(2001)_298K_205-295nm(eval).csv
-298.0,Wallington(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1988)_298K_215-300nm.txt,Pulse radiolysis (Cl,CH3O2,methylperoxy radical,"
-
-  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Measurements of the gas phase UV absorption spectrum of C",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1988)_298K_215-300nm.csv
-298.0,Wallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1992)_298K_200-300nm(rec).txt,Recommendation based on the data of,CH3O2,methylperoxy radical,"
-
-  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Ultraviolet absorption cross sections and reaction kinetics and mechanisms for peroxy radicals in the gas phase"",
-  Chem. Rev. 92, 667-710 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1992)_298K_200-300nm(rec).csv
-298.0,Wallington(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1992)_298K_229-300nm.txt,Pulse radiolysis (SF,CH3O2,methylperoxy radical,"
-
-  T.J. Wallington, M.M. Maricq, T. Ellermann, and O.J. Nielsen, ""Novel method for the measurement of gas-phase peroxy radical absorption spectra"",
-  J. Phys. Chem. 96, 982-986 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1992)_298K_229-300nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Adachi(1980)_298K_212.5-280.0nm.txt,NaN,280.0,Adachi(1980),Flash photolysis of azomethane in the presence of O,212.5,methylperoxy radical, https://doi.org/10.1002/kin.550121206,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Adachi(1980)_298K_212.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Anastasi(1978)_298K_215-280nm.txt,NaN,280.0,Anastasi(1978),Absorption cross sections have been derived  from the absorbances plotted in Fig. 1 (scaling to σ(225 nm) of Adachi et al. (1980); DOI: 10.1002/kin.550121206 ?) by,215.0,methylperoxy radical, https://doi.org/10.1039/F19787401693,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Anastasi(1978)_298K_215-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_AtkinsonSpillman(2002)_297K_1334-1336nm.txt,NaN,1336.0,AtkinsonSpillman(2002),Pulsed laser photolytic production of the radicals with continuous laser excitation cavity ring-down spectroscopic detection in the near-infrared,1334.0,methylperoxy radical, https://doi.org/10.1021/jp0257597,CH3O2,297.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_AtkinsonSpillman(2002)_297K_1334-1336nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_AtkinsonSpillman(2002)_297K_1335.1nm(max).txt,NaN,NaN,AtkinsonSpillman(2002),Pulsed laser photolytic production of the radicals with continuous laser excitation cavity ring-down spectroscopic detection in the near-infrared,1335.1,methylperoxy radical, https://doi.org/10.1021/jp0257597,CH3O2,297.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_AtkinsonSpillman(2002)_297K_1335.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_CoxTyndall(1980)_298K_250nm.txt,NaN,NaN,CoxTyndall(1980),Molecular modulation spectrometry (m.m.s.) was employed to measure the rate constants  for the reactions of CH,250.0,methylperoxy radical, https://doi.org/10.1039/F29807600153,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_CoxTyndall(1980)_298K_250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_DagautKurylo(1990)_298K_210-290nm(I).txt,NaN,290.0,DagautKurylo(1990),Pulse radiolysis (Cl,210.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(90)87047-F,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_DagautKurylo(1990)_298K_210-290nm(I).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_DagautKurylo(1990)_298K_220-280nm(II).txt,NaN,280.0,DagautKurylo(1990),Pulse radiolysis (Cl,220.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(90)87047-F,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_DagautKurylo(1990)_298K_220-280nm(II).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Fahr(1997)_298K_225-310nm.txt,NaN,310.0,Fahr(1997),Absorption measurements as a calibration experiment:,225.0,methylperoxy radical, https://doi.org/10.1021/jp964005n,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Fahr(1997)_298K_225-310nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Farago(2013)_298K_1335.05-1335.44nm(max).txt,NaN,1335.44,Farago(2013),The near-infrared absorption spectrum of CH,1335.05,methylperoxy radical, https://doi.org/10.1021/jp408686s,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Farago(2013)_298K_1335.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Hochanadel(1977)_297K_205-289nm(meas).txt,NaN,289.0,Hochanadel(1977),Flash photolysis of azomethane was used to produce CH,205.0,methylperoxy radical, https://doi.org/10.1021/j100516a002,CH3O2,297.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Hochanadel(1977)_297K_205-289nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Hochanadel(1977)_297K_205-290nm(smoo).txt,NaN,290.0,Hochanadel(1977),Flash photolysis of azomethane was used to produce CH,205.0,methylperoxy radical, https://doi.org/10.1021/j100516a002,CH3O2,297.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Hochanadel(1977)_297K_205-290nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Jenkin(1988)_298K_210-270nm.txt,NaN,270.0,Jenkin(1988),"Original values are given at 10-nm-intervals at 210, 220, ......., 270nm",210.0,methylperoxy radical, https://doi.org/10.1039/F29888400913,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Jenkin(1988)_298K_210-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JenkinCox(1991)_298K_210-310nm.txt,NaN,310.0,JenkinCox(1991),Molecular modulation technique coupled with UV absorption spectroscopy; methylperoxy radicals generated by the 254-nm photolysis of CH,210.0,methylperoxy radical, https://doi.org/10.1021/j100161a049,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JenkinCox(1991)_298K_210-310nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JPL-2010(2011)_298K_205-295nm(rec).txt,NaN,295.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",205.0,methylperoxy radical,,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JPL-2010(2011)_298K_205-295nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_JPL-97(1997)_298K_210-290nm(rec).txt,NaN,290.0,JPL-97(1997),JPL-97 recommendation:,210.0,methylperoxy radical,,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_JPL-97(1997)_298K_210-290nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kan(1979)_298K_230-270nm.txt,NaN,270.0,Kan(1979),Flash photolysis of azomethane-oxygen mixtures,230.0,methylperoxy radical, https://doi.org/10.1002/kin.550110811,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kan(1979)_298K_230-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kurylo(1987)_298K_210-290nm(meas).txt,NaN,290.0,Kurylo(1987),Pulse radiolysis (Cl,210.0,methylperoxy radical, https://doi.org/10.1016/0047-2670(87)80032-1,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kurylo(1987)_298K_210-290nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Kurylo(1987)_298K_210-290nm(smoo).txt,NaN,290.0,Kurylo(1987),Pulse radiolysis (Cl,210.0,methylperoxy radical, https://doi.org/10.1016/0047-2670(87)80032-1,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Kurylo(1987)_298K_210-290nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Lightfoot(1992)_298K_210-290nm(rec).txt,NaN,290.0,Lightfoot(1992),Recommendation based on the data of,210.0,methylperoxy radical, https://doi.org/10.1016/0960-1686(92)90423-I,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Lightfoot(1992)_298K_210-290nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_298K_200-290nm.txt,NaN,290.0,LightfootJemi-Alade(1991),Flash photolysis technique coupled with time resolved UV absorption spectrometry,200.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(91)87062-Z,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_298K_200-290nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_298K_210-290nm(resc).txt,NaN,290.0,LightfootJemi-Alade(1991),Flash photolysis technique coupled with time resolved UV absorption spectrometry,210.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(91)87062-Z,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_298K_210-290nm(resc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_LightfootJemi-Alade(1991)_662K_200-290nm.txt,NaN,290.0,LightfootJemi-Alade(1991),Flash photolysis technique coupled with time resolved UV absorption spectrometry,200.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(91)87062-Z,CH3O2,662.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_LightfootJemi-Alade(1991)_662K_200-290nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_190-330nm(0.5nm).txt,NaN,330.0,MaricqWallington(1992),Absorption measurements using a laser photolysis transient UV spectral photography apparatus,190.0,methylperoxy radical, https://doi.org/10.1021/j100181a081,CH3O2,295.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_190-330nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm(I).txt,NaN,311.0,MaricqWallington(1992),Absorption measurements using a laser photolysis transient UV spectral photography apparatus,200.0,methylperoxy radical, https://doi.org/10.1021/j100181a081,CH3O2,295.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm(I).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm(II).txt,NaN,311.0,MaricqWallington(1992),Absorption measurements using a laser photolysis transient UV spectral photography apparatus,200.0,methylperoxy radical, https://doi.org/10.1021/j100181a081,CH3O2,295.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm(II).csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_MaricqWallington(1992)_295K_200-311nm((I,II)av).txt",NaN,311.0,MaricqWallington(1992),Average of the absorption cross sections from the experiments employing reaction mixtures No. 1 and No. 2,200.0,methylperoxy radical, https://doi.org/10.1021/j100181a081,CH3O2,295.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_MaricqWallington(1992)_295K_200-311nm((I,II)av).csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_McAdam(1987)_298K_200-273nm.txt,NaN,273.0,McAdam(1987),Flash photolysis of Cl,200.0,methylperoxy radical, https://doi.org/10.1016/0009-2614(87)80049-0,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_McAdam(1987)_298K_200-273nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Moortgat(1989)_298K_195-280nm.txt,NaN,280.0,Moortgat(1989),Cross section data as used for kinetic simulations of the reactions of the acetylperoxy radical ,195.0,methylperoxy radical, https://doi.org/10.1021/j100343a032,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Moortgat(1989)_298K_195-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Parkes(1973)_298K_207-280nm.txt,NaN,280.0,Parkes(1973),"Absorption measurements (resolution 1 nm) in the photolysis of mixtures of azomethane, oxygen and nitrogen using the method of molecular modulation spectrometry",207.0,methylperoxy radical, https://doi.org/10.1016/0009-2614(73)85115-2,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Parkes(1973)_298K_207-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_PillingSmith(1985)_298K_254nm.txt,NaN,NaN,PillingSmith(1985),The reaction CH,254.0,methylperoxy radical, https://doi.org/10.1021/j100268a014,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_PillingSmith(1985)_298K_254nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Pushkarsky(2000)_298K_1335.05-1354.5nm(max).txt,NaN,1354.5,Pushkarsky(2000),Cavity ringdown spectrum of the A ,1335.05,methylperoxy radical, https://doi.org/10.1063/1.481705,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Pushkarsky(2000)_298K_1335.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Roehl(1996)_298K_210,225,240nm.txt",NaN,225.0,Roehl(1996),CH,210.0,methylperoxy radical, https://doi.org/10.1021/jp9526298,CH3O2,298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Roehl(1996)_298K_210,225,240nm.csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_SanderWatson(1981)_298K_250nm.txt,NaN,NaN,SanderWatson(1981),Flash photolysis-ultraviolet absorption technique used to study the self-reaction of CH,250.0,methylperoxy radical, https://doi.org/10.1021/j150620a023,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_SanderWatson(1981)_298K_250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Simon(1989)_300K_210-295nm.txt,NaN,295.0,Simon(1989),Molecular modulation spectroscopy combined with ultraviolet spectroscopic techniques have been used to observe the behavior of the CH,210.0,methylperoxy radical,,CH3O2,300.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Simon(1989)_300K_210-295nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Simon(1990)_300K_210-295nm.txt,NaN,295.0,Simon(1990),Molecular modulation spectroscopy combined with ultraviolet spectroscopic techniques have been used to observe the behavior of the CH,210.0,methylperoxy radical, https://doi.org/10.1002/kin.550220802,CH3O2,300.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Simon(1990)_300K_210-295nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Tyndall(2001)_298K_205-295nm(eval).txt,NaN,295.0,Tyndall(2001),Recommendation based on the data of,205.0,methylperoxy radical, https://doi.org/10.1029/2000JD900746,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Tyndall(2001)_298K_205-295nm(eval).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1988)_298K_215-300nm.txt,NaN,300.0,Wallington(1988),Pulse radiolysis (Cl,215.0,methylperoxy radical, https://doi.org/10.1016/1010-6030(88)80061-3,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1988)_298K_215-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1992)_298K_200-300nm(rec).txt,NaN,300.0,Wallington(1992),Recommendation based on the data of,200.0,methylperoxy radical, https://doi.org/10.1021/cr00012a008,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1992)_298K_200-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/CH3O2_Wallington(1992)_298K_229-300nm.txt,NaN,300.0,Wallington(1992),Pulse radiolysis (SF,229.0,methylperoxy radical, https://doi.org/10.1021/j100181a080,CH3O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/CH3O2/CH3O2_Wallington(1992)_298K_229-300nm.csv

@@ -1,16 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_JPL-2019(2020)_295K_164-260nm(rec).txt,JPL-2019(2020) recommendation:,CH2=CHCFClCF2Br,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_JPL-2019(2020)_295K_164-260nm(rec).csv
-298.0,Orkin(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(0.5nm).txt,"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",CH2=CHCFClCF2Br,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene","
-
-  V.L. Orkin, L.E. Martynova, and M.J. Kurylo, ""Photochemical properties of CH",data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(0.csv
-298.0,Orkin(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(2nm).txt,"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",CH2=CHCFClCF2Br,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene","
-
-  V.L. Orkin, L.E. Martynova, and M.J. Kurylo, ""Photochemical properties of CH",data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(2nm).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_JPL-2019(2020)_295K_164-260nm(rec).txt,NaN,260.0,JPL-2019(2020),JPL-2019(2020) recommendation:,164.0,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene",,CH2=CHCFClCF2Br,295.0,data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_JPL-2019(2020)_295K_164-260nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(0.5nm).txt,NaN,260.0,Orkin(2017),"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",164.0,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene", https://doi.org/10.1021/acs.jpca.7b04256,CH2=CHCFClCF2Br,298.0,data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(2nm).txt,NaN,260.0,Orkin(2017),"Absorption measurements using a single beam apparatus, a deuterium lamp as radiation source and a photomultiplier as detector; the spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",164.0,"4-bromo-3-chloro-3,4,4-trifluoro-1-butene", https://doi.org/10.1021/acs.jpca.7b04256,CH2=CHCFClCF2Br,298.0,data/cross-sections/Halogeno-alkenes+radicals/Bromochlorofluoroalkenes/CH2=CHCFClCF2Br/CH2=CHCFClCF2Br_Orkin(2017)_298K_164-260nm(2nm).csv

@@ -1,143 +1,22 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Atkinson(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Atkinson(1997)_298K_270-330nm(rec).txt,The recommended values are said to be the mean of the room temperature data of,CH3ONO2,methyl nitrate,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, R.F. Hampson, Jr., J.A. Kerr, M.J. Rossi, and J. Troe, ""Evaluated kinetic, photochemical and heterogeneous data for atmospheric chemistry: Supplement V"",
-  J. Phys. Chem. Ref. Data 26, 521-1011 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Atkinson(1997)_298K_270-330nm(rec).csv
-294.0,Higgins(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Higgins(2014)_294K_240-320nm.txt,Absorption measurements at pressures of 1.5−17 Torr,CH3ONO2,methyl nitrate,"
-
-  C.M. Higgins, L.A. Evans, G.C. Lloyd-Jones, D.E. Shallcross, D.P. Tew, and A.J. Orr-Ewing, ""Quantum yields for photochemical production of NO",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Higgins(2014)_294K_240-320nm.csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_IUPAC(2006)_298K_240-340nm(rec).txt,IUPAC(2006) recommendation:,CH3ONO2,methyl nitrate,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_IUPAC(2006)_298K_240-340nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_JPL-2010(2011)_298K_190-344nm(rec).txt,JPL-2010 recommendation:,CH3ONO2,methyl nitrate,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_JPL-2010(2011)_298K_190-344nm(rec).csv
-298.0,LibudaZabel(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_LibudaZabel(1995)_298K_235-345nm(0.07nm).txt,Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  H.G. Libuda and F. Zabel, ""UV absorption cross section of acetyl peroxynitrate and trifluoroacetyl peroxynitrate"",
-  Ber. Bunsenges. Phys. Chem. 99, 1205-1213 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_LibudaZabel(1995)_298K_235-345nm(0.csv
-298.0,LibudaZabel(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_LibudaZabel(1995)_298K_270-345nm(5nm).txt,Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  H.G. Libuda and F. Zabel, ""UV absorption cross section of acetyl peroxynitrate and trifluoroacetyl peroxynitrate"",
-  Ber. Bunsenges. Phys. Chem. 99, 1205-1213 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_LibudaZabel(1995)_298K_270-345nm(5nm).csv
-298.0,Maria(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Maria(1973)_298K_235-305nm.txt,Extinctions coefficients have been digitized from Fig. 1 (logarithmic plot of extinction coefficients vs. wavenumber) and converted to absorption cross sections (conversion factor 3.8235×10,CH3ONO2,methyl nitrate,"
-
-  H.J. Maria, J.R. McDonald, and S.R. McGlynn, ""Electronic absorption spectrum of nitrate ion and boron trihalides"",
-  J. Am. Chem. Soc. 95, 1050-1056 (1973); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Maria(1973)_298K_235-305nm.csv
-298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_McMillan(1966)_298K_201.4-325.6nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3ONO2,methyl nitrate,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
-
-
-",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_McMillan(1966)_298K_201.csv
-239.0,Rattigan(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Rattigan(1992)_239K_220-330nm.txt,Absorption measurements using a deuterium lamp as a light source and a dual-beam diode array spectrometer with a spectral resolution of 0.3 nm,CH3ONO2,methyl nitrate,"
-
-  O. Rattigan, R.L. Lutman, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of gaseous nitric acid and methyl nitrate"",
-  J. Photochem. Photobiol. A: Chem. 66, 313-326 (1992); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Rattigan(1992)_239K_220-330nm.csv
-294.0,Rattigan(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Rattigan(1992)_294K_220-335nm.txt,Absorption measurements using a deuterium lamp as a light source and a dual-beam diode array spectrometer with a spectral resolution of 0.3 nm,CH3ONO2,methyl nitrate,"
-
-  O. Rattigan, R.L. Lutman, R.L. Jones, and R.A. Cox, ""Temperature-dependent absorption cross-sections of gaseous nitric acid and methyl nitrate"",
-  J. Photochem. Photobiol. A: Chem. 66, 313-326 (1992); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Rattigan(1992)_294K_220-335nm.csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_249.9-313.9nm(meas).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,CH3ONO2,methyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_249.csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_270-314nm(fit).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,CH3ONO2,methyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_270-314nm(fit).csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_270-330nm.txt,Data at 5-nm intervals as given in the review article of,CH3ONO2,methyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_270-330nm.csv
-240.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_240K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_240K_236-334nm(calc).csv
-260.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_260K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_260K_236-334nm(calc).csv
-280.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_280K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_280K_236-334nm(calc).csv
-298.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_298K_236-344nm(meas).txt,Absorption cross sections measured at 298 K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_298K_236-344nm(meas).csv
-320.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_320K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_320K_236-334nm(calc).csv
-340.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_340K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_340K_236-334nm(calc).csv
-360.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_360K_236-334nm(calc).txt,Absorption measurements at 240 to 360K using a diode array spectrometer,CH3ONO2,methyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_360K_236-334nm(calc).csv
-298.0,Taylor(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Taylor(1980)_298K_190-330nm.txt,Spectrophotometer with a resolution of 1 nm,CH3ONO2,methyl nitrate,"
-
-  W.D. Taylor, T.D. Allston, M.J. Moscato, G.B. Fazekas, R. Koslowski, and G.A. Takacs, ""Atmospheric photodissociation lifetimes for nitromethane, methyl nitrite, and methyl nitrate"",
-  Int. J. Chem. Kinet. 12, 231-240 (1980); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Taylor(1980)_298K_190-330nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Atkinson(1997)_298K_270-330nm(rec).txt,NaN,330.0,Atkinson(1997),The recommended values are said to be the mean of the room temperature data of,270.0,methyl nitrate, https://doi.org/10.1063/1.556011,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Atkinson(1997)_298K_270-330nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Higgins(2014)_294K_240-320nm.txt,NaN,320.0,Higgins(2014),Absorption measurements at pressures of 1.5−17 Torr,240.0,methyl nitrate, https://doi.org/10.1021/jp501517t,CH3ONO2,294.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Higgins(2014)_294K_240-320nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_IUPAC(2006)_298K_240-340nm(rec).txt,NaN,340.0,IUPAC(2006),IUPAC(2006) recommendation:,240.0,methyl nitrate, https://doi.org/10.5194/acp-6-3625-2006,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_IUPAC(2006)_298K_240-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_JPL-2010(2011)_298K_190-344nm(rec).txt,NaN,344.0,JPL-2010(2011),JPL-2010 recommendation:,190.0,methyl nitrate,,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_JPL-2010(2011)_298K_190-344nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_LibudaZabel(1995)_298K_235-345nm(0.07nm).txt,NaN,345.0,LibudaZabel(1995),Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,235.0,methyl nitrate, https://doi.org/10.1002/bbpc.199500061,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_LibudaZabel(1995)_298K_235-345nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_LibudaZabel(1995)_298K_270-345nm(5nm).txt,NaN,345.0,LibudaZabel(1995),Absorption measurements at a spectral resolution of 0.6 nm using a diode array spectrometer,270.0,methyl nitrate, https://doi.org/10.1002/bbpc.199500061,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_LibudaZabel(1995)_298K_270-345nm(5nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Maria(1973)_298K_235-305nm.txt,NaN,305.0,Maria(1973),Extinctions coefficients have been digitized from Fig. 1 (logarithmic plot of extinction coefficients vs. wavenumber) and converted to absorption cross sections (conversion factor 3.8235×10,235.0,methyl nitrate, https://doi.org/10.1021/ja00785a010,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Maria(1973)_298K_235-305nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_McMillan(1966)_298K_201.4-325.6nm.txt,NaN,325.6,McMillan(1966),Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,201.4,methyl nitrate,,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_McMillan(1966)_298K_201.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Rattigan(1992)_239K_220-330nm.txt,NaN,330.0,Rattigan(1992),Absorption measurements using a deuterium lamp as a light source and a dual-beam diode array spectrometer with a spectral resolution of 0.3 nm,220.0,methyl nitrate, https://doi.org/10.1016/1010-6030(92)80003-E,CH3ONO2,239.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Rattigan(1992)_239K_220-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Rattigan(1992)_294K_220-335nm.txt,NaN,335.0,Rattigan(1992),Absorption measurements using a deuterium lamp as a light source and a dual-beam diode array spectrometer with a spectral resolution of 0.3 nm,220.0,methyl nitrate, https://doi.org/10.1016/1010-6030(92)80003-E,CH3ONO2,294.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Rattigan(1992)_294K_220-335nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_249.9-313.9nm(meas).txt,NaN,313.9,RobertsFajer(1989),Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,249.9,methyl nitrate, https://doi.org/10.1021/es00066a003,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_249.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_270-314nm(fit).txt,NaN,314.0,RobertsFajer(1989),Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,270.0,methyl nitrate, https://doi.org/10.1021/es00066a003,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_270-314nm(fit).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_RobertsFajer(1989)_298K_270-330nm.txt,NaN,330.0,RobertsFajer(1989),Data at 5-nm intervals as given in the review article of,270.0,methyl nitrate, https://doi.org/10.1021/es00066a003,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_RobertsFajer(1989)_298K_270-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_240K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,240.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_240K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_260K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,260.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_260K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_280K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,280.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_280K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_298K_236-344nm(meas).txt,NaN,344.0,Talukdar(1997),Absorption cross sections measured at 298 K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_298K_236-344nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_320K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,320.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_320K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_340K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,340.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_340K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Talukdar(1997)_360K_236-334nm(calc).txt,NaN,334.0,Talukdar(1997),Absorption measurements at 240 to 360K using a diode array spectrometer,236.0,methyl nitrate, https://doi.org/10.1039/A701781B,CH3ONO2,360.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Talukdar(1997)_360K_236-334nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/CH3ONO2_Taylor(1980)_298K_190-330nm.txt,NaN,330.0,Taylor(1980),Spectrophotometer with a resolution of 1 nm,190.0,methyl nitrate, https://doi.org/10.1002/kin.550120404,CH3ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/CH3ONO2/CH3ONO2_Taylor(1980)_298K_190-330nm.csv

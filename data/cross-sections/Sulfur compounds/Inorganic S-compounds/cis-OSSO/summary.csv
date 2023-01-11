@@ -1,15 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-273.0,Frandsen(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/cis-OSSO_Frandsen(2016)_273K_250.0-498.7nm(calc).txt,UV-Vis spectrun calculated at the CC3/aug-cc-pV(T+d) level based on a MRCI/cc-pV(T+d) optimized geometry,cis-OSSO,cis-disulfur dioxide,"
-
-  B.N. Frandsen, P.O. Wennberg, and H.G. Kjaergaard, ""Identifcation of OSSO as a near-UV absorber in the Venusian atmosphere"",
-  Geophys. Res. Lett. 43, 11146-11155 (2016);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/cis-OSSO/cis-OSSO_Frandsen(2016)_273K_250.csv
-273.0,Frandsen(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/cis-OSSO_Frandsen(2020)_273K_250.0-527.8nm(calc).txt,UV-Vis spectrum calculated using the nuclear ensemble approach at the CCSD(T)//EOM_CCSD/aug-cc-pV(T+D)Z level of theory,cis-OSSO,cis-disulfur dioxide,"
-
-  B.N. Frandsen, S. Farahani, E. Vogt, J.R. Lane, and H.G. Kjaergaard, ""Spectroscopy of OSSO and other sulfur compounds thought to be present in the Venus atmosphere"",
-  J. Phys. Chem. A 124, 7047-7059 (2020);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/cis-OSSO/cis-OSSO_Frandsen(2020)_273K_250.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/cis-OSSO_Frandsen(2016)_273K_250.0-498.7nm(calc).txt,NaN,498.7,Frandsen(2016),UV-Vis spectrun calculated at the CC3/aug-cc-pV(T+d) level based on a MRCI/cc-pV(T+d) optimized geometry,250.0,cis-disulfur dioxide, https://doi.org/10.1002/2016GL070916,cis-OSSO,273.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/cis-OSSO/cis-OSSO_Frandsen(2016)_273K_250.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/cis-OSSO_Frandsen(2020)_273K_250.0-527.8nm(calc).txt,NaN,527.8,Frandsen(2020),UV-Vis spectrum calculated using the nuclear ensemble approach at the CCSD(T)//EOM_CCSD/aug-cc-pV(T+D)Z level of theory,250.0,cis-disulfur dioxide, https://doi.org/10.1021/acs.jpca.0c04388,cis-OSSO,273.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/cis-OSSO/cis-OSSO_Frandsen(2020)_273K_250.csv

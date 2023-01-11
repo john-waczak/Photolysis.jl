@@ -1,64 +1,10 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,KimuraNagakura(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_KimuraNagakura(1965)_298K_161.6-222.1nm.txt,Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
-  Mol. Phys. 9, 117-135 (1965); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_KimuraNagakura(1965)_298K_161.csv
-473.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_473K_260-280nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_473K_260-280nm.csv
-573.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_573K_260-280nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_573K_260-280nm.csv
-673.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_673K_260-290nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_673K_260-290nm.csv
-773.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_773K_260-300nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_773K_260-300nm.csv
-873.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_873K_260-310nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_873K_260-310nm.csv
-973.0,Mackey(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_973K_260-310nm.txt,High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.W. Mackey, J.W. Daily, T. McKinnon, and E.P. Riedel, ""High-temperature UV-visible absorption spectral measurements and estimated primary photodissociation rates of formaldehyde, chlorobenzene and 1-chloronaphthalene"",
-  J. Photochem. Photobiol. A: Chem. 105, 1-6 (1997); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_973K_260-310nm.csv
-298.0,Palmer(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Palmer(2016)_298K_115-320nm.txt,Absorption measurements using a synchrotron radiation source,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  M.H. Palmer, T. Ridley, S.V. Hoffmann, N.C. Jones, M. Coreno, M.d. Simone, C. Grazioli, T. Zhang, M. Biczysko, A. Baiardi, and K.A. Peterson, ""Combined theoretical and experimental study of the valence, Rydberg, and ionic states of chlorobenzene"",
-  J. Chem. Phys. 144, 124302-1 - 124303-21 (2016); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Palmer(2016)_298K_115-320nm.csv
-298.0,ScharpingZetzsch(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_ScharpingZetzsch(1985)_298K_166.8-221.7nm.txt,Absorption measurements at 0.3-nm resolution using a gas saturation method,C6H5Cl,"chlorobenzene, phenyl chloride","
-
-  H. Scharping and C. Zetzsch, ""Substituent effects in the VUV absorption spectra of monochlorobenzene and o-, m-, and p-dichlorobenzene"",
-  J. Mol. Spectrosc. 112, 8-17 (1985); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_ScharpingZetzsch(1985)_298K_166.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_KimuraNagakura(1965)_298K_161.6-222.1nm.txt,NaN,222.1,KimuraNagakura(1965),Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,161.6,"chlorobenzene, phenyl chloride", https://doi.org/10.1080/00268976500100141,C6H5Cl,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_KimuraNagakura(1965)_298K_161.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_473K_260-280nm.txt,NaN,280.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,473.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_473K_260-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_573K_260-280nm.txt,NaN,280.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,573.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_573K_260-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_673K_260-290nm.txt,NaN,290.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,673.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_673K_260-290nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_773K_260-300nm.txt,NaN,300.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,773.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_773K_260-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_873K_260-310nm.txt,NaN,310.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,873.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_873K_260-310nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Mackey(1997)_973K_260-310nm.txt,NaN,310.0,Mackey(1997),High-temperature absorption measurements at a spectral resolution of 0.3 nm using a flow-tube absorption cell and nitrogen as the diluent carrier gas,260.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/S1010-6030(97)00066-X,C6H5Cl,973.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Mackey(1997)_973K_260-310nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_Palmer(2016)_298K_115-320nm.txt,NaN,320.0,Palmer(2016),Absorption measurements using a synchrotron radiation source,115.0,"chlorobenzene, phenyl chloride", https://doi.org/10.1063/1.4944078,C6H5Cl,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_Palmer(2016)_298K_115-320nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5Cl_ScharpingZetzsch(1985)_298K_166.8-221.7nm.txt,NaN,221.7,ScharpingZetzsch(1985),Absorption measurements at 0.3-nm resolution using a gas saturation method,166.8,"chlorobenzene, phenyl chloride", https://doi.org/10.1016/0022-2852(85)90186-9,C6H5Cl,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5Cl/C6H5Cl_ScharpingZetzsch(1985)_298K_166.csv

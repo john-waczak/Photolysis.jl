@@ -1,50 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-223.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_223K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_223K_160-240nm.csv"
-233.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_233K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_233K_160-240nm.csv"
-253.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_253K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_253K_160-240nm.csv"
-273.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_273K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_273K_160-240nm.csv"
-295.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_295K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_295K_160-240nm.csv"
-313.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_313K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_313K_160-240nm.csv"
-333.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_333K_160-240nm.txt",CH2=CHC≡CH,C4H4,vinylacetylene,"
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_333K_160-240nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_223K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,223.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_223K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_233K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,233.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_233K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_253K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,253.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_253K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_273K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,273.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_273K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_295K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,295.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_295K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_313K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,313.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_313K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H4_FahrNayak(1996)_333K_160-240nm.txt",NaN,240.0,FahrNayak(1996),CH2=CHC≡CH,160.0,vinylacetylene, https://doi.org/10.1016/0301-0104(95)00401-7,C4H4,333.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H4/C4H4_FahrNayak(1996)_333K_160-240nm.csv"

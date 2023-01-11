@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-294.0,Ogilvie(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DI_Ogilvie(1971)_294K_192-299nm.txt,Measurements at intervals of 500 cm,DI,hydrogen iodide-d,"
-
-  J.F. Ogilvie, ""Semi-experimental determination of a repulsive potential curve for hydrogen iodide"",
-  Trans. Faraday Soc. 67, 2205-2215 (1971); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/DI/DI_Ogilvie(1971)_294K_192-299nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/DI_Ogilvie(1971)_294K_192-299nm.txt,NaN,299.0,Ogilvie(1971),Measurements at intervals of 500 cm,192.0,hydrogen iodide-d, https://doi.org/10.1039/TF9716702205,DI,294.0,data/cross-sections/Hydrogen halides/DI/DI_Ogilvie(1971)_294K_192-299nm.csv

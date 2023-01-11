@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-328.0,LePerson(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/C9H8,(C3H4)C6H4_LePerson(2008)_328K_270-310nm.txt",Absorption measurements at a resolution between 0.2 and 1 nm using a 1800 grooves/mm grating and a 1024 element diode array detector,"C9H8,(C3H4)C6H4","indene, benzocyclopentene","
-
-  A. Le Person, G. Eyglunent, V. Daële, A. Mellouki, and Y. Mu, ""The near UV absorption cross-sections and the rate coefficients for the ozonolysis of a series of styrene-like compounds"",
-  J. Photochem Photobiol. A: Chem. 195, 54-63 (2008); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/C9H8,(C3H4)C6H4/C9H8,(C3H4)C6H4_LePerson(2008)_328K_270-310nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Alkyl-,vinylbenzenes/C9H8,(C3H4)C6H4_LePerson(2008)_328K_270-310nm.txt",NaN,310.0,LePerson(2008),Absorption measurements at a resolution between 0.2 and 1 nm using a 1800 grooves/mm grating and a 1024 element diode array detector,270.0,"indene, benzocyclopentene", https://doi.org/10.1016/j.jphotochem.2007.09.006,"C9H8,(C3H4)C6H4",328.0,"data/cross-sections/Aromatic compounds/Alkyl-,vinylbenzenes/C9H8,(C3H4)C6H4/C9H8,(C3H4)C6H4_LePerson(2008)_328K_270-310nm.csv"

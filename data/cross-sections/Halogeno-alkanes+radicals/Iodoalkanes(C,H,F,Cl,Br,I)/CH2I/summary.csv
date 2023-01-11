@@ -1,11 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Kroger(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I_Kroger(1976)_298K_266nm.txt",Photofragment spectroscopy of CH,CH2I,iodomethyl radical,"
-
-  P.M. Kroger, P.C. Demou, and S.J. Riley, ""Polyhalide photofragment spectra. I. Two-photon two-step photodissociation of methylene iodide"",
-  J. Chem. Phys. 65, 1823-1834 (1976); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I/CH2I_Kroger(1976)_298K_266nm.csv"
-295.0,Sehested(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I_Sehested(1994)_295K_220-400nm.txt",Absorption measurements for the iodomethyl radical using a pulse radiolysis transient UV absorption apparatus (radiolysis of SF,CH2I,iodomethyl radical,"
-
-  J. Sehested, T. Ellermann, and O.J. Nielsen, ""A spectrokinetic study of CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I/CH2I_Sehested(1994)_295K_220-400nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I_Kroger(1976)_298K_266nm.txt",NaN,NaN,Kroger(1976),Photofragment spectroscopy of CH,266.0,iodomethyl radical, https://doi.org/10.1063/1.433274,CH2I,298.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I/CH2I_Kroger(1976)_298K_266nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I_Sehested(1994)_295K_220-400nm.txt",NaN,400.0,Sehested(1994),Absorption measurements for the iodomethyl radical using a pulse radiolysis transient UV absorption apparatus (radiolysis of SF,220.0,iodomethyl radical, https://doi.org/10.1002/kin.550260204,CH2I,295.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CH2I/CH2I_Sehested(1994)_295K_220-400nm.csv"

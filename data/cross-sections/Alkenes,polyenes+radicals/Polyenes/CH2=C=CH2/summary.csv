@@ -1,29 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-183.0,Benilan(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Benilan(1999)_183K_185-233nm.txt",Reference and data from,CH2=C=CH2,"propadiene, allene","
-
-  Y. Benilan, A. Jolly, and F. Raulin, ""Comparative IR and UV spectroscopic studies of allene and methylacetylene: Implication for observation and modeling of Titan atmosphere"",
-  Bull. Am. Astron. Soc. 31, 1169 (1999)
-
-
-","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Benilan(1999)_183K_185-233nm.csv"
-293.0,Benilan(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Benilan(1999)_293K_185-233nm.txt",Reference and data from,CH2=C=CH2,"propadiene, allene","
-
-  Y. Benilan, A. Jolly, and F. Raulin, ""Comparative IR and UV spectroscopic studies of allene and methylacetylene: Implication for observation and modeling of Titan atmosphere"",
-  Bull. Am. Astron. Soc. 31, 1169 (1999)
-
-
-","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Benilan(1999)_293K_185-233nm.csv"
-298.0,HollandShaw(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_HollandShaw(1999)_298K_35-128nm.txt",High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,CH2=C=CH2,"propadiene, allene","
-
-  D.M.P. Holland and D.A. Shaw, ""A study of the valence-shell photoabsorption, photodissociation and photoionisation cross-sections of allene"",
-  Chem. Phys. 243, 333-339 (1999); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_HollandShaw(1999)_298K_35-128nm.csv"
-298.0,Rabalais(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Rabalais(1971)_298K_122-256nm.txt","Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",CH2=C=CH2,"propadiene, allene","
-
-  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
-  Chem. Rev. 71, 73-108 (1971);
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Rabalais(1971)_298K_122-256nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Benilan(1999)_183K_185-233nm.txt",NaN,233.0,Benilan(1999),Reference and data from,185.0,"propadiene, allene",,CH2=C=CH2,183.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Benilan(1999)_183K_185-233nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Benilan(1999)_293K_185-233nm.txt",NaN,233.0,Benilan(1999),Reference and data from,185.0,"propadiene, allene",,CH2=C=CH2,293.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Benilan(1999)_293K_185-233nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_HollandShaw(1999)_298K_35-128nm.txt",NaN,128.0,HollandShaw(1999),High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,35.0,"propadiene, allene", https://doi.org/10.1016/S0301-0104(99)00091-9,CH2=C=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_HollandShaw(1999)_298K_35-128nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2_Rabalais(1971)_298K_122-256nm.txt",NaN,256.0,Rabalais(1971),"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",122.0,"propadiene, allene", https://doi.org/10.1021/cr60269a004,CH2=C=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=C=CH2/CH2=C=CH2_Rabalais(1971)_298K_122-256nm.csv"

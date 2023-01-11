@@ -1,185 +1,29 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-293.0,Cias(2007),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Cias(2007)_293K_1651.52nm.txt","A method is proposed to determine the unknown NIR absorption cross-sections using the known absorption cross-sections in the UV region, in which single-path UV absorption spectroscopy and NIR continuous wave cavity ringdown spectroscopy (cw-CRDS) are employed in a cross-arm reaction chamber for simultaneous measurements",CH2=CHCH=CH2,"1,3-butadiene","
-
-  P. Cias, C. Wang, and T. Dibble, ""Absorption cross-sections of the C–H overtone of volatile organic compounds: 2-methyl-1,3-butadiene (isoprene), 1,3-butadiene, and 2,3-dimethyl-1,3-butadiene"",
-  Appl. Spectrosc. 61, 230-236 (2007); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Cias(2007)_293K_1651.csv"
-218.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm.csv"
-218.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm(5nm).csv"
-233.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm.csv"
-233.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm(5nm).csv"
-253.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm.csv"
-253.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm(5nm).csv"
-273.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm.csv"
-273.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm(5nm).csv"
-295.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm.csv"
-295.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm(5nm).csv"
-313.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm.txt",Data Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm.csv"
-313.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm(5nm).csv"
-333.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm.txt",Data at 0.1- and 0.5-nm intervals from,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm.csv"
-333.0,FahrNayak(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm(5nm).txt","Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Fahr and A.K. Nayak, ""Temperature dependent ultraviolet absorption cross sections of 1,3-butadiene and butadiyne"",
-  Chem. Phys. 189, 725-731 (1994); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm(5nm).csv"
-298.0,Hanf(2010),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Hanf(2010)_298K_121.6,193nm.txt",Absorption cross sections at the Lyman-α and ArF excimer laser lines,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A. Hanf, H.-R. Volpp, P. Sharma, J.P. Mittal, and R.K. Vatsa, ""Ultraviolet photochemistry of buta-1,3- and buta-1,2-dienes: Laser spectroscopic absolute hydrogen atom quantum yield and translational energy distribution measurements"",
-  J. Chem. Phys. 133, 024308-1 - 024308-8 (2010); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Hanf(2010)_298K_121.csv"
-298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_JonesTaylor(1955)_298K_168-222nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=CHCH=CH2,"1,3-butadiene","
-
-  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
-  Anal. Chem. 27, 228-237 (1955); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_JonesTaylor(1955)_298K_168-222nm.csv"
-298.0,Olive(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Olive(2005)_298K_200-235nm.txt",Absorption measurements at a spectral resolution of 0.050 nm,CH2=CHCH=CH2,"1,3-butadiene","
-
-  B.S. Olive, ""Absorption spectra of ammonia, hydrogen sulfide, and several organic compounds"",
-  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2005
-
-
-","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Olive(2005)_298K_200-235nm.csv"
-298.0,PalmerWalker(2010),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_PalmerWalker(2010)_298K_99.831-247.636nm.txt",High-resolution absorption measurements using a synchrotron radiation source,CH2=CHCH=CH2,"1,3-butadiene","
-
-  M.H. Palmer and I.C. Walker, ""The electronic states of buta-1,3-diene studied by ab initio configuration interaction and DFT methods, and electron energy loss spectroscopy"",
-  Chem. Phys. 373, 159-169 (2010); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_PalmerWalker(2010)_298K_99.csv"
-294.0,Parkes(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Parkes(2003)_294K_1624.572nm.txt","The use of continuous wave cavity ring-down spectroscopy (cw CRDS) with near infra-red diode lasers is
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Cias(2007)_293K_1651.52nm.txt",NaN,NaN,Cias(2007),"A method is proposed to determine the unknown NIR absorption cross-sections using the known absorption cross-sections in the UV region, in which single-path UV absorption spectroscopy and NIR continuous wave cavity ringdown spectroscopy (cw-CRDS) are employed in a cross-arm reaction chamber for simultaneous measurements",1651.52,"1,3-butadiene", https://doi.org/10.1366/000370207779947440,CH2=CHCH=CH2,293.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Cias(2007)_293K_1651.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,218.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,218.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_218K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,233.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,233.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_233K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,253.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,253.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_253K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,273.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,273.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_273K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_295K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,313.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,313.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_313K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm.txt",NaN,240.0,FahrNayak(1994),Data at 0.1- and 0.5-nm intervals from,160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,333.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm(5nm).txt",NaN,240.0,FahrNayak(1994),"Data selected at 5-nm intervals of the medium-resolution spectrum, from paper",160.0,"1,3-butadiene", https://doi.org/10.1016/0301-0104(94)00306-8,CH2=CHCH=CH2,333.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_FahrNayak(1994)_333K_160-240nm(5nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Hanf(2010)_298K_121.6,193nm.txt",NaN,193.0,Hanf(2010),Absorption cross sections at the Lyman-α and ArF excimer laser lines,121.6,"1,3-butadiene", https://doi.org/10.1063/1.3462951,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Hanf(2010)_298K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_JonesTaylor(1955)_298K_168-222nm.txt",NaN,222.0,JonesTaylor(1955),"Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",168.0,"1,3-butadiene", https://doi.org/10.1021/ac60098a015,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_JonesTaylor(1955)_298K_168-222nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Olive(2005)_298K_200-235nm.txt",NaN,235.0,Olive(2005),Absorption measurements at a spectral resolution of 0.050 nm,200.0,"1,3-butadiene",,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Olive(2005)_298K_200-235nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_PalmerWalker(2010)_298K_99.831-247.636nm.txt",NaN,247.636,PalmerWalker(2010),High-resolution absorption measurements using a synchrotron radiation source,99.831,"1,3-butadiene", https://doi.org/10.1016/j.chemphys.2010.04.016,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_PalmerWalker(2010)_298K_99.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Parkes(2003)_294K_1624.572nm.txt",NaN,NaN,Parkes(2003),"The use of continuous wave cavity ring-down spectroscopy (cw CRDS) with near infra-red diode lasers is
 demonstrated for quantitative detection of trace levels of unsaturated volatile organic compounds (VOCs) at
-wavelengths that avoid overlapping absorptions by more abundant atmospheric constituents such as H",CH2=CHCH=CH2,"1,3-butadiene","
-
-  A.M. Parkes, B.L. Fawcett, R.E. Austin, S. Nakamichi, D.E. Shallcross, and A.J. Orr-Ewing, ""Trace detection of volatile organic compounds by diode laser cavity ring-down spectroscopy"",
-  Analyst 128, 960-965 (2003); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Parkes(2003)_294K_1624.csv"
-298.0,Pottier(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_116.4-163.8nm.txt",Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,CH2=CHCH=CH2,"1,3-butadiene","
-
-  R.H. Pottier, G.P. Semeluk, and R.D.S. Stevens, ""The far U. V. spectra of hexafluoro 1,3-butadiene and 1,3-butadiene"",
-  Spectrosc. Lett. 2, 369-376 (1969); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_116.csv"
-298.0,Pottier(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_163.9-232.4nm.txt",Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,CH2=CHCH=CH2,"1,3-butadiene","
-
-  R.H. Pottier, G.P. Semeluk, and R.D.S. Stevens, ""The far U. V. spectra of hexafluoro 1,3-butadiene and 1,3-butadiene"",
-  Spectrosc. Lett. 2, 369-376 (1969); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_163.csv"
-298.0,Pottier(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_209.6nm(max).txt",Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,CH2=CHCH=CH2,"1,3-butadiene","
-
-  R.H. Pottier, G.P. Semeluk, and R.D.S. Stevens, ""The far U. V. spectra of hexafluoro 1,3-butadiene and 1,3-butadiene"",
-  Spectrosc. Lett. 2, 369-376 (1969); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_209.csv"
-298.0,Robinson(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Robinson(2002)_298K_481.3nm.txt",Peak absorption cross section of the T,CH2=CHCH=CH2,"1,3-butadiene","
-
-  A.G. Robinson, P.R. Winter, and T.S. Zwier, ""The singlet-triplet spectroscopy of 1,3-butadiene using cavity ring-down spectroscopy"",
-  J. Chem. Phys. 116, 7918-7925 (2002); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Robinson(2002)_298K_481.csv"
-295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Schoen(1962)_295K_49.6-137.9nm(smoo).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH2=CHCH=CH2,"1,3-butadiene","
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Schoen(1962)_295K_49.csv"
-295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Schoen(1962)_295K_50.7-137.1nm(meas).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH2=CHCH=CH2,"1,3-butadiene","
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Schoen(1962)_295K_50.csv"
+wavelengths that avoid overlapping absorptions by more abundant atmospheric constituents such as H",1624.572,"1,3-butadiene", https://doi.org/10.1039/b303834c,CH2=CHCH=CH2,294.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Parkes(2003)_294K_1624.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_116.4-163.8nm.txt",NaN,163.8,Pottier(1969),Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,116.4,"1,3-butadiene", https://doi.org/10.1080/00387016908050942,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_116.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_163.9-232.4nm.txt",NaN,232.4,Pottier(1969),Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,163.9,"1,3-butadiene", https://doi.org/10.1080/00387016908050942,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_163.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Pottier(1969)_298K_209.6nm(max).txt",NaN,NaN,Pottier(1969),Absorption measurements with a VUV double beam spectrometer and a deuterium discharge lamp as a light source,209.6,"1,3-butadiene", https://doi.org/10.1080/00387016908050942,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Pottier(1969)_298K_209.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Robinson(2002)_298K_481.3nm.txt",NaN,NaN,Robinson(2002),Peak absorption cross section of the T,481.3,"1,3-butadiene", https://doi.org/10.1063/1.1467903,CH2=CHCH=CH2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Robinson(2002)_298K_481.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Schoen(1962)_295K_49.6-137.9nm(smoo).txt",NaN,137.9,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",49.6,"1,3-butadiene", https://doi.org/10.1063/1.1733423,CH2=CHCH=CH2,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Schoen(1962)_295K_49.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Schoen(1962)_295K_50.7-137.1nm(meas).txt",NaN,137.1,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",50.7,"1,3-butadiene", https://doi.org/10.1063/1.1733423,CH2=CHCH=CH2,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2/CH2=CHCH=CH2_Schoen(1962)_295K_50.csv"

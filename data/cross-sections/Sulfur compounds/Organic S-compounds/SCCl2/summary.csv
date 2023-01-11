@@ -1,15 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,FarnsworthKing(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SCCl2_FarnsworthKing(1973)_298K_254nm.txt,Low-resolution absorption measurements in the 250-290-nm region,SCCl2,"thiophosgene, thiocarbonyl chloride","
-
-  E.R. Farnworth and G.W. King, ""The 2780 Å absorption system of thiophosgene"",
-  J. Mol. Spectrosc. 46, 419-428 (1973); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/SCCl2/SCCl2_FarnsworthKing(1973)_298K_254nm.csv
-296.0,Okabe(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SCCl2_Okabe(1977)_296K_240-436nm.txt,Absorption measurements using a plane grating monochromator at a resolution of about 0.1 nm using the deuterium lamp as a light source,SCCl2,"thiophosgene, thiocarbonyl chloride","
-
-  H. Okabe, ""Photodissociation of thiophosgene"",
-  J. Chem. Phys. 66, 2058-2062 (1977); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/SCCl2/SCCl2_Okabe(1977)_296K_240-436nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SCCl2_FarnsworthKing(1973)_298K_254nm.txt,NaN,NaN,FarnsworthKing(1973),Low-resolution absorption measurements in the 250-290-nm region,254.0,"thiophosgene, thiocarbonyl chloride", https://doi.org/10.1016/0022-2852(73)90054-4,SCCl2,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/SCCl2/SCCl2_FarnsworthKing(1973)_298K_254nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/SCCl2_Okabe(1977)_296K_240-436nm.txt,NaN,436.0,Okabe(1977),Absorption measurements using a plane grating monochromator at a resolution of about 0.1 nm using the deuterium lamp as a light source,240.0,"thiophosgene, thiocarbonyl chloride", https://doi.org/10.1063/1.434166,SCCl2,296.0,data/cross-sections/Sulfur compounds/Organic S-compounds/SCCl2/SCCl2_Okabe(1977)_296K_240-436nm.csv

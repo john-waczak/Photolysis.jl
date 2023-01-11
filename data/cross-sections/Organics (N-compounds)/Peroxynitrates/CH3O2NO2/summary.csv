@@ -1,31 +1,9 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bridier(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_Bridier(1992)_298K_200-280nm.txt,Flash photolysis/UV absorption study of the CH,CH3O2NO2,methylperoxynitrate,"
-
-  I. Bridier, R. Lesclaux, and B. Veyret, ""Flash photolysis kinetic study of the equilibrium CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_Bridier(1992)_298K_200-280nm.csv
-275.0,CoxTyndall(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_CoxTyndall(1979)_275K_196.7-307.3nm(smoo).txt,Molecular modulation spectrometry has been employed to study the reaction of CH,CH3O2NO2,methylperoxynitrate,"
-
-  R.A. Cox and G.S. Tyndall, ""Rate constants for reactions of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_CoxTyndall(1979)_275K_196.csv
-275.0,CoxTyndall(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_CoxTyndall(1979)_275K_200-310nm(meas).txt,Molecular modulation spectrometry has been employed to study the reaction of CH,CH3O2NO2,methylperoxynitrate,"
-
-  R.A. Cox and G.S. Tyndall, ""Rate constants for reactions of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_CoxTyndall(1979)_275K_200-310nm(meas).csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_IUPAC(2006)_298K_200-325nm(rec).txt,IUPAC(2006) recommendation:,CH3O2NO2,methylperoxynitrate,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_IUPAC(2006)_298K_200-325nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_JPL-2010(2011)_298K_200-290nm(rec).txt,JPL-2010 recommendation:,CH3O2NO2,methylperoxynitrate,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_JPL-2010(2011)_298K_200-290nm(rec).csv
-296.0,Morel(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_Morel(1980)_296K_200-280nm.txt,"Pulsed deuterium light source, double beam optical arrangement, grating monochromator
-providing a spectral band width of 0.9 nm, measurements at steps of  0.9 nm",CH3O2NO2,methylperoxynitrate,"
-
-  O. Morel, R. Simonaitis, and J. Heicklen, ""Ultraviolet absorption spectra of HO",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_Morel(1980)_296K_200-280nm.csv
-298.0,SanderWatson(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_SanderWatson(1980)_298K_240-280nm.txt,Flash photolysis/UV absorption study of the CH,CH3O2NO2,methylperoxynitrate,"
-
-  S.P. Sander and R.T. Watson, ""Kinetic studies of the reactions of CH",data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_SanderWatson(1980)_298K_240-280nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_Bridier(1992)_298K_200-280nm.txt,NaN,280.0,Bridier(1992),Flash photolysis/UV absorption study of the CH,200.0,methylperoxynitrate, https://doi.org/10.1016/0009-2614(92)85297-N,CH3O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_Bridier(1992)_298K_200-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_CoxTyndall(1979)_275K_196.7-307.3nm(smoo).txt,NaN,307.3,CoxTyndall(1979),Molecular modulation spectrometry has been employed to study the reaction of CH,196.7,methylperoxynitrate, https://doi.org/10.1016/0009-2614(79)87081-5,CH3O2NO2,275.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_CoxTyndall(1979)_275K_196.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_CoxTyndall(1979)_275K_200-310nm(meas).txt,NaN,310.0,CoxTyndall(1979),Molecular modulation spectrometry has been employed to study the reaction of CH,200.0,methylperoxynitrate, https://doi.org/10.1016/0009-2614(79)87081-5,CH3O2NO2,275.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_CoxTyndall(1979)_275K_200-310nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_IUPAC(2006)_298K_200-325nm(rec).txt,NaN,325.0,IUPAC(2006),IUPAC(2006) recommendation:,200.0,methylperoxynitrate, https://doi.org/10.5194/acp-6-3625-2006,CH3O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_IUPAC(2006)_298K_200-325nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_JPL-2010(2011)_298K_200-290nm(rec).txt,NaN,290.0,JPL-2010(2011),JPL-2010 recommendation:,200.0,methylperoxynitrate,,CH3O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_JPL-2010(2011)_298K_200-290nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_Morel(1980)_296K_200-280nm.txt,NaN,280.0,Morel(1980),"Pulsed deuterium light source, double beam optical arrangement, grating monochromator
+providing a spectral band width of 0.9 nm, measurements at steps of  0.9 nm",200.0,methylperoxynitrate, https://doi.org/10.1016/0009-2614(80)85197-9,CH3O2NO2,296.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_Morel(1980)_296K_200-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Peroxynitrates/CH3O2NO2_SanderWatson(1980)_298K_240-280nm.txt,NaN,280.0,SanderWatson(1980),Flash photolysis/UV absorption study of the CH,240.0,methylperoxynitrate, https://doi.org/10.1021/j100450a002,CH3O2NO2,298.0,data/cross-sections/Organics (N-compounds)/Peroxynitrates/CH3O2NO2/CH3O2NO2_SanderWatson(1980)_298K_240-280nm.csv

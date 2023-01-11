@@ -1,37 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Holland(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_Holland(1997)_298K_60-119nm.txt",High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,CD2=CD2,ethylene-d4,"
-
-  D.M.P. Holland, D.A. Shaw, M.A. Hayes, L.G. Shpinkova, E.E. Rennie, L. Karlson, P. Baltzer, and B. Wannberg, ""A photoabsorption, photodissociation and photoelectron spectroscopy study of C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_Holland(1997)_298K_60-119nm.csv"
-298.0,Lilly(1973-1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_Lilly(1973-1974)_298K_104.8-106.7,123.6,147nm.txt","Absorption coefficients k (atm, 298 K)",CD2=CD2,ethylene-d4,"
-
-  R.L. Lilly, R.E. Rebbert, and P. Ausloos, ""Far ultra-violet photolysis of ammonia - Quantum yield determination for the primary process: NH","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_Lilly(1973-1974)_298K_104.csv"
-298.0,OkabeBecker(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_OkabeBecker(1962)_298K_147nm.txt","The absorption coefficient k (atm, 298 K)",CD2=CD2,ethylene-d4,"
-
-  H. Okabe and D.A. Becker, ""Vacuum ultraviolet photochemistry. V. Photolysis of isobutane"",
-  J. Am. Chem. Soc. 84, 4004-4007 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_OkabeBecker(1962)_298K_147nm.csv"
-298.0,PersonNicole(1968),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_PersonNicole(1968)_298K_105.30-118.70nm.txt",Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),CD2=CD2,ethylene-d4,"
-
-  J.C. Person and P.P. Nicole, ""Isotope effects in the photoionization yields and the absorption cross sections for ethylene and n-butane"",
-  J. Chem. Phys. 49, 5421-5426 (1968);
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_PersonNicole(1968)_298K_105.csv"
-298.0,SauerDorfman(1961),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_SauerDorfman(1961)_298K_145.7-147.8nm(meas).txt","Absorption measurements carrid out on a vacuum monochromator using a hydrogen discharge lamp as the light source
-",CD2=CD2,ethylene-d4,"
-
-  M.C. Sauer, Jr. and L.M. Dorfman, ""Molecular detachment processes in the vacuum uv photolysis of gaseous hydrocarbons. I. Ethylene. II. Butane"",
-  J. Chem. Phys. 35, 497-502 (1961); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_SauerDorfman(1961)_298K_145.csv"
-298.0,SauerDorfman(1961),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_SauerDorfman(1961)_298K_145.7-147.8nm(smoo).txt","Absorption measurements carried out on a vacuum monochromator using a hydrogen discharge lamp as the light source
-",CD2=CD2,ethylene-d4,"
-
-  M.C. Sauer, Jr. and L.M. Dorfman, ""Molecular detachment processes in the vacuum uv photolysis of gaseous hydrocarbons. I. Ethylene. II. Butane"",
-  J. Chem. Phys. 35, 497-502 (1961); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_SauerDorfman(1961)_298K_145.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_Holland(1997)_298K_60-119nm.txt",NaN,119.0,Holland(1997),High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,60.0,ethylene-d4, https://doi.org/10.1016/S0301-0104(97)00090-6,CD2=CD2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_Holland(1997)_298K_60-119nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_OkabeBecker(1962)_298K_147nm.txt",NaN,NaN,OkabeBecker(1962),"The absorption coefficient k (atm, 298 K)",147.0,ethylene-d4, https://doi.org/10.1021/ja00880a005,CD2=CD2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_OkabeBecker(1962)_298K_147nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_PersonNicole(1968)_298K_105.30-118.70nm.txt",NaN,118.7,PersonNicole(1968),Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),105.3,ethylene-d4, https://doi.org/10.1063/1.1670067,CD2=CD2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_PersonNicole(1968)_298K_105.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_SauerDorfman(1961)_298K_145.7-147.8nm(meas).txt",NaN,147.8,SauerDorfman(1961),"Absorption measurements carrid out on a vacuum monochromator using a hydrogen discharge lamp as the light source
+",145.7,ethylene-d4, https://doi.org/10.1063/1.1731959,CD2=CD2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_SauerDorfman(1961)_298K_145.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2_SauerDorfman(1961)_298K_145.7-147.8nm(smoo).txt",NaN,147.8,SauerDorfman(1961),"Absorption measurements carried out on a vacuum monochromator using a hydrogen discharge lamp as the light source
+",145.7,ethylene-d4, https://doi.org/10.1063/1.1731959,CD2=CD2,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CD2=CD2/CD2=CD2_SauerDorfman(1961)_298K_145.csv"

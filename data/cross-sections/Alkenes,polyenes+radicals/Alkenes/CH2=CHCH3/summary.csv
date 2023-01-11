@@ -1,107 +1,21 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Bertrand(1975)_298K_123.6nm.txt",Kr resonance line as a light source,CH2=CHCH3,"propylene, propene","
-
-  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
-  J. Chim. Phys. 72, 719-723 (1975); 	
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Bertrand(1975)_298K_123.csv"
-323.0,Christianson(2021),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Christianson(2021)_323K_125-240nm.txt",High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,CH2=CHCH3,"propylene, propene","
-
-  M.G. Christianson,  A. C. Doner, A. L. Koritzke, K. Frandsen, and B. Rotavera, ""Vacuum-ultraviolet absorption cross-sections of functionalized cyclic hydrocarbons: Five-membered rings"",
-  J. Quant. Spectrosc. Radiat. Transfer 258, 107274 (2021);
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Christianson(2021)_323K_125-240nm.csv"
-223.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_223K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_223K_160-200nm.csv"
-233.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_233K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_233K_160-200nm.csv"
-253.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_253K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_253K_160-200nm.csv"
-273.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_273K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_273K_160-200nm.csv"
-295.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_295K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_295K_160-200nm.csv"
-313.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_313K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_313K_160-200nm.csv"
-333.0,FahrNayak(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_333K_160-200nm.txt","Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",CH2=CHCH3,"propylene, propene","
-
-  A. Fahr and A. Nayak, ""Temperature dependent ultraviolet absorption cross sections of propylene, methylacetylene, and vinylacetylene"",
-  Chem. Phys. 203, 351-358 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_333K_160-200nm.csv"
-298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_JonesTaylor(1955)_298K_168-190nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=CHCH3,"propylene, propene","
-
-  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
-  Anal. Chem. 27, 228-237 (1955); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_JonesTaylor(1955)_298K_168-190nm.csv"
-298.0,Koizumi(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Koizumi(1985)_298K_32.5-126.5nm.txt",High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,CH2=CHCH3,"propylene, propene","
-
-  H. Koizumi, T. Yoshimi, K. Shinsaka, M. Morita, Y. Hatano, A. Yagishita, and K. Ito, ""VUV-optical oscillator strength distributions of C","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Koizumi(1985)_298K_32.csv"
-295.0,Orkin(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Orkin(1997)_295K_164-215nm.txt",The spectrum was recorded at increments of 0.1 nm at a spectral slit width of 0.1 nm,CH2=CHCH3,"propylene, propene","
-
-  V.L. Orkin, R.E. Huie, and J. Kurylo, ""Rate constants for the reactions of OH with HFC-245cb (CH","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Orkin(1997)_295K_164-215nm.csv"
-298.0,Samson(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Samson(1962)_298K_105.0-154.3nm.txt","Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
-",CH2=CHCH3,"propylene, propene","
-
-  J.A.R. Samson, F.F. Marmo, and K. Watanabe, ""Absorption and photoionization coefficients of propylene and butene-1 in the vacuum ultraviolet"",
-  J. Chem. Phys. 36, 783-786 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Samson(1962)_298K_105.csv"
-298.0,Samson(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Samson(1962)_298K_148.0-198.9nm.txt","Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
-",CH2=CHCH3,"propylene, propene","
-
-  J.A.R. Samson, F.F. Marmo, and K. Watanabe, ""Absorption and photoionization coefficients of propylene and butene-1 in the vacuum ultraviolet"",
-  J. Chem. Phys. 36, 783-786 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Samson(1962)_298K_148.csv"
-295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Schoen(1962)_295K_45.9-137.6nm(smoo).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH2=CHCH3,"propylene, propene","
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Schoen(1962)_295K_45.csv"
-295.0,Schoen(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Schoen(1962)_295K_47.6-136.6nm(meas).txt","High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",CH2=CHCH3,"propylene, propene","
-
-  R.I. Schoen, ""Absorption, ionization, and ion-fragmentation cross sections of hydrocarbon vapors under vacuum-ultraviolet radiation"",
-  J. Chem. Phys. 37, 2032-2040 (1962); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Schoen(1962)_295K_47.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Bertrand(1975)_298K_123.6nm.txt",NaN,NaN,Bertrand(1975),Kr resonance line as a light source,123.6,"propylene, propene", https://doi.org/10.1051/jcp/1975720719,CH2=CHCH3,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Bertrand(1975)_298K_123.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Christianson(2021)_323K_125-240nm.txt",NaN,240.0,Christianson(2021),High-resolution (average resolution 2 meV) absorption measurements at 9.92-5.17 eV (125-240 nm) using a pressure-controlled flow cell and a deuterium lamp as a light source,125.0,"propylene, propene", https://doi.org/10.1016/j.jqsrt.2020.107274,CH2=CHCH3,323.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Christianson(2021)_323K_125-240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_223K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,223.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_223K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_233K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,233.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_233K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_253K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,253.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_253K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_273K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,273.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_273K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_295K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_295K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_313K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,313.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_313K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_FahrNayak(1996)_333K_160-200nm.txt",NaN,200.0,FahrNayak(1996),"Ultraviolet absorption cross sections and their temperature dependencies were determined employing a one meter, single beam, vacuum monochromator provided with interchangeable vacuum UV and UV photomultipliers, a deuterium light source, an analog to digital circuitry, computer controlled stepping motor for wavelength control and computerized data acquisition system",160.0,"propylene, propene", https://doi.org/10.1016/0301-0104(95)00401-7,CH2=CHCH3,333.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_FahrNayak(1996)_333K_160-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_JonesTaylor(1955)_298K_168-190nm.txt",NaN,190.0,JonesTaylor(1955),"Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",168.0,"propylene, propene", https://doi.org/10.1021/ac60098a015,CH2=CHCH3,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_JonesTaylor(1955)_298K_168-190nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Koizumi(1985)_298K_32.5-126.5nm.txt",NaN,126.5,Koizumi(1985),High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,32.5,"propylene, propene", https://doi.org/10.1063/1.448655,CH2=CHCH3,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Koizumi(1985)_298K_32.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Oehlschlaeger(2005)_745-1580K_216.62nm(smoo).txt",1580.0,NaN,Oehlschlaeger(2005),Absorption measurements at the laser-line at 216.62 nm in shock-heated propylene dilute in argon,216.62,"propylene, propene", https://doi.org/10.1016/j.jqsrt.2004.08.006,CH2=CHCH3,745.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Oehlschlaeger(2005)_745-1580K_216.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Oehlschlaeger(2005)_825-1545K_216.62nm(meas).txt",1545.0,NaN,Oehlschlaeger(2005),Absorption measurements at the laser-line at 216.62 nm in shock-heated propylene dilute in argon,216.62,"propylene, propene", https://doi.org/10.1016/j.jqsrt.2004.08.006,CH2=CHCH3,825.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Oehlschlaeger(2005)_825-1545K_216.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Orkin(1997)_295K_164-215nm.txt",NaN,215.0,Orkin(1997),The spectrum was recorded at increments of 0.1 nm at a spectral slit width of 0.1 nm,164.0,"propylene, propene", https://doi.org/10.1021/jp971994r,CH2=CHCH3,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Orkin(1997)_295K_164-215nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Samson(1962)_298K_105.0-154.3nm.txt",NaN,154.3,Samson(1962),"Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
+",105.0,"propylene, propene", https://doi.org/10.1063/1.1732610,CH2=CHCH3,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Samson(1962)_298K_105.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Samson(1962)_298K_148.0-198.9nm.txt",NaN,198.9,Samson(1962),"Absorption measurements using a vacuum monochromator at a resolution of about 0.1 nm and a hydrogen discharge tube as a light source
+",148.0,"propylene, propene", https://doi.org/10.1063/1.1732610,CH2=CHCH3,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Samson(1962)_298K_148.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Schoen(1962)_295K_45.9-137.6nm(smoo).txt",NaN,137.6,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",45.9,"propylene, propene", https://doi.org/10.1063/1.1733423,CH2=CHCH3,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Schoen(1962)_295K_45.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3_Schoen(1962)_295K_47.6-136.6nm(meas).txt",NaN,136.6,Schoen(1962),"High-voltage sparks as a light source, vacuum monochromator and grating; spectral resolution 0.8 nm",47.6,"propylene, propene", https://doi.org/10.1063/1.1733423,CH2=CHCH3,295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH3/CH2=CHCH3_Schoen(1962)_295K_47.csv"

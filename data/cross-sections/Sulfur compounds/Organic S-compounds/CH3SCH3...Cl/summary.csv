@@ -1,11 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Enami(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Cl_Enami(2004)_298K_337-440nm.txt,Absorption measurements of the reaction product of Cl atoms with dimethyl sulfide using cavity ring-down spectroscopy,CH3SCH3...Cl,dimethyl sulfide-chlorine adduct,"
-
-  S. Enami, Y. Nakano, S. Hashimoto, M. Kawasaki, S. Aloisio, and J.S. Francisco, ""Reactions of Cl atoms with dimethyl sulfide: A theoretical calculation and an experimental study with cavity ring-down spectroscopy"",
-  J. Phys. Chem. A 108, 7785-7789 (2004); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
-294.0,UrbanskiWine(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Cl_UrbanskiWine(1999)_294K_280-450nm.txt,Time-resolved ultraviolet-visible absorption spectroscopy has been coupled with 248 nm laser flash photolysis of Cl,CH3SCH3...Cl,dimethyl sulfide-chlorine adduct,"
-
-  S.P. Urbanski and P.H. Wine, ""Spectroscopic and kinetic study of the Cl-S(CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Cl_Enami(2004)_298K_337-440nm.txt,NaN,440.0,Enami(2004),Absorption measurements of the reaction product of Cl atoms with dimethyl sulfide using cavity ring-down spectroscopy,337.0,dimethyl sulfide-chlorine adduct, https://doi.org/10.1021/jp049772y,CH3SCH3...Cl,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Cl_UrbanskiWine(1999)_294K_280-450nm.txt,NaN,450.0,UrbanskiWine(1999),Time-resolved ultraviolet-visible absorption spectroscopy has been coupled with 248 nm laser flash photolysis of Cl,280.0,dimethyl sulfide-chlorine adduct, https://doi.org/10.1021/jp992682m,CH3SCH3...Cl,294.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv

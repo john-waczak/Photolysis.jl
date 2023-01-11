@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_IUPAC(2007)_296K_185-450nm(rec).txt,IUPAC(2007) recommendation:,BrNO2,nitryl bromide,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
-  Atmos. Chem. Phys. 7, 981-1191 (2007); 
-
-
-  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_IUPAC(2007)_296K_185-450nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_JPL-2010(2011)_298K_185-580nm(rec).txt,JPL-2010 recommendation:,BrNO2,nitryl bromide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_JPL-2010(2011)_298K_185-580nm(rec).csv
-298.0,Scheffler(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_Scheffler(1997)_298K_185-530nm.txt,Absorption spectra recorded with a 1024 diode array spectrometer,BrNO2,nitryl bromide,"
-
-  D. Scheffler, H. Grothe, H. Willner, A. Frenzel, and C. Zetzsch, ""Properties of pure nitryl bromide. Thermal behavior, UV/Vis and FTIR spectra, and photoisomerization to trans-BrONO in an Argon matrix"",
-  Inorg. Chem. 36, 335-338 (1997); 
-
-
-  DOI: ",data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_Scheffler(1997)_298K_185-530nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_IUPAC(2007)_296K_185-450nm(rec).txt,NaN,450.0,IUPAC(2007),IUPAC(2007) recommendation:,185.0,nitryl bromide, https://doi.org/10.5194/acp-7-981-2007,BrNO2,296.0,data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_IUPAC(2007)_296K_185-450nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_JPL-2010(2011)_298K_185-580nm(rec).txt,NaN,580.0,JPL-2010(2011),JPL-2010 recommendation:,185.0,nitryl bromide,,BrNO2,298.0,data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_JPL-2010(2011)_298K_185-580nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogenated%20N-compounds(inorg)/BrNO2_Scheffler(1997)_298K_185-530nm.txt,NaN,530.0,Scheffler(1997),Absorption spectra recorded with a 1024 diode array spectrometer,185.0,nitryl bromide, https://doi.org/10.1021/ic9606946,BrNO2,298.0,data/cross-sections/Halogenated N-compounds(inorg)/BrNO2/BrNO2_Scheffler(1997)_298K_185-530nm.csv

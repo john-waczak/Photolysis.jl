@@ -1,69 +1,17 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Au(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Au(1997)_298K_6.2-124nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  J.W. Au, G.R. Burton, and C.E. Brion, ""Quantitative spectroscopic studies of the valence-shell electronic excitations of Freons (CFCl",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Au(1997)_298K_6.csv
-298.0,Chim(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_30.7-54.1nm.txt,Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  R.Y.L. Chim, R.A. Kennedy, and R.P. Tuckett, ""The vacuum-UV absorption spectrum of SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_30.csv
-298.0,Chim(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_54.1-61.3nm.txt,Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  R.Y.L. Chim, R.A. Kennedy, and R.P. Tuckett, ""The vacuum-UV absorption spectrum of SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_54.csv
-298.0,Chim(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_61.3-88.7nm.txt,Absorption measurements at a spectral resolution of 0.08 nm using synchrotron radiation,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  R.Y.L. Chim, R.A. Kennedy, and R.P. Tuckett, ""The vacuum-UV absorption spectrum of SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_61.csv
-298.0,Chim(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_88.5-129.5nm.txt,Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  R.Y.L. Chim, R.A. Kennedy, and R.P. Tuckett, ""The vacuum-UV absorption spectrum of SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_88.csv
-298.0,ColeDexter(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_ColeDexter(1978)_298K_6.5-10nm.txt,Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  B.E. Cole and R.N. Dexter, ""Photoabsorption cross sections for chlorinated methanes and ethanes between 46 and 100 Å"",
-  J. Quant. Spectrosc. Radiat. Transfer 19, 303-309 (1978); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_ColeDexter(1978)_298K_6.csv
-295.0,CookChing(1965),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_CookChing(1965)_295K_61-100nm.txt,Absorption measurements at a spectral resolution of 0.07 nm using the Hopfield He,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  G.R. Cook and B.K. Ching, ""Photoionization and absorption cross sections and fluorescence of CF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_CookChing(1965)_295K_61-100nm.csv
-298.0,HatherlyFlaxman(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_HatherlyFlaxman(2003)_298K_58.43,74.11nm.txt","Absorption measurements at the He(I) line at 21.22 eV (58.43 nm) and the Ne (I) line at 16.62 and 16.84 eV (74.60 and 73.63 nm, average 74.11 nm)",CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  P.A. Hatherly and A.J. Flaxman, ""On the absolute absorption cross-section of SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_HatherlyFlaxman(2003)_298K_58.csv
-297.0,Inn(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Inn(1980)_297K_121.53,121.57nm.txt",Absorption cross sections at the Lyman-α lines of H (121.57 nm) and D (121.53 nm),CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  E.C.Y. Inn, ""Absorption cross section of CF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Inn(1980)_297K_121.csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_JPL-2010(2011)_298K_121.6nm(rec).txt,JPL-2010 recommendation;,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_JPL-2010(2011)_298K_121.csv
-295.0,Lee(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Lee(1977)_295K_18-74nm.txt,Absorption measurements using a double ion chamber and a synchrotron radiation source; spectral resolution ∼0.1 nm,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  L.C. Lee, E. Philips, and D.L. Judge, ""Photoabsorption cross sections of CH",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Lee(1977)_295K_18-74nm.csv
-298.0,Lee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Lee(1986)_298K_50.0-106.8nm.txt,Absorption measurements at a spectral resolution of 0.2 nm using synchrotron radiation as a light source,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  L.C. Lee, X. Wang, and M. Suto, ""Fluorescence from extreme ultraviolet photoexcitation of CF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Lee(1986)_298K_50.csv
-298.0,Ravishankara(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Ravishankara(1993)_298K_121.6nm.txt,Upper limit for the absorption cross section at the Lyman-α,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  A.R. Ravishankara, S. Solomon, A.A. Turnipseed, and R.F. Warren, ""Atmospheric lifetimes of long-lived halogenated species"",
-  Science 259, 194-199 (1993); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Ravishankara(1993)_298K_121.csv
-298.0,RebbertAusloos(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_RebbertAusloos(1971)_298K_74nm.txt,Wavelength range 73.6-74.4 nm of the Ne resonance lamp,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  R.E. Rebbert and P. Ausloos, ""Ionization quantum yields and absorption coefficients of selected compounds at 58.4 and 73.6-74.4 nm"",
-  J. Res. Natl. Bur. Stand. A 75, 481-485 (1971); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_RebbertAusloos(1971)_298K_74nm.csv
-298.0,Sauvageau(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Sauvageau(1973)_298K_62.6-102.4nm.txt,Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-140-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  P. Sauvageau, R. Gilbert, P.P. Berlow, and C. Sandorfy, ""Vacuum ultraviolet absorption spectra of fluoromethanes"",
-  J. Chem. Phys. 59, 762-765 (1973); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Sauvageau(1973)_298K_62.csv
-298.0,Zhang(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Zhang(1989)_298K_6.2-103nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",CF4,"carbon tetrafluoride, tetrafluoromethane","
-
-  W. Zhang, G. Cooper, T. Ibuki, and C.E. Brion, ""Excitation and ionization of freon molecules. I. Absolute oscillator-strengths for the photoabsorption (12-740 eV) and the ionic photofragmentation (15-80 eV) of CF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Zhang(1989)_298K_6.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Au(1997)_298K_6.2-124nm(e,e).txt",NaN,124.0,Au(1997),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",6.2,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/S0301-0104(97)00146-8,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Au(1997)_298K_6.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_30.7-54.1nm.txt,NaN,54.1,Chim(2003),Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,30.7,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/S0009-2614(02)01763-3,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_30.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_54.1-61.3nm.txt,NaN,61.3,Chim(2003),Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,54.1,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/S0009-2614(02)01763-3,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_54.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_61.3-88.7nm.txt,NaN,88.7,Chim(2003),Absorption measurements at a spectral resolution of 0.08 nm using synchrotron radiation,61.3,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/S0009-2614(02)01763-3,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_61.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Chim(2003)_298K_88.5-129.5nm.txt,NaN,129.5,Chim(2003),Absorption measurements at a spectral resolution of 0.12 nm using vacuum-UV radiation from a synchrotron source,88.5,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/S0009-2614(02)01763-3,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Chim(2003)_298K_88.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_ColeDexter(1978)_298K_6.5-10nm.txt,NaN,10.0,ColeDexter(1978),Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,6.5,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/0022-4073(78)90063-8,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_ColeDexter(1978)_298K_6.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_CookChing(1965)_295K_61-100nm.txt,NaN,100.0,CookChing(1965),Absorption measurements at a spectral resolution of 0.07 nm using the Hopfield He,61.0,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1063/1.1697011,CF4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_CookChing(1965)_295K_61-100nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_HatherlyFlaxman(2003)_298K_58.43,74.11nm.txt",NaN,74.11,HatherlyFlaxman(2003),"Absorption measurements at the He(I) line at 21.22 eV (58.43 nm) and the Ne (I) line at 16.62 and 16.84 eV (74.60 and 73.63 nm, average 74.11 nm)",58.43,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/j.cplett.2003.09.061,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_HatherlyFlaxman(2003)_298K_58.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Inn(1980)_297K_121.53,121.57nm.txt",NaN,121.57,Inn(1980),Absorption cross sections at the Lyman-α lines of H (121.57 nm) and D (121.53 nm),121.53,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1029/JC085iC12p07493,CF4,297.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Inn(1980)_297K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_JPL-2010(2011)_298K_121.6nm(rec).txt,NaN,NaN,JPL-2010(2011),JPL-2010 recommendation;,121.6,"carbon tetrafluoride, tetrafluoromethane",,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_JPL-2010(2011)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Lee(1977)_295K_18-74nm.txt,NaN,74.0,Lee(1977),Absorption measurements using a double ion chamber and a synchrotron radiation source; spectral resolution ∼0.1 nm,18.0,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1063/1.434935,CF4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Lee(1977)_295K_18-74nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Lee(1986)_298K_50.0-106.8nm.txt,NaN,106.8,Lee(1986),Absorption measurements at a spectral resolution of 0.2 nm using synchrotron radiation as a light source,50.0,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1063/1.451459,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Lee(1986)_298K_50.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Ravishankara(1993)_298K_121.6nm.txt,NaN,NaN,Ravishankara(1993),Upper limit for the absorption cross section at the Lyman-α,121.6,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1126/science.259.5092.194,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Ravishankara(1993)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_RebbertAusloos(1971)_298K_74nm.txt,NaN,NaN,RebbertAusloos(1971),Wavelength range 73.6-74.4 nm of the Ne resonance lamp,74.0,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.6028/jres.075A.038,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_RebbertAusloos(1971)_298K_74nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Sauvageau(1973)_298K_62.6-102.4nm.txt,NaN,102.4,Sauvageau(1973),Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-140-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,62.6,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1063/1.1680086,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Sauvageau(1973)_298K_62.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4_Zhang(1989)_298K_6.2-103nm(e,e).txt",NaN,103.0,Zhang(1989),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",6.2,"carbon tetrafluoride, tetrafluoromethane", https://doi.org/10.1016/0301-0104(89)87122-8,CF4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/CF4/CF4_Zhang(1989)_298K_6.csv

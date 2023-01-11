@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Maria(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/BBr3_Maria(1973)_298K_237-267nm.txt,Data for the first distinct absorption band of BBr,BBr3,boron tribromide,"
-
-  H.J. Maria, J.R. McDonald, and S.R. McGlynn, ""Electronic absorption spectrum of nitrate ion and boron trihalides"",
-  J. Am. Chem. Soc. 95, 1050-1056 (1973); 
-
-
-  DOI: ",data/cross-sections/Boron compounds/BBr3/BBr3_Maria(1973)_298K_237-267nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/BBr3_Maria(1973)_298K_237-267nm.txt,NaN,267.0,Maria(1973),Data for the first distinct absorption band of BBr,237.0,boron tribromide, https://doi.org/10.1021/ja00785a010,BBr3,298.0,data/cross-sections/Boron compounds/BBr3/BBr3_Maria(1973)_298K_237-267nm.csv

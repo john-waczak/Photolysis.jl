@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bjergbakke(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Bjergbakke(1996)_298K_260-350nm.txt",Pulse radiolysis (Ar/H,c-C6H6OH,hydroxycyclohexadienyl radical,"
-
-  E. Bjergbakke, A. Sillesen, and P. Pagsberg, ""UV spectrum and kinetics of hydroxycyclohexadienyl radicals"",
-  J. Phys. Chem. 100, 5729-5736 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Bjergbakke(1996)_298K_260-350nm.csv"
-298.0,Bjergbakke(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Bjergbakke(1996)_298K_280nm(max).txt",Pulse radiolysis (Ar/H,c-C6H6OH,hydroxycyclohexadienyl radical,"
-
-  E. Bjergbakke, A. Sillesen, and P. Pagsberg, ""UV spectrum and kinetics of hydroxycyclohexadienyl radicals"",
-  J. Phys. Chem. 100, 5729-5736 (1996); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Bjergbakke(1996)_298K_280nm(max).csv"
-298.0,Fritz(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Fritz(1985)_298K_308nm.txt","The formation of the hydroxycyclohexadienyl, the product of the OH + benzene reaction, has been observed directly in the gas phase at 298 K using long-path cw-UV-laser absorption at 308 nm",c-C6H6OH,hydroxycyclohexadienyl radical,"
-
-  B. Fritz, V. Handwerk, M. Preidel, and R. R. Zellner, ""Direct detection of hydroxy-cyclohexadienyl in the gas phase by cw-UV laser absorption"",
-  Ber. Bunsenges. Phys. Chem. 89, 343-344 (1985); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Fritz(1985)_298K_308nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Bjergbakke(1996)_298K_260-350nm.txt",NaN,350.0,Bjergbakke(1996),Pulse radiolysis (Ar/H,260.0,hydroxycyclohexadienyl radical, https://doi.org/10.1021/jp951588c,c-C6H6OH,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Bjergbakke(1996)_298K_260-350nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Bjergbakke(1996)_298K_280nm(max).txt",NaN,NaN,Bjergbakke(1996),Pulse radiolysis (Ar/H,280.0,hydroxycyclohexadienyl radical, https://doi.org/10.1021/jp951588c,c-C6H6OH,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Bjergbakke(1996)_298K_280nm(max).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/c-C6H6OH_Fritz(1985)_298K_308nm.txt",NaN,NaN,Fritz(1985),"The formation of the hydroxycyclohexadienyl, the product of the OH + benzene reaction, has been observed directly in the gas phase at 298 K using long-path cw-UV-laser absorption at 308 nm",308.0,hydroxycyclohexadienyl radical, https://doi.org/10.1002/bbpc.19850890347,c-C6H6OH,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/c-C6H6OH/c-C6H6OH_Fritz(1985)_298K_308nm.csv"

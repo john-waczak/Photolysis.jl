@@ -1,123 +1,29 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Graham(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Graham(1975)_298K_205-310nm.txt,Absorption cross sections as quoted by,N2O5,dinitrogen pentoxide,"
-
-  R.A. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Graham(1975)_298K_205-310nm.csv
-298.0,Graham(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Graham(1975)_298K_206-380nm.txt,Absorption cross sections as quoted by ,N2O5,dinitrogen pentoxide,"
-
-  R.A. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Graham(1975)_298K_206-380nm.csv
-273.0,Harwood(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1992)_273K_280-380nm.txt,Absorption measurements using a deuterium lamp as a light source and a dual beam diode array spectrometer with a spectral resolution of 0.3 nm,N2O5,dinitrogen pentoxide,"
-
-  M. Harwood, O. Rattigan, R. Jones, and R.A. Cox, ""Temperature dependent absorption cross-sections for HNO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1992)_273K_280-380nm.csv
-295.0,Harwood(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1992)_295K_280-380nm.txt,Absorption measurements using a deuterium lamp as a light source and a dual beam diode array spectrometer with a spectral resolution of 0.3 nm,N2O5,dinitrogen pentoxide,"
-
-  M. Harwood, O. Rattigan, R. Jones, and R.A. Cox, ""Temperature dependent absorption cross-sections for HNO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1992)_295K_280-380nm.csv
-233.0,Harwood(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_233K_260-380nm.txt,Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,N2O5,dinitrogen pentoxide,"
-
-  M.H. Harwood, R.L. Jones, R.A. Cox, E. Lutman, and O.V. Rattigan, ""Temperature-dependent absorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_233K_260-380nm.csv
-253.0,Harwood(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_253K_240-410nm.txt,Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,N2O5,dinitrogen pentoxide,"
-
-  M.H. Harwood, R.L. Jones, R.A. Cox, E. Lutman, and O.V. Rattigan, ""Temperature-dependent absorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_253K_240-410nm.csv
-273.0,Harwood(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_273K_240-420nm.txt,Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,N2O5,dinitrogen pentoxide,"
-
-  M.H. Harwood, R.L. Jones, R.A. Cox, E. Lutman, and O.V. Rattigan, ""Temperature-dependent absorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_273K_240-420nm.csv
-295.0,Harwood(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_295K_240-420nm.txt,Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,N2O5,dinitrogen pentoxide,"
-
-  M.H. Harwood, R.L. Jones, R.A. Cox, E. Lutman, and O.V. Rattigan, ""Temperature-dependent absorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_295K_240-420nm.csv
-295.0,Harwood(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1998)_295K_208-398nm.txt,Absorption measurements using a diode array spectrometer; spectral resolution ∼1 nm (FWHM).,N2O5,dinitrogen pentoxide,"
-
-  M.H. Harwood, J.B. Burkholder, and A.R. Ravishankara, ""Photodissociation of BrONO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1998)_295K_208-398nm.csv
-298.0,HolmesDaniels(1934),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_HolmesDaniels(1934)_298K_265,280nm.txt","Absorption coefficients k (Torr, 273 K)",N2O5,dinitrogen pentoxide,"
-
-  H.H. Holmes and F. Daniels, ""The photolysis of nitrogen oxides: N","data/cross-sections/Nitrogen oxides/N2O5/N2O5_HolmesDaniels(1934)_298K_265,280nm.csv"
-298.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_IUPAC(2004)_298K_210-410nm(rec).txt,IUPAC(2004) recommendation:,N2O5,dinitrogen pentoxide,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/N2O5/N2O5_IUPAC(2004)_298K_210-410nm(rec).csv
-298.0,Johnston(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Johnston(1974)_298K_206.0-360.0nm.txt,"The optical band width (full width at half-maximum) was 2.2 nm at 300 nm, 6.5 nm at 290 nm, 2.5 nm at 255 nm, and 6.5 nm below 225 nm",N2O5,dinitrogen pentoxide,"
-
-  H.S. Johnston, S.-G. Chang, and G. Whitten, ""Photolysis of nitric acid vapor"",
-  J. Phys. Chem. 78, 1-7 (1974); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Johnston(1974)_298K_206.csv
-298.0,JohnstonGraham(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JohnstonGraham(1974)_298K_210-290nm.txt,Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,N2O5,dinitrogen pentoxide,"
-
-  H.S. Johnston and R. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_JohnstonGraham(1974)_298K_210-290nm.csv
-298.0,JonesWulf(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JonesWulf(1937)_298K_286-380nm(meas).txt,"Absorption coefficients k (atm, 273 K)",N2O5,dinitrogen pentoxide,"
-
-  E.J. Jones and R.O. Wulf, ""The absorption coefficient of nitrogen pentoxide in the ultraviolet and the visible absorption spectrum of NO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_JonesWulf(1937)_298K_286-380nm(meas).csv
-298.0,JonesWulf(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JonesWulf(1937)_298K_286-380nm(smoo).txt,Smooth fit of the measured data points obtained from five different photographic plates,N2O5,dinitrogen pentoxide,"
-
-  E.J. Jones and R.O. Wulf, ""The absorption coefficient of nitrogen pentoxide in the ultraviolet and the visible absorption spectrum of NO",data/cross-sections/Nitrogen oxides/N2O5/N2O5_JonesWulf(1937)_298K_286-380nm(smoo).csv
-298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JPL-2002(2002)_298K_200-280nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",N2O5,dinitrogen pentoxide,"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Nitrogen oxides/N2O5/N2O5_JPL-2002(2002)_298K_200-280nm(rec).csv
-230.0,Kritten(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Kritten(2014)_230K_200-420nm.txt,The absorption cross sections of N,N2O5,dinitrogen pentoxide,"
-
-  L. Kritten, A. Butz, M.P. Chipperfield, M. Dorf, S. Dhomse, R. Hossaini, H. Oelhaf, C. Prados-Roman, G. Wetzel, and K. Pfeilsticker, ""Constraining the N",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Kritten(2014)_230K_200-420nm.csv
-195.0,Osborne(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_152-240nm.txt,Spectrum recorded using a synchrotron source ,N2O5,dinitrogen pentoxide,"
-
-  B.A. Osborne, G. Marston, L. Kaminski, N.C. Jones, J.M. Gingell, N. Mason, I.C. Walker, J. Delwiche, and M.-J. Hubin-Franskin, ""Vacuum ultraviolet spectrum of dinitrogen pentoxide"",
-  J. Quant. Spectrosc. Radiat. Transfer 64, 67-74 (2000); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_152-240nm.csv
-195.0,Osborne(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(I).txt,Spectrum recorded using a synchrotron source ,N2O5,dinitrogen pentoxide,"
-
-  B.A. Osborne, G. Marston, L. Kaminski, N.C. Jones, J.M. Gingell, N. Mason, I.C. Walker, J. Delwiche, and M.-J. Hubin-Franskin, ""Vacuum ultraviolet spectrum of dinitrogen pentoxide"",
-  J. Quant. Spectrosc. Radiat. Transfer 64, 67-74 (2000); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(I).csv
-195.0,Osborne(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(II).txt,Spectrum recorded using a conventional UV spectrometer,N2O5,dinitrogen pentoxide,"
-
-  B.A. Osborne, G. Marston, L. Kaminski, N.C. Jones, J.M. Gingell, N. Mason, I.C. Walker, J. Delwiche, and M.-J. Hubin-Franskin, ""Vacuum ultraviolet spectrum of dinitrogen pentoxide"",
-  J. Quant. Spectrosc. Radiat. Transfer 64, 67-74 (2000); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(II).csv
-195.0,Osborne(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(III).txt,Spectrum recorded using a conventional UV spectrometer,N2O5,dinitrogen pentoxide,"
-
-  B.A. Osborne, G. Marston, L. Kaminski, N.C. Jones, J.M. Gingell, N. Mason, I.C. Walker, J. Delwiche, and M.-J. Hubin-Franskin, ""Vacuum ultraviolet spectrum of dinitrogen pentoxide"",
-  J. Quant. Spectrosc. Radiat. Transfer 64, 67-74 (2000); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(III).csv
-225.0,Yao(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_225K_290-350nm.txt,Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,N2O5,dinitrogen pentoxide,"
-
-  F. Yao, I. Wilson, and H. Johnston, ""Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide"",
-  J. Phys. Chem. 86, 3611-3615 (1982); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_225K_290-350nm.csv
-243.0,Yao(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_243K_290-380nm.txt,Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,N2O5,dinitrogen pentoxide,"
-
-  F. Yao, I. Wilson, and H. Johnston, ""Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide"",
-  J. Phys. Chem. 86, 3611-3615 (1982); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_243K_290-380nm.csv
-263.0,Yao(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_263K_290-380nm.txt,Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,N2O5,dinitrogen pentoxide,"
-
-  F. Yao, I. Wilson, and H. Johnston, ""Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide"",
-  J. Phys. Chem. 86, 3611-3615 (1982); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_263K_290-380nm.csv
-277.0,Yao(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_277K_290-380nm.txt,Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,N2O5,dinitrogen pentoxide,"
-
-  F. Yao, I. Wilson, and H. Johnston, ""Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide"",
-  J. Phys. Chem. 86, 3611-3615 (1982); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_277K_290-380nm.csv
-300.0,Yao(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_300K_200-340nm(2nm).txt,The 2-nm interpolation of the data measured at spectral resolutions of 1 nm and 0.18-0.9 nm and listed at 5-nm intervals in the paper has been used for the JPL-2006 and JPL-2010 recommendations,N2O5,dinitrogen pentoxide,"
-
-  F. Yao, I. Wilson, and H. Johnston, ""Temperature-dependent ultraviolet absorption spectrum for dinitrogen pentoxide"",
-  J. Phys. Chem. 86, 3611-3615 (1982); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_300K_200-340nm(2nm).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Graham(1975)_298K_205-310nm.txt,NaN,310.0,Graham(1975),Absorption cross sections as quoted by,205.0,dinitrogen pentoxide,,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Graham(1975)_298K_205-310nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Graham(1975)_298K_206-380nm.txt,NaN,380.0,Graham(1975),Absorption cross sections as quoted by ,206.0,dinitrogen pentoxide,,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Graham(1975)_298K_206-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1992)_273K_280-380nm.txt,NaN,380.0,Harwood(1992),Absorption measurements using a deuterium lamp as a light source and a dual beam diode array spectrometer with a spectral resolution of 0.3 nm,280.0,dinitrogen pentoxide,,N2O5,273.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1992)_273K_280-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1992)_295K_280-380nm.txt,NaN,380.0,Harwood(1992),Absorption measurements using a deuterium lamp as a light source and a dual beam diode array spectrometer with a spectral resolution of 0.3 nm,280.0,dinitrogen pentoxide,,N2O5,295.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1992)_295K_280-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_233K_260-380nm.txt,NaN,380.0,Harwood(1993),Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,260.0,dinitrogen pentoxide, https://doi.org/10.1016/1010-6030(93)90001-2,N2O5,233.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_233K_260-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_253K_240-410nm.txt,NaN,410.0,Harwood(1993),Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,240.0,dinitrogen pentoxide, https://doi.org/10.1016/1010-6030(93)90001-2,N2O5,253.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_253K_240-410nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_273K_240-420nm.txt,NaN,420.0,Harwood(1993),Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,240.0,dinitrogen pentoxide, https://doi.org/10.1016/1010-6030(93)90001-2,N2O5,273.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_273K_240-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1993)_295K_240-420nm.txt,NaN,420.0,Harwood(1993),Measurements over the temperature range 233-313 K using a dual beam diode array spectrometer; spectral resolution 1.3 nm (FWHM).,240.0,dinitrogen pentoxide, https://doi.org/10.1016/1010-6030(93)90001-2,N2O5,295.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1993)_295K_240-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Harwood(1998)_295K_208-398nm.txt,NaN,398.0,Harwood(1998),Absorption measurements using a diode array spectrometer; spectral resolution ∼1 nm (FWHM).,208.0,dinitrogen pentoxide, https://doi.org/10.1021/jp9729829,N2O5,295.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Harwood(1998)_295K_208-398nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_HolmesDaniels(1934)_298K_265,280nm.txt",NaN,280.0,HolmesDaniels(1934),"Absorption coefficients k (Torr, 273 K)",265.0,dinitrogen pentoxide, https://doi.org/10.1021/ja01318a028,N2O5,298.0,"data/cross-sections/Nitrogen oxides/N2O5/N2O5_HolmesDaniels(1934)_298K_265,280nm.csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_IUPAC(2004)_298K_210-410nm(rec).txt,NaN,410.0,IUPAC(2004),IUPAC(2004) recommendation:,210.0,dinitrogen pentoxide, https://doi.org/10.5194/acp-4-1461-2004,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_IUPAC(2004)_298K_210-410nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Johnston(1974)_298K_206.0-360.0nm.txt,NaN,360.0,Johnston(1974),"The optical band width (full width at half-maximum) was 2.2 nm at 300 nm, 6.5 nm at 290 nm, 2.5 nm at 255 nm, and 6.5 nm below 225 nm",206.0,dinitrogen pentoxide, https://doi.org/10.1021/j100594a001,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Johnston(1974)_298K_206.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JohnstonGraham(1974)_298K_210-290nm.txt,NaN,290.0,JohnstonGraham(1974),Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,210.0,dinitrogen pentoxide, https://doi.org/10.1139/v74-214,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_JohnstonGraham(1974)_298K_210-290nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JonesWulf(1937)_298K_286-380nm(meas).txt,NaN,380.0,JonesWulf(1937),"Absorption coefficients k (atm, 273 K)",286.0,dinitrogen pentoxide, https://doi.org/10.1063/1.1749956,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_JonesWulf(1937)_298K_286-380nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JonesWulf(1937)_298K_286-380nm(smoo).txt,NaN,380.0,JonesWulf(1937),Smooth fit of the measured data points obtained from five different photographic plates,286.0,dinitrogen pentoxide, https://doi.org/10.1063/1.1749956,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_JonesWulf(1937)_298K_286-380nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JPL-2002(2002)_298K_200-280nm(rec).txt,NaN,280.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",200.0,dinitrogen pentoxide,,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_JPL-2002(2002)_298K_200-280nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_JPL-2010(2011)_195-300K_200-420nm(rec).txt,300.0,420.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",200.0,dinitrogen pentoxide,,N2O5,195.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_JPL-2010(2011)_195-300K_200-420nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Kritten(2014)_230K_200-420nm.txt,NaN,420.0,Kritten(2014),The absorption cross sections of N,200.0,dinitrogen pentoxide, https://doi.org/10.5194/acp-14-9555-2014,N2O5,230.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Kritten(2014)_230K_200-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_152-240nm.txt,NaN,240.0,Osborne(2000),Spectrum recorded using a synchrotron source ,152.0,dinitrogen pentoxide, https://doi.org/10.1016/S0022-4073(99)00104-1,N2O5,195.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_152-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(I).txt,NaN,240.0,Osborne(2000),Spectrum recorded using a synchrotron source ,210.0,dinitrogen pentoxide, https://doi.org/10.1016/S0022-4073(99)00104-1,N2O5,195.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(I).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(II).txt,NaN,240.0,Osborne(2000),Spectrum recorded using a conventional UV spectrometer,210.0,dinitrogen pentoxide, https://doi.org/10.1016/S0022-4073(99)00104-1,N2O5,195.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(II).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Osborne(2000)_195K_210-240nm(III).txt,NaN,240.0,Osborne(2000),Spectrum recorded using a conventional UV spectrometer,210.0,dinitrogen pentoxide, https://doi.org/10.1016/S0022-4073(99)00104-1,N2O5,195.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Osborne(2000)_195K_210-240nm(III).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_225K_290-350nm.txt,NaN,350.0,Yao(1982),Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,290.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,225.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_225K_290-350nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_243K_290-380nm.txt,NaN,380.0,Yao(1982),Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,290.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,243.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_243K_290-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_263K_290-380nm.txt,NaN,380.0,Yao(1982),Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,290.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,263.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_263K_290-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_277K_290-380nm.txt,NaN,380.0,Yao(1982),Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,290.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,277.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_277K_290-380nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_298-300K_200-340nm.txt,300.0,340.0,Yao(1982),Measurements over the temperature range 223-300 K using a double-beam spectrophotometer; spectral resolution 1 nm between 200 and 340 nm and 0.18-0.9 nm between 200 and 300 nm,200.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,298.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_298-300K_200-340nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O5_Yao(1982)_300K_200-340nm(2nm).txt,NaN,340.0,Yao(1982),The 2-nm interpolation of the data measured at spectral resolutions of 1 nm and 0.18-0.9 nm and listed at 5-nm intervals in the paper has been used for the JPL-2006 and JPL-2010 recommendations,200.0,dinitrogen pentoxide, https://doi.org/10.1021/j100215a023,N2O5,300.0,data/cross-sections/Nitrogen oxides/N2O5/N2O5_Yao(1982)_300K_200-340nm(2nm).csv

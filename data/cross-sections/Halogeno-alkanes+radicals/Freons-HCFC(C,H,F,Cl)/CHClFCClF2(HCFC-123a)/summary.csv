@@ -1,24 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Doucet(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_Doucet(1975)_298K_119.6-199.6nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CHClFCClF2(HCFC-123a),"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)","
-
-  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Photoelectron and far-ultraviolet absorption spectra of chlorofluoro derivatives of ethane"",
-  J. Chem. Phys. 62, 355-359 (1975); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_Doucet(1975)_298K_119.csv"
-295.0,JPL-2019(2020),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_JPL-2019(2020)_295K_190-220nm(rec).txt",JPL-2019(2020) recommendation:,CHClFCClF2(HCFC-123a),"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_JPL-2019(2020)_295K_190-220nm(rec).csv"
-295.0,Orkin(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_Orkin(2013)_295K_190-220nm.txt",Absorption measurements using two different double-beam spectrophotometers; spectrum recorded with an increment of 0.05-0.5 nm and a spectral slit width ranging from0.1 to 1.0 nm,CHClFCClF2(HCFC-123a),"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)","
-
-  V.L. Orkin, V.G. Khamaganov, E.E. Kasimovskaya, and A.G. Guschin, ""Photochemical properties of some Cl-containing halogenated alkanes"",
-  J. Phys. Chem. A 117, 5483-5490 (2013); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_Orkin(2013)_295K_190-220nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_Doucet(1975)_298K_119.6-199.6nm.txt",NaN,199.6,Doucet(1975),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,119.6,"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)", https://doi.org/10.1063/1.430493,CHClFCClF2(HCFC-123a),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_Doucet(1975)_298K_119.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_JPL-2019(2020)_295K_190-220nm(rec).txt",NaN,220.0,JPL-2019(2020),JPL-2019(2020) recommendation:,190.0,"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)",,CHClFCClF2(HCFC-123a),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_JPL-2019(2020)_295K_190-220nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)_Orkin(2013)_295K_190-220nm.txt",NaN,220.0,Orkin(2013),Absorption measurements using two different double-beam spectrophotometers; spectrum recorded with an increment of 0.05-0.5 nm and a spectral slit width ranging from0.1 to 1.0 nm,190.0,"1,1,2-trifluoro-1,2-dichloroethane (HCFC-123a)", https://doi.org/10.1021/jp400408y,CHClFCClF2(HCFC-123a),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHClFCClF2(HCFC-123a)/CHClFCClF2(HCFC-123a)_Orkin(2013)_295K_190-220nm.csv"

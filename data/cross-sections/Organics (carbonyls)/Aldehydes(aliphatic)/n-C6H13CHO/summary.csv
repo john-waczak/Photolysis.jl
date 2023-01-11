@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-293.0,TangZhu(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/n-C6H13CHO_TangZhu(2004)_293K_280-330nm.txt,The photolysis of n-heptanal has been studied at 5-nm intervals in the 280-330-nm region by using dye-laser photolysis combined with cavity ring-down spectroscopy,n-C6H13CHO,"n-heptylaldehyde, n-heptanal","
-
-  Y. Tang and L. Zhu, ""Wavelength-dependent photolysis of n-hexanal and n-heptanal in the 280-330 nm region"",
-  J. Phys. Chem. A 108, 8307-8316 (2004); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/n-C6H13CHO/n-C6H13CHO_TangZhu(2004)_293K_280-330nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/n-C6H13CHO_TangZhu(2004)_293K_280-330nm.txt,NaN,330.0,TangZhu(2004),The photolysis of n-heptanal has been studied at 5-nm intervals in the 280-330-nm region by using dye-laser photolysis combined with cavity ring-down spectroscopy,280.0,"n-heptylaldehyde, n-heptanal", https://doi.org/10.1021/jp0403442,n-C6H13CHO,293.0,data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/n-C6H13CHO/n-C6H13CHO_TangZhu(2004)_293K_280-330nm.csv

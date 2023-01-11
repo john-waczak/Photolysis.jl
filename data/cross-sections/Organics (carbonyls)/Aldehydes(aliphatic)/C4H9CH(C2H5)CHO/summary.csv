@@ -1,5 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Fraire(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/C4H9CH(C2H5)CHO_Fraire(2011)_298K_200-355nm.txt,"Absorption measurements using a standard UV gas cell (optical path 10 cm) located on the optical axis of a UV–vis spectrophotometer with a
-diode array detector",C4H9CH(C2H5)CHO,2-ethylhexanal,"
-
-  J.C. Fraire, G.A. Argüello, and F.E. Malanca, ""Atmospheric chemistry of 2-ethyl hexanal: Photochemistry and oxidation in the presence of NO",data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/C4H9CH(C2H5)CHO/C4H9CH(C2H5)CHO_Fraire(2011)_298K_200-355nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Aldehydes(aliphatic)/C4H9CH(C2H5)CHO_Fraire(2011)_298K_200-355nm.txt,NaN,355.0,Fraire(2011),"Absorption measurements using a standard UV gas cell (optical path 10 cm) located on the optical axis of a UV–vis spectrophotometer with a
+diode array detector",200.0,2-ethylhexanal, https://doi.org/10.1016/j.jphotochem.2011.08.014,C4H9CH(C2H5)CHO,298.0,data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/C4H9CH(C2H5)CHO/C4H9CH(C2H5)CHO_Fraire(2011)_298K_200-355nm.csv

@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-308.0,Palmer(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2,3-C2H3N3_Palmer(2011)_308K_115.1-245.1nm.txt",High-resolution (0.075 nm) absorption measurements using a synchrotron radiation source,"1,2,3-C2H3N3","1,2,3-triazole","
-
-  M.H. Palmer, S.V. Hoffmann, N.C. Jones, A.R. Head, and D.L. Lichtenberger, ""The electronic states of 1,2,3-triazole studied by vacuum ultraviolet photoabsorption and ultraviolet photoelectron spectroscopy, and a comparison with ab initio configuration interaction methods"",
-  J. Chem. Phys. 134, 084309-1 - 084309-13 (2011); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,2,3-C2H3N3/1,2,3-C2H3N3_Palmer(2011)_308K_115.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2,3-C2H3N3_Palmer(2011)_308K_115.1-245.1nm.txt",NaN,245.1,Palmer(2011),High-resolution (0.075 nm) absorption measurements using a synchrotron radiation source,115.1,"1,2,3-triazole", https://doi.org/10.1063/1.3549812,"1,2,3-C2H3N3",308.0,"data/cross-sections/Aromatic compounds/Heterocyclic/1,2,3-C2H3N3/1,2,3-C2H3N3_Palmer(2011)_308K_115.csv"

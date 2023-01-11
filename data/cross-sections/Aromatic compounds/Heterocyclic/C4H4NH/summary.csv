@@ -1,46 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,Dillon(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Dillon(2012)_296K_184.95nm.txt,The absorption cross-section of C,C4H4NH,pyrrole,"
-
-  T.E. Dillon, M.E. Tucceri, K. Dulitz, A. Horowitz, L. Vereecken, and J.N. Crowley, ""Reaction of hydroxyl radicals with C",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Dillon(2012)_296K_184.csv
-298.0,Palmer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_106.86-132.75nm.txt,Absorption measurements using synchrotron radiation,C4H4NH,pyrrole,"
-
-  M.H. Palmer, I.C. Walker, and M.F. Guest, ""The electronic states of pyrrole studied by optical (VUV) absorption, near-threshold electron energy-loss (EEL) spectroscopy and ab initio multi-reference configuration interaction calculations"",
-  Chem. Phys. 238, 179-199 (1998); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_106.csv
-298.0,Palmer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_132.73-164.94nm.txt,Absorption measurements using synchrotron radiation,C4H4NH,pyrrole,"
-
-  M.H. Palmer, I.C. Walker, and M.F. Guest, ""The electronic states of pyrrole studied by optical (VUV) absorption, near-threshold electron energy-loss (EEL) spectroscopy and ab initio multi-reference configuration interaction calculations"",
-  Chem. Phys. 238, 179-199 (1998); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_132.csv
-298.0,Palmer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_164.76-190.80nm.txt,Absorption measurements using synchrotron radiation,C4H4NH,pyrrole,"
-
-  M.H. Palmer, I.C. Walker, and M.F. Guest, ""The electronic states of pyrrole studied by optical (VUV) absorption, near-threshold electron energy-loss (EEL) spectroscopy and ab initio multi-reference configuration interaction calculations"",
-  Chem. Phys. 238, 179-199 (1998); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_164.csv
-298.0,Palmer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_190.75-224.80nm.txt,Absorption measurements using synchrotron radiation,C4H4NH,pyrrole,"
-
-  M.H. Palmer, I.C. Walker, and M.F. Guest, ""The electronic states of pyrrole studied by optical (VUV) absorption, near-threshold electron energy-loss (EEL) spectroscopy and ab initio multi-reference configuration interaction calculations"",
-  Chem. Phys. 238, 179-199 (1998); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_190.csv
-298.0,Palmer(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_224.76-250.04nm.txt,Absorption measurements using synchrotron radiation,C4H4NH,pyrrole,"
-
-  M.H. Palmer, I.C. Walker, and M.F. Guest, ""The electronic states of pyrrole studied by optical (VUV) absorption, near-threshold electron energy-loss (EEL) spectroscopy and ab initio multi-reference configuration interaction calculations"",
-  Chem. Phys. 238, 179-199 (1998); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_224.csv
-298.0,Rennie(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Rennie(1999)_298K_34.8-152.6nm.txt,Absorption measurements using a double ion chamber and monochromated synchrotron radiation,C4H4NH,pyrrole,"
-
-  E.E. Rennie, C.A.F. Johnson, J.E. Parker, R. Ferguson, D.M.P. Holland, and D.A. Shaw, ""A photoabsorption and mass spectrometry study of pyrrole"",
-  Chem. Phys. 250, 217-236 (1999); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Rennie(1999)_298K_34.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Dillon(2012)_296K_184.95nm.txt,NaN,NaN,Dillon(2012),The absorption cross-section of C,184.95,pyrrole, https://doi.org/10.1021/jp211241x,C4H4NH,296.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Dillon(2012)_296K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_106.86-132.75nm.txt,NaN,132.75,Palmer(1998),Absorption measurements using synchrotron radiation,106.86,pyrrole, https://doi.org/10.1016/S0301-0104(98)00285-7,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_106.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_132.73-164.94nm.txt,NaN,164.94,Palmer(1998),Absorption measurements using synchrotron radiation,132.73,pyrrole, https://doi.org/10.1016/S0301-0104(98)00285-7,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_132.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_164.76-190.80nm.txt,NaN,190.8,Palmer(1998),Absorption measurements using synchrotron radiation,164.76,pyrrole, https://doi.org/10.1016/S0301-0104(98)00285-7,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_164.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_190.75-224.80nm.txt,NaN,224.8,Palmer(1998),Absorption measurements using synchrotron radiation,190.75,pyrrole, https://doi.org/10.1016/S0301-0104(98)00285-7,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_190.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Palmer(1998)_298K_224.76-250.04nm.txt,NaN,250.04,Palmer(1998),Absorption measurements using synchrotron radiation,224.76,pyrrole, https://doi.org/10.1016/S0301-0104(98)00285-7,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Palmer(1998)_298K_224.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/C4H4NH_Rennie(1999)_298K_34.8-152.6nm.txt,NaN,152.6,Rennie(1999),Absorption measurements using a double ion chamber and monochromated synchrotron radiation,34.8,pyrrole, https://doi.org/10.1016/S0301-0104(99)00285-2,C4H4NH,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/C4H4NH/C4H4NH_Rennie(1999)_298K_34.csv

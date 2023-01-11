@@ -1,42 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,Bayes(1962),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Bayes(1962)_296K_200-320nm.txt",The spectrum was recorded on a Cary spectrometer,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  K.D. Bayes, ""The photolysis of carbon suboxide. I. Reaction with ethylene"",
-  J. Am. Chem. Soc. 84, 4077-4080 (1962); 
-
-
-  DOI: ","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Bayes(1962)_296K_200-320nm.csv"
-295.0,Kessel(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm.txt",Flowing samples of C,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  S. Keßel, D. Cabrera-Perez, A. Horowitz, P.R. Veres, R. Sander, D. Taraborrelli, M. Tucceri, J.N. Crowley, A. Pozzer, C. Stönner, L. Vereecken, J. Lelieveld, and J. Williams, ""Atmospheric chemistry, sources and sinks of carbon suboxide, C","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm.csv"
-295.0,Kessel(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm(scaled).txt", The measured spectrum is scaled by a factor of 1.17 (as recommended by the authors) in order to bring the absolute values closer to the measurements of,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  S. Keßel, D. Cabrera-Perez, A. Horowitz, P.R. Veres, R. Sander, D. Taraborrelli, M. Tucceri, J.N. Crowley, A. Pozzer, C. Stönner, L. Vereecken, J. Lelieveld, and J. Williams, ""Atmospheric chemistry, sources and sinks of carbon suboxide, C","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm(scaled).csv"
-298.0,Roebber(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1967)_298K_111.1-184.5nm.txt",The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  J.L. Roebber, J.C. Larrabee, and R.E. Huffman, ""Vacuum-ultraviolet absorption spectrum of carbon suboxide"",
-  J. Chem. Phys. 46, 4594-4600 (1967); 
-
-
-  DOI: ","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1967)_298K_111.csv"
-298.0,Roebber(1967),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1967)_298K_167.5-190.8nm.txt",The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  J.L. Roebber, J.C. Larrabee, and R.E. Huffman, ""Vacuum-ultraviolet absorption spectrum of carbon suboxide"",
-  J. Chem. Phys. 46, 4594-4600 (1967); 
-
-
-  DOI: ","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1967)_298K_167.csv"
-195.0,Roebber(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1971)_195K_168.3-183.0nm.txt",The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  J.L. Roebber, ""Vacuum-ultraviolet absorption spectrum of carbon suboxide. II. The effect of low temperature and the effect of high pressure of an inert gas on the 1780-Å band"",
-  J. Chem. Phys. 54, 4001-4013 (1971); 
-
-
-  DOI: ","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1971)_195K_168.csv"
-298.0,Roebber(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1971)_298K_168.3-183.0nm.txt",The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,"C3O2,O=C=C=C=O","carbon suboxide, tricarbon dioxide","
-
-  J.L. Roebber, ""Vacuum-ultraviolet absorption spectrum of carbon suboxide. II. The effect of low temperature and the effect of high pressure of an inert gas on the 1780-Å band"",
-  J. Chem. Phys. 54, 4001-4013 (1971); 
-
-
-  DOI: ","data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1971)_298K_168.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Bayes(1962)_296K_200-320nm.txt",NaN,320.0,Bayes(1962),The spectrum was recorded on a Cary spectrometer,200.0,"carbon suboxide, tricarbon dioxide", https://doi.org/10.1021/ja00880a022,"C3O2,O=C=C=C=O",296.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Bayes(1962)_296K_200-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm.txt",NaN,309.0,Kessel(2017),Flowing samples of C,230.0,"carbon suboxide, tricarbon dioxide", https://doi.org/10.5194/acp-17-8789-2017,"C3O2,O=C=C=C=O",295.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm(scaled).txt",NaN,309.0,Kessel(2017), The measured spectrum is scaled by a factor of 1.17 (as recommended by the authors) in order to bring the absolute values closer to the measurements of,230.0,"carbon suboxide, tricarbon dioxide", https://doi.org/10.5194/acp-17-8789-2017,"C3O2,O=C=C=C=O",295.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Kessel(2017)_295K_230-309nm(scaled).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1967)_298K_111.1-184.5nm.txt",NaN,184.5,Roebber(1967),The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,111.1,"carbon suboxide, tricarbon dioxide", https://doi.org/10.1063/1.1840607,"C3O2,O=C=C=C=O",298.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1967)_298K_111.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1967)_298K_167.5-190.8nm.txt",NaN,190.8,Roebber(1967),The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,167.5,"carbon suboxide, tricarbon dioxide", https://doi.org/10.1063/1.1840607,"C3O2,O=C=C=C=O",298.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1967)_298K_167.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1971)_195K_168.3-183.0nm.txt",NaN,183.0,Roebber(1971),The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,168.3,"carbon suboxide, tricarbon dioxide", https://doi.org/10.1063/1.1675457,"C3O2,O=C=C=C=O",195.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1971)_195K_168.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Carbon-oxides/C3O2,O=C=C=C=O_Roebber(1971)_298K_168.3-183.0nm.txt",NaN,183.0,Roebber(1971),The spectrum was recorded with a 1-m vacuum monochromator provided with a 600 groves/mm MgF,168.3,"carbon suboxide, tricarbon dioxide", https://doi.org/10.1063/1.1675457,"C3O2,O=C=C=C=O",298.0,"data/cross-sections/Carbon-oxides/C3O2,O=C=C=C=O/C3O2,O=C=C=C=O_Roebber(1971)_298K_168.csv"

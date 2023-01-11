@@ -1,125 +1,20 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-294.0,Clemitshaw(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Clemitshaw(1996)_294K_235-340nm.txt,"Absorption measurements using a dual-beam, diode array spectrometer; spectral resolution 0.6 nm",C2H5ONO2,ethyl nitrate,"
-
-  K.C. Clemitshaw, J. Williams, O.V. Rattigan, D.E. Shallcross, K.S. Law, and R.A. Cox, ""Gas-phase ultraviolet absorption cross-sections and atmospheric lifetimes of several C",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Clemitshaw(1996)_294K_235-340nm.csv
-294.0,Higgins(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Higgins(2014)_294K_240-320nm.txt,Absorption measurements at pressures of 1.5−17 Torr,C2H5ONO2,ethyl nitrate,"
-
-  C.M. Higgins, L.A. Evans, G.C. Lloyd-Jones, D.E. Shallcross, D.P. Tew, and A.J. Orr-Ewing, ""Quantum yields for photochemical production of NO",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Higgins(2014)_294K_240-320nm.csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_IUPAC(2006)_298K_185-340nm(rec).txt,IUPAC(2006) recommendation:,C2H5ONO2,ethyl nitrate,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_IUPAC(2006)_298K_185-340nm(rec).csv
-298.0,Kaya(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Kaya(1964)_298K_170.6-227.3nm.txt,Absorption measurements using a UV (Cary) and a VUV spectrophotometer,C2H5ONO2,ethyl nitrate,"
-
-  K. Kaya, K. Kuwata, and S. Nagakura, ""The ultraviolet absorption spectra of nitramide and ethyl nitrate"",
-  Bull. Chem. Soc. Japan, 37, 1055-1061 (1964); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Kaya(1964)_298K_170.csv
-298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_McMillan(1966)_298K_244.8-302.4nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 454
-
-
-",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_McMillan(1966)_298K_244.csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_251.8-314.1nm(meas).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,C2H5ONO2,ethyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_251.csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_270-316nm(fit).txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,C2H5ONO2,ethyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_270-316nm(fit).csv
-298.0,RobertsFajer(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_270-330nm.txt,Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,C2H5ONO2,ethyl nitrate,"
-
-  J.M. Roberts and R.W. Fajer, ""UV absorption cross sections of organic nitrates of potential atmospheric importance and estimation of atmospheric lifetimes"",
-  Environ. Sci. Technol. 23, 945-951 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_270-330nm.csv
-240.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_240K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_240K_236-340nm(calc).csv
-260.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_260K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_260K_236-340nm(calc).csv
-280.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_280K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_280K_236-340nm(calc).csv
-298.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_298K_236-350nm(meas).txt,Absorption cross sections measured at 298 K using diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_298K_236-350nm(meas).csv
-320.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_320K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_320K_236-340nm(calc).csv
-340.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_340K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_340K_236-340nm(calc).csv
-360.0,Talukdar(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_360K_236-340nm(calc).txt,Absorption measurements at 240 to 360 K using a diode array spectrometer,C2H5ONO2,ethyl nitrate,"
-
-  R.K. Talukdar, J.B. Burkholder, M. Hunter, M.K. Gilles, J.M. Roberts, and A.R. Ravishankara, ""Atmospheric fate of several alkyl nitrates. Part 2. UV absorption cross-sections and photodissociation quantum yields"",
-  J. Chem. Soc. Faraday Trans. 93, 2797-2805 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_360K_236-340nm(calc).csv
-298.0,Turberg(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Turberg(1990)_298K_185-330nm.txt,Absorption measurements using a spectrophotometer at a spectral bandwidth of 1 nm,C2H5ONO2,ethyl nitrate,"
-
-  M.P. Turberg, D.M. Giolando, C. Tilt, T. Soper, S. Mason, M. Davies, P. Klingensmith, and G.A. Takacs, ""Atmospheric chemistry of alkyl nitrates"",
-  J. Photochem. Photobiol. A. Chem. 51, 281-292 (1990); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Turberg(1990)_298K_185-330nm.csv
-298.0,Wallace-Goodeve(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Wallace-Goodeve(1934)_298K_205.2-319.3nm(meas).txt,"Data points for the measured absorption coefficients k (Torr, 298 K)",C2H5ONO2,ethyl nitrate,"
-
-  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
-  Trans. Faraday Soc. 30, 504-508 (1934); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Wallace-Goodeve(1934)_298K_205.csv
-298.0,Wallace-Goodeve(1934),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Wallace-Goodeve(1934)_298K_207.1-320.2nm(smoo).txt,"The smooth fit of the measured absorption coefficients k (Torr, 298 K)",C2H5ONO2,ethyl nitrate,"
-
-  J. Wallace-Goodeve, ""The absorption spectra of ethyl nitrate, ethyl nitrite, and nitroethane"",
-  Trans. Faraday Soc. 30, 504-508 (1934); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Wallace-Goodeve(1934)_298K_207.csv
-298.0,ZhuDing(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_ZhuDing(1997)_298K_265-340nm.txt,"The temperature dependence of the absorption cross sections has been measured at 238, 248, 258, 268, 278, 288, and 298K by using cavity-ring-down spectroscopy and parameterized to the empirical equation",C2H5ONO2,ethyl nitrate,"
-
-  L. Zhu and C.-F. Ding, ""Temperature dependence of the near UV absorption spectra and photolysis products of ethyl nitrate"",
-  Chem. Phys. Lett. 265, 177-184 (1997); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_ZhuDing(1997)_298K_265-340nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Clemitshaw(1996)_294K_235-340nm.txt,NaN,340.0,Clemitshaw(1996),"Absorption measurements using a dual-beam, diode array spectrometer; spectral resolution 0.6 nm",235.0,ethyl nitrate, https://doi.org/10.1016/S1010-6030(96)04458-9,C2H5ONO2,294.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Clemitshaw(1996)_294K_235-340nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Higgins(2014)_294K_240-320nm.txt,NaN,320.0,Higgins(2014),Absorption measurements at pressures of 1.5−17 Torr,240.0,ethyl nitrate, https://doi.org/10.1021/jp501517t,C2H5ONO2,294.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Higgins(2014)_294K_240-320nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_IUPAC(2006)_298K_185-340nm(rec).txt,NaN,340.0,IUPAC(2006),IUPAC(2006) recommendation:,185.0,ethyl nitrate, https://doi.org/10.5194/acp-6-3625-2006,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_IUPAC(2006)_298K_185-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Kaya(1964)_298K_170.6-227.3nm.txt,NaN,227.3,Kaya(1964),Absorption measurements using a UV (Cary) and a VUV spectrophotometer,170.6,ethyl nitrate, https://doi.org/10.1246/bcsj.37.1055,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Kaya(1964)_298K_170.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_McMillan(1966)_298K_244.8-302.4nm.txt,NaN,302.4,McMillan(1966),Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,244.8,ethyl nitrate,,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_McMillan(1966)_298K_244.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_251.8-314.1nm(meas).txt,NaN,314.1,RobertsFajer(1989),Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,251.8,ethyl nitrate, https://doi.org/10.1021/es00066a003,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_251.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_270-316nm(fit).txt,NaN,316.0,RobertsFajer(1989),Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,270.0,ethyl nitrate, https://doi.org/10.1021/es00066a003,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_270-316nm(fit).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_RobertsFajer(1989)_298K_270-330nm.txt,NaN,330.0,RobertsFajer(1989),Absorption measurements using a single-beam UV/visible spectrophotometer; scanning of the sample at 0.5-nm slit width,270.0,ethyl nitrate, https://doi.org/10.1021/es00066a003,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_RobertsFajer(1989)_298K_270-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_240K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,240.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_240K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_260K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,260.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_260K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_280K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,280.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_280K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_298K_236-350nm(meas).txt,NaN,350.0,Talukdar(1997),Absorption cross sections measured at 298 K using diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_298K_236-350nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_320K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,320.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_320K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_340K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,340.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_340K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Talukdar(1997)_360K_236-340nm(calc).txt,NaN,340.0,Talukdar(1997),Absorption measurements at 240 to 360 K using a diode array spectrometer,236.0,ethyl nitrate, https://doi.org/10.1039/A701781B,C2H5ONO2,360.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Talukdar(1997)_360K_236-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Turberg(1990)_298K_185-330nm.txt,NaN,330.0,Turberg(1990),Absorption measurements using a spectrophotometer at a spectral bandwidth of 1 nm,185.0,ethyl nitrate, https://doi.org/10.1016/1010-6030(90)87063-H,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Turberg(1990)_298K_185-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Wallace-Goodeve(1934)_298K_205.2-319.3nm(meas).txt,NaN,319.3,Wallace-Goodeve(1934),"Data points for the measured absorption coefficients k (Torr, 298 K)",205.2,ethyl nitrate, https://doi.org/10.1039/TF9343000504,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Wallace-Goodeve(1934)_298K_205.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_Wallace-Goodeve(1934)_298K_207.1-320.2nm(smoo).txt,NaN,320.2,Wallace-Goodeve(1934),"The smooth fit of the measured absorption coefficients k (Torr, 298 K)",207.1,ethyl nitrate, https://doi.org/10.1039/TF9343000504,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_Wallace-Goodeve(1934)_298K_207.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitrates/C2H5ONO2_ZhuDing(1997)_298K_265-340nm.txt,NaN,340.0,ZhuDing(1997),"The temperature dependence of the absorption cross sections has been measured at 238, 248, 258, 268, 278, 288, and 298K by using cavity-ring-down spectroscopy and parameterized to the empirical equation",265.0,ethyl nitrate, https://doi.org/10.1016/S0009-2614(96)01404-2,C2H5ONO2,298.0,data/cross-sections/Organics (N-compounds)/Nitrates/C2H5ONO2/C2H5ONO2_ZhuDing(1997)_298K_265-340nm.csv

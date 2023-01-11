@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Caralp(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5COCl_Caralp(1999)_298K_245-300nm.txt,Flash photolysis/transient UV absorption technique,C6H5COCl,benzoyl chloride,"
-
-  F. Caralp, V. Focher, R. Lesclaux, T.J. Wallington, and M.D. Hurley, ""Atmospheric chemistry of benzaldehyde: UV absorption spectrum and reaction kinetics and mechanisms of the C",data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5COCl/C6H5COCl_Caralp(1999)_298K_245-300nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/C6H5COCl_Caralp(1999)_298K_245-300nm.txt,NaN,300.0,Caralp(1999),Flash photolysis/transient UV absorption technique,245.0,benzoyl chloride, https://doi.org/10.1039/A903088C,C6H5COCl,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/C6H5COCl/C6H5COCl_Caralp(1999)_298K_245-300nm.csv

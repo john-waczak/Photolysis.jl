@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-297.0,DavisBurkholder(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_DavisBurkholder(2011)_297K_185nm.txt,Absorption measurements using a Hg pen-ray lamp light source combined with a solar-blind photodiode detector with a 185 nm band-pass filter,CH2=CHCH(OH)C2H5,1-penten-3-ol,"
-
-  M.E. Davis and J.B. Burkholder, ""Rate coefficients for the gas-phase reaction of OH with (Z)-3-hexen-1-ol, 1-penten-3-ol, (E)-2-penten-1-ol, and (E)-2-hexen-1-ol between 243 and 404 K"",
-  Atmos. Chem. Phys. 11, 3347-3358 (2011); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_DavisBurkholder(2011)_297K_185nm.csv
-298.0,Jimenez(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_185nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,CH2=CHCH(OH)C2H5,1-penten-3-ol,"
-
-  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
-  Environ. Sci. Technol. 43, 1831-1837 (2009); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_185nm.csv
-298.0,Jimenez(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_200-290nm.txt,Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,CH2=CHCH(OH)C2H5,1-penten-3-ol,"
-
-  E. Jiménez, B. Lanza, M. Antiñolo, and J. Albadejo, ""Photooxidation of leaf-wound oxygenated compounds, 1-penten-3-ol, (Z)-3-hexen-1-ol, and 1-penten-3-one, initiated by OH radicals and sunlight"",
-  Environ. Sci. Technol. 43, 1831-1837 (2009); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_200-290nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_DavisBurkholder(2011)_297K_185nm.txt,NaN,NaN,DavisBurkholder(2011),Absorption measurements using a Hg pen-ray lamp light source combined with a solar-blind photodiode detector with a 185 nm band-pass filter,185.0,1-penten-3-ol, https://doi.org/10.5194/acp-11-3347-2011,CH2=CHCH(OH)C2H5,297.0,data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_DavisBurkholder(2011)_297K_185nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_185nm.txt,NaN,NaN,Jimenez(2009),Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,185.0,1-penten-3-ol, https://doi.org/10.1021/es8027814,CH2=CHCH(OH)C2H5,298.0,data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_185nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_200-290nm.txt,NaN,290.0,Jimenez(2009),Deuterium lamp radiation dispersed over a grating of 300 or 1200 grooves/mm with a spectral resolution of 0.2 nm,200.0,1-penten-3-ol, https://doi.org/10.1021/es8027814,CH2=CHCH(OH)C2H5,298.0,data/cross-sections/Alcohols/CH2=CHCH(OH)C2H5/CH2=CHCH(OH)C2H5_Jimenez(2009)_298K_200-290nm.csv

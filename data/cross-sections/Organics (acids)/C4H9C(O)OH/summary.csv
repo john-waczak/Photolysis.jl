@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-318.0,Vicente(2009),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C4H9C(O)OH_Vicente(2009)_318K_115.5-255.0nm.txt,Absorption measurements at a resolution of 0.075 nm using synchrotron radiation.,C4H9C(O)OH,valeric acid,"
-
-  A. Vicente, R. Antunes, D. Almeida, I. J. A. Franco, S. V. Hoffmann, N. J. Mason, S. Eden, D. Duflot, S. Canneaux, J. Delwiche, M.-J. Hubin-Franskin, and P. Limão-Vieira, ""Photoabsorption measurements and theoretical calculations of the electronic state spectroscopy of propionic, butyric, and valeric acids"",
-  Phys. Chem. Chem. Phys. 11, 5729-5741 (2009); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/C4H9C(O)OH/C4H9C(O)OH_Vicente(2009)_318K_115.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/C4H9C(O)OH_Vicente(2009)_318K_115.5-255.0nm.txt,NaN,255.0,Vicente(2009),Absorption measurements at a resolution of 0.075 nm using synchrotron radiation.,115.5,valeric acid, https://doi.org/10.1039/B823500G,C4H9C(O)OH,318.0,data/cross-sections/Organics (acids)/C4H9C(O)OH/C4H9C(O)OH_Vicente(2009)_318K_115.csv

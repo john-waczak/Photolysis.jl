@@ -1,21 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Berry(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Berry(1974)_298K_140-235nm.txt,"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",CH2=CCl2,"1,1-dichloroethene","
-
-  M.J. Berry, ""Chloroethylene photochemical lasers: Vibrational energy content of the HCl molecular elimination products"",
-  J. Chem. Phys. 61, 3114-3143 (1974);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Berry(1974)_298K_140-235nm.csv
-298.0,He(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_He(1993)_298K_193nm.txt,Absorption cross section at the wavelength of the ArF excimer laser line,CH2=CCl2,"1,1-dichloroethene","
-
-  G.-X. He,  Y.-A. Yang, Y. Huang, and R.G. Gordon, ""Distribution of rotational states in half-collisions: 193-nm photolysis of dichloroethylene isomers"",
-  J. Phys. Chem. 97, 2186-2193 (1993);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_He(1993)_298K_193nm.csv
-298.0,Locht(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Locht(2017)_298K_61.82-103.28nm.txt,High-resolution absorption measurements using synchrotron radiation,CH2=CCl2,"1,1-dichloroethene","
-
-  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectrum of the geminal dichloroethylene (1,1-C",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Locht(2017)_298K_61.csv
-298.0,Locht(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Locht(2017)_298K_82.66-247.97nm.txt,High-resolution absorption measurements using synchrotron radiation,CH2=CCl2,"1,1-dichloroethene","
-
-  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectrum of the geminal dichloroethylene (1,1-C",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Locht(2017)_298K_82.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Berry(1974)_298K_140-235nm.txt,NaN,235.0,Berry(1974),"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",140.0,"1,1-dichloroethene", https://doi.org/10.1063/1.1682468,CH2=CCl2,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Berry(1974)_298K_140-235nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_He(1993)_298K_193nm.txt,NaN,NaN,He(1993),Absorption cross section at the wavelength of the ArF excimer laser line,193.0,"1,1-dichloroethene", https://doi.org/10.1021/j100112a020,CH2=CCl2,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_He(1993)_298K_193nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Locht(2017)_298K_61.82-103.28nm.txt,NaN,103.28,Locht(2017),High-resolution absorption measurements using synchrotron radiation,61.82,"1,1-dichloroethene", https://doi.org/10.1088/2399-6528/aa93a3,CH2=CCl2,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Locht(2017)_298K_61.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2_Locht(2017)_298K_82.66-247.97nm.txt,NaN,247.97,Locht(2017),High-resolution absorption measurements using synchrotron radiation,82.66,"1,1-dichloroethene", https://doi.org/10.1088/2399-6528/aa93a3,CH2=CCl2,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CH2=CCl2/CH2=CCl2_Locht(2017)_298K_82.csv

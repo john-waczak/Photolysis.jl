@@ -1,193 +1,35 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_121.0-153.6nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
-",CH3Br,"bromomethane, methyl bromide","
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_121.csv
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_158.4-180.0nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
-",CH3Br,"bromomethane, methyl bromide","
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_158.csv
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_173.0-232.7nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
-",CH3Br,"bromomethane, methyl bromide","
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_173.csv
-298.0,Davidson(1951),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Davidson(1951)_298K_205-270nm.txt,Extinction coefficients from Table II have been converted to absorption cross sections; conversion factor 3.8235×10,CH3Br,"bromomethane, methyl bromide","
-
-  N. Davidson, ""The ultraviolet absorption spectra and the refractive indices of some fluorobromomethanes"",
-  J. Am. Chem. Soc. 73, 467-468 (1951); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Davidson(1951)_298K_205-270nm.csv
-294.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Felps(1991)_294K_201.6nm.txt,"
-Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit",CH3Br,"bromomethane, methyl bromide","
-
-  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
-  J. Phys. Chem. 95, 639-656 (1991); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Felps(1991)_294K_201.csv
-210.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_210K_180-280nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_210K_180-280nm(2nm).csv"
-210.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_210K_180-282nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_210K_180-282nm(int-c).csv"
-230.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_230K_180-280nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_230K_180-280nm(2nm).csv"
-230.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_230K_180-282nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_230K_180-282nm(int-c).csv"
-250.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_250K_180-280nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_250K_180-280nm(2nm).csv"
-250.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_250K_180-282nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_250K_180-282nm(int-c).csv"
-270.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_270K_180-280nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_270K_180-280nm(2nm).csv"
-270.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_270K_180-282nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_270K_180-282nm(int-c).csv"
-295.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_295K_180-280nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_295K_180-280nm(2nm).csv"
-295.0,"GillotaySimon(1987,1988)","https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_295K_180-282nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH3Br,"bromomethane, methyl bromide","
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption cross-sections of methyl bromide at stratospheric temperatures"",
-  Aeronomica Acta A 320, 1-17 (1987); Annales Geophysicae 6, 211-215 (1988)
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_295K_180-282nm(int-c).csv"
-303.0,GordusBernstein(1954),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GordusBernstein(1954)_303K_204-260nm.txt,Extinction coefficients and uncertainties from Table II have been converted to absorption cross sections (conversion factor 3.8235×10,CH3Br,"bromomethane, methyl bromide","
-
-  A.A. Gordus and R.B. Bernstein, ""Isotope effect in continuous ultraviolet absorption spectra: Methyl bromide-d",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GordusBernstein(1954)_303K_204-260nm.csv
-210.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_IUPAC(2008)_210K_212-260nm(rec).txt,IUPAC(2008) recommendation:,CH3Br,"bromomethane, methyl bromide","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_IUPAC(2008)_210K_212-260nm(rec).csv
-295.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_IUPAC(2008)_295K_190-260nm(rec).txt,IUPAC(2008) recommendation:,CH3Br,"bromomethane, methyl bromide","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_IUPAC(2008)_295K_190-260nm(rec).csv
-296.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_JPL-2015(2015)_296K_182-290nm(rec).txt,JPl-2015(2015) recommendation:,CH3Br,"bromomethane, methyl bromide","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_JPL-2015(2015)_296K_182-290nm(rec).csv
-295.0,Kozlov(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Kozlov(2003)_295K_164-180nm.txt,"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",CH3Br,"bromomethane, methyl bromide","
-
-  S.N. Kozlov, V.L. Orkin, R.E. Huie, M.J., Kurylo, ""OH reactivity and UV spectra of propane, n-propyl bromide, and isopropyl bromide"",
-  J. Phys. Chem. A 107, 1333-1338 (2003); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Kozlov(2003)_295K_164-180nm.csv
-298.0,Locht(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Locht(2005)_298K_103-207nm.txt,High-resolution (∼0.0015 eV) absorption measurements using synchrotron radiation,CH3Br,"bromomethane, methyl bromide","
-
-  R. Locht, B. Leyh, H.W. Jochims, and H. Baumgärtel, ""The vacuum UV photoabsorption spectrum of methyl bromide (CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Locht(2005)_298K_103-207nm.csv
-298.0,Locht(2005),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Locht(2005)_298K_50-200nm.txt,Medium-resolution (∼0.3 nm) absorption measurements using synchrotron radiation,CH3Br,"bromomethane, methyl bromide","
-
-  R. Locht, B. Leyh, H.W. Jochims, and H. Baumgärtel, ""The vacuum UV photoabsorption spectrum of methyl bromide (CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Locht(2005)_298K_50-200nm.csv
-298.0,Man(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Man(1996)_298K_179.9-262.1nm.txt,"Perkin-Elmer UV/VIS absorption spectrometer; ""low resolution""",CH3Br,"bromomethane, methyl bromide","
-
-  S.-Q. Man, W.M. Kwok, D.L. Phillips, and A.E. Johnson, ""Short-time photodissociation dynamics of A-band and B-band bromoiodomethane in solution: An examination of bond selective electronic excitation"",
-  J. Chem. Phys. 105, 5842-5857 (1996); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Man(1996)_298K_179.csv
-298.0,Molina(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Molina(1982)_298K_190-290nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer,CH3Br,"bromomethane, methyl bromide","
-
-  L.T. Molina, M.J. Molina, and F.S. Rowland, ""Ultraviolet absorption cross sections of several brominated methanes and ethanes of atmospheric interest"",
-  J. Phys. Chem. 86, 2672-2676 (1982); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Molina(1982)_298K_190-290nm.csv
-298.0,Olney(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Olney(1997)_298K_2.8-199nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CH3Br,"bromomethane, methyl bromide","
-
-  T.N. Olney, G. Cooper, W.F. Chan, G.R. Burton, C.E. Brion, and K.H. Tan, ""Absolute photoabsorption and photoionization studies of methyl bromide using dipole electron impact and synchroton radiation PES techniques"",
-  Chem. Phys. 218, 127-149 (1997); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Olney(1997)_298K_2.csv
-298.0,PersonNicole(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_PersonNicole(1971)_298K_105.21-122.98nm.txt,Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),CH3Br,"bromomethane, methyl bromide","
-
-  J.C.Person and P.P. Nicole, ""Isotope effects in the photoionization yields and in the absorption cross sections for methanol, ethanol, methyl bromide, and ethyl bromide"",
-  J. Chem. Phys. 55, 3390-3397 (1971);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_PersonNicole(1971)_298K_105.csv
-298.0,Robbins(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Robbins(1976)_298K_174-270nm.txt,"The cross section measurements (at 2 nm intervals) were carried out utilizing a monochromator to provide UV radiation with a 0.07 nm bandwidth and, as a source of UV radiation, a lamp which produced a discharge in H",CH3Br,"bromomethane, methyl bromide","
-
-  D.E. Robbins, ""Photodissociation of methyl chloride and methyl bromide in the atmosphere"",
-  Geophys. Res. Lett. 3, 213-216 (1976); DOI: 10.1029/GL003i004p00213;",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Robbins(1976)_298K_174-270nm.csv
-298.0,SPARC(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_SPARC(2013)_298K_121.567nm(rec).txt,Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.3,CH3Br,"bromomethane, methyl bromide","
-
-  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
-  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_SPARC(2013)_298K_121.csv
-295.0,Uthman(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Uthman(1978)_295K_200-260nm.txt,"Absorption measurements were made using a double beam recording spectrophotometer with a deuterium arc source, a photomultiplier detector, and a prism dispersing device",CH3Br,"bromomethane, methyl bromide","
-
-  A.P. Uthman, P.J. Demlein, T.D. Allston, M.C. Withiam, M.J. McClements, and G.A. Takacs, ""Photoabsorption spectra of gaseous methyl bromide, ethylene dibromide, nitrosyl bromide, thionyl chloride, and sulfuryl chloride"",
-  J. Phys. Chem. 82, 2252-2257 (1978); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Uthman(1978)_295K_200-260nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_121.0-153.6nm.txt,NaN,153.6,CausleyRussell(1975),"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",121.0,"bromomethane, methyl bromide", https://doi.org/10.1063/1.430535,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_158.4-180.0nm.txt,NaN,180.0,CausleyRussell(1975),"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",158.4,"bromomethane, methyl bromide", https://doi.org/10.1063/1.430535,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_158.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_CausleyRussell(1975)_298K_173.0-232.7nm.txt,NaN,232.7,CausleyRussell(1975),"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",173.0,"bromomethane, methyl bromide", https://doi.org/10.1063/1.430535,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_CausleyRussell(1975)_298K_173.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Davidson(1951)_298K_205-270nm.txt,NaN,270.0,Davidson(1951),Extinction coefficients from Table II have been converted to absorption cross sections; conversion factor 3.8235×10,205.0,"bromomethane, methyl bromide", https://doi.org/10.1021/ja01145a506,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Davidson(1951)_298K_205-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Felps(1991)_294K_201.6nm.txt,NaN,NaN,Felps(1991),"
+Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit",201.6,"bromomethane, methyl bromide", https://doi.org/10.1021/j100155a028,CH3Br,294.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Felps(1991)_294K_201.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_210K_180-280nm(2nm).txt",NaN,280.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,210.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_210K_180-280nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_210K_180-282nm(int-c).txt",NaN,282.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,210.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_210K_180-282nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_230K_180-280nm(2nm).txt",NaN,280.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,230.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_230K_180-280nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_230K_180-282nm(int-c).txt",NaN,282.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,230.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_230K_180-282nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_250K_180-280nm(2nm).txt",NaN,280.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,250.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_250K_180-280nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_250K_180-282nm(int-c).txt",NaN,282.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,250.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_250K_180-282nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_270K_180-280nm(2nm).txt",NaN,280.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,270.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_270K_180-280nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_270K_180-282nm(int-c).txt",NaN,282.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,270.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_270K_180-282nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_295K_180-280nm(2nm).txt",NaN,280.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,295.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_295K_180-280nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GillotaySimon(1987,1988)_295K_180-282nm(int-c).txt",NaN,282.0,"GillotaySimon(1987,1988)",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,180.0,"bromomethane, methyl bromide",,CH3Br,295.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GillotaySimon(1987,1988)_295K_180-282nm(int-c).csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_GordusBernstein(1954)_303K_204-260nm.txt,NaN,260.0,GordusBernstein(1954),Extinction coefficients and uncertainties from Table II have been converted to absorption cross sections (conversion factor 3.8235×10,204.0,"bromomethane, methyl bromide", https://doi.org/10.1063/1.1740194,CH3Br,303.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_GordusBernstein(1954)_303K_204-260nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_IUPAC(2008)_210K_212-260nm(rec).txt,NaN,260.0,IUPAC(2008),IUPAC(2008) recommendation:,212.0,"bromomethane, methyl bromide", https://doi.org/10.5194/acp-8-4141-2008,CH3Br,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_IUPAC(2008)_210K_212-260nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_IUPAC(2008)_295K_190-260nm(rec).txt,NaN,260.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,"bromomethane, methyl bromide", https://doi.org/10.5194/acp-8-4141-2008,CH3Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_IUPAC(2008)_295K_190-260nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_JPL-2010(2011)_295-296K_174-290nm(rec).txt,296.0,290.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",174.0,"bromomethane, methyl bromide",,CH3Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_JPL-2010(2011)_295-296K_174-290nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_JPL-2015(2015)_296K_182-290nm(rec).txt,NaN,290.0,JPL-2015(2015),JPl-2015(2015) recommendation:,182.0,"bromomethane, methyl bromide",,CH3Br,296.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_JPL-2015(2015)_296K_182-290nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Kozlov(2003)_295K_164-180nm.txt,NaN,180.0,Kozlov(2003),"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines/mm grating, a deuterium lamp as the radiation source and a photomultiplier; spectra were recorded at increments of 0.5 nm at a spectral slit width of 0.5 nm",164.0,"bromomethane, methyl bromide", https://doi.org/10.1021/jp021806j,CH3Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Kozlov(2003)_295K_164-180nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Locht(2005)_298K_103-207nm.txt,NaN,207.0,Locht(2005),High-resolution (∼0.0015 eV) absorption measurements using synchrotron radiation,103.0,"bromomethane, methyl bromide", https://doi.org/10.1016/j.chemphys.2005.06.002,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Locht(2005)_298K_103-207nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Locht(2005)_298K_50-200nm.txt,NaN,200.0,Locht(2005),Medium-resolution (∼0.3 nm) absorption measurements using synchrotron radiation,50.0,"bromomethane, methyl bromide", https://doi.org/10.1016/j.chemphys.2005.06.002,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Locht(2005)_298K_50-200nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Man(1996)_298K_179.9-262.1nm.txt,NaN,262.1,Man(1996),"Perkin-Elmer UV/VIS absorption spectrometer; ""low resolution""",179.9,"bromomethane, methyl bromide", https://doi.org/10.1063/1.472426,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Man(1996)_298K_179.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Molina(1982)_298K_190-290nm.txt,NaN,290.0,Molina(1982),Absorption measurements using a UV-VIS double-beam spectrophotometer,190.0,"bromomethane, methyl bromide", https://doi.org/10.1021/j100211a023,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Molina(1982)_298K_190-290nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Olney(1997)_298K_2.8-199nm(e,e).txt",NaN,199.0,Olney(1997),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",2.8,"bromomethane, methyl bromide", https://doi.org/10.1016/S0301-0104(97)00066-9,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Olney(1997)_298K_2.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_PersonNicole(1971)_298K_105.21-122.98nm.txt,NaN,122.98,PersonNicole(1971),Absorption measurements using a hydrogen discharge light source and a vacuum monochromator (used with a 0.1-nm bandwidth),105.21,"bromomethane, methyl bromide", https://doi.org/10.1063/1.1676590,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_PersonNicole(1971)_298K_105.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Robbins(1976)_298K_174-270nm.txt,NaN,270.0,Robbins(1976),"The cross section measurements (at 2 nm intervals) were carried out utilizing a monochromator to provide UV radiation with a 0.07 nm bandwidth and, as a source of UV radiation, a lamp which produced a discharge in H",174.0,"bromomethane, methyl bromide", https://doi.org/10.1029/GL003i012p00757,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Robbins(1976)_298K_174-270nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_SPARC(2013)_298K_121.567nm(rec).txt,NaN,NaN,SPARC(2013),Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.3,121.567,"bromomethane, methyl bromide",,CH3Br,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_SPARC(2013)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br_Uthman(1978)_295K_200-260nm.txt,NaN,260.0,Uthman(1978),"Absorption measurements were made using a double beam recording spectrophotometer with a deuterium arc source, a photomultiplier detector, and a prism dispersing device",200.0,"bromomethane, methyl bromide", https://doi.org/10.1021/j100509a021,CH3Br,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH3Br/CH3Br_Uthman(1978)_295K_200-260nm.csv

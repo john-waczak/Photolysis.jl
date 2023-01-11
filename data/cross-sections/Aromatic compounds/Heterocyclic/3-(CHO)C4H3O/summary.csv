@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Colmenar(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/3-(CHO)C4H3O_Colmenar(2015)_298K_290-380nm.txt,Deuterium lamp radiation dispersed over a grating of 300 grooves/mm with a spectral resolution of,3-(CHO)C4H3O,3-furanaldehyde,"
-
-  I. Colmenar, S. González, E. Jiménez, P. Martín, S. Salgado, B. Cabañas, and J. Albaladejo, ""UV absorption cross sections between 290 and 380 nm of a series of furanaldehydes: Estimation of their photolysis lifetimes"",
-  Atmos. Environ. 103, 1-6 (2015); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Heterocyclic/3-(CHO)C4H3O/3-(CHO)C4H3O_Colmenar(2015)_298K_290-380nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/3-(CHO)C4H3O_Colmenar(2015)_298K_290-380nm.txt,NaN,380.0,Colmenar(2015),Deuterium lamp radiation dispersed over a grating of 300 grooves/mm with a spectral resolution of,290.0,3-furanaldehyde, https://doi.org/10.1016/j.atmosenv.2014.12.022,3-(CHO)C4H3O,298.0,data/cross-sections/Aromatic compounds/Heterocyclic/3-(CHO)C4H3O/3-(CHO)C4H3O_Colmenar(2015)_298K_290-380nm.csv

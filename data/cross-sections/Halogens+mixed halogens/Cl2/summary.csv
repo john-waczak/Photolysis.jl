@@ -1,282 +1,49 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-291.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_291K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_291K_402-543nm.csv
-456.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_456K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_456K_402-543nm.csv
-593.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_593K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_593K_402-543nm.csv
-737.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_737K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_737K_402-543nm.csv
-849.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_849K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_849K_402-543nm.csv
-982.0,AickinBayliss(1937),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_982K_402-543nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  R.G. Aickin and N.S. Bayliss, ""The continuous absorption spectrum of chlorine in the region 4000 - 5000 Å"",
-  Trans. Faraday Soc. 33, 1333-1338 (1937); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_982K_402-543nm.csv
-298.0,Burkholder(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Burkholder(1990)_298K_267.5-339.7nm.txt,Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),Cl2,chlorine,"
-
-  J.B. Burkholder, J.J. Orlando, and C.J. Howard, ""Ultraviolet absorption cross section of Cl",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Burkholder(1990)_298K_267.csv
-195.0,BurkholderBair(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_BurkholderBair(1983)_195K_270-420nm.txt,Extinction coefficients vs. wavenumber (vacuum) listed in Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,Cl2,chlorine,"
-
-  J.B. Burkholder and E.J. Bair, ""Potential energy parameters and shapes of the vibrational components of the 345-nm system of chlorine"",
-  J. Phys. Chem. 87, 1859-1863 (1983); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_BurkholderBair(1983)_195K_270-420nm.csv
-301.0,BurkholderBair(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_BurkholderBair(1983)_301K_270-420nm.txt,Extinction coefficients vs. wavenumber (vacuum) listed in Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,Cl2,chlorine,"
-
-  J.B. Burkholder and E.J. Bair, ""Potential energy parameters and shapes of the vibrational components of the 345-nm system of chlorine"",
-  J. Phys. Chem. 87, 1859-1863 (1983); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_BurkholderBair(1983)_301K_270-420nm.csv
-293.0,Chen(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Chen(2002)_293K_300-330nm.txt,The data in the 300- to 330-nm region were determined for purposes of calibration for the butanal photolysis.,Cl2,chlorine,"
-
-  Y. Chen, L. Zhu, and J.S. Francisco, ""Wavelength-dependent photolysis of n-butyraldehyde and i-butyraldehyde in the 280-330-nm region"",
-  J. Phys. Chem. A 106, 7755-7763 (2002); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Chen(2002)_293K_300-330nm.csv
-293.0,ChenZhu(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_ChenZhu(2001)_293K_310-330nm.txt,The data in the 310- to 330-nm region were determined for purposes of calibration for the propanal photolysis,Cl2,chlorine,"
-
-  Y. Chen and L. Zhu, ""The wavelength dependence of the photodissociation of propionaldehyde in the 280-330 nm region"",
-  J. Phys. Chem. A 105, 9689-9696 (2001); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_ChenZhu(2001)_293K_310-330nm.csv
-293.0,ChenZhu(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_ChenZhu(2003)_293K_320-420nm.txt,The absorption cross sections in the 320- to 420-nm region were determined for purposes of calibration for the glyoxal photolysis,Cl2,chlorine,"
-
-  Y. Chen and L. Zhu, ""Wavelength-dependent photolysis of glyoxal in the 290-420 nm region"",
-  J. Phys. Chem. A 107, 4643-4651 (2003); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_ChenZhu(2003)_293K_320-420nm.csv
-298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Fergusson(1936)_298K_250-416nm(smoo).txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,Cl2,chlorine,"
-
-  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
-  Trans. Faraday Soc. 32, 956-962 (1936); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Fergusson(1936)_298K_250-416nm(smoo).csv
-298.0,Fergusson(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Fergusson(1936)_298K_254-405nm(meas).txt,Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,Cl2,chlorine,"
-
-  W.C. Fergusson, L. Slotin, and D.W.G. Style, ""The absorption spectrum of aqueous chlorine and hydrogen peroxide vapor"",
-  Trans. Faraday Soc. 32, 956-962 (1936); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Fergusson(1936)_298K_254-405nm(meas).csv
-298.0,Ganske(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Ganske(1992)_298K_270-400nm.txt,Absorption measurements using a photodiode array UV-VIS spectrophotometer with with 2 nm spectral bandwidth and 0.05 nm wavelength reproducibility,Cl2,chlorine,"
-
-  J.A. Ganske, H.N. Berko, and B.J. Finlayson-Pitts, ""Absorption cross sections for gaseous ClNO",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Ganske(1992)_298K_270-400nm.csv
-1038.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_1038K_261-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_1038K_261-428nm.csv
-291.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_291K_266-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_291K_266-428nm.csv
-441.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_441K_261-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_441K_261-428nm.csv
-554.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_554K_261-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_554K_261-428nm.csv
-669.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_669K_261-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_669K_261-428nm.csv
-853.0,GibsonBayliss(1933),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_853K_261-428nm.txt,The method of photographic photometry has been used,Cl2,chlorine,"
-
-  G.E. Gibson and N.S. Bayliss, ""Variation with temperature of the continuous absorption spectrum of diatomic molecules: Part I. Experimental, The absorption spectrum of chlorine"",
-  Phys. Rev. 44, 188-192 (1933); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_853K_261-428nm.csv
-293.0,HalbanSiedentopf(1922),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_HalbanSiedentopf(1922)_293K_254-643nm.txt,Extinction coefficients listed in Table 3. have been converted to absorption cross sections (conversion factor 3.8235×10,Cl2,chlorine,"
-
-  H. von Halban and K. Siedentopf, ""Die Lichtabsorption des Chlors"",
-  Z. Elektrochem. 28, 496-499 (1922);
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_HalbanSiedentopf(1922)_293K_254-643nm.csv
-295.0,HubingerNee(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_HubingerNee(1995)_295K_190-500nm.txt,"Absorption measurements at a resolution of 0.10 nm using a vacuum monochromator, a flow tube, and as light sources a car lamp filament (visible) and a deuterium lamp (UV)",Cl2,chlorine,"
-
-  S. Hubinger and J.B. Nee, ""Absorption spectra of Cl",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_HubingerNee(1995)_295K_190-500nm.csv
-298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_IUPAC(2007)_298K_260-470nm(rec).txt,IUPAC recommendation (2007):,Cl2,chlorine,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
-  Atmos. Chem. Phys. 7, 981-1191 (2007); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_IUPAC(2007)_298K_260-470nm(rec).csv
-291.0,JonesSpooner(1935),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JonesSpooner(1935)_291K_504-532nm.txt,"Molar extinction coefficients (base e) listed in Table converted to absorption cross sections, conversion factor 1000/Avogadro number = 1.66×10",Cl2,chlorine,"
-
-  F.W. Jones and W. Spooner, ""Absorption of light by gaseous chlorine in the wavelength region 5040 Å to 5320 Å"",
-  Trans. Faraday Soc. 31, 811-813 (1935); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JonesSpooner(1935)_291K_504-532nm.csv
-298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JPL-2002(2002)_298K_260-470nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",Cl2,chlorine,"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JPL-2002(2002)_298K_260-470nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JPL-2010(2011)_298K_260-550nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",Cl2,chlorine,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JPL-2010(2011)_298K_260-550nm(rec).csv
-333.0,Knauth(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Knauth(1979)_333K_270-440nm.txt,Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,Cl2,chlorine,"
-
-  H.D. Knauth, H. Alberti, and H. Clausen, ""Equilibrium constant of the gas reaction Cl",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Knauth(1979)_333K_270-440nm.csv
-298.0,Maric(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Maric(1993)_298K_255-488nm.txt,Measurements at 298 K in the wavelength range 200-550 nm with a spectral resolution of 0.2 nm,Cl2,chlorine,"
-
-  D. Maric, J.P. Burrows, R. Meller, and G.K. Moortgat, ""Visible absorption spectra of molecular chlorine"",
-  J. Photochem. Photobiol. A: Chem. 70, 205-214 (1993); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Maric(1993)_298K_255-488nm.csv
-298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_MartinGareis(1956)_298K_252.1-432.8nm(smoo).txt,Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,Cl2,chlorine,"
-
-  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_MartinGareis(1956)_298K_252.csv
-298.0,MartinGareis(1956),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_MartinGareis(1956)_298K_278.7-388.1nm(meas).txt,"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
-",Cl2,chlorine,"
-
-  H. Martin and R. Gareis, ""Die Kinetik der Reaktion von ClO",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_MartinGareis(1956)_298K_278.csv
-298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_RoxloMandl(1980)_298K_170-214nm.txt,Absorption measurements at 170-230 nm using a Xe,Cl2,chlorine,"
-
-  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
-  J. Appl. Phys. 51, 2969-2972 (1980); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_RoxloMandl(1980)_298K_170-214nm.csv
-298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_RoxloMandl(1980)_298K_170-214nm(1nm).txt,Absorption measurements at 170-230 nm using a Xe,Cl2,chlorine,"
-
-  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
-  J. Appl. Phys. 51, 2969-2972 (1980); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_RoxloMandl(1980)_298K_170-214nm(1nm).csv
-298.0,SeeryBritton(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_SeeryBritton(1964)_298K_240-450nm.txt,Absorption measurements were made on a Cary Model 11 recording spectrophotometer using 10-cm quartz cells,Cl2,chlorine,"
-
-  D.J. Seery and D. Britton, ""The continuous absorption spectra of chlorine, bromine, bromine chloride, iodine chloride, and iodine bromide"",
-  J. Phys. Chem. 68, 2263-2266 (1964); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_SeeryBritton(1964)_298K_240-450nm.csv
-297.0,Tellinghuisen(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Tellinghuisen(2003)_297K_200-600nm.txt,Absorption measurements with Cl,Cl2,chlorine,"
-
-  J. Tellinghuisen, ""Precise equilibrium constants from spectrophotometric data: BrCl in Br",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Tellinghuisen(2003)_297K_200-600nm.csv
-298.0,Trolier(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Trolier(1990)_298K_225.5-323.6nm.txt,Discharge-flow sources (Cl + O,Cl2,chlorine,"
-
-  M. Trolier, R.L. Mauldin, III, and A.R. Ravishankara, ""Rate coefficient for the termolecular channel of the self-reaction of ClO"",
-  J. Phys. Chem. 94, 4896-4907 (1990); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Trolier(1990)_298K_225.csv
-197.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_197K_508.70-569.60nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_197K_508.csv
-197.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_197K_509-570nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_197K_509-570nm.csv
-233.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_233K_508.70-569.60nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_233K_508.csv
-233.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_233K_509-570nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_233K_509-570nm.csv
-273.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_273K_508.70-569.60nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_273K_508.csv
-273.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_273K_509-570nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_273K_509-570nm.csv
-298.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_298K_508.70-569.60nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_298K_508.csv
-298.0,Young(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_298K_509-570nm.txt,Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,Cl2,chlorine,"
-
-  I.A.K. Young, C. Murray, C.M. Blaum, R.A. Cox, R.L. Jones, and F.D. Pope, ""Temperature dependent structured absorption spectra of molecular chlorine"",
-  Phys. Chem. Chem. Phys. 13, 15318-15325 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_298K_509-570nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_291K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,291.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_291K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_456K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,456.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_456K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_593K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,593.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_593K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_737K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,737.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_737K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_849K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,849.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_849K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_AickinBayliss(1937)_982K_402-543nm.txt,NaN,543.0,AickinBayliss(1937),The method of photographic photometry has been used,402.0,chlorine, https://doi.org/10.1039/TF9373301333,Cl2,982.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_AickinBayliss(1937)_982K_402-543nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Burkholder(1990)_298K_267.5-339.7nm.txt,NaN,339.7,Burkholder(1990),Discharge flow tube reactor coupled to a to a multipass absorption cell and a diode array spectrometer (spectral resolution ∼1.2 nm),267.5,chlorine, https://doi.org/10.1021/j100365a033,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Burkholder(1990)_298K_267.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_BurkholderBair(1983)_195K_270-420nm.txt,NaN,420.0,BurkholderBair(1983),Extinction coefficients vs. wavenumber (vacuum) listed in Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,270.0,chlorine, https://doi.org/10.1021/j100234a007,Cl2,195.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_BurkholderBair(1983)_195K_270-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_BurkholderBair(1983)_301K_270-420nm.txt,NaN,420.0,BurkholderBair(1983),Extinction coefficients vs. wavenumber (vacuum) listed in Table 1 have been converted to absorption cross sections (conversion factor 3.8235×10,270.0,chlorine, https://doi.org/10.1021/j100234a007,Cl2,301.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_BurkholderBair(1983)_301K_270-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Chen(2002)_293K_300-330nm.txt,NaN,330.0,Chen(2002),The data in the 300- to 330-nm region were determined for purposes of calibration for the butanal photolysis.,300.0,chlorine, https://doi.org/10.1021/jp014544e,Cl2,293.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Chen(2002)_293K_300-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_ChenZhu(2001)_293K_310-330nm.txt,NaN,330.0,ChenZhu(2001),The data in the 310- to 330-nm region were determined for purposes of calibration for the propanal photolysis,310.0,chlorine, https://doi.org/10.1021/jp011445s,Cl2,293.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_ChenZhu(2001)_293K_310-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_ChenZhu(2003)_293K_320-420nm.txt,NaN,420.0,ChenZhu(2003),The absorption cross sections in the 320- to 420-nm region were determined for purposes of calibration for the glyoxal photolysis,320.0,chlorine, https://doi.org/10.1021/jp022440d,Cl2,293.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_ChenZhu(2003)_293K_320-420nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Fergusson(1936)_298K_250-416nm(smoo).txt,NaN,416.0,Fergusson(1936),Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,250.0,chlorine, https://doi.org/10.1039/TF9363200956,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Fergusson(1936)_298K_250-416nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Fergusson(1936)_298K_254-405nm(meas).txt,NaN,405.0,Fergusson(1936),Absorption measurements using a sector photometer in conjunction with a quartz spectrograph and an iron spark,254.0,chlorine, https://doi.org/10.1039/TF9363200956,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Fergusson(1936)_298K_254-405nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Ganske(1992)_298K_270-400nm.txt,NaN,400.0,Ganske(1992),Absorption measurements using a photodiode array UV-VIS spectrophotometer with with 2 nm spectral bandwidth and 0.05 nm wavelength reproducibility,270.0,chlorine, https://doi.org/10.1029/92JD00414,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Ganske(1992)_298K_270-400nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_1038K_261-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,261.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,1038.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_1038K_261-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_291K_266-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,266.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,291.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_291K_266-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_441K_261-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,261.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,441.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_441K_261-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_554K_261-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,261.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,554.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_554K_261-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_669K_261-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,261.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,669.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_669K_261-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_GibsonBayliss(1933)_853K_261-428nm.txt,NaN,428.0,GibsonBayliss(1933),The method of photographic photometry has been used,261.0,chlorine, https://doi.org/10.1103/PhysRev.44.188,Cl2,853.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_GibsonBayliss(1933)_853K_261-428nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_HalbanSiedentopf(1922)_293K_254-643nm.txt,NaN,643.0,HalbanSiedentopf(1922),Extinction coefficients listed in Table 3. have been converted to absorption cross sections (conversion factor 3.8235×10,254.0,chlorine, https://doi.org/10.1002/bbpc.19220282304,Cl2,293.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_HalbanSiedentopf(1922)_293K_254-643nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Heicklen(1986)_298K_293-325nm.txt,NaN,325.0,Heicklen(1986),,293.0,chlorine, https://doi.org/10.1016/0047-2670(86)85014-6,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Heicklen(1986)_298K_293-325nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_HubingerNee(1995)_295K_190-500nm.txt,NaN,500.0,HubingerNee(1995),"Absorption measurements at a resolution of 0.10 nm using a vacuum monochromator, a flow tube, and as light sources a car lamp filament (visible) and a deuterium lamp (UV)",190.0,chlorine, https://doi.org/10.1016/1010-6030(94)03949-U,Cl2,295.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_HubingerNee(1995)_295K_190-500nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_IUPAC(2007)_298K_260-470nm(rec).txt,NaN,470.0,IUPAC(2007),IUPAC recommendation (2007):,260.0,chlorine, https://doi.org/10.5194/acp-7-981-2007,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_IUPAC(2007)_298K_260-470nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JonesSpooner(1935)_291K_504-532nm.txt,NaN,532.0,JonesSpooner(1935),"Molar extinction coefficients (base e) listed in Table converted to absorption cross sections, conversion factor 1000/Avogadro number = 1.66×10",504.0,chlorine, https://doi.org/10.1039/TF9353100811,Cl2,291.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JonesSpooner(1935)_291K_504-532nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JPL-2002(2002)_298K_260-470nm(rec).txt,NaN,470.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",260.0,chlorine,,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JPL-2002(2002)_298K_260-470nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_JPL-2010(2011)_298K_260-550nm(rec).txt,NaN,550.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",260.0,chlorine,,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_JPL-2010(2011)_298K_260-550nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Knauth(1979)_333K_270-440nm.txt,NaN,440.0,Knauth(1979),Single-beam spectrometer with a resolution of about 0.3-1 nm between 500 and 200 nm,270.0,chlorine, https://doi.org/10.1021/j100475a010,Cl2,333.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Knauth(1979)_333K_270-440nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Maric(1993)_298K_255-488nm.txt,NaN,488.0,Maric(1993),Measurements at 298 K in the wavelength range 200-550 nm with a spectral resolution of 0.2 nm,255.0,chlorine, https://doi.org/10.1016/1010-6030(93)85045-A,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Maric(1993)_298K_255-488nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_MartinGareis(1956)_298K_252.1-432.8nm(smoo).txt,NaN,432.8,MartinGareis(1956),Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources ,252.1,chlorine, https://doi.org/10.1002/bbpc.19560600907,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_MartinGareis(1956)_298K_252.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_MartinGareis(1956)_298K_278.7-388.1nm(meas).txt,NaN,388.1,MartinGareis(1956),"Absorption measurements with a Steinheil spectrograph of medium resolution and Fe and Ni sparks as light sources
+",278.7,chlorine, https://doi.org/10.1002/bbpc.19560600907,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_MartinGareis(1956)_298K_278.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Park(1976)_200-2200K_253.7nm(fit).txt,2200.0,NaN,Park(1976),Fit of the measured absorption cross sections from shock-tube experiments (303-2093 K):,253.7,chlorine, https://doi.org/10.1021/j100547a002,Cl2,200.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Park(1976)_200-2200K_253.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Park(1976)_303-2093K_253.7nm(meas).txt,2093.0,NaN,Park(1976),Chlorine was heated by reflected shock waves in a shock tube,253.7,chlorine, https://doi.org/10.1021/j100547a002,Cl2,303.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Park(1976)_303-2093K_253.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_RoxloMandl(1980)_298K_170-214nm.txt,NaN,214.0,RoxloMandl(1980),Absorption measurements at 170-230 nm using a Xe,170.0,chlorine, https://doi.org/10.1063/1.328108,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_RoxloMandl(1980)_298K_170-214nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_RoxloMandl(1980)_298K_170-214nm(1nm).txt,NaN,214.0,RoxloMandl(1980),Absorption measurements at 170-230 nm using a Xe,170.0,chlorine, https://doi.org/10.1063/1.328108,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_RoxloMandl(1980)_298K_170-214nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_SeeryBritton(1964)_298K_240-450nm.txt,NaN,450.0,SeeryBritton(1964),Absorption measurements were made on a Cary Model 11 recording spectrophotometer using 10-cm quartz cells,240.0,chlorine, https://doi.org/10.1021/j100790a039,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_SeeryBritton(1964)_298K_240-450nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Tellinghuisen(2003)_297K_200-600nm.txt,NaN,600.0,Tellinghuisen(2003),Absorption measurements with Cl,200.0,chlorine, https://doi.org/10.1021/jp027227w,Cl2,297.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Tellinghuisen(2003)_297K_200-600nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Trolier(1990)_298K_225.5-323.6nm.txt,NaN,323.6,Trolier(1990),Discharge-flow sources (Cl + O,225.5,chlorine, https://doi.org/10.1021/j100375a027,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Trolier(1990)_298K_225.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_197K_508.70-569.60nm.txt,NaN,569.6,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,508.7,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,197.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_197K_508.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_197K_509-570nm.txt,NaN,570.0,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,509.0,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,197.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_197K_509-570nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_233K_508.70-569.60nm.txt,NaN,569.6,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,508.7,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,233.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_233K_508.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_233K_509-570nm.txt,NaN,570.0,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,509.0,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,233.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_233K_509-570nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_273K_508.70-569.60nm.txt,NaN,569.6,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,508.7,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,273.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_273K_508.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_273K_509-570nm.txt,NaN,570.0,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,509.0,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,273.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_273K_509-570nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_298K_508.70-569.60nm.txt,NaN,569.6,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,508.7,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_298K_508.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/Cl2_Young(2011)_298K_509-570nm.txt,NaN,570.0,Young(2011),Absorption cross sections have been measured using a dual wavelength spectrometer which can simultaneously perform single pass UV absorption spectroscopy (used to obtain the Cl,509.0,chlorine, https://doi.org/10.1039/C1CP21337G,Cl2,298.0,data/cross-sections/Halogens+mixed halogens/Cl2/Cl2_Young(2011)_298K_509-570nm.csv

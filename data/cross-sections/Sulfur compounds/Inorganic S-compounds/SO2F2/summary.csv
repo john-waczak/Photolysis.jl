@@ -1,14 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_JPL-2010(2011)_296K_184.9,193.0,213.9nm(rec).txt",JPL-2010 recommendation:,SO2F2,sulfuryl fluoride,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_JPL-2010(2011)_296K_184.csv
-296.0,Papadimitriou(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_Papadimitriou(2008)_296K_184.9,193.0,213.9nm.txt","Absorption measurements using a Hg lamp (184.9 nm), a pulsed ArF excimer laser (193 nm), and a Zn lamp (213.9 nm)",SO2F2,sulfuryl fluoride,"
-
-  V.C. Papadimitriou, R.W. Portmann, D.W. Fahey, J. Mühle, R.F Weiss, and J.B. Burkholder, ""Experimental and theoretical study of the atmospheric chemistry and global warming potential of SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_Papadimitriou(2008)_296K_184.csv
-298.0,Pradayrol(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_Pradayrol(1996)_298K_121.1-209.5nm.txt,Absorption measurements at a spectral resolution of 0.1 nm using a microwave powered hydrogen-argon lamp as light source,SO2F2,sulfuryl fluoride,"
-
-  C. Pradayrol, A.M. Casanovas, I. Deharo, J.P. Guelfucci, and J. Casanovas, ""Absorption coefficients of SF",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_Pradayrol(1996)_298K_121.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_JPL-2010(2011)_296K_184.9,193.0,213.9nm(rec).txt",NaN,193.0,JPL-2010(2011),JPL-2010 recommendation:,184.9,sulfuryl fluoride,,SO2F2,296.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_JPL-2010(2011)_296K_184.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_Papadimitriou(2008)_296K_184.9,193.0,213.9nm.txt",NaN,193.0,Papadimitriou(2008),"Absorption measurements using a Hg lamp (184.9 nm), a pulsed ArF excimer laser (193 nm), and a Zn lamp (213.9 nm)",184.9,sulfuryl fluoride, https://doi.org/10.1021/jp806368u,SO2F2,296.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_Papadimitriou(2008)_296K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO2F2_Pradayrol(1996)_298K_121.1-209.5nm.txt,NaN,209.5,Pradayrol(1996),Absorption measurements at a spectral resolution of 0.1 nm using a microwave powered hydrogen-argon lamp as light source,121.1,sulfuryl fluoride, https://doi.org/10.1051/jp3:1996143,SO2F2,298.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO2F2/SO2F2_Pradayrol(1996)_298K_121.csv

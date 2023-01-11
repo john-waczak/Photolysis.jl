@@ -1,5 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Shama(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4(CH3)Br_Shama(1991)_298K_172.2-282.7nm.txt,"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 17) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",p-C6H4(CH3)Br,p-bromotoluene,"
-
-  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
-  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;",data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4(CH3)Br/p-C6H4(CH3)Br_Shama(1991)_298K_172.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/p-C6H4(CH3)Br_Shama(1991)_298K_172.2-282.7nm.txt,NaN,282.7,Shama(1991),"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 17) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",172.2,p-bromotoluene,,p-C6H4(CH3)Br,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/p-C6H4(CH3)Br/p-C6H4(CH3)Br_Shama(1991)_298K_172.csv

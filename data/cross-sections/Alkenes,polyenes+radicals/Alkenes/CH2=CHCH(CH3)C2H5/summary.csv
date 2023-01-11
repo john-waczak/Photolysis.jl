@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH(CH3)C2H5_JonesTaylor(1955)_298K_167-191nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",CH2=CHCH(CH3)C2H5,3-methyl-1-pentene,"
-
-  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
-  Anal. Chem. 27, 228-237 (1955); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH(CH3)C2H5/CH2=CHCH(CH3)C2H5_JonesTaylor(1955)_298K_167-191nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH(CH3)C2H5_JonesTaylor(1955)_298K_167-191nm.txt",NaN,191.0,JonesTaylor(1955),"Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",167.0,3-methyl-1-pentene, https://doi.org/10.1021/ac60098a015,CH2=CHCH(CH3)C2H5,298.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkenes/CH2=CHCH(CH3)C2H5/CH2=CHCH(CH3)C2H5_JonesTaylor(1955)_298K_167-191nm.csv"

@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Etzkorn(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Etzkorn(1999)_298K_250-291nm.txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),o-(CH3)C6H4OH,"1,2-methylphenol, o-cresol","
-
-  T. Etzkorn, B. Klotz, S. Sørensen, I.V. Patroescu, I. Barnes, K.H. Becker, and U. Platt, ""Gas-phase absorption cross sections of 24 monocyclic aromatic hydrocarbons in the UV and IR spectral ranges"",
-  Atmos. Environ. 33, 525-540 (1999); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Etzkorn(1999)_298K_250-291nm.csv"
-298.0,Trost(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Trost(1997)_298K_251.1-290.1nm.txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.32 nm),o-(CH3)C6H4OH,"1,2-methylphenol, o-cresol","
-
-  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
-  Atmos. Environ. 31, 3999-4008 (1997); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Trost(1997)_298K_251.csv"
-298.0,Trost(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Trost(1997)_298K_276nm(max).txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),o-(CH3)C6H4OH,"1,2-methylphenol, o-cresol","
-
-  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
-  Atmos. Environ. 31, 3999-4008 (1997); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Trost(1997)_298K_276nm(max).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Etzkorn(1999)_298K_250-291nm.txt",NaN,291.0,Etzkorn(1999),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),250.0,"1,2-methylphenol, o-cresol", https://doi.org/10.1016/S1352-2310(98)00289-1,o-(CH3)C6H4OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Etzkorn(1999)_298K_250-291nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Trost(1997)_298K_251.1-290.1nm.txt",NaN,290.1,Trost(1997),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.32 nm),251.1,"1,2-methylphenol, o-cresol", https://doi.org/10.1016/S1352-2310(97)00214-8,o-(CH3)C6H4OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Trost(1997)_298K_251.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/o-(CH3)C6H4OH_Trost(1997)_298K_276nm(max).txt",NaN,NaN,Trost(1997),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),276.0,"1,2-methylphenol, o-cresol", https://doi.org/10.1016/S1352-2310(97)00214-8,o-(CH3)C6H4OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/o-(CH3)C6H4OH/o-(CH3)C6H4OH_Trost(1997)_298K_276nm(max).csv"

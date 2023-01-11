@@ -1,28 +1,6 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Lightfoot(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Lightfoot(1992)_298K_210-300nm(rec).txt,Recommendation based on a smooth fit to the data of,c-C6H11O2,cyclohexylperoxy radical,"
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Lightfoot(1992)_298K_210-300nm(rec).csv
-296.0,Platz(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Platz(1999)_296K_220-300nm.txt,Pulse radiolysis (SF,c-C6H11O2,cyclohexylperoxy radical,"
-
-  J. Platz, J. Sehested, O.J. Nielsen, and T.J. Wallington, ""Atmospheric chemistry of cyclohexane: UV spectra of c-C",data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Platz(1999)_296K_220-300nm.csv
-296.0,Platz(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Platz(1999)_296K_250nm.txt,Pulse radiolysis (SF,c-C6H11O2,cyclohexylperoxy radical,"
-
-  J. Platz, J. Sehested, O.J. Nielsen, and T.J. Wallington, ""Atmospheric chemistry of trimethoxymethane, (CH",data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Platz(1999)_296K_250nm.csv
-298.0,Rowley(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Rowley(1991)_298K_210-300nm.txt,Flash photolysis technique coupled with UV absorption spectrometry; photolysis of flowing c-C,c-C6H11O2,cyclohexylperoxy radical,"
-
-  D.M. Rowley, P.D. Lightfoot, R. Lesclaux, and T.J. Wallington, ""UV spectrum and self-reaction kinetics of the cyclohexylperoxy radical"",
-  J. Chem. Soc. Faraday Trans. 87, 3221-3226 (1991); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Rowley(1991)_298K_210-300nm.csv
-298.0,Rowley(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Rowley(1991)_298K_210-300nm(resc,L-rev).txt",L-rev = Lightfoot review,c-C6H11O2,cyclohexylperoxy radical,"
-
-  D.M. Rowley, P.D. Lightfoot, R. Lesclaux, and T.J. Wallington, ""UV spectrum and self-reaction kinetics of the cyclohexylperoxy radical"",
-  J. Chem. Soc. Faraday Trans. 87, 3221-3226 (1991); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Rowley(1991)_298K_210-300nm(resc,L-rev).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Lightfoot(1992)_298K_210-300nm(rec).txt,NaN,300.0,Lightfoot(1992),Recommendation based on a smooth fit to the data of,210.0,cyclohexylperoxy radical, https://doi.org/10.1016/0960-1686(92)90423-I,c-C6H11O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Lightfoot(1992)_298K_210-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Platz(1999)_296K_220-300nm.txt,NaN,300.0,Platz(1999),Pulse radiolysis (SF,220.0,cyclohexylperoxy radical, https://doi.org/10.1021/jp984195x,c-C6H11O2,296.0,data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Platz(1999)_296K_220-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Platz(1999)_296K_250nm.txt,NaN,NaN,Platz(1999),Pulse radiolysis (SF,250.0,cyclohexylperoxy radical, https://doi.org/10.1021/jp9827476,c-C6H11O2,296.0,data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Platz(1999)_296K_250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Rowley(1991)_298K_210-300nm.txt,NaN,300.0,Rowley(1991),Flash photolysis technique coupled with UV absorption spectrometry; photolysis of flowing c-C,210.0,cyclohexylperoxy radical, https://doi.org/10.1039/FT9918703221,c-C6H11O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Rowley(1991)_298K_210-300nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/c-C6H11O2_Rowley(1991)_298K_210-300nm(resc,L-rev).txt",NaN,300.0,Rowley(1991),L-rev = Lightfoot review,210.0,cyclohexylperoxy radical, https://doi.org/10.1039/FT9918703221,c-C6H11O2,298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/c-C6H11O2/c-C6H11O2_Rowley(1991)_298K_210-300nm(resc,L-rev).csv"

@@ -1,55 +1,11 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Anastasi(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Anastasi(1978)_298K_222-280nm(resc,L-rev).txt",L-rev = Lightfoot review,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  C. Anastasi, I.W.M. Smith, and D.A. Parkes, ""Flash photolysis study of the spectra of CH","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Anastasi(1978)_298K_222-280nm(resc,L-rev).csv"
-298.0,KirschParkes(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_KirschParkes(1977)_298K_240nm.txt",Absorption cross section as quoted in the reviews of,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  L.J. Kirsch and A. Parkes, ""Absorption cross sections of the 1,1,1-dimethylethylperoxy radical (tert-butylperoxy radical) t-C","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_KirschParkes(1977)_298K_240nm.csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm.txt",Original values calibrated to the CH,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm.csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,L-rev).txt",L-rev = Lightfoot review,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,L-rev).csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,W-rev).txt",W-rev = Wallington review,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,W-rev).csv"
-298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1992)_298K_210-280nm(rec).txt",Recommendation based on a smooth fit to the data of,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1992)_298K_210-280nm(rec).csv"
-298.0,Parkes(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Parkes(1975)_298K_222-293nm.txt",Data have been taken from a figure by,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  D.A. Parkes, ""The roles of alkylperoxy and alkoxy radicals in alky radical oxidation at room temperature"",
-  Proc. 15th Int. Symp. Combustion, 795-805 (1975)
-
-
-","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Parkes(1975)_298K_222-293nm.csv"
-298.0,Tomas(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(meas).txt",Measurements by flash photolysis of Br,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  A. Tomas, E. Villenave, and R. Lesclaux, ""Kinetics of the (CH","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(meas).csv"
-298.0,Tomas(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(smoo).txt",Measurements by flash photolysis of Br,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  A. Tomas, E. Villenave, and R. Lesclaux, ""Kinetics of the (CH","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(smoo).csv"
-298.0,Wallington(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Wallington(1992)_298K_210-280nm(rec).txt",Recommendation based on the results of,"t-C4H9O2,(CH3)3CO2","1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical","
-
-  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Ultraviolet absorption cross sections and reaction kinetics and mechanisms for peroxy radicals in the gas phase"",
-  Chem. Rev. 92, 667-710 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Wallington(1992)_298K_210-280nm(rec).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Anastasi(1978)_298K_222-280nm(resc,L-rev).txt",NaN,280.0,Anastasi(1978),L-rev = Lightfoot review,222.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/F19787401693,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Anastasi(1978)_298K_222-280nm(resc,L-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_KirschParkes(1977)_298K_240nm.txt",NaN,NaN,KirschParkes(1977),Absorption cross section as quoted in the reviews of,240.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical",,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_KirschParkes(1977)_298K_240nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm.txt",NaN,280.0,Lightfoot(1990),Original values calibrated to the CH,210.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/FT9908602927,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,L-rev).txt",NaN,280.0,Lightfoot(1990),L-rev = Lightfoot review,210.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/FT9908602927,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,L-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,W-rev).txt",NaN,280.0,Lightfoot(1990),W-rev = Wallington review,210.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/FT9908602927,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1990)_298K_210-280nm(resc,W-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Lightfoot(1992)_298K_210-280nm(rec).txt",NaN,280.0,Lightfoot(1992),Recommendation based on a smooth fit to the data of,210.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1016/0960-1686(92)90423-I,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Lightfoot(1992)_298K_210-280nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Parkes(1975)_298K_222-293nm.txt",NaN,293.0,Parkes(1975),Data have been taken from a figure by,222.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical",,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Parkes(1975)_298K_222-293nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(meas).txt",NaN,275.0,Tomas(2000),Measurements by flash photolysis of Br,200.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/A909377J,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(meas).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(smoo).txt",NaN,275.0,Tomas(2000),Measurements by flash photolysis of Br,200.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1039/A909377J,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Tomas(2000)_298K_200-275nm(smoo).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2_Wallington(1992)_298K_210-280nm(rec).txt",NaN,280.0,Wallington(1992),Recommendation based on the results of,210.0,"1,1,1-dimethylethylperoxy radical, tert-butylperoxy radical", https://doi.org/10.1021/cr00012a008,"t-C4H9O2,(CH3)3CO2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/t-C4H9O2,(CH3)3CO2/t-C4H9O2,(CH3)3CO2_Wallington(1992)_298K_210-280nm(rec).csv"

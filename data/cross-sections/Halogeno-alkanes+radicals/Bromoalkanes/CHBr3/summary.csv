@@ -1,265 +1,52 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CausleyRussell(1975)_298K_112.0-200.0nm.txt,High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,CHBr3,"tribromomethane, bromoform","
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CausleyRussell(1975)_298K_112.csv
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CausleyRussell(1975)_298K_184.2-270.5nm.txt,High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,CHBr3,"tribromomethane, bromoform","
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CausleyRussell(1975)_298K_184.csv
-298.0,CoxPenkett(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CoxPenkett(1987)_298K_204-345nm.txt,The absorption spectrum depicted on p. 267 has been digitized,CHBr3,"tribromomethane, bromoform","
-
-  R.A. Cox and S.A. Penkett, 1987, personal communication to",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CoxPenkett(1987)_298K_204-345nm.csv
-210.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_210K_169-290nm(int-c).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_210K_169-290nm(int-c).csv
-210.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_210K_170-290nm(2nm).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_210K_170-290nm(2nm).csv
-230.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_230K_169-290nm(int-c).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_230K_169-290nm(int-c).csv
-230.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_230K_170-290nm(2nm).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_230K_170-290nm(2nm).csv
-250.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_250K_169-290nm(int-c).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_250K_169-290nm(int-c).csv
-250.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_250K_170-290nm(2nm).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_250K_170-290nm(2nm).csv
-270.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_270K_169-290nm(int-c).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_270K_169-290nm(int-c).csv
-270.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_270K_170-290nm(2nm).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_270K_170-290nm(2nm).csv
-295.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_295K_169-290nm(int-c).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_295K_169-290nm(int-c).csv
-295.0,Gillotay(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_295K_170-310nm(2nm).txt,"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
-to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",CHBr3,"tribromomethane, bromoform","
-
-  D. Gillotay, A. Jenouvrier, B. Coquart, M.F. Mérienne, and P.C. Simon, ""Ultraviolet absorption cross-section of bromoform in the temperature range 295-240 K"",
-  Aeronomica Acta A 348, 1-22 (1989);
-Planet. Space Sci. 37, 1127-1140 (1989);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_295K_170-310nm(2nm).csv
-210.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_IUPAC(2008)_210K_190-340nm(rec).txt,IUPAC(2008) recommendation:,CHBr3,"tribromomethane, bromoform","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_IUPAC(2008)_210K_190-340nm(rec).csv
-296.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_IUPAC(2008)_296K_190-340nm(rec).txt,IUPAC(2008) recommendation:,CHBr3,"tribromomethane, bromoform","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_IUPAC(2008)_296K_190-340nm(rec).csv
-296.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_JPL-2015(2015)_296K_170-350nm(rec).txt,JPL-2015 recommendation:,CHBr3,"tribromomethane, bromoform","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_JPL-2015(2015)_296K_170-350nm(rec).csv
-210.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_210K_289-343nm(int-c).txt,"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_210K_289-343nm(int-c).csv
-210.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_210K_290-340nm(calc).txt,Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_210K_290-340nm(calc).csv
-230.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_230K_289-343nm(int-c).txt,"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_230K_289-343nm(int-c).csv
-230.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_230K_290-340nm(calc).txt,Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_230K_290-340nm(calc).csv
-250.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_250K_289-343nm(int-c).txt,"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_250K_289-343nm(int-c).csv
-250.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_250K_290-340nm(calc).txt,Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_250K_290-340nm(calc).csv
-256.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_256K_286-334nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_256K_286-334nm(meas).csv
-266.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_266K_286-338nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_266K_286-338nm(meas).csv
-270.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_270K_289-343nm(int-c).txt,"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_270K_289-343nm(int-c).csv
-270.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_270K_290-340nm(calc).txt,Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_270K_290-340nm(calc).csv
-276.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_276K_286-342nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_276K_286-342nm(meas).csv
-286.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_286K_286-346nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_286K_286-346nm(meas).csv
-290.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_290K_289-343nm(int-c).txt,"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_290K_289-343nm(int-c).csv
-295.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_295K_290-340nm(calc).txt,Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_295K_290-340nm(calc).csv
-296.0,Moortgat(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_296K_286-362nm(meas).txt,Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),CHBr3,"tribromomethane, bromoform","
-
-  G.K. Moortgat, R. Meller, and W. Schneider, ""Temperature dependence (256 - 296 K) of the absorption cross-sections of bromoform in the wavelength range 285 - 360 nm"",
-  in: The Tropospheric Chemistry of Ozone in the Polar Regions, edited by H. Niki and K.H. Becker (Springer-Verlag, Berlin, 1993), pp. 359-369
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_296K_286-362nm(meas).csv
-260.0,Papanastasiou(2014),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_260K_300,305nm.txt",Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr","data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_260K_300,305nm.csv"
-270.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_270K_300-320nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_270K_300-320nm.csv
-280.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_280K_300-340nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_280K_300-340nm.csv
-296.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_296K_300-345nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_296K_300-345nm.csv
-310.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_310K_300-345nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_310K_300-345nm.csv
-320.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_320K_300-345nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_320K_300-345nm.csv
-330.0,Papanastasiou(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_330K_300-345nm.txt,Absorption measurements using cavity ringdown spectroscopy,CHBr3,"tribromomethane, bromoform","
-
-  D.K. Papanastasiou, S.A. McKeen, and J.B. Burkholder, ""The very short-lived ozone depleting substance CHBr",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_330K_300-345nm.csv
-294.0,SchneiderMeller(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_SchneiderMeller(1988)_294K_246-362nm.txt,Absorption cross sections (resolution 0.5 nm) as published on the CD-ROM of,CHBr3,"tribromomethane, bromoform","
-
-  W. Schneider and R. Meller, 1988, personal communication to",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_SchneiderMeller(1988)_294K_246-362nm.csv
-300.0,VatsaVolpp(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_VatsaVolpp(2001)_300K_121.567nm.txt,Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,CHBr3,"tribromomethane, bromoform","
-
-  R.K. Vatsa and H.-R. Volpp, ""Absorption cross sections for some atmospherically important molecules at the H atom Lyman-α wavelength (121.567 nm)"",
-  Chem. Phys. Lett. 340, 289-295 (2001); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_VatsaVolpp(2001)_300K_121.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CausleyRussell(1975)_298K_112.0-200.0nm.txt,NaN,200.0,CausleyRussell(1975),High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,112.0,"tribromomethane, bromoform", https://doi.org/10.1063/1.430535,CHBr3,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CausleyRussell(1975)_298K_112.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CausleyRussell(1975)_298K_184.2-270.5nm.txt,NaN,270.5,CausleyRussell(1975),High-resolution measurements using a VUV spectrophotometer equipped with a bipartite grating and a hydrogen discharge lamp as a light source,184.2,"tribromomethane, bromoform", https://doi.org/10.1063/1.430535,CHBr3,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CausleyRussell(1975)_298K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_CoxPenkett(1987)_298K_204-345nm.txt,NaN,345.0,CoxPenkett(1987),The absorption spectrum depicted on p. 267 has been digitized,204.0,"tribromomethane, bromoform",,CHBr3,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_CoxPenkett(1987)_298K_204-345nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_210K_169-290nm(int-c).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",169.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_210K_169-290nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_210K_170-290nm(2nm).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",170.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_210K_170-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_230K_169-290nm(int-c).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",169.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_230K_169-290nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_230K_170-290nm(2nm).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",170.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_230K_170-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_250K_169-290nm(int-c).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",169.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_250K_169-290nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_250K_170-290nm(2nm).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",170.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_250K_170-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_270K_169-290nm(int-c).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",169.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_270K_169-290nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_270K_170-290nm(2nm).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",170.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_270K_170-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_295K_169-290nm(int-c).txt,NaN,290.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",169.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_295K_169-290nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Gillotay(1989)_295K_170-310nm(2nm).txt,NaN,310.0,Gillotay(1989),"Absorption measurements using two different experimental equipments: a) with a fixed optical path of 200 cm for wavelengths ranging from 170
+to 300 nm and b) with a multiple reflection cell in the wavelength region 252-310 nm (spectral resolution not indicated)",170.0,"tribromomethane, bromoform", https://doi.org/10.1016/0032-0633(89)90084-6,CHBr3,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Gillotay(1989)_295K_170-310nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_IUPAC(2008)_210K_190-340nm(rec).txt,NaN,340.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-8-4141-2008,CHBr3,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_IUPAC(2008)_210K_190-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_IUPAC(2008)_296K_190-340nm(rec).txt,NaN,340.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-8-4141-2008,CHBr3,296.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_IUPAC(2008)_296K_190-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_JPL-2010(2011)_295-296K_170-362nm(rec).txt,296.0,362.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",170.0,"tribromomethane, bromoform",,CHBr3,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_JPL-2010(2011)_295-296K_170-362nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_JPL-2015(2015)_296K_170-350nm(rec).txt,NaN,350.0,JPL-2015(2015),JPL-2015 recommendation:,170.0,"tribromomethane, bromoform",,CHBr3,296.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_JPL-2015(2015)_296K_170-350nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_210K_289-343nm(int-c).txt,NaN,343.0,Moortgat(1993),"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",289.0,"tribromomethane, bromoform",,CHBr3,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_210K_289-343nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_210K_290-340nm(calc).txt,NaN,340.0,Moortgat(1993),Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,290.0,"tribromomethane, bromoform",,CHBr3,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_210K_290-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_230K_289-343nm(int-c).txt,NaN,343.0,Moortgat(1993),"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",289.0,"tribromomethane, bromoform",,CHBr3,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_230K_289-343nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_230K_290-340nm(calc).txt,NaN,340.0,Moortgat(1993),Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,290.0,"tribromomethane, bromoform",,CHBr3,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_230K_290-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_250K_289-343nm(int-c).txt,NaN,343.0,Moortgat(1993),"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",289.0,"tribromomethane, bromoform",,CHBr3,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_250K_289-343nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_250K_290-340nm(calc).txt,NaN,340.0,Moortgat(1993),Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,290.0,"tribromomethane, bromoform",,CHBr3,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_250K_290-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_256K_286-334nm(meas).txt,NaN,334.0,Moortgat(1993),Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),286.0,"tribromomethane, bromoform",,CHBr3,256.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_256K_286-334nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_266K_286-338nm(meas).txt,NaN,338.0,Moortgat(1993),Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),286.0,"tribromomethane, bromoform",,CHBr3,266.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_266K_286-338nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_270K_289-343nm(int-c).txt,NaN,343.0,Moortgat(1993),"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",289.0,"tribromomethane, bromoform",,CHBr3,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_270K_289-343nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_270K_290-340nm(calc).txt,NaN,340.0,Moortgat(1993),Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,290.0,"tribromomethane, bromoform",,CHBr3,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_270K_290-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_276K_286-342nm(meas).txt,NaN,342.0,Moortgat(1993),Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),286.0,"tribromomethane, bromoform",,CHBr3,276.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_276K_286-342nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_286K_286-346nm(meas).txt,NaN,346.0,Moortgat(1993),Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),286.0,"tribromomethane, bromoform",,CHBr3,286.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_286K_286-346nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_290K_289-343nm(int-c).txt,NaN,343.0,Moortgat(1993),"289-343nm(int-c), i.e., averaged over the spectral intervals of 500 cm",289.0,"tribromomethane, bromoform",,CHBr3,290.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_290K_289-343nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_295K_290-340nm(calc).txt,NaN,340.0,Moortgat(1993),Temperature dependence for the 290- to 340-nm and 210- to 300-K ranges calculated:,290.0,"tribromomethane, bromoform",,CHBr3,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_295K_290-340nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Moortgat(1993)_296K_286-362nm(meas).txt,NaN,362.0,Moortgat(1993),Averages over 2-nm intervals of the spectrum measured at high resolution (0.07 nm),286.0,"tribromomethane, bromoform",,CHBr3,296.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Moortgat(1993)_296K_286-362nm(meas).csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_260K_300,305nm.txt",NaN,305.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,260.0,"data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_260K_300,305nm.csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_270K_300-320nm.txt,NaN,320.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_270K_300-320nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_280K_300-340nm.txt,NaN,340.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,280.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_280K_300-340nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_296K_300-345nm.txt,NaN,345.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,296.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_296K_300-345nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_310K_300-345nm.txt,NaN,345.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,310.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_310K_300-345nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_320K_300-345nm.txt,NaN,345.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,320.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_320K_300-345nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_Papanastasiou(2014)_330K_300-345nm.txt,NaN,345.0,Papanastasiou(2014),Absorption measurements using cavity ringdown spectroscopy,300.0,"tribromomethane, bromoform", https://doi.org/10.5194/acp-14-3017-2014,CHBr3,330.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_Papanastasiou(2014)_330K_300-345nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_SchneiderMeller(1988)_294K_246-362nm.txt,NaN,362.0,SchneiderMeller(1988),Absorption cross sections (resolution 0.5 nm) as published on the CD-ROM of,246.0,"tribromomethane, bromoform",,CHBr3,294.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_SchneiderMeller(1988)_294K_246-362nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3_VatsaVolpp(2001)_300K_121.567nm.txt,NaN,NaN,VatsaVolpp(2001),Absorption cross section at the H atom Lyman-α wavelength (121.567 nm) employing narrow band (Δλ = 0.0006 nm) laser radiation generated by third-order sum-difference frequency conversion,121.567,"tribromomethane, bromoform", https://doi.org/10.1016/S0009-2614(01)00373-6,CHBr3,300.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CHBr3/CHBr3_VatsaVolpp(2001)_300K_121.csv

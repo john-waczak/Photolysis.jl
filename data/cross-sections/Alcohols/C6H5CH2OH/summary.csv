@@ -1,18 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,ElDib(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C6H5CH2OH_ElDib(2006)_298K_220-280nm(FA).txt,Photolysis of a slow flowing mixture of Cl,C6H5CH2OH,benzylalcohol,"
-
-  G. El Dib, A. Chakir, E. Roth, J. Brion, and D. Daumont, ""Study of benzylperoxy radical using laser photolysis: Ultraviolet spectrum, self-reaction, and reaction with HO",data/cross-sections/Alcohols/C6H5CH2OH/C6H5CH2OH_ElDib(2006)_298K_220-280nm(FA).csv
-298.0,Gingell(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C6H5CH2OH_Gingell(1998)_298K_114.8-247.8.0nm(opt).txt,High-resolution (≤ 0.05 nm) absorption measurements using synchrotron radiation as a light source,C6H5CH2OH,benzylalcohol,"
-
-  J.M. Gingell, G. Marston, N.J. Mason, H. Zhao, and M.R.F. Siggel, ""On the electronic spectroscopy of benzyl alcohol"",
-  Chem. Phys. 237, 443-449 1998; 
-
-
-  DOI: ",data/cross-sections/Alcohols/C6H5CH2OH/C6H5CH2OH_Gingell(1998)_298K_114.csv
-298.0,Gingell(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C6H5CH2OH_Gingell(1998)_298K_84.0-239.4nm(EEL).txt,The electron energy-loss (EEL) spectrum was measured at 5-15 eV at a resolution of ~50 meV; the data were converted into relative absorption cross sections by the method of,C6H5CH2OH,benzylalcohol,"
-
-  J.M. Gingell, G. Marston, N.J. Mason, H. Zhao, and M.R.F. Siggel, ""On the electronic spectroscopy of benzyl alcohol"",
-  Chem. Phys. 237, 443-449 1998; 
-
-
-  DOI: ",data/cross-sections/Alcohols/C6H5CH2OH/C6H5CH2OH_Gingell(1998)_298K_84.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C6H5CH2OH_ElDib(2006)_298K_220-280nm(FA).txt,NaN,280.0,ElDib(2006),Photolysis of a slow flowing mixture of Cl,220.0,benzylalcohol, https://doi.org/10.1021/jp056860p,C6H5CH2OH,298.0,data/cross-sections/Alcohols/C6H5CH2OH/C6H5CH2OH_ElDib(2006)_298K_220-280nm(FA).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/C6H5CH2OH_Gingell(1998)_298K_84.0-239.4nm(EEL).txt,NaN,239.4,Gingell(1998),The electron energy-loss (EEL) spectrum was measured at 5-15 eV at a resolution of ~50 meV; the data were converted into relative absorption cross sections by the method of,84.0,benzylalcohol, https://doi.org/10.1016/S0301-0104(98)00290-0,C6H5CH2OH,298.0,data/cross-sections/Alcohols/C6H5CH2OH/C6H5CH2OH_Gingell(1998)_298K_84.csv

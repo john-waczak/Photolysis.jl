@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Smialek(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OCH2CH(CH3)2_Smialek(2015)_298K_115-250nm.txt,Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,HC(O)OCH2CH(CH3)2,isobutyl formate,"
-
-  M.A. Smialek, M. Labuda, J. Guthmuller, S.V. Hoffmann, C. Jones, M.A. MacDonald, L. Zuin, N.J. Mason, and P. Limão-Vieira, ""Valence and ionic lowest-lying electronic states of isobutyl formate studied by high-resolution vacuum ultraviolet photoabsorption, photoelectron spectroscopy, and ab initio calculations"",
-  J. Phys. Chem. A 119, 8647-8656 (2015); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/HC(O)OCH2CH(CH3)2/HC(O)OCH2CH(CH3)2_Smialek(2015)_298K_115-250nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/HC(O)OCH2CH(CH3)2_Smialek(2015)_298K_115-250nm.txt,NaN,250.0,Smialek(2015),Absorption measurements at a resolution of 0.1 nm using synchrotron radiation,115.0,isobutyl formate, https://doi.org/10.1021/acs.jpca.5b06053,HC(O)OCH2CH(CH3)2,298.0,data/cross-sections/Organics (carbonyls)/Esters/HC(O)OCH2CH(CH3)2/HC(O)OCH2CH(CH3)2_Smialek(2015)_298K_115-250nm.csv

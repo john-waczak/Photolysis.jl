@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-222.0,ChenOsgood(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_172-261nm.txt,"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",Zn(CH3)2,dimethylzinc,"
-
-  C.J. Chen and R.M. Osgood, ""A spectroscopic study of the excited states of dimethylzinc, dimethylcadmium, and dimethylmercury"",
-  J. Chem. Phys. 81, 327-334 (1984);
-
-
-  DOI: ",data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_172-261nm.csv
-222.0,ChenOsgood(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_185-248nm.txt,"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",Zn(CH3)2,dimethylzinc,"
-
-  C.J. Chen and R.M. Osgood, ""A spectroscopic study of the excited states of dimethylzinc, dimethylcadmium, and dimethylmercury"",
-  J. Chem. Phys. 81, 327-334 (1984);
-
-
-  DOI: ",data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_185-248nm.csv
-222.0,ChenOsgood(1984),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_195-215nm(max).txt,"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",Zn(CH3)2,dimethylzinc,"
-
-  C.J. Chen and R.M. Osgood, ""A spectroscopic study of the excited states of dimethylzinc, dimethylcadmium, and dimethylmercury"",
-  J. Chem. Phys. 81, 327-334 (1984);
-
-
-  DOI: ",data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_195-215nm(max).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_172-261nm.txt,NaN,261.0,ChenOsgood(1984),"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",172.0,dimethylzinc, https://doi.org/10.1063/1.447309,Zn(CH3)2,222.0,data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_172-261nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_185-248nm.txt,NaN,248.0,ChenOsgood(1984),"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",185.0,dimethylzinc, https://doi.org/10.1063/1.447309,Zn(CH3)2,222.0,data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_185-248nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Unclassified/Zn(CH3)2_ChenOsgood(1984)_222K_195-215nm(max).txt,NaN,215.0,ChenOsgood(1984),"The experimental setup consisted of a nitrogen-purged monochromator with a resolution of 0.06 nm, a highly stabilized deuterium lamp, an optical cell with temperature control (212 to 392 K), a photomultiplier at the exit slit of the monochromator, and a microcomputer",195.0,dimethylzinc, https://doi.org/10.1063/1.447309,Zn(CH3)2,222.0,data/cross-sections/Unclassified/Zn(CH3)2/Zn(CH3)2_ChenOsgood(1984)_222K_195-215nm(max).csv

@@ -1,106 +1,17 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Calvert(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Calvert(2000)_298K_220-490nm(rec).txt,Recommended values:,CH3COCOH,"methylglyoxal, MGLY","
-
-  J.G. Calvert, R. Atkinson, J.A. Kerr, S. Madronich, G.K. Moortgat, T.J. Wallington, and G. Yarwood, ""Primary Photochemical Processes in Some Important Light-Absorbing Products of Atmospheric Oxidation of the Alkenes"",
-  in: The mechanisms of atmospheric oxidation of the alkenes, Oxford University Press, New York - Oxford, 2000, pp. 372-375
-
-
-",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Calvert(2000)_298K_220-490nm(rec).csv
-293.0,Chen(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Chen(2000)_293K_290-440nm.txt,Measurements using dye laser photolysis in combination with cavity ring-down spectroscopy,CH3COCOH,"methylglyoxal, MGLY","
-
-  Y. Chen, W. Wang, and L. Zhu, ""Wavelength-dependent photolysis of methylglyoxal in the 290-440 nm region"",
-  J. Phys. Chem. A 104, 11126-11131 (2000); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Chen(2000)_293K_290-440nm.csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_IUPAC(2006)_298K_225-410nm(rec).txt,IUPAC(2006) recommendation:,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_IUPAC(2006)_298K_225-410nm(rec).csv
-298.0,IUPAC(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_IUPAC(2006)_298K_401-475nm(rec).txt,IUPAC(2006) recommendation:,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume II - gas phase reactions of organic species"",
-  Atmos. Chem. Phys. 6, 3625-4055 (2006); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_IUPAC(2006)_298K_401-475nm(rec).csv
-298.0,KochMoortgat(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_KochMoortgat(1998)_298K_260-440nm.txt,Absorption measurements at a resolution of 8.5 ± 0.1 nm using a Xe arc lamp as a light source,CH3COCOH,"methylglyoxal, MGLY","
-
-  S. Koch and G. K. Moortgat, ""Photochemistry of methylglyoxal in the vapor phase"",
-  J. Phys. Chem. A, 102, 9142-9153 (1998);
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_KochMoortgat(1998)_298K_260-440nm.csv
-387.0,KyleOrchard(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_KyleOrchard(1977)_387K_436nm.txt,Photolysis of methylglyoxal at 436 nm,CH3COCOH,"methylglyoxal, MGLY","
-
-  E. Kyle and S.W. Orchard, ""The photolysis of methyl glyoxal vapour at 436 nm"",
-  J. Photochem. 7, 305-317 (1977); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_KyleOrchard(1977)_387K_436nm.csv
-296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_218-494nm(0.07nm).txt,High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Meller, W. Raber, J.N. Crowley, M.E. Jenkin, and G.K. Moortgat, ""The UV-visible absorption spectrum of methylglyoxal"",
-  J. Photochem. Photobiol. A: Chem. 62, 163- 171 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_218-494nm(0.csv
-296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_219-493nm(1nm).txt,High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Meller, W. Raber, J.N. Crowley, M.E. Jenkin, and G.K. Moortgat, ""The UV-visible absorption spectrum of methylglyoxal"",
-  J. Photochem. Photobiol. A: Chem. 62, 163- 171 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_219-493nm(1nm).csv
-296.0,Meller(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_225-410nm(5nm).txt,High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Meller, W. Raber, J.N. Crowley, M.E. Jenkin, and G.K. Moortgat, ""The UV-visible absorption spectrum of methylglyoxal"",
-  J. Photochem. Photobiol. A: Chem. 62, 163- 171 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_225-410nm(5nm).csv
-296.0,Meller(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_432.01-453.55nm(max,min).txt",High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,CH3COCOH,"methylglyoxal, MGLY","
-
-  R. Meller, W. Raber, J.N. Crowley, M.E. Jenkin, and G.K. Moortgat, ""The UV-visible absorption spectrum of methylglyoxal"",
-  J. Photochem. Photobiol. A: Chem. 62, 163- 171 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_432.csv
-298.0,Plum(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Plum(1983)_298K_234.0-471.3nm.txt,Absorption measurements by using a Cary 17-D spectrophotometer,CH3COCOH,"methylglyoxal, MGLY","
-
-  C.N. Plum, E. Sanhueza, R. Atkinson, W.P.L. Carter, and J.N. Pitts, Jr., ""OH radical rate constants and photolysis rates of a-dicarbonyls"",
-  Environ. Sci. Technol. 17, 479-484 (1983); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Plum(1983)_298K_234.csv
-248.0,Staffelbach(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_248K_225-463nm.txt,"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",CH3COCOH,"methylglyoxal, MGLY","
-
-  T.A. Staffelbach, J.J. Orlando, G.S. Tyndall, and J.G. Calvert, ""The UV-visible absorption spectrum and photolysis quantum yields of methylglyoxal"",
-  J. Geophys. Res. 100(D7), 14189-14198 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_248K_225-463nm.csv
-273.0,Staffelbach(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_273K_225-463nm.txt,"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",CH3COCOH,"methylglyoxal, MGLY","
-
-  T.A. Staffelbach, J.J. Orlando, G.S. Tyndall, and J.G. Calvert, ""The UV-visible absorption spectrum and photolysis quantum yields of methylglyoxal"",
-  J. Geophys. Res. 100(D7), 14189-14198 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_273K_225-463nm.csv
-298.0,Staffelbach(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_298K_200-475nm.txt,"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",CH3COCOH,"methylglyoxal, MGLY","
-
-  T.A. Staffelbach, J.J. Orlando, G.S. Tyndall, and J.G. Calvert, ""The UV-visible absorption spectrum and photolysis quantum yields of methylglyoxal"",
-  J. Geophys. Res. 100(D7), 14189-14198 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_298K_200-475nm.csv
-298.0,Staffelbach(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_298K_225-463nm.txt,"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",CH3COCOH,"methylglyoxal, MGLY","
-
-  T.A. Staffelbach, J.J. Orlando, G.S. Tyndall, and J.G. Calvert, ""The UV-visible absorption spectrum and photolysis quantum yields of methylglyoxal"",
-  J. Geophys. Res. 100(D7), 14189-14198 (1995); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_298K_225-463nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Calvert(2000)_298K_220-490nm(rec).txt,NaN,490.0,Calvert(2000),Recommended values:,220.0,"methylglyoxal, MGLY",,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Calvert(2000)_298K_220-490nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Chen(2000)_293K_290-440nm.txt,NaN,440.0,Chen(2000),Measurements using dye laser photolysis in combination with cavity ring-down spectroscopy,290.0,"methylglyoxal, MGLY", https://doi.org/10.1021/jp002262t,CH3COCOH,293.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Chen(2000)_293K_290-440nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_IUPAC(2006)_298K_225-410nm(rec).txt,NaN,410.0,IUPAC(2006),IUPAC(2006) recommendation:,225.0,"methylglyoxal, MGLY", https://doi.org/10.5194/acp-6-3625-2006,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_IUPAC(2006)_298K_225-410nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_IUPAC(2006)_298K_401-475nm(rec).txt,NaN,475.0,IUPAC(2006),IUPAC(2006) recommendation:,401.0,"methylglyoxal, MGLY", https://doi.org/10.5194/acp-6-3625-2006,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_IUPAC(2006)_298K_401-475nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_JPL-2010(2011)_295-298K_200-493nm(rec).txt,298.0,493.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",200.0,"methylglyoxal, MGLY",,CH3COCOH,295.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_JPL-2010(2011)_295-298K_200-493nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_KochMoortgat(1998)_298K_260-440nm.txt,NaN,440.0,KochMoortgat(1998),Absorption measurements at a resolution of 8.5 ± 0.1 nm using a Xe arc lamp as a light source,260.0,"methylglyoxal, MGLY", https://doi.org/10.1021/jp981915r,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_KochMoortgat(1998)_298K_260-440nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_KyleOrchard(1977)_387K_436nm.txt,NaN,NaN,KyleOrchard(1977),Photolysis of methylglyoxal at 436 nm,436.0,"methylglyoxal, MGLY", https://doi.org/10.1016/0047-2670(77)80012-9,CH3COCOH,387.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_KyleOrchard(1977)_387K_436nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_218-494nm(0.07nm).txt,NaN,494.0,Meller(1991),High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,218.0,"methylglyoxal, MGLY", https://doi.org/10.1016/1010-6030(91)87017-P,CH3COCOH,296.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_218-494nm(0.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_219-493nm(1nm).txt,NaN,493.0,Meller(1991),High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,219.0,"methylglyoxal, MGLY", https://doi.org/10.1016/1010-6030(91)87017-P,CH3COCOH,296.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_219-493nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_225-410nm(5nm).txt,NaN,410.0,Meller(1991),High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,225.0,"methylglyoxal, MGLY", https://doi.org/10.1016/1010-6030(91)87017-P,CH3COCOH,296.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_225-410nm(5nm).csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Meller(1991)_296K_432.01-453.55nm(max,min).txt",NaN,453.55,Meller(1991),High-resolution (0.07 nm) absorption measurements using a diode array spectrometer,432.01,"methylglyoxal, MGLY", https://doi.org/10.1016/1010-6030(91)87017-P,CH3COCOH,296.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Meller(1991)_296K_432.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Plum(1983)_298K_234.0-471.3nm.txt,NaN,471.3,Plum(1983),Absorption measurements by using a Cary 17-D spectrophotometer,234.0,"methylglyoxal, MGLY", https://doi.org/10.1021/es00114a008,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Plum(1983)_298K_234.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_248K_225-463nm.txt,NaN,463.0,Staffelbach(1995),"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",225.0,"methylglyoxal, MGLY", https://doi.org/10.1029/95JD00541,CH3COCOH,248.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_248K_225-463nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_273K_225-463nm.txt,NaN,463.0,Staffelbach(1995),"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",225.0,"methylglyoxal, MGLY", https://doi.org/10.1029/95JD00541,CH3COCOH,273.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_273K_225-463nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_298K_200-475nm.txt,NaN,475.0,Staffelbach(1995),"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",200.0,"methylglyoxal, MGLY", https://doi.org/10.1029/95JD00541,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_298K_200-475nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CH3COCOH_Staffelbach(1995)_298K_225-463nm.txt,NaN,463.0,Staffelbach(1995),"Absorption measurements at 248, 273, and 298 K and at a resolution of ∼0.6 nm using a diode array spectrometer",225.0,"methylglyoxal, MGLY", https://doi.org/10.1029/95JD00541,CH3COCOH,298.0,data/cross-sections/Organics (carbonyls)/Bicarbonyls/CH3COCOH/CH3COCOH_Staffelbach(1995)_298K_225-463nm.csv

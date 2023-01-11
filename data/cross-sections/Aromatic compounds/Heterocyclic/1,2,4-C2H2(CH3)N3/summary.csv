@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Palmer(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2,4-C2H2(CH3)N3_Palmer(2012)_298K_115.1-232.1nm.txt",High-resolution (0.075 nm) absorption measurements using a synchrotron radiation source,"1,2,4-C2H2(CH3)N3","1-methyl-1,2,4-triazole","
-
-  M.H. Palmer, P.J. Camp, S.V. Hoffmann, N.C. Jones, A.R. Head, and D.L. Lichtenberger, ""The electronic states of 1,2,4-triazoles: A study of 1H- and 1-methyl-1,2,4-triazole by vacuum ultraviolet photoabsorption and ultraviolet photoelectron spectroscopy and a comparison with ab initio configuration interaction computations"",
-  J. Chem. Phys. 136 (2012) 094310-1 - 094310-12; 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Heterocyclic/1,2,4-C2H2(CH3)N3/1,2,4-C2H2(CH3)N3_Palmer(2012)_298K_115.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Heterocyclic/1,2,4-C2H2(CH3)N3_Palmer(2012)_298K_115.1-232.1nm.txt",NaN,232.1,Palmer(2012),High-resolution (0.075 nm) absorption measurements using a synchrotron radiation source,115.1,"1-methyl-1,2,4-triazole", https://doi.org/10.1063/1.3692164,"1,2,4-C2H2(CH3)N3",298.0,"data/cross-sections/Aromatic compounds/Heterocyclic/1,2,4-C2H2(CH3)N3/1,2,4-C2H2(CH3)N3_Palmer(2012)_298K_115.csv"

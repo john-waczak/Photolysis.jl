@@ -1,58 +1,12 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,Bennett(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Bennett(1971)_295K_58.4nm.txt","Absorption coefficient k (atm, 273 K)","i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Bennett(1971)_295K_58.4nm.txt",NaN,NaN,Bennett(1971),"Absorption coefficient k (atm, 273 K)",58.4,"isopropyl alcohol, 2-propanol", https://doi.org/10.1021/j100675a019,"i-C3H7OH,(CH3)2CHOH",295.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Bennett(1971)_295K_58.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_161.5-195.5nm.txt",NaN,195.5,Harrison(1959),"Absorption measurements using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates",161.5,"isopropyl alcohol, 2-propanol", https://doi.org/10.1063/1.1729952,"i-C3H7OH,(CH3)2CHOH",295.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_161.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_168,181nm(min,max).txt",NaN,181.0,Harrison(1959),"Absorption measurements using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates
 
-  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
-  J. Phys. Chem. 75, 719-721 (1971); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Bennett(1971)_295K_58.csv"
-295.0,Harrison(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_161.5-195.5nm.txt","Absorption measurements using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates","i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  A.J. Harrison, B.J. Cederholm, and M.A. Terwilliger, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. I. Alcohols"",
-  J. Chem. Phys. 30, 355-356 (1959); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_161.csv"
-295.0,Harrison(1959),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_168,181nm(min,max).txt","Absorption measurements using a Hilger fluorite prism spectrograph with a hydrogen lamp, and photometrical analysis of the photographic plates
-
-","i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  A.J. Harrison, B.J. Cederholm, and M.A. Terwilliger, ""Absorption of acyclic oxygen compounds in the vacuum ultraviolet. I. Alcohols"",
-  J. Chem. Phys. 30, 355-356 (1959); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_168,181nm(min,max).csv"
-295.0,JPL-2019(2020),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_JPL-2019(2020)_295K_121.567-220nm(rec).txt",JPL-2019(2020) recommendation:,"i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_JPL-2019(2020)_295K_121.csv"
-298.0,Koizumi(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Koizumi(1986)_298K_30.0-117.6nm.txt",High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,"i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  H. Koizumi, K. Hironaka, K. Shinsaka, A. Shin, H. Nakazawa, A. Kimura, Y. Hatano, Y. Ito, Y. Zhang, A. Yagishita, K. Ito, and K. Tanaka, ""VUV-optical oscillator strength distributions of C","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Koizumi(1986)_298K_30.csv"
-298.0,Orkin(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Orkin(2012)_298K_163-205nm.txt","Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines per mm grating; spectra
-were recorded at increments of 0.5 nm at a spectral slit width of 0.16 nm","i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  V.L. Orkin, V.G. Khamaganov, and M.J. Kurylo, ""High accuracy measurements of OH reaction rate constants and IR absorption spectra: Substituted 2-propanols"",
-  J. Phys. Chem. A 116, 6188-6198 (2012); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Orkin(2012)_298K_163-205nm.csv"
-298.0,SalahubSandorfy(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_120-210nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,"i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  D.R. Salahub and C. Sandorfy, ""The far-ultraviolet spectra of some simple alcohols and fluoroalcohols"",
-  Chem. Phys. Lett. 8, 71-74 (1971); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_120-210nm.csv"
-298.0,SalahubSandorfy(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_121-182nm(max).txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,"i-C3H7OH,(CH3)2CHOH","isopropyl alcohol, 2-propanol","
-
-  D.R. Salahub and C. Sandorfy, ""The far-ultraviolet spectra of some simple alcohols and fluoroalcohols"",
-  Chem. Phys. Lett. 8, 71-74 (1971); 
-
-
-  DOI: ","data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_121-182nm(max).csv"
+",168.0,"isopropyl alcohol, 2-propanol", https://doi.org/10.1063/1.1729952,"i-C3H7OH,(CH3)2CHOH",295.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Harrison(1959)_295K_168,181nm(min,max).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_JPL-2019(2020)_295K_121.567-220nm(rec).txt",NaN,220.0,JPL-2019(2020),JPL-2019(2020) recommendation:,121.567,"isopropyl alcohol, 2-propanol",,"i-C3H7OH,(CH3)2CHOH",295.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_JPL-2019(2020)_295K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Koizumi(1986)_298K_30.0-117.6nm.txt",NaN,117.6,Koizumi(1986),High-resolution (~0.08 nm) absorption measurements using synchrotron radiation and an ionization chamber,30.0,"isopropyl alcohol, 2-propanol", https://doi.org/10.1063/1.451800,"i-C3H7OH,(CH3)2CHOH",298.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Koizumi(1986)_298K_30.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_Orkin(2012)_298K_163-205nm.txt",NaN,205.0,Orkin(2012),"Absorption measurements using a single-beam apparatus consisting of a 1-m vacuum monochromator equipped with a 600 lines per mm grating; spectra
+were recorded at increments of 0.5 nm at a spectral slit width of 0.16 nm",163.0,"isopropyl alcohol, 2-propanol", https://doi.org/10.1021/jp211534n,"i-C3H7OH,(CH3)2CHOH",298.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_Orkin(2012)_298K_163-205nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_120-210nm.txt",NaN,210.0,SalahubSandorfy(1971),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,120.0,"isopropyl alcohol, 2-propanol", https://doi.org/10.1016/0009-2614(71)80578-X,"i-C3H7OH,(CH3)2CHOH",298.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_120-210nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_121-182nm(max).txt",NaN,182.0,SalahubSandorfy(1971),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,121.0,"isopropyl alcohol, 2-propanol", https://doi.org/10.1016/0009-2614(71)80578-X,"i-C3H7OH,(CH3)2CHOH",298.0,"data/cross-sections/Alcohols/i-C3H7OH,(CH3)2CHOH/i-C3H7OH,(CH3)2CHOH_SalahubSandorfy(1971)_298K_121-182nm(max).csv"

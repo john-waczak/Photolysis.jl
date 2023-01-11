@@ -1,29 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,BartsHalpern(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_BartsHalpern(1989)_298K_190-230nm.txt,Absorption measurements using a Beckman spectrophotometer with a resolution of 1 nm,ClCN,cyanogen chloride,"
-
-  S.A. Barts and J.B. Halpern, ""Photodissociation of ClCN between 190 and 213 nm"",
-  J. Phys. Chem. 93, 7346-7351 (1989); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_BartsHalpern(1989)_298K_190-230nm.csv
-295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_Felps(1991)_295K_125-178nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,ClCN,cyanogen chloride,"
-
-  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
-  J. Phys. Chem. 95, 639-656 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_Felps(1991)_295K_125-178nm.csv
-295.0,Felps(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_Felps(1991)_295K_157-232nm.txt,Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,ClCN,cyanogen chloride,"
-
-  W.S. Felps, K. Rupnik, and S.P. McGlynn, ""Electronic spectroscopy of the cyanogen halides"",
-  J. Phys. Chem. 95, 639-656 (1991); 
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_Felps(1991)_295K_157-232nm.csv
-298.0,MacphersonSimons(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_MacphersonSimons(1979)_298K_122-142nm.txt,Absorption spectra were recorded at a resolution of 0.1 nm,ClCN,cyanogen chloride,"
-
-  M.T. Macpherson and J.P. Simons, ""Photodissociation spectroscopy of the cyanogen halides in the vacuum ultraviolet"",
-  J. Chem. Soc. Faraday Trans. II 75, 1572-1592 (1979);
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_MacphersonSimons(1979)_298K_122-142nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_BartsHalpern(1989)_298K_190-230nm.txt,NaN,230.0,BartsHalpern(1989),Absorption measurements using a Beckman spectrophotometer with a resolution of 1 nm,190.0,cyanogen chloride, https://doi.org/10.1021/j100358a018,ClCN,298.0,data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_BartsHalpern(1989)_298K_190-230nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_Felps(1991)_295K_125-178nm.txt,NaN,178.0,Felps(1991),Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,125.0,cyanogen chloride, https://doi.org/10.1021/j100155a028,ClCN,295.0,data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_Felps(1991)_295K_125-178nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_Felps(1991)_295K_157-232nm.txt,NaN,232.0,Felps(1991),Absorption spectra were obtained on a 1-m VUV scanning monochromator with a 1200-line/mm grating and reciprocal dispersion of 8.3 Å/mm; slit widths varied from 90 μm at the 105.0-nm limit to 30 μm at the 300-nm limit,157.0,cyanogen chloride, https://doi.org/10.1021/j100155a028,ClCN,295.0,data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_Felps(1991)_295K_157-232nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Cyanogen%20halides/ClCN_MacphersonSimons(1979)_298K_122-142nm.txt,NaN,142.0,MacphersonSimons(1979),Absorption spectra were recorded at a resolution of 0.1 nm,122.0,cyanogen chloride, https://doi.org/10.1039/F29797501572,ClCN,298.0,data/cross-sections/Organics (N-compounds)/Cyanogen halides/ClCN/ClCN_MacphersonSimons(1979)_298K_122-142nm.csv

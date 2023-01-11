@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Raymonda(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/n-C3H7Cl_Raymonda(1974)_298K_112.1-180.5nm.txt,"The spectra were recorded on several spectrographs, both photoelectrically and photographically",n-C3H7Cl,"1-chloropropane, n-propyl chloride","
-
-  J.W. Raymonda, L.O. Edwards, and B.R. Russell, ""Vacuum ultraviolet absorption spectra of some chloroalkanes"",
-  J. Am. Chem. Soc. 96, 1708-1712 (1974); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/n-C3H7Cl/n-C3H7Cl_Raymonda(1974)_298K_112.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/n-C3H7Cl_Raymonda(1974)_298K_112.1-180.5nm.txt,NaN,180.5,Raymonda(1974),"The spectra were recorded on several spectrographs, both photoelectrically and photographically",112.1,"1-chloropropane, n-propyl chloride", https://doi.org/10.1021/ja00813a011,n-C3H7Cl,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/n-C3H7Cl/n-C3H7Cl_Raymonda(1974)_298K_112.csv

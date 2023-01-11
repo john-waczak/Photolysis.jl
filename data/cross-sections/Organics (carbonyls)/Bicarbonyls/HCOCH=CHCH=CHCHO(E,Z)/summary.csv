@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Klotz(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,Z)_Klotz(1995)_298K_292.5-352.5nm.txt","Average cross sections for intervals of 5 nm, 290-295 nm, 295-300 nm, etc.","HCOCH=CHCH=CHCHO(E,Z)","E,Z-2,4-hexadienedial","
-
-  B.G. Klotz, A. Bierbach, I. Barnes, and K.H. Becker, ""Kinetic and mechanistic study of the atmospheric chemistry of muconaldehydes"",
-  Environ. Sci. Technol. 29, 2322-2332 (1995); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,Z)/HCOCH=CHCH=CHCHO(E,Z)_Klotz(1995)_298K_292.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,Z)_Klotz(1995)_298K_292.5-352.5nm.txt",NaN,352.5,Klotz(1995),"Average cross sections for intervals of 5 nm, 290-295 nm, 295-300 nm, etc.",292.5,"E,Z-2,4-hexadienedial", https://doi.org/10.1021/es00009a026,"HCOCH=CHCH=CHCHO(E,Z)",298.0,"data/cross-sections/Organics (carbonyls)/Bicarbonyls/HCOCH=CHCH=CHCHO(E,Z)/HCOCH=CHCH=CHCHO(E,Z)_Klotz(1995)_298K_292.csv"

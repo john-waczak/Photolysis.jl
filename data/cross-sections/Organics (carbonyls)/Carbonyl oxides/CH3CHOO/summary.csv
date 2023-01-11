@@ -1,29 +1,7 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Beames(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Beames(2013)_298K_280-372nm.txt,Synthesis of the alkyl substituted Criegee biradical intermediate by photolysis (248 nm) of a CH,CH3CHOO,acetaldehyde oxide,"
-
-  J.M. Beames, F. Liu, L. Lu, and M.I. Lester, ""UV spectroscopic characterization of an alkyl substituted Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Beames(2013)_298K_280-372nm.csv
-298.0,IUPAC(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_IUPAC(2015)_298K_280-455nm(rec,fit).txt",IUPAC(2015) recommendation:,CH3CHOO,acetaldehyde oxide,"
-
-  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
-  http://iupac.pole-ether.fr
-
-
-","data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_IUPAC(2015)_298K_280-455nm(rec,fit).csv"
-295.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_JPL-2019(2020)_295K_285-435nm(rec).txt,JPL-2019(2020) recommendation:,CH3CHOO,acetaldehyde oxide,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_JPL-2019(2020)_295K_285-435nm(rec).csv
-298.0,Sheps(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Sheps(2014)_298K_323nm.txt,Absorption measurements using time-resolved broadband cavity-enhanced spectrometry,CH3CHOO,acetaldehyde oxide,"
-
-  L. Sheps, A.M. Scully, and K. Au, ""UV absorption probing of the conformer dependent reactivity of a Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Sheps(2014)_298K_323nm.csv
-295.0,Smith(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Smith(2014)_295K_280.2-440.6nm.txt,Transient absorption measurements of CH,CH3CHOO,acetaldehyde oxide,"
-
-  M.C. Smith, W.-L. Ting, C.-H. Chang, K. Takahashi, K.A. Kristie, A. Boering, and J.J.-M. Lin, ""UV absorption spectrum of the C2 Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Smith(2014)_295K_280.csv
-295.0,Smith(2014),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Smith(2014)_295K_308,328,352nm.txt",Absolute absorption cross sections at 308 and 352 nm were measured by laser depletion in a molecular beam (CH,CH3CHOO,acetaldehyde oxide,"
-
-  M.C. Smith, W.-L. Ting, C.-H. Chang, K. Takahashi, K.A. Kristie, A. Boering, and J.J.-M. Lin, ""UV absorption spectrum of the C2 Criegee intermediate CH","data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Smith(2014)_295K_308,328,352nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Beames(2013)_298K_280-372nm.txt,NaN,372.0,Beames(2013),Synthesis of the alkyl substituted Criegee biradical intermediate by photolysis (248 nm) of a CH,280.0,acetaldehyde oxide, https://doi.org/10.1063/1.4810865,CH3CHOO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Beames(2013)_298K_280-372nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_IUPAC(2015)_298K_280-455nm(rec,fit).txt",NaN,455.0,IUPAC(2015),IUPAC(2015) recommendation:,280.0,acetaldehyde oxide,,CH3CHOO,298.0,"data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_IUPAC(2015)_298K_280-455nm(rec,fit).csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_JPL-2019(2020)_295K_285-435nm(rec).txt,NaN,435.0,JPL-2019(2020),JPL-2019(2020) recommendation:,285.0,acetaldehyde oxide,,CH3CHOO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_JPL-2019(2020)_295K_285-435nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Sheps(2014)_298K_323nm.txt,NaN,NaN,Sheps(2014),Absorption measurements using time-resolved broadband cavity-enhanced spectrometry,323.0,acetaldehyde oxide, https://doi.org/10.1039/C4CP04408H,CH3CHOO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Sheps(2014)_298K_323nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Smith(2014)_295K_280.2-440.6nm.txt,NaN,440.6,Smith(2014),Transient absorption measurements of CH,280.2,acetaldehyde oxide, https://doi.org/10.1063/1.4892582,CH3CHOO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Smith(2014)_295K_280.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH3CHOO_Smith(2014)_295K_308,328,352nm.txt",NaN,328.0,Smith(2014),Absolute absorption cross sections at 308 and 352 nm were measured by laser depletion in a molecular beam (CH,308.0,acetaldehyde oxide, https://doi.org/10.1063/1.4892582,CH3CHOO,295.0,"data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH3CHOO/CH3CHOO_Smith(2014)_295K_308,328,352nm.csv"

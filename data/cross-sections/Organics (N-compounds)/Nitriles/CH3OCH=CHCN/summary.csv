@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Roeder(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3OCH=CHCN_Roeder(2020)_298K_98.455-234.931nm.txt,High-resolution (8.6 cm,CH3OCH=CHCN,3-methoxyacrylonitrile,"
-
-  A. Röder, N.de Oliveira, F. Grollau, J.-M. Mestdagh, M.-A. Gaveau, and M. Briant,, ""Vacuum-ultraviolet absorption spectrum of 3-methoxyacrylonitrile"",
-  J. Phys. Chem. A 124, 9470-9477 (2020) ;
-
-
-  DOI: ",data/cross-sections/Organics (N-compounds)/Nitriles/CH3OCH=CHCN/CH3OCH=CHCN_Roeder(2020)_298K_98.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Nitriles/CH3OCH=CHCN_Roeder(2020)_298K_98.455-234.931nm.txt,NaN,234.931,Roeder(2020),High-resolution (8.6 cm,98.455,3-methoxyacrylonitrile, https://doi.org/10.1021/acs.jpca.0c08974,CH3OCH=CHCN,298.0,data/cross-sections/Organics (N-compounds)/Nitriles/CH3OCH=CHCN/CH3OCH=CHCN_Roeder(2020)_298K_98.csv

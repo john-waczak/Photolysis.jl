@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,ScharpingZetzsch(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/m-C6H4Cl2_ScharpingZetzsch(1985)_298K_166.96-228.30nm.txt,Absorption measurements at 0.3-nm resolution using a gas saturation method,m-C6H4Cl2,m-dichlorobenzene,"
-
-  H. Scharping and C. Zetzsch, ""Substituent effects in the VUV absorption spectra of monochlorobenzene and o-, m-, and p-dichlorobenzene"",
-  J. Mol. Spectrosc. 112, 8-17 (1985); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Halogenated benzenes/m-C6H4Cl2/m-C6H4Cl2_ScharpingZetzsch(1985)_298K_166.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Halogenated%20benzenes/m-C6H4Cl2_ScharpingZetzsch(1985)_298K_166.96-228.30nm.txt,NaN,228.3,ScharpingZetzsch(1985),Absorption measurements at 0.3-nm resolution using a gas saturation method,166.96,m-dichlorobenzene, https://doi.org/10.1016/0022-2852(85)90186-9,m-C6H4Cl2,298.0,data/cross-sections/Aromatic compounds/Halogenated benzenes/m-C6H4Cl2/m-C6H4Cl2_ScharpingZetzsch(1985)_298K_166.csv

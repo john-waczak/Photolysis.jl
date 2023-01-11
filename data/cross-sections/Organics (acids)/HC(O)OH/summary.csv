@@ -1,92 +1,15 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,BarnesSimpson(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_BarnesSimpson(1963)_298K_140-180nm.txt,Molar extinction coefficients vs. wavenumber have been digitized from Fig. 2 and converted to absorption cross sections (conversion factor 3.8235×10,HC(O)OH,formic acid,"
-
-  E.E. Barnes and W.T. Simpson, ""Correlations among electronic transitions for carbonyl and carboxyl in the vacuum ultraviolet"",
-  J. Chem. Phys. 39, 670-675 (1963); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_BarnesSimpson(1963)_298K_140-180nm.csv
-298.0,Fujimoto(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Fujimoto(2020)_298K_57.9-91.8nm.txt,High-resolution (~50 meV) absorption measurements using a double-ion chamber technique and synchrotron radiation as a light source,HC(O)OH,formic acid,"
-
-  M.M. Fujimoto, H.K. Tanaka, R.R.T. Marinho, A. Medina, F.V. Prudente, and M.G.P. Homem, ""Cross sections and asymmetry parameters for formic acid in the vacuum-ultraviolet energy range"",
-  J. Phys. Chem. A 124, 6478-6485 (2020);
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Fujimoto(2020)_298K_57.csv
-296.0,Jolly(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Jolly(1987)_296K_222nm.txt,Absorption cross section at the KrCl excimer laser line,HC(O)OH,formic acid,"
-
-  G.S. Jolly, D.L. Singleton, and G. Paraskevopoulos, ""Direct determination of the quantum yield of OH in the laser photolysis of formic acid"",
-  J. Phys. Chem. 91, 3463-3465 (1987); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Jolly(1987)_296K_222nm.csv
-302.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_JPL-2010(2011)_302K_195-250nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",HC(O)OH,formic acid,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_JPL-2010(2011)_302K_195-250nm(rec).csv
-298.0,Leach(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Leach(2002)_298K_56.3-140.9nm.txt,Absorption measurements between 6 and 22 eV at a maximum resolution of 3 meV using synchrotron radiation as a light source,HC(O)OH,formic acid,"
-
-  S. Leach, M. Schwell, F. Dulieu, J.-L. Chotin, H.-W. Jochims, and H. Baumgärtel, ""Photophysical studies of formic acid in the VUV. Absorption spectrum in the 6-22 eV region"",
-  Phys. Chem. Chem. Phys. 4, 5025-5039 (2002);
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Leach(2002)_298K_56.csv
-300.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-222nm(p=2.45Torr).txt,Pressure = 2.45 Torr,HC(O)OH,formic acid,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 428
-
-
-",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-222nm(p=2.csv
-300.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-228.5nm(p=35.2Torr).txt,Pressure = 35.2 Torr,HC(O)OH,formic acid,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 428
-
-
-",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-228.csv
-300.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-249nm(p=16.4Torr).txt,Pressure = 16.4 Torr,HC(O)OH,formic acid,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 428
-
-
-",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-249nm(p=16.csv
-298.0,Nagakura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Nagakura(1964)_298K_154-191nm.txt,Absorption measurements with a vacuum ultraviolet spectrophotometer constructed in the own laboratory,HC(O)OH,formic acid,"
-
-  S. Nagakura, K. Kaya, and H. Tsubomura, ""Vacuum ultraviolet absorption spectra and electronic structures of formic acid, acetic acid and ethyl acetate"",
-  J. Mol. Spectrosc. 13, 1-8 (1964); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Nagakura(1964)_298K_154-191nm.csv
-298.0,Randi(2023),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Randi(2023)_298K_115-265nm.txt,High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source,HC(O)OH,formic acid,"
-
-  P.A.S. Randi, D.F. Pastega, M.H.F. Bettega, N.C. Jones, S.V. Hoffmann, S. Eden, A. Souza Barbosa, and P. Limão-Vieira, ""Electronically excited states of formic acid investigated by theoretical and experimental methods"",
-  Spectrochim. Acta A: Mol. Biomol. Spectrosc. 289, 122237 (2023);
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Randi(2023)_298K_115-265nm.csv
-302.0,Singleton(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1987)_302K_195-250nm.txt,Absorption measurements at bandwidths of 1 and 0.25 nm,HC(O)OH,formic acid,"
-
-  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""UV absorption cross-sections of the monomer and dimer of formic acid"",
-  J. Photochem. 37, 209-216 (1987); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1987)_302K_195-250nm.csv
-298.0,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1990)_298K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,HC(O)OH,formic acid,"
-
-  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
-  J. Phys. Chem. 94, 695-699 (1990); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1990)_298K_222nm.csv
-356.2,Singleton(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1990)_356.2K_222nm.txt,Absorption cross section at the  KrCl excimer laser line,HC(O)OH,formic acid,"
-
-  D.L. Singleton, G. Paraskevopoulos, and R.S. Irwin, ""Laser photolysis of carboxyclic acids in the gas phase. Direct determination of the OH quantum yield at 222 nm"",
-  J. Phys. Chem. 94, 695-699 (1990); 
-
-
-  DOI: ",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1990)_356.csv
-298.0,Suto(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Suto(1988)_298K_106-250nm.txt,"Absorption measurements using synchrotron radiation, dispersed by a by a 1-m vacuum monochromator, as light source",HC(O)OH,formic acid,"
-
-  M. Suto,  X. Wang, and L.C. Lee, ""Fluorescence yields from photodissociative excitation of HCOOH, HCOOCH",data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Suto(1988)_298K_106-250nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_BarnesSimpson(1963)_298K_140-180nm.txt,NaN,180.0,BarnesSimpson(1963),Molar extinction coefficients vs. wavenumber have been digitized from Fig. 2 and converted to absorption cross sections (conversion factor 3.8235×10,140.0,formic acid, https://doi.org/10.1063/1.1734305,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_BarnesSimpson(1963)_298K_140-180nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Fujimoto(2020)_298K_57.9-91.8nm.txt,NaN,91.8,Fujimoto(2020),High-resolution (~50 meV) absorption measurements using a double-ion chamber technique and synchrotron radiation as a light source,57.9,formic acid, https://doi.org/10.1021/acs.jpca.0c03520,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Fujimoto(2020)_298K_57.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Jolly(1987)_296K_222nm.txt,NaN,NaN,Jolly(1987),Absorption cross section at the KrCl excimer laser line,222.0,formic acid, https://doi.org/10.1021/j100297a001,HC(O)OH,296.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Jolly(1987)_296K_222nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_JPL-2010(2011)_302K_195-250nm(rec).txt,NaN,250.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",195.0,formic acid,,HC(O)OH,302.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_JPL-2010(2011)_302K_195-250nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Leach(2002)_298K_56.3-140.9nm.txt,NaN,140.9,Leach(2002),Absorption measurements between 6 and 22 eV at a maximum resolution of 3 meV using synchrotron radiation as a light source,56.3,formic acid, https://doi.org/10.1039/b205729h,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Leach(2002)_298K_56.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-222nm(p=2.45Torr).txt,NaN,222.0,McMillan(1966),Pressure = 2.45 Torr,200.0,formic acid,,HC(O)OH,300.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-222nm(p=2.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-228.5nm(p=35.2Torr).txt,NaN,228.5,McMillan(1966),Pressure = 35.2 Torr,200.0,formic acid,,HC(O)OH,300.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-228.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_McMillan(1966)_300K_200-249nm(p=16.4Torr).txt,NaN,249.0,McMillan(1966),Pressure = 16.4 Torr,200.0,formic acid,,HC(O)OH,300.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_McMillan(1966)_300K_200-249nm(p=16.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Nagakura(1964)_298K_154-191nm.txt,NaN,191.0,Nagakura(1964),Absorption measurements with a vacuum ultraviolet spectrophotometer constructed in the own laboratory,154.0,formic acid, https://doi.org/10.1016/0022-2852(64)90049-9,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Nagakura(1964)_298K_154-191nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Randi(2023)_298K_115-265nm.txt,NaN,265.0,Randi(2023),High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source,115.0,formic acid, https://doi.org/10.1016/j.saa.2022.122237,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Randi(2023)_298K_115-265nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1987)_302K_195-250nm.txt,NaN,250.0,Singleton(1987),Absorption measurements at bandwidths of 1 and 0.25 nm,195.0,formic acid, https://doi.org/10.1016/0047-2670(87)85001-3,HC(O)OH,302.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1987)_302K_195-250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1990)_298K_222nm.txt,NaN,NaN,Singleton(1990),Absorption cross section at the  KrCl excimer laser line,222.0,formic acid, https://doi.org/10.1021/j100365a034,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1990)_298K_222nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Singleton(1990)_356.2K_222nm.txt,NaN,NaN,Singleton(1990),Absorption cross section at the  KrCl excimer laser line,222.0,formic acid, https://doi.org/10.1021/j100365a034,HC(O)OH,356.2,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Singleton(1990)_356.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/HC(O)OH_Suto(1988)_298K_106-250nm.txt,NaN,250.0,Suto(1988),"Absorption measurements using synchrotron radiation, dispersed by a by a 1-m vacuum monochromator, as light source",106.0,formic acid, https://doi.org/10.1021/j100324a015,HC(O)OH,298.0,data/cross-sections/Organics (acids)/HC(O)OH/HC(O)OH_Suto(1988)_298K_106-250nm.csv

@@ -1,21 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_McMillan(1966)_298K_200.5-251.0nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,CH3C(O)OC2H5,"ethyl acetate, acetic acid ethyl ester","
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 429
-
-
-",data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_McMillan(1966)_298K_200.csv
-298.0,Nagakura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_Nagakura(1964)_298K_153-185nm.txt,Absorption measurements with a vacuum ultraviolet spectrophotometer constructed in the own laboratory,CH3C(O)OC2H5,"ethyl acetate, acetic acid ethyl ester","
-
-  S. Nagakura, K. Kaya, and H. Tsubomura, ""Vacuum ultraviolet absorption spectra and electronic structures of formic acid, acetic acid and ethyl acetate"",
-  J. Mol. Spectrosc. 13, 1-8 (1964); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_Nagakura(1964)_298K_153-185nm.csv
-298.0,Smialek(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_Smialek(2016)_298K_114.5-320.0nm.txt,High-resolution (0.075 nm) absorption measurements using synchrotron radiation as a light source,CH3C(O)OC2H5,"ethyl acetate, acetic acid ethyl ester","
-
-  M.A. Smialek, M. Labuda, J. Guthmuller, M.-J. Hubin-Franskin, J. Delwiche, S.V. Hoffmann, N.C. Jones, N.J. Mason, and P. Limão-Vieira, ""Electronic state spectroscopy by high-resolution vacuum ultraviolet photoabsorption, He(I) photoelectron spectroscopy and ab initio calculations of ethyl acetate"",
-  Eur. Phys. J. D, 70 138 (2016); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_Smialek(2016)_298K_114.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_McMillan(1966)_298K_200.5-251.0nm.txt,NaN,251.0,McMillan(1966),Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,200.5,"ethyl acetate, acetic acid ethyl ester",,CH3C(O)OC2H5,298.0,data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_McMillan(1966)_298K_200.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_Nagakura(1964)_298K_153-185nm.txt,NaN,185.0,Nagakura(1964),Absorption measurements with a vacuum ultraviolet spectrophotometer constructed in the own laboratory,153.0,"ethyl acetate, acetic acid ethyl ester", https://doi.org/10.1016/0022-2852(64)90049-9,CH3C(O)OC2H5,298.0,data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_Nagakura(1964)_298K_153-185nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Esters/CH3C(O)OC2H5_Smialek(2016)_298K_114.5-320.0nm.txt,NaN,320.0,Smialek(2016),High-resolution (0.075 nm) absorption measurements using synchrotron radiation as a light source,114.5,"ethyl acetate, acetic acid ethyl ester", https://doi.org/10.1140/epjd/e2016-70239-9,CH3C(O)OC2H5,298.0,data/cross-sections/Organics (carbonyls)/Esters/CH3C(O)OC2H5/CH3C(O)OC2H5_Smialek(2016)_298K_114.csv

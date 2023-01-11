@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,GoodeveWindsor(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_GoodeveWindsor(1936)_298K_222.5-301.2nm.txt,Absorption measurements by the photographic method,Cl2O7,dichlorine heptoxide,"
-
-  C.F. Goodeve and B.A.M. Windsor, ""The absorption spectrum of chlorine heptoxide"",
-  Trans. Faraday Soc. 32, 1518-1519 (1936); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_GoodeveWindsor(1936)_298K_222.csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_JPL-2010(2011)_298K_180-310nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",Cl2O7,dichlorine heptoxide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_JPL-2010(2011)_298K_180-310nm(rec).csv
-298.0,Lin(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_Lin(1976)_298K_180-310nm.txt,Absorption measurements with Cary 15 spectrophotometer using a quartz absorption cell of 10-cm path length; wavelength calibrations were accomplished by using O,Cl2O7,dichlorine heptoxide,"
-
-  C.-L. Lin, ""Extinction coefficients of chlorine monoxide and chlorine heptoxide"",
-  J. Chem. Eng. Data 21, 411-413 (1976); 
-
-
-  DOI: ",data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_Lin(1976)_298K_180-310nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_GoodeveWindsor(1936)_298K_222.5-301.2nm.txt,NaN,301.2,GoodeveWindsor(1936),Absorption measurements by the photographic method,222.5,dichlorine heptoxide, https://doi.org/10.1039/TF9363201518,Cl2O7,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_GoodeveWindsor(1936)_298K_222.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_JPL-2010(2011)_298K_180-310nm(rec).txt,NaN,310.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",180.0,dichlorine heptoxide,,Cl2O7,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_JPL-2010(2011)_298K_180-310nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/Cl2O7_Lin(1976)_298K_180-310nm.txt,NaN,310.0,Lin(1976),Absorption measurements with Cary 15 spectrophotometer using a quartz absorption cell of 10-cm path length; wavelength calibrations were accomplished by using O,180.0,dichlorine heptoxide, https://doi.org/10.1021/je60071a030,Cl2O7,298.0,data/cross-sections/Halogen oxides/Cl oxides/Cl2O7/Cl2O7_Lin(1976)_298K_180-310nm.csv

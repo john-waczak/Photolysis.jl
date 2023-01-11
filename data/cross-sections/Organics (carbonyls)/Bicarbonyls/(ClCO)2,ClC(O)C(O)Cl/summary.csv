@@ -1,29 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-300.0,BaklanovKrasnoperov(2001),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_BaklanovKrasnoperov(2001)_300K_193.3-390.0nm.txt","Pulsed excimer laser photolysis, transient UV-VIS spectroscopy with a high pressure flow system","(ClCO)2,ClC(O)C(O)Cl",oxalyl chloride,"
-
-  A.V. Baklanov and L.N. Krasnoperov, ""UV absorption spectrum and rate constant for self-reaction of silyl radicals"",
-  J. Phys. Chem. A, 105, 4917-4922 (2001); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_BaklanovKrasnoperov(2001)_300K_193.csv"
-296.0,Ghosh(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_200-450nm.txt",Absorption measurements using diode array spectroscopy,"(ClCO)2,ClC(O)C(O)Cl",oxalyl chloride,"
-
-  B. Ghosh, D.K. Papanastasiou, and J.B. Burkholder, ""Oxalyl chloride, ClC(O)C(O)Cl: UV/vis spectrum and Cl atom photolysis quantum yields at 193, 248, and 351 nm"",
-  J. Chem. Phys. 137, 164315-1 - 164315-12 (2012); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_200-450nm.csv"
-296.0,Ghosh(2012),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_213.9nm.txt",Absolute absorption cross section using a Zn atomic resonance lamp light source,"(ClCO)2,ClC(O)C(O)Cl",oxalyl chloride,"
-
-  B. Ghosh, D.K. Papanastasiou, and J.B. Burkholder, ""Oxalyl chloride, ClC(O)C(O)Cl: UV/vis spectrum and Cl atom photolysis quantum yields at 193, 248, and 351 nm"",
-  J. Chem. Phys. 137, 164315-1 - 164315-12 (2012); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_213.csv"
-298.0,KrauskopfRollefson(1936),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_KrauskopfRollefson(1936)_298K_239.2-370.0nm.txt",Absorption coefficients were measured with the aid of a Hilger quartz spectrograph and a Zeiss microphotometer,"(ClCO)2,ClC(O)C(O)Cl",oxalyl chloride,"
-
-  K.B. Krauskopf and G.K. Rollefson, ""The photochemical decomposition of oxalyl chloride vapor"",
-  J. Am. Chem. Soc. 58, 443-448 (1936); 
-
-
-  DOI: ","data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_KrauskopfRollefson(1936)_298K_239.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_BaklanovKrasnoperov(2001)_300K_193.3-390.0nm.txt",NaN,390.0,BaklanovKrasnoperov(2001),"Pulsed excimer laser photolysis, transient UV-VIS spectroscopy with a high pressure flow system",193.3,oxalyl chloride, https://doi.org/10.1021/jp004198l,"(ClCO)2,ClC(O)C(O)Cl",300.0,"data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_BaklanovKrasnoperov(2001)_300K_193.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_200-450nm.txt",NaN,450.0,Ghosh(2012),Absorption measurements using diode array spectroscopy,200.0,oxalyl chloride, https://doi.org/10.1063/1.4755769,"(ClCO)2,ClC(O)C(O)Cl",296.0,"data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_200-450nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_213.9nm.txt",NaN,NaN,Ghosh(2012),Absolute absorption cross section using a Zn atomic resonance lamp light source,213.9,oxalyl chloride, https://doi.org/10.1063/1.4755769,"(ClCO)2,ClC(O)C(O)Cl",296.0,"data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_Ghosh(2012)_296K_213.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl_KrauskopfRollefson(1936)_298K_239.2-370.0nm.txt",NaN,370.0,KrauskopfRollefson(1936),Absorption coefficients were measured with the aid of a Hilger quartz spectrograph and a Zeiss microphotometer,239.2,oxalyl chloride, https://doi.org/10.1021/ja01294a018,"(ClCO)2,ClC(O)C(O)Cl",298.0,"data/cross-sections/Organics (carbonyls)/Bicarbonyls/(ClCO)2,ClC(O)C(O)Cl/(ClCO)2,ClC(O)C(O)Cl_KrauskopfRollefson(1936)_298K_239.csv"

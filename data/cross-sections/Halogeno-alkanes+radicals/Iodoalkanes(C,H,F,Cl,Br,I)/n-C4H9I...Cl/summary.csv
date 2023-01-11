@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-263.0,Enami(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C4H9I...Cl_Enami(2005)_263K_440-520nm.txt",The reactions of Cl atoms with RI (R = n-C,n-C4H9I...Cl,1-iodobutane-chlorine adduct,"
-
-  S. Enami, T. Yamanaka, S. Hashimoto, M. Kawasaki, and K. Tonokura, ""Direct observation of adduct formation of alkyl and aromatic iodides with Cl atoms using cavity ring-down spectroscopy"",
-  J. Phys. Chem. A 109, 6066-6070 (2005); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C4H9I.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C4H9I...Cl_Enami(2005)_263K_440-520nm.txt",NaN,520.0,Enami(2005),The reactions of Cl atoms with RI (R = n-C,440.0,1-iodobutane-chlorine adduct, https://doi.org/10.1021/jp0520188,n-C4H9I...Cl,263.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/n-C4H9I.csv"

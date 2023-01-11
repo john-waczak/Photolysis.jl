@@ -1,137 +1,25 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_CausleyRussell(1975)_298K_109.5-199.7nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
-",CH2Br2,dibromomethane,"
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_CausleyRussell(1975)_298K_109.csv
-298.0,CausleyRussell(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_CausleyRussell(1975)_298K_176.8-255.7nm.txt,"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
-",CH2Br2,dibromomethane,"
-
-  G.C. Causley and B.R. Russell, ""Vacuum ultraviolet absorption spectra of the bromomethanes"",
-  J. Chem. Phys. 62, 848-857 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_CausleyRussell(1975)_298K_176.csv
-210.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_210K_175-294nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_210K_175-294nm(int-c).csv
-210.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_210K_176-290nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_210K_176-290nm(2nm).csv
-230.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_230K_175-294nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_230K_175-294nm(int-c).csv
-230.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_230K_176-290nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_230K_176-290nm(2nm).csv
-250.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_250K_175-294nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_250K_175-294nm(int-c).csv
-250.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_250K_176-290nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_250K_176-290nm(2nm).csv
-270.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_270K_175-294nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_270K_175-294nm(int-c).csv
-270.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_270K_176-290nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_270K_176-290nm(2nm).csv
-295.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_295K_174-290nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_295K_174-290nm(2nm).csv
-295.0,Gillotay(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_295K_175-294nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CH2Br2,dibromomethane,"
-
-  D. Gillotay, P.C. Simon, and L. Dierckx, ""Temperature dependence of ultraviolet absorption cross-sections of brominated methanes and ethanes"",
-  Quadrennial Ozone Symposium, Göttingen, RFA, 1988; Aeronomica Acta A 335, 1-25 (1988)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_295K_175-294nm(int-c).csv
-210.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_IUPAC(2008)_210K_200-300nm(rec).txt,IUPAC(2008) recommendation:,CH2Br2,dibromomethane,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_IUPAC(2008)_210K_200-300nm(rec).csv
-298.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_IUPAC(2008)_298K_200-300nm(rec).txt,IUPAC(2008) recommendation:,CH2Br2,dibromomethane,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_IUPAC(2008)_298K_200-300nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_JPL-2010(2011)_298K_174-300nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendations of",CH2Br2,dibromomethane,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_JPL-2010(2011)_298K_174-300nm(rec).csv
-298.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_JPL-2015(2015)_298K_174-300nm(rec).txt,JPL-2015(2015) recommendation:,CH2Br2,dibromomethane,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_JPL-2015(2015)_298K_174-300nm(rec).csv
-298.0,Molina(1982),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Molina(1982)_298K_200-300nm.txt,Absorption measurements using a UV-VIS double-beam spectrophotometer,CH2Br2,dibromomethane,"
-
-  L.T. Molina, M.J. Molina, and F.S. Rowland, ""Ultraviolet absorption cross sections of several brominated methanes and ethanes of atmospheric interest"",
-  J. Phys. Chem. 86, 2672-2676 (1982); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Molina(1982)_298K_200-300nm.csv
-250.0,Mossinger(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_250K_215-300nm(calc).txt,Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2Br2,dibromomethane,"
-
-  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_250K_215-300nm(calc).csv
-273.0,Mossinger(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_273K_215-300nm(calc).txt,Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2Br2,dibromomethane,"
-
-  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_273K_215-300nm(calc).csv
-298.0,Mossinger(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_298K_215-300nm(meas).txt,"Measured values for 298 K; dual-beam diode array spectrometer, resolution ∼0.6nm",CH2Br2,dibromomethane,"
-
-  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_298K_215-300nm(meas).csv
-328.0,Mossinger(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_328K_215-300nm(calc).txt,Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2Br2,dibromomethane,"
-
-  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_328K_215-300nm(calc).csv
-348.0,Mossinger(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_348K_215-300nm(calc).txt,Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),CH2Br2,dibromomethane,"
-
-  J.C. Mössinger, D.E. Shallcross, and R.A. Cox, ""UV-VIS absorption cross-sections and atmospheric lifetimes of CH",data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_348K_215-300nm(calc).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_CausleyRussell(1975)_298K_109.5-199.7nm.txt,NaN,199.7,CausleyRussell(1975),"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",109.5,dibromomethane, https://doi.org/10.1063/1.430535,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_CausleyRussell(1975)_298K_109.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_CausleyRussell(1975)_298K_176.8-255.7nm.txt,NaN,255.7,CausleyRussell(1975),"Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution
+",176.8,dibromomethane, https://doi.org/10.1063/1.430535,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_CausleyRussell(1975)_298K_176.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_210K_175-294nm(int-c).txt,NaN,294.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,175.0,dibromomethane,,CH2Br2,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_210K_175-294nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_210K_176-290nm(2nm).txt,NaN,290.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,176.0,dibromomethane,,CH2Br2,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_210K_176-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_230K_175-294nm(int-c).txt,NaN,294.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,175.0,dibromomethane,,CH2Br2,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_230K_175-294nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_230K_176-290nm(2nm).txt,NaN,290.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,176.0,dibromomethane,,CH2Br2,230.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_230K_176-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_250K_175-294nm(int-c).txt,NaN,294.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,175.0,dibromomethane,,CH2Br2,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_250K_175-294nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_250K_176-290nm(2nm).txt,NaN,290.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,176.0,dibromomethane,,CH2Br2,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_250K_176-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_270K_175-294nm(int-c).txt,NaN,294.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,175.0,dibromomethane,,CH2Br2,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_270K_175-294nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_270K_176-290nm(2nm).txt,NaN,290.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,176.0,dibromomethane,,CH2Br2,270.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_270K_176-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_295K_174-290nm(2nm).txt,NaN,290.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,dibromomethane,,CH2Br2,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_295K_174-290nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Gillotay(1988)_295K_175-294nm(int-c).txt,NaN,294.0,Gillotay(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,175.0,dibromomethane,,CH2Br2,295.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Gillotay(1988)_295K_175-294nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_IUPAC(2008)_210K_200-300nm(rec).txt,NaN,300.0,IUPAC(2008),IUPAC(2008) recommendation:,200.0,dibromomethane, https://doi.org/10.5194/acp-8-4141-2008,CH2Br2,210.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_IUPAC(2008)_210K_200-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_IUPAC(2008)_298K_200-300nm(rec).txt,NaN,300.0,IUPAC(2008),IUPAC(2008) recommendation:,200.0,dibromomethane, https://doi.org/10.5194/acp-8-4141-2008,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_IUPAC(2008)_298K_200-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_JPL-2010(2011)_298K_174-300nm(rec).txt,NaN,300.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",174.0,dibromomethane,,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_JPL-2010(2011)_298K_174-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_JPL-2015(2015)_298K_174-300nm(rec).txt,NaN,300.0,JPL-2015(2015),JPL-2015(2015) recommendation:,174.0,dibromomethane,,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_JPL-2015(2015)_298K_174-300nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Molina(1982)_298K_200-300nm.txt,NaN,300.0,Molina(1982),Absorption measurements using a UV-VIS double-beam spectrophotometer,200.0,dibromomethane, https://doi.org/10.1021/j100211a023,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Molina(1982)_298K_200-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_250K_215-300nm(calc).txt,NaN,300.0,Mossinger(1998),Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),215.0,dibromomethane, https://doi.org/10.1039/A709160E,CH2Br2,250.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_250K_215-300nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_273K_215-300nm(calc).txt,NaN,300.0,Mossinger(1998),Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),215.0,dibromomethane, https://doi.org/10.1039/A709160E,CH2Br2,273.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_273K_215-300nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_298K_215-300nm(meas).txt,NaN,300.0,Mossinger(1998),"Measured values for 298 K; dual-beam diode array spectrometer, resolution ∼0.6nm",215.0,dibromomethane, https://doi.org/10.1039/A709160E,CH2Br2,298.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_298K_215-300nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_328K_215-300nm(calc).txt,NaN,300.0,Mossinger(1998),Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),215.0,dibromomethane, https://doi.org/10.1039/A709160E,CH2Br2,328.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_328K_215-300nm(calc).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2_Mossinger(1998)_348K_215-300nm(calc).txt,NaN,300.0,Mossinger(1998),Absorption measurements at 250 to 348 K using a dual-beam diode array spectrometer (spectral resolution ∼0.6 nm),215.0,dibromomethane, https://doi.org/10.1039/A709160E,CH2Br2,348.0,data/cross-sections/Halogeno-alkanes+radicals/Bromoalkanes/CH2Br2/CH2Br2_Mossinger(1998)_348K_215-300nm(calc).csv

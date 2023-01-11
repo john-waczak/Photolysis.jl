@@ -1,32 +1,6 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bridier(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Bridier(1993)_298K_200-340nm.txt,The flash-photolysis-UV-absorption method was used to study the UV spectrum and the kinetics of the acetonylperoxy radical formed in the presence of oxygen via the reaction between CI atoms and acetone.,CH3C(O)CH2O2,acetonylperoxy radical,"
-
-  I. Bridier, B. Veyret, R. Lesclaux, and M.E. Jenkin, ""Flash photolysis study of the UV spectrum and kinetics of reactions of the acetonylperoxy radical"",
-  J. Chem. Soc. Faraday Trans. 89, 2993-2997 (1993); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Bridier(1993)_298K_200-340nm.csv
-298.0,Cox(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Cox(1990)_298K_210-380nm(L-rev).txt,Pulse radiolysis (SF,CH3C(O)CH2O2,acetonylperoxy radical,"
-
-  R.A. Cox, J. Munk, O.J. Nielsen, P. Pagsberg, and P. Ratajczak, ""Ultraviolet absorption spectra and kinetics of acetonyl and acetonylperoxy radicals"",
-  Chem. Phys. Lett. 173, 206-210 (1990); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Cox(1990)_298K_210-380nm(L-rev).csv
-298.0,Cox(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Cox(1990)_298K_225-380nm(W-rev).txt,Pulse radiolysis (SF,CH3C(O)CH2O2,acetonylperoxy radical,"
-
-  R.A. Cox, J. Munk, O.J. Nielsen, P. Pagsberg, and P. Ratajczak, ""Ultraviolet absorption spectra and kinetics of acetonyl and acetonylperoxy radicals"",
-  Chem. Phys. Lett. 173, 206-210 (1990); 
-
-
-  DOI: ",data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Cox(1990)_298K_225-380nm(W-rev).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_JPL-2010(2011)_298K_225-380nm(rec).txt,JPL-2010 recommendation:,CH3C(O)CH2O2,acetonylperoxy radical,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_JPL-2010(2011)_298K_225-380nm(rec).csv
-298.0,Nielsen(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Nielsen(2002)_298K_230,240,310nm.txt",A pulse radiolysis (SF,CH3C(O)CH2O2,acetonylperoxy radical,"
-
-  O.J. Nielsen, M.S. Johnson, T.J. Wallington, L.K. Christensen, and J. Platz, ""UV absorption cross sections of HO","data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Nielsen(2002)_298K_230,240,310nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Bridier(1993)_298K_200-340nm.txt,NaN,340.0,Bridier(1993),The flash-photolysis-UV-absorption method was used to study the UV spectrum and the kinetics of the acetonylperoxy radical formed in the presence of oxygen via the reaction between CI atoms and acetone.,200.0,acetonylperoxy radical, https://doi.org/10.1039/FT9938902993,CH3C(O)CH2O2,298.0,data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Bridier(1993)_298K_200-340nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Cox(1990)_298K_210-380nm(L-rev).txt,NaN,380.0,Cox(1990),Pulse radiolysis (SF,210.0,acetonylperoxy radical, https://doi.org/10.1016/0009-2614(90)80079-S,CH3C(O)CH2O2,298.0,data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Cox(1990)_298K_210-380nm(L-rev).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Cox(1990)_298K_225-380nm(W-rev).txt,NaN,380.0,Cox(1990),Pulse radiolysis (SF,225.0,acetonylperoxy radical, https://doi.org/10.1016/0009-2614(90)80079-S,CH3C(O)CH2O2,298.0,data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Cox(1990)_298K_225-380nm(W-rev).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_JPL-2010(2011)_298K_225-380nm(rec).txt,NaN,380.0,JPL-2010(2011),JPL-2010 recommendation:,225.0,acetonylperoxy radical,,CH3C(O)CH2O2,298.0,data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_JPL-2010(2011)_298K_225-380nm(rec).csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Acetonylperoxy/CH3C(O)CH2O2_Nielsen(2002)_298K_230,240,310nm.txt",NaN,240.0,Nielsen(2002),A pulse radiolysis (SF,230.0,acetonylperoxy radical, https://doi.org/10.1002/kin.10037,CH3C(O)CH2O2,298.0,"data/cross-sections/Peroxy radicals/Acetonylperoxy/CH3C(O)CH2O2/CH3C(O)CH2O2_Nielsen(2002)_298K_230,240,310nm.csv"

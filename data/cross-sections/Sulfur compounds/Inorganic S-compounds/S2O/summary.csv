@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-273.0,Frandsen(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2O_Frandsen(2020)_273K_238.5-548.1nm(calc).txt,UV-Vis spectrum calculated using the nuclear ensemble approach at the CCSD(T)//EOM_CCSD/aug-cc-pV(T+D)Z level of theory,S2O,disulfur monoxide,"
-
-  B.N. Frandsen, S. Farahani, E. Vogt, J.R. Lane, and H.G. Kjaergaard, ""Spectroscopy of OSSO and other sulfur compounds thought to be present in the Venus atmosphere"",
-  J. Phys. Chem. A 124, 7047-7059 (2020);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2O/S2O_Frandsen(2020)_273K_238.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/S2O_Frandsen(2020)_273K_238.5-548.1nm(calc).txt,NaN,548.1,Frandsen(2020),UV-Vis spectrum calculated using the nuclear ensemble approach at the CCSD(T)//EOM_CCSD/aug-cc-pV(T+D)Z level of theory,238.5,disulfur monoxide, https://doi.org/10.1021/acs.jpca.0c04388,S2O,273.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/S2O/S2O_Frandsen(2020)_273K_238.csv

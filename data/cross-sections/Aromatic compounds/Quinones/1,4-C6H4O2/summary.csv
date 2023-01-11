@@ -1,15 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Brint(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/1,4-C6H4O2_Brint(1986)_298K_123.6-312.9nm.txt","The spectra were measured using a 1 m Rank-Hilger E776 monochromator fitted with a 600 line mm-1 grating, a McPherson 665SS double-beam chamber, a 782 logarithmic ratiometer and a hydrogen-discharge light source (0.25, 0.165 and 0.125 nm bandpass)","1,4-C6H4O2",para-benzoquinone,"
-
-  P. Brint, J.-P. Connerade, P. Tsekeris, A. Bolovinos, and A. Baig, ""Vacuum ultraviolet absorption spectrum of p-benzoquinone"",
-  J. Chem. Soc. Faraday Trans. II 82, 367-375 (1986); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Quinones/1,4-C6H4O2/1,4-C6H4O2_Brint(1986)_298K_123.csv"
-298.0,Jones(2017),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/1,4-C6H4O2_Jones(2017)_298K_114.7-310.0nm.txt",High-resolution (0.07 nm) absorption measurements using synchrotron radiation as the light source,"1,4-C6H4O2",para-benzoquinone,"
-
-  D.B. Jones, P. Limão-Vieira, M. Mendes, N.C. Jones, S.V. Hoffmann, R.F.da Costa, M.T. do N. Varella, M.H.F. Bettega, F. Blanco, G. García, O. Ingólfsson, M.A.P. Lima, and M.J. Brunger, ""An experimental and theoretical investigation into the electronically excited states of para-benzoquinone"",
-  J. Chem. Phys. 146, 184303-1 - 184303-11 (2017); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Quinones/1,4-C6H4O2/1,4-C6H4O2_Jones(2017)_298K_114.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/1,4-C6H4O2_Brint(1986)_298K_123.6-312.9nm.txt",NaN,312.9,Brint(1986),"The spectra were measured using a 1 m Rank-Hilger E776 monochromator fitted with a 600 line mm-1 grating, a McPherson 665SS double-beam chamber, a 782 logarithmic ratiometer and a hydrogen-discharge light source (0.25, 0.165 and 0.125 nm bandpass)",123.6,para-benzoquinone, https://doi.org/10.1039/F29868200367,"1,4-C6H4O2",298.0,"data/cross-sections/Aromatic compounds/Quinones/1,4-C6H4O2/1,4-C6H4O2_Brint(1986)_298K_123.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Quinones/1,4-C6H4O2_Jones(2017)_298K_114.7-310.0nm.txt",NaN,310.0,Jones(2017),High-resolution (0.07 nm) absorption measurements using synchrotron radiation as the light source,114.7,para-benzoquinone, https://doi.org/10.1063/1.4982940,"1,4-C6H4O2",298.0,"data/cross-sections/Aromatic compounds/Quinones/1,4-C6H4O2/1,4-C6H4O2_Jones(2017)_298K_114.csv"

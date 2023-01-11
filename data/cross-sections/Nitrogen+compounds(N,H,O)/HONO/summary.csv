@@ -1,177 +1,29 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bongartz(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1991)_298K_300-399nm(0.5nm).txt",Data as listed in Table I. of the paper: Averages over 0.5-nm intervals of the spectrum measured at a resolution of 0.1 nm; first column: center of interval,HONO,nitrous acid,"
-
-  A. Bongartz, J. Kames, F. Welter, and U. Schurath, ""Near-UV absorption cross sections and trans/cis equilibrium of nitrous acid"",
-  J. Phys. Chem. 95, 1076-1082 (1991); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1991)_298K_300-399nm(0.csv"
-298.0,Bongartz(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1994)_298K_300-399nm(0.5nm).txt","Correction of  the 1991 data, i.e., multiplication by the factor 0.855",HONO,nitrous acid,"
-
-  A. Bongartz, J. Kames, U. Schurath, C. George, P. Mirabel, and J.L. Ponche, ""Experimental determination of HONO mass accomodation coefficients using two different techniques"",
-  J. Atmos. Chem. 18, 149-169 (1994); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1994)_298K_300-399nm(0.csv"
-298.0,Bongartz(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1994)_298K_300-400nm(0.1nm).txt",0.1-nm interpolation of the corrected Bongartz spectrum,HONO,nitrous acid,"
-
-  A. Bongartz, J. Kames, U. Schurath, C. George, P. Mirabel, and J.L. Ponche, ""Experimental determination of HONO mass accomodation coefficients using two different techniques"",
-  J. Atmos. Chem. 18, 149-169 (1994); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1994)_298K_300-400nm(0.csv"
-298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_323-394nm.txt",Absorption measuremets in a flow system; spectral resolution 0.5 nm,HONO,nitrous acid,"
-
-  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
-  Atmos. Environ. 34, 13-19 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_323-394nm.csv"
-298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_327.9-383.0nm(max).txt",Absorption measurements in a flow system; spectral resolution 0.5 nm,HONO,nitrous acid,"
-
-  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
-  Atmos. Environ. 34, 13-19 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_327.csv"
-298.0,Brust(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_338.5-383.0nm(max).txt",Absorption measurements in a flow system; spectral resolution 0.5 nm,HONO,nitrous acid,"
-
-  A.S. Brust, K.H. Becker, J.Kleffmann, P. Wiesen, ""UV absorption cross sections of nitrous acid"",
-  Atmos. Environ. 34, 13-19 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_338.csv"
-295.0,CoxDerwent(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_CoxDerwent(1976)_295K_200-394nm.txt",Absorption measurements at a spectral resolution better than 0.1 nm,HONO,nitrous acid,"
-
-  R.A. Cox and R.G. Derwent, ""The ultra-violet absorption spectrum of gaseous nitrous acid"",
-  J. Photochem. 6, 23-34 (1976-1977); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_CoxDerwent(1976)_295K_200-394nm.csv"
-298.0,Febo(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Febo(1996)_298K_368nm.txt",Reference peak for the DOAS calibration; spectral resolution 1 nm,HONO,nitrous acid,"
-
-  A. Febo, C. Perrino, and I. Allegrini, ""Measurement if nitrous acid in Milan, Italy, by DOAS and diffusion denuders"",
-  Atmos. Environ. 30, 3599-3609 (1996); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Febo(1996)_298K_368nm.csv"
-298.0,Graham(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Graham(1975)_298K_300-400nm.txt","Graham's original measurements gave relative numbers that should be multiplied by a factor of 2.4 (Graham, private communication, 1976) to bring them into agreement with the measurement of ",HONO,nitrous acid,"
-
-  R.A. Graham, ""Photochemistry of NO","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Graham(1975)_298K_300-400nm.csv"
-298.0,IUPAC(2004),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_IUPAC(2004)_298K_190-395nm(rec).txt",IUPAC(2004) recommendation:,HONO,nitrous acid,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_IUPAC(2004)_298K_190-395nm(rec).csv"
-298.0,JohnstonGraham(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JohnstonGraham(1974)_298K_300-399nm.txt",Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,HONO,nitrous acid,"
-
-  H.S. Johnston and R. Graham, ""Photochemistry of NO","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JohnstonGraham(1974)_298K_300-399nm.csv"
-298.0,JPL-2002(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JPL-2002(2002)_298K_310-396nm(rec).txt","JPL-2002 recommendation, adopting the earlier recommendation of ",HONO,nitrous acid,"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JPL-2002(2002)_298K_310-396nm(rec).csv"
-298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JPL-2010(2011)_298K_184-396nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendation of ",HONO,nitrous acid,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JPL-2010(2011)_298K_184-396nm(rec).csv"
-298.0,Kenner(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Kenner(1986)_298K_184-271nm.txt",Absorption measurements at a resolution of 0.38 nm using a D,HONO,nitrous acid,"
-
-  R.D. Kenner, F. Rohrer, and F. Stuhl, ""OH(A) production in the 193-nm photolysis of HONO"",
-  J. Phys. Chem. 90, 2635-2639 (1986);
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Kenner(1986)_298K_184-271nm.csv"
-298.0,Pagsberg(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_300-400nm.txt",Pulse radiolysis of SF,HONO,nitrous acid,"
-
-  P. Pagsberg, E. Bjergbakke, E. Ratajczak, and A. Sillesen, ""Kinetics of the gas phase reaction OH + NO (+ M) ↔ HONO (+ M) and the determination of the UV absorption cross sections of HONO"",
-  Chem. Phys. Lett. 272, 383-390 (1997); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_300-400nm.csv"
-298.0,Pagsberg(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_348.0-361.4nm.txt",Pulse radiolysis of SF,HONO,nitrous acid,"
-
-  P. Pagsberg, E. Bjergbakke, E. Ratajczak, and A. Sillesen, ""Kinetics of the gas phase reaction OH + NO (+ M) ↔ HONO (+ M) and the determination of the UV absorption cross sections of HONO"",
-  Chem. Phys. Lett. 272, 383-390 (1997); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_348.csv"
-298.0,Pagsberg(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_362.0-376.6nm.txt",Pulse radiolysis of SF,HONO,nitrous acid,"
-
-  P. Pagsberg, E. Bjergbakke, E. Ratajczak, and A. Sillesen, ""Kinetics of the gas phase reaction OH + NO (+ M) ↔ HONO (+ M) and the determination of the UV absorption cross sections of HONO"",
-  Chem. Phys. Lett. 272, 383-390 (1997); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_362.csv"
-298.0,Perner(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Perner(1977)_298K_310-388nm.txt",Absorption cross sections from the CD-ROM of,HONO,nitrous acid,"
-
-  D. Perner, personal communication (1977) to","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Perner(1977)_298K_310-388nm.csv"
-298.0,PernerPlatt(1979),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_PernerPlatt(1979)_298K_354.1,368.1nm.txt",Absorption maxima of the two strongest bands,HONO,nitrous acid,"
-
-  D. Perner and U. Platt, ""Detection of nitrous acid in the atmosphere by differential optical absorption"",
-  Geophys. Res. Lett. 6, 917-920 (1979); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_PernerPlatt(1979)_298K_354.csv"
-298.0,Platt(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Platt(1980)_298K_354.1,368.1nm.txt",Absorption maxima of the two strongest bands,HONO,nitrous acid,"
-
-  U. Platt, D. Perner, G.W. Harris, A.M. Winer, and J.N. Pitts, Jr., ""Observation of nitrous acid in an urban atmosphere by differential optical absorption"",
-  Nature 285, 312-314 (1980); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Platt(1980)_298K_354.csv"
-298.0,StockwellCalvert(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_StockwellCalvert(1978)_298K_310-396nm.txt",UV-visible spectrophotometer; spectral resolution <1 nm in the 325-450 nm range and <5 nm in the 300-325 nm range,HONO,nitrous acid,"
-
-  W.R. Stockwell and J.G. Calvert, ""The near ultraviolet absorption spectrum of gaseous HONO and N","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_StockwellCalvert(1978)_298K_310-396nm.csv"
-298.0,Stutz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_291-404nm.txt","High-resolution (0.08 nm) absorption measurements using a halogen lamp, a Czerny-Turner spectrograph, and a photodiode array detector",HONO,nitrous acid,"
-
-  J. Stutz, E.S. Kim, U. Platt, P. Bruno, C. Perrino, A. Febo, ""UV-visible absorption cross sections of nitrous acid"",
-  J. Geophys. Res. 105(D11), 14585-14592 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_291-404nm.csv"
-298.0,Stutz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_292.0-403.5nm(0.5nm).txt","High-resolution (0.08 nm) absorption measurements using a halogen lamp, a Czerny-Turner spectrograph, and a photodiode array detector",HONO,nitrous acid,"
-
-  J. Stutz, E.S. Kim, U. Platt, P. Bruno, C. Perrino, A. Febo, ""UV-visible absorption cross sections of nitrous acid"",
-  J. Geophys. Res. 105(D11), 14585-14592 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_292.csv"
-298.0,Stutz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_293-403nm(1nm).txt","Averages over 1-nm intervals of the high-resolution (0.08 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (March 2005)",HONO,nitrous acid,"
-
-  J. Stutz, E.S. Kim, U. Platt, P. Bruno, C. Perrino, A. Febo, ""UV-visible absorption cross sections of nitrous acid"",
-  J. Geophys. Res. 105(D11), 14585-14592 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_293-403nm(1nm).csv"
-298.0,Stutz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_294-402nm(2nm).txt","Averages over 2-nm intervals of the high-resolution (0.08 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (March 2005)",HONO,nitrous acid,"
-
-  J. Stutz, E.S. Kim, U. Platt, P. Bruno, C. Perrino, A. Febo, ""UV-visible absorption cross sections of nitrous acid"",
-  J. Geophys. Res. 105(D11), 14585-14592 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_294-402nm(2nm).csv"
-298.0,Stutz(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_342,354,368nm.txt",Absolute absorption cross sections at the most prominent absorption bands derived from plots of the absorbance as a function of the HONO concentration,HONO,nitrous acid,"
-
-  J. Stutz, E.S. Kim, U. Platt, P. Bruno, C. Perrino, A. Febo, ""UV-visible absorption cross sections of nitrous acid"",
-  J. Geophys. Res. 105(D11), 14585-14592 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_342,354,368nm.csv"
-300.0,Vasudev(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Vasudev(1990)_300K_310-393nm(1nm).txt",The measured relative absorption cross sections have been calibrated using,HONO,nitrous acid,"
-
-  R. Vasudev, ""Absorption spectrum and solar photodissociation of gaseous nitrous acid in the actinic wavelength region"",
-  Geophys. Res. Lett. 17, 2153-2155 (1990); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Vasudev(1990)_300K_310-393nm(1nm).csv"
-298.0,WangZhang(2000),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_WangZhang(2000)_298K_352.2,354.2,357.0nm.txt",Cavity ring-down spectroscopy; resolution <0.1 nm,HONO,nitrous acid,"
-
-  L. Wang and J. Zhang, ""Detection of nitrous acid by cavity ring-down spectroscopy"",
-  Environ. Sci. Technol. 34, 4221-4227 (2000); 
-
-
-  DOI: ","data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_WangZhang(2000)_298K_352.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1991)_298K_300-399nm(0.5nm).txt",NaN,399.0,Bongartz(1991),Data as listed in Table I. of the paper: Averages over 0.5-nm intervals of the spectrum measured at a resolution of 0.1 nm; first column: center of interval,300.0,nitrous acid, https://doi.org/10.1021/j100156a012,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1991)_298K_300-399nm(0.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1994)_298K_300-399nm(0.5nm).txt",NaN,399.0,Bongartz(1994),"Correction of  the 1991 data, i.e., multiplication by the factor 0.855",300.0,nitrous acid, https://doi.org/10.1007/BF00696812,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1994)_298K_300-399nm(0.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1994)_298K_300-400nm(0.1nm).txt",NaN,400.0,Bongartz(1994),0.1-nm interpolation of the corrected Bongartz spectrum,300.0,nitrous acid, https://doi.org/10.1007/BF00696812,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Bongartz(1994)_298K_300-400nm(0.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_323-394nm.txt",NaN,394.0,Brust(2000),Absorption measuremets in a flow system; spectral resolution 0.5 nm,323.0,nitrous acid, https://doi.org/10.1016/S1352-2310(99)00322-2,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_323-394nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_327.9-383.0nm(max).txt",NaN,383.0,Brust(2000),Absorption measurements in a flow system; spectral resolution 0.5 nm,327.9,nitrous acid, https://doi.org/10.1016/S1352-2310(99)00322-2,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_327.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Brust(2000)_298K_338.5-383.0nm(max).txt",NaN,383.0,Brust(2000),Absorption measurements in a flow system; spectral resolution 0.5 nm,338.5,nitrous acid, https://doi.org/10.1016/S1352-2310(99)00322-2,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Brust(2000)_298K_338.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_CoxDerwent(1976)_295K_200-394nm.txt",NaN,394.0,CoxDerwent(1976),Absorption measurements at a spectral resolution better than 0.1 nm,200.0,nitrous acid, https://doi.org/10.1016/0047-2670(76)87004-9,HONO,295.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_CoxDerwent(1976)_295K_200-394nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Febo(1996)_298K_368nm.txt",NaN,NaN,Febo(1996),Reference peak for the DOAS calibration; spectral resolution 1 nm,368.0,nitrous acid, https://doi.org/10.1016/1352-2310(96)00069-6,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Febo(1996)_298K_368nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Graham(1975)_298K_300-400nm.txt",NaN,400.0,Graham(1975),"Graham's original measurements gave relative numbers that should be multiplied by a factor of 2.4 (Graham, private communication, 1976) to bring them into agreement with the measurement of ",300.0,nitrous acid,,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Graham(1975)_298K_300-400nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_IUPAC(2004)_298K_190-395nm(rec).txt",NaN,395.0,IUPAC(2004),IUPAC(2004) recommendation:,190.0,nitrous acid, https://doi.org/10.5194/acp-4-1461-2004,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_IUPAC(2004)_298K_190-395nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JohnstonGraham(1974)_298K_300-399nm.txt",NaN,399.0,JohnstonGraham(1974),Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,300.0,nitrous acid, https://doi.org/10.1139/v74-214,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JohnstonGraham(1974)_298K_300-399nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JPL-2002(2002)_298K_310-396nm(rec).txt",NaN,396.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",310.0,nitrous acid,,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JPL-2002(2002)_298K_310-396nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_JPL-2010(2011)_298K_184-396nm(rec).txt",NaN,396.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",184.0,nitrous acid,,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_JPL-2010(2011)_298K_184-396nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Kenner(1986)_298K_184-271nm.txt",NaN,271.0,Kenner(1986),Absorption measurements at a resolution of 0.38 nm using a D,184.0,nitrous acid, https://doi.org/10.1021/j100403a015,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Kenner(1986)_298K_184-271nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_300-400nm.txt",NaN,400.0,Pagsberg(1997),Pulse radiolysis of SF,300.0,nitrous acid, https://doi.org/10.1016/S0009-2614(97)00576-9,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_300-400nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_348.0-361.4nm.txt",NaN,361.4,Pagsberg(1997),Pulse radiolysis of SF,348.0,nitrous acid, https://doi.org/10.1016/S0009-2614(97)00576-9,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_348.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Pagsberg(1997)_298K_362.0-376.6nm.txt",NaN,376.6,Pagsberg(1997),Pulse radiolysis of SF,362.0,nitrous acid, https://doi.org/10.1016/S0009-2614(97)00576-9,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Pagsberg(1997)_298K_362.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Perner(1977)_298K_310-388nm.txt",NaN,388.0,Perner(1977),Absorption cross sections from the CD-ROM of,310.0,nitrous acid,,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Perner(1977)_298K_310-388nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_PernerPlatt(1979)_298K_354.1,368.1nm.txt",NaN,368.1,PernerPlatt(1979),Absorption maxima of the two strongest bands,354.1,nitrous acid, https://doi.org/10.1029/GL006i012p00917,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_PernerPlatt(1979)_298K_354.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Platt(1980)_298K_354.1,368.1nm.txt",NaN,368.1,Platt(1980),Absorption maxima of the two strongest bands,354.1,nitrous acid, https://doi.org/10.1038/285312a0,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Platt(1980)_298K_354.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_StockwellCalvert(1978)_298K_310-396nm.txt",NaN,396.0,StockwellCalvert(1978),UV-visible spectrophotometer; spectral resolution <1 nm in the 325-450 nm range and <5 nm in the 300-325 nm range,310.0,nitrous acid, https://doi.org/10.1016/0047-2670(78)80019-7,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_StockwellCalvert(1978)_298K_310-396nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_291-404nm.txt",NaN,404.0,Stutz(2000),"High-resolution (0.08 nm) absorption measurements using a halogen lamp, a Czerny-Turner spectrograph, and a photodiode array detector",291.0,nitrous acid, https://doi.org/10.1029/2000JD900003,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_291-404nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_292.0-403.5nm(0.5nm).txt",NaN,403.5,Stutz(2000),"High-resolution (0.08 nm) absorption measurements using a halogen lamp, a Czerny-Turner spectrograph, and a photodiode array detector",292.0,nitrous acid, https://doi.org/10.1029/2000JD900003,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_292.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_293-403nm(1nm).txt",NaN,403.0,Stutz(2000),"Averages over 1-nm intervals of the high-resolution (0.08 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (March 2005)",293.0,nitrous acid, https://doi.org/10.1029/2000JD900003,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_293-403nm(1nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_294-402nm(2nm).txt",NaN,402.0,Stutz(2000),"Averages over 2-nm intervals of the high-resolution (0.08 nm) spectrum, calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany (March 2005)",294.0,nitrous acid, https://doi.org/10.1029/2000JD900003,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_294-402nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Stutz(2000)_298K_342,354,368nm.txt",NaN,354.0,Stutz(2000),Absolute absorption cross sections at the most prominent absorption bands derived from plots of the absorbance as a function of the HONO concentration,342.0,nitrous acid, https://doi.org/10.1029/2000JD900003,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Stutz(2000)_298K_342,354,368nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Vasudev(1990)_300K_310-393nm(1nm).txt",NaN,393.0,Vasudev(1990),The measured relative absorption cross sections have been calibrated using,310.0,nitrous acid, https://doi.org/10.1029/GL017i012p02153,HONO,300.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_Vasudev(1990)_300K_310-393nm(1nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen+compounds(N,H,O)/HONO_WangZhang(2000)_298K_352.2,354.2,357.0nm.txt",NaN,354.2,WangZhang(2000),Cavity ring-down spectroscopy; resolution <0.1 nm,352.2,nitrous acid, https://doi.org/10.1021/es0011055,HONO,298.0,"data/cross-sections/Nitrogen+compounds(N,H,O)/HONO/HONO_WangZhang(2000)_298K_352.csv"

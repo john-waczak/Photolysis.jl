@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Homem(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/(CH3)3PO4_Homem(2012)_298K_59.0-112.7nm.txt,Absorption measurements using synchrotron radiation.,(CH3)3PO4,trimethylphosphate,"
-
-  M.G.P. Homem, A. López-Castillo, M. Barbatti, L.F.S. Rosa, P. Iza, R.L. Cavasso-Filho, L.S. Farenzena, M.T. Lee, and I. Iga, ""Experimental and theoretical investigations on photoabsorption and photoionization of trimethylphosphate in the vacuum-ultraviolet energy range"",
-  J. Chem. Phys., 137, 184305-1 - 184305-9 (2012); 
-
-
-  DOI: ",data/cross-sections/Phosphor compounds/(CH3)3PO4/(CH3)3PO4_Homem(2012)_298K_59.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Phosphor%20compounds/(CH3)3PO4_Homem(2012)_298K_59.0-112.7nm.txt,NaN,112.7,Homem(2012),Absorption measurements using synchrotron radiation.,59.0,trimethylphosphate, https://doi.org/10.1063/1.4765336,(CH3)3PO4,298.0,data/cross-sections/Phosphor compounds/(CH3)3PO4/(CH3)3PO4_Homem(2012)_298K_59.csv

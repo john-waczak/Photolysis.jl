@@ -1,15 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,Bayrakceken(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.4-237.8nm(I).txt",Flash photolysis of  3-methylbut-1-ene,CH2=CHCH(CH3),alpha-methallyl radical,"
-
-  F. Bayrakçeken, Z. Telatar, F. Ari, L. Tunçyürek, I. Karaaslan, and A. Yaman, ""High-resolution discrete absorption spectrum of α-methallyl free radical in the vapor phase"",
-  Spectrochim. Acta A: Mol. Biomol. Spectrosc. 65, 143-146 (2006); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH(CH3)/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.csv"
-295.0,Bayrakceken(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.4-237.8nm(II).txt",Flash photolysis of  cis-pent-2-ene,CH2=CHCH(CH3),alpha-methallyl radical,"
-
-  F. Bayrakçeken, Z. Telatar, F. Ari, L. Tunçyürek, I. Karaaslan, and A. Yaman, ""High-resolution discrete absorption spectrum of α-methallyl free radical in the vapor phase"",
-  Spectrochim. Acta A: Mol. Biomol. Spectrosc. 65, 143-146 (2006); 
-
-
-  DOI: ","data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH(CH3)/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.4-237.8nm(I).txt",NaN,237.8,Bayrakceken(2006),Flash photolysis of  3-methylbut-1-ene,232.4,alpha-methallyl radical, https://doi.org/10.1016/j.saa.2005.09.038,CH2=CHCH(CH3),295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH(CH3)/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Alkene%20radicals/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.4-237.8nm(II).txt",NaN,237.8,Bayrakceken(2006),Flash photolysis of  cis-pent-2-ene,232.4,alpha-methallyl radical, https://doi.org/10.1016/j.saa.2005.09.038,CH2=CHCH(CH3),295.0,"data/cross-sections/Alkenes,polyenes+radicals/Alkene radicals/CH2=CHCH(CH3)/CH2=CHCH(CH3)_Bayrakceken(2006)_295K_232.csv"

@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Nielsen(1992),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CHF2O2_Nielsen(1992)_298K_220-280nm.txt,A pulse radiolysis (SF,CHF2O2,difluoromethylperoxy radical,"
-
-  O.J. Nielsen, T. Ellerman, E. Bartkiewicz, T.J. Wallington, and M.D. Hurley, ""UV absorption spectra, kinetics and mechanisms of the self-reaction of CHF",data/cross-sections/Peroxy radicals/Alkylperoxy+F/CHF2O2/CHF2O2_Nielsen(1992)_298K_220-280nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+F/CHF2O2_Nielsen(1992)_298K_220-280nm.txt,NaN,280.0,Nielsen(1992),A pulse radiolysis (SF,220.0,difluoromethylperoxy radical, https://doi.org/10.1016/0009-2614(92)85432-A,CHF2O2,298.0,data/cross-sections/Peroxy radicals/Alkylperoxy+F/CHF2O2/CHF2O2_Nielsen(1992)_298K_220-280nm.csv

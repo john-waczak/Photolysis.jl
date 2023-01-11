@@ -1,64 +1,10 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,DagautKurylo(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(meas).txt",Pulse radiolysis (Cl,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P. Dagaut and M.J. Kurylo, ""A flash photolysis investigation of the gas phase UV absorption spectrum and the self-reaction kinetics of the neopentylperoxy radical"",
-  Int. J. Chem. Kinet. 22, 1177-1187 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(meas).csv"
-298.0,DagautKurylo(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(resc,L-rev).txt",L-rev = Lightfoot review,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P. Dagaut and M.J. Kurylo, ""A flash photolysis investigation of the gas phase UV absorption spectrum and the self-reaction kinetics of the neopentylperoxy radical"",
-  Int. J. Chem. Kinet. 22, 1177-1187 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(resc,L-rev).csv"
-298.0,DagautKurylo(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(smoo).txt",Pulse radiolysis (Cl,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P. Dagaut and M.J. Kurylo, ""A flash photolysis investigation of the gas phase UV absorption spectrum and the self-reaction kinetics of the neopentylperoxy radical"",
-  Int. J. Chem. Kinet. 22, 1177-1187 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(smoo).csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(orig).txt",Flash-lamp photolysis of Cl,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(orig).csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,L-rev).txt",L-rev = Lightfoot review,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,L-rev).csv"
-298.0,Lightfoot(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,W-rev).txt",W-rev = Wallington review,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P.D. Lightfoot, P. Roussel, B. Veyret, and R. Lesclaux, ""Flash photolysis study of the spectra and self-reactions of neopentylperoxy and t-butylperoxy radicals"",
-  J. Chem.Soc. Faraday Trans. 86, 2927-2936 (1990); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,W-rev).csv"
-298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1992)_298K_210-300nm(rec).txt",Recommendation based on the results of,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1992)_298K_210-300nm(rec).csv"
-298.0,Wallington(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_210-300nm(rec).txt",Recommendation based on the results of,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Ultraviolet absorption cross sections and reaction kinetics and mechanisms for peroxy radicals in the gas phase"",
-  Chem. Rev. 92, 667-710 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_210-300nm(rec).csv"
-298.0,Wallington(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_230-300nm.txt",Pulse radiolysis (SF,"neo-C5H11O2,(CH3)3CCH2O2","2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical","
-
-  T.J. Wallington, J.M. Andino, A.R. Potts, and O.J. Nielsen, ""Pulse-radiolysis and Fourier-transform infrared study of neopentyl peroxy-radicals in the gas-phase at 297 K"",
-  Int. J. Chem. Kinet. 24, 649-663 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_230-300nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(meas).txt",NaN,300.0,DagautKurylo(1990),Pulse radiolysis (Cl,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1002/kin.550221107,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(meas).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(resc,L-rev).txt",NaN,300.0,DagautKurylo(1990),L-rev = Lightfoot review,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1002/kin.550221107,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(resc,L-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(smoo).txt",NaN,300.0,DagautKurylo(1990),Pulse radiolysis (Cl,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1002/kin.550221107,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_DagautKurylo(1990)_298K_210-300nm(smoo).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(orig).txt",NaN,290.0,Lightfoot(1990),Flash-lamp photolysis of Cl,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1039/FT9908602927,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(orig).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,L-rev).txt",NaN,290.0,Lightfoot(1990),L-rev = Lightfoot review,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1039/FT9908602927,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,L-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,W-rev).txt",NaN,290.0,Lightfoot(1990),W-rev = Wallington review,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1039/FT9908602927,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1990)_298K_210-290nm(resc,W-rev).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1992)_298K_210-300nm(rec).txt",NaN,300.0,Lightfoot(1992),Recommendation based on the results of,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1016/0960-1686(92)90423-I,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Lightfoot(1992)_298K_210-300nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_210-300nm(rec).txt",NaN,300.0,Wallington(1992),Recommendation based on the results of,210.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1021/cr00012a008,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_210-300nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_230-300nm.txt",NaN,300.0,Wallington(1992),Pulse radiolysis (SF,230.0,"2,2-dimethyl-1-propylperoxy radical, neopentylperoxy radical", https://doi.org/10.1002/kin.550240705,"neo-C5H11O2,(CH3)3CCH2O2",298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy/neo-C5H11O2,(CH3)3CCH2O2/neo-C5H11O2,(CH3)3CCH2O2_Wallington(1992)_298K_230-300nm.csv"

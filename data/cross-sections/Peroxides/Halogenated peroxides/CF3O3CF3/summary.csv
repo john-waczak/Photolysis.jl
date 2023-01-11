@@ -1,11 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Halogenated%20peroxides/CF3O3CF3_JPL-2010(2011)_298K_200-312nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",CF3O3CF3,hexafluorodimethyl trioxide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Peroxides/Halogenated peroxides/CF3O3CF3/CF3O3CF3_JPL-2010(2011)_298K_200-312nm(rec).csv
-298.0,MellerMoortgat(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Halogenated%20peroxides/CF3O3CF3_MellerMoortgat(1995)_298K_200-312nm.txt,Averages over 1-nm intervals measured at medium (0.2 nm) resolution using a monochromator/diode array arrangement,CF3O3CF3,hexafluorodimethyl trioxide,"
-
-  R. Meller and G.K. Moortgat, ""Photolysis of CF",data/cross-sections/Peroxides/Halogenated peroxides/CF3O3CF3/CF3O3CF3_MellerMoortgat(1995)_298K_200-312nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Halogenated%20peroxides/CF3O3CF3_JPL-2010(2011)_298K_200-312nm(rec).txt,NaN,312.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",200.0,hexafluorodimethyl trioxide,,CF3O3CF3,298.0,data/cross-sections/Peroxides/Halogenated peroxides/CF3O3CF3/CF3O3CF3_JPL-2010(2011)_298K_200-312nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Halogenated%20peroxides/CF3O3CF3_MellerMoortgat(1995)_298K_200-312nm.txt,NaN,312.0,MellerMoortgat(1995),Averages over 1-nm intervals measured at medium (0.2 nm) resolution using a monochromator/diode array arrangement,200.0,hexafluorodimethyl trioxide, https://doi.org/10.1016/1010-6030(94)03951-P,CF3O3CF3,298.0,data/cross-sections/Peroxides/Halogenated peroxides/CF3O3CF3/CF3O3CF3_MellerMoortgat(1995)_298K_200-312nm.csv

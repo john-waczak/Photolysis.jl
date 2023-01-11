@@ -1,18 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Haszeldine(1953),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_Haszeldine(1953)_298K_237.5,269.5nm(min,max).txt","The extinction coefficients for the maximum and minimum, as listed in Table 3, have been converted to absorption cross sections (conversion factor 3.8235×10",CF2BrCF2I,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane","
-
-  R.N. Haszeldine, ""Studies in spectroscopy, III. The ultraviolet absorption spectra of halogen-containing aliphatic iodo-compounds, and the relative stability of free halogen-containig alkyl radicals"",
-  J. Chem. Soc. 1953, 1764-1771;
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_Haszeldine(1953)_298K_237.csv"
-298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_JPL-2010(2011)_298K_190-330nm(rec).txt",JPL-2010 recommendation:,CF2BrCF2I,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane","
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_JPL-2010(2011)_298K_190-330nm(rec).csv"
-295.0,Pence(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_Pence(1981)_295K_193nm.txt",Absorption measurements at 185-400 nm: the spectrum is reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 6,CF2BrCF2I,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane","
-
-  W.H. Pence, S.L. Baughcum, and S.R. Leone, ""Laser UV photofragmentation of halogenated molecules. Selective bond dissociation and wavelength-specific quantum yields for excited I(","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_Pence(1981)_295K_193nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_Haszeldine(1953)_298K_237.5,269.5nm(min,max).txt",NaN,269.5,Haszeldine(1953),"The extinction coefficients for the maximum and minimum, as listed in Table 3, have been converted to absorption cross sections (conversion factor 3.8235×10",237.5,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane", https://doi.org/10.1039/JR9530001764,CF2BrCF2I,298.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_Haszeldine(1953)_298K_237.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_JPL-2010(2011)_298K_190-330nm(rec).txt",NaN,330.0,JPL-2010(2011),JPL-2010 recommendation:,190.0,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane",,CF2BrCF2I,298.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_JPL-2010(2011)_298K_190-330nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I_Pence(1981)_295K_193nm.txt",NaN,NaN,Pence(1981),Absorption measurements at 185-400 nm: the spectrum is reported as a plot with arbitrary absorbance units vs. wavelength in Fig. 6,193.0,"1,1,2,2-tetrafluoro-1,2-bromoiodoethane", https://doi.org/10.1021/j150625a027,CF2BrCF2I,295.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CF2BrCF2I/CF2BrCF2I_Pence(1981)_295K_193nm.csv"

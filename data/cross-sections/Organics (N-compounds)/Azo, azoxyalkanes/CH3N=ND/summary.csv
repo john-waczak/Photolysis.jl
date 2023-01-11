@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Vidyarthi(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/CH3N=ND_Vidyarthi(1977)_298K_195-230nm.txt",Absorption measurements using a Cary-15 spectrophotometer,CH3N=ND,"methyldiimide-d1, methyldiazene-d1","
-
-  S.M. Vidyarthi, C. Willis, and R.A. Back, ""The ultraviolet absorption spectrum of methyl diimide vapor"",
-  Can. J. Chem. 55, 1396-1400 (1977); 
-
-
-  DOI: ","data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/CH3N=ND/CH3N=ND_Vidyarthi(1977)_298K_195-230nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(N-compounds)/Azo,%20azoxyalkanes/CH3N=ND_Vidyarthi(1977)_298K_195-230nm.txt",NaN,230.0,Vidyarthi(1977),Absorption measurements using a Cary-15 spectrophotometer,195.0,"methyldiimide-d1, methyldiazene-d1", https://doi.org/10.1139/v77-193,CH3N=ND,298.0,"data/cross-sections/Organics (N-compounds)/Azo, azoxyalkanes/CH3N=ND/CH3N=ND_Vidyarthi(1977)_298K_195-230nm.csv"

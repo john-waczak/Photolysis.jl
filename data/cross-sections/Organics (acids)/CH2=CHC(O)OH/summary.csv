@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Mendes(2018),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/CH2=CHC(O)OH_Mendes(2018)_298K_115-320nm.txt,High-resolution (∼0.075 nm) absorption measurements using synchrotron radiation as a light source,CH2=CHC(O)OH,"acrylic acid, propenoic acid","
-
-  M. Mendes, A.S. Barbosa, F. Ferreira da Silva, N.C. Jones, S.V. Hoffmann, G. Garcia, M.H.F. Bettega, and P. Limão-Vieira, ""Probing the lowest-lying electronic states of acrylic acid by experimental and theoretical methods"",
-  J. Phys. Chem. A, 122, 8191-8197 (2018)
-
-
-  DOI: ",data/cross-sections/Organics (acids)/CH2=CHC(O)OH/CH2=CHC(O)OH_Mendes(2018)_298K_115-320nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/CH2=CHC(O)OH_Mendes(2018)_298K_115-320nm.txt,NaN,320.0,Mendes(2018),High-resolution (∼0.075 nm) absorption measurements using synchrotron radiation as a light source,115.0,"acrylic acid, propenoic acid", https://doi.org/10.1021/acs.jpca.8b06626,CH2=CHC(O)OH,298.0,data/cross-sections/Organics (acids)/CH2=CHC(O)OH/CH2=CHC(O)OH_Mendes(2018)_298K_115-320nm.csv

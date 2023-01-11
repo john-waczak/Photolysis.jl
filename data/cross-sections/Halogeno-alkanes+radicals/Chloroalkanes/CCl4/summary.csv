@@ -1,315 +1,61 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Burton(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Burton(1994)_298K_3.1-6.4nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  G.R. Burton, W.F. Chan, G. Cooper, and C.E. Brion, ""Valence- and inner-shell (Cl 2p, 2s, C 1s) photoabsorption and photoionization of carbon tetrachloride. Absolute oscillator strengths (5-400 eV) and dipole-induced breakdown pathways"",
-  Chem. Phys. 181, 147-172 (1994); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Burton(1994)_298K_3.csv
-298.0,Burton(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Burton(1994)_298K_6.4-225nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  G.R. Burton, W.F. Chan, G. Cooper, and C.E. Brion, ""Valence- and inner-shell (Cl 2p, 2s, C 1s) photoabsorption and photoionization of carbon tetrachloride. Absolute oscillator strengths (5-400 eV) and dipole-induced breakdown pathways"",
-  Chem. Phys. 181, 147-172 (1994); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Burton(1994)_298K_6.csv
-298.0,CausleyRussell(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_CausleyRussell(1977)_298K_110-194nm.txt,Absorption measurements using a VUV photospectrometer and a hydrogen discharge lamp as a radiation source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  G.C. Causley and B.R. Russell, ""The vacuum ultraviolet absorption spectra of the Group IVA tetrachlorides"",
-  J. Electron Spectrosc. Relat. Phenom. 11, 383-397 (1977); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_CausleyRussell(1977)_298K_110-194nm.csv
-298.0,CausleyRussell(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_CausleyRussell(1977)_298K_112.42-176.09nm(max).txt,Absorption measurements using a VUV photospectrometer and a hydrogen discharge lamp as a radiation source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  G.C. Causley and B.R. Russell, ""The vacuum ultraviolet absorption spectra of the Group IVA tetrachlorides"",
-  J. Electron Spectrosc. Relat. Phenom. 11, 383-397 (1977); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_CausleyRussell(1977)_298K_112.csv
-298.0,ColeDexter(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_ColeDexter(1978)_298K_6.5-10nm.txt,Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  B.E. Cole and R.N. Dexter, ""Photoabsorption cross sections for chlorinated methanes and ethanes between 46 and 100 Å"",
-  J. Quant. Spectrosc. Radiat. Transfer 19, 303-309 (1978); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_ColeDexter(1978)_298K_6.csv
-303.0,GordusBernstein(1954),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_GordusBernstein(1954)_303K_204-250nm.txt,Extinction coefficients and uncertainties from Tables II and III have been converted to absorption cross sections (conversion factor 3.8235×10,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  A.A. Gordus and R.B. Bernstein, ""Isotope effect in continuous ultraviolet absorption spectra: Methyl bromide-d",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_GordusBernstein(1954)_303K_204-250nm.csv
-298.0,Hanf(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Hanf(2003)_298K_135,193nm.txt",Absorption cross sections at the laser lines used in the gas-phase photolysis experiments,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  A. Hanf, A. Läuter, and H.-R. Volpp, ""Absolute chlorine atom quantum yield measurements in the UV and VUV gas-laser photolysis of CCl","data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Hanf(2003)_298K_135,193nm.csv"
-298.0,Ho(1998),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ho(1998)_298K_4.9-200nm.txt,Absorption measurements using a double-ion chamber and synchrotron radiation; spectral resolution ∼ 0.005 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  G.H. Ho, ""Absolute photoabsorption cross section of CCl",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ho(1998)_298K_4.csv
-298.0,HubrichStuhl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_HubrichStuhl(1980)_298K_160-275nm.txt,"The light source consisted of a deuterium lamp, 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
-  J. Photochem. 12, 93-107 (1980); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_HubrichStuhl(1980)_298K_160-275nm.csv
-298.0,Ibuki(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ibuki(1986)_298K_105-199nm.txt,Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiatio as a light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  T. Ibuki, N. Takahashi, A. Hiraya, and K. Shobatake, ""CCl",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ibuki(1986)_298K_105-199nm.csv
-298.0,Ibuki(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ibuki(1986)_298K_111.8-175nm.txt,Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiation as a light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  T. Ibuki, N. Takahashi, A. Hiraya, and K. Shobatake, ""CCl",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ibuki(1986)_298K_111.csv
-210.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_IUPAC(2008)_210K_204-250nm(rec).txt,IUPAC(2008) recommendation:,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_IUPAC(2008)_210K_204-250nm(rec).csv
-295.0,IUPAC(2008),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_IUPAC(2008)_295K_174-275nm(rec).txt,IUPAC(2008) recommendation:,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_IUPAC(2008)_295K_174-275nm(rec).csv
-295.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_JPL-2015(2015)_295K_174-234nm(rec).txt,JPL-2015(2015) and JPL-2019(2020) recommendations:,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_JPL-2015(2015)_295K_174-234nm(rec).csv
-298.0,JPL-97(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_JPL-97(1997)_298K_174-275nm(rec).txt,JPL-97 recommendation based on the earlier recommendation of,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
-  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_JPL-97(1997)_298K_174-275nm(rec).csv
-298.0,LeeSuto(1987),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_LeeSuto(1987)_298K_105-225nm.txt,Absorption measurements using synchrotron radiation as a light source with a monochromator resolution of 02 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  L.C. Lee and M. Suto, ""Fluorescence yields from photodissociative excitation of chloromethanes by vacuum ultraviolet radiation"",
-  Chem. Phys. 114, 423-429 (1987); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_LeeSuto(1987)_298K_105-225nm.csv
-220.0,PrahladKumar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_220K_186-223nm.txt,Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross sections of carbon tetrachloride at 186-240 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 54, 945-955 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_220K_186-223nm.csv
-240.0,PrahladKumar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_240K_186-235nm.txt,Absorption measurements at 220 to 300 K at an interval of 20K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross sections of carbon tetrachloride at 186-240 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 54, 945-955 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_240K_186-235nm.csv
-260.0,PrahladKumar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_260K_186-235nm.txt,Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross sections of carbon tetrachloride at 186-240 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 54, 945-955 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_260K_186-235nm.csv
-280.0,PrahladKumar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_280K_186-240nm.txt,Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross sections of carbon tetrachloride at 186-240 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 54, 945-955 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_280K_186-240nm.csv
-300.0,PrahladKumar(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_300K_186-240nm.txt,Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  V. Prahlad and V. Kumar, ""Temperature dependence of photoabsorption cross sections of carbon tetrachloride at 186-240 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 54, 945-955 (1995); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_300K_186-240nm.csv
-298.0,RebbertAusloos(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RebbertAusloos(1971)_298K_74nm.txt,Wavelength range 73.6-74.4 nm of the Ne resonance lamp,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  R.E. Rebbert and P. Ausloos, ""Ionization quantum yields and absorption coefficients of selected compounds at 58.4 and 73.6-74.4 nm"",
-  J. Res. Natl. Bur. Stand. A 75, 481-485 (1971); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RebbertAusloos(1971)_298K_74nm.csv
-295.0,Robbins(1976),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Robbins(1976)_295K_174-238nm.txt,"The report of D. E. Robbins has been published in
-
-JPL Publication 77-12, pp. 255-257",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  D.E. Robbins, ""UV photoabsorption cross section for halocarbons"",
-  Int. Conf. Stratosphere and Related Problems, Logan (USA), 1976
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Robbins(1976)_295K_174-238nm.csv
-210.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_210K_184.950-213.857nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_210K_184.csv
-225.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_225K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_225K_184.csv
-243.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_243K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_243K_184.csv
-263.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_263K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_263K_184.csv
-295.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_295K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_295K_184.csv
-324.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_324K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_324K_184.csv
-350.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_350K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_350K_184.csv
-298.0,RowlandMolina(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RowlandMolina(1975)_298K_186-226nm(2nm).txt,Data  from,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  F.S. Rowland and M.J. Molina, ""Chlorofluoromethanes in the environment"",
-  Rev. Geophys. Space Phys. 13, 1-35 (1975); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RowlandMolina(1975)_298K_186-226nm(2nm).csv
-298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RoxloMandl(1980)_298K_170-225nm.txt,Absorption measurements at 170-225 nm using a Xe,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
-  J. Appl. Phys. 51, 2969-2972 (1980); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RoxloMandl(1980)_298K_170-225nm.csv
-298.0,Russell(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Russell(1973)_298K_110-200nm.txt,Extinction coefficients have been digitized from Fig. 1 and converted to absorption cross sections (conversion factor 3.8235×10,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  B.R. Russell, L.O. Edwards, and J.W. Raymonda, ""Vacuum ultraviolet absorption spectra of the chloromethanes"",
-  J. Am. Chem. Soc. 95, 2129-2133 (1973); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Russell(1973)_298K_110-200nm.csv
-298.0,Russell(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Russell(1973)_298K_111.8-175nm.txt,Data as quoted by,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  B.R. Russell, L.O. Edwards, and J.W. Raymonda, ""Vacuum ultraviolet absorption spectra of the chloromethanes"",
-  J. Am. Chem. Soc. 95, 2129-2133 (1973); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Russell(1973)_298K_111.csv
-298.0,Seccombe(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Seccombe(1999)_298K_50-200nm.txt,Absorption measurements using synchrotron radiation,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  D.P. Seccombe, R.P. Tuckett, H. Baumgärtel, and H.W. Jochims, ""Vacuum-UV fluorescence spectroscopy of CCl",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Seccombe(1999)_298K_50-200nm.csv
-210.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_210K_173-250nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_210K_173-250nm(int-c).csv
-210.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_210K_174-250nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_210K_174-250nm(2nm).csv
-230.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_230K_173-250nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_230K_173-250nm(int-c).csv
-230.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_230K_174-250nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_230K_174-250nm(2nm).csv
-250.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_250K_173-250nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_250K_173-250nm(int-c).csv
-250.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_250K_174-250nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_250K_174-250nm(2nm).csv
-270.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_270K_173-250nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_270K_173-250nm(int-c).csv
-270.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_270K_174-250nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_270K_174-250nm(2nm).csv
-295.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_295K_173-250nm(int-c).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_295K_173-250nm(int-c).csv
-295.0,Simon(1988),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_295K_174-250nm(2nm).txt,Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_295K_174-250nm(2nm).csv
-298.0,SPARC(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_SPARC(2013)_298K_121.567nm(rec).txt,Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.2,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
-  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_SPARC(2013)_298K_121.csv
-298.0,Tsubomura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Tsubomura(1964)_298K_166-188nm.txt,Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  H. Tsubomura, K. Kimura, K. Kaya, J. Tanaka, and S. Nagakura, ""Vacuum ultraviolet absorption spectra of saturated organic compounds with non-bonding electrons"",
-  Bull. Chem. Soc. Japan 37, 417-423 (1964); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Tsubomura(1964)_298K_166-188nm.csv
-298.0,Tsubomura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Tsubomura(1964)_298K_174.0nm(max).txt,Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  H. Tsubomura, K. Kimura, K. Kaya, J. Tanaka, and S. Nagakura, ""Vacuum ultraviolet absorption spectra of saturated organic compounds with non-bonding electrons"",
-  Bull. Chem. Soc. Japan 37, 417-423 (1964); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Tsubomura(1964)_298K_174.csv
-279.0,Vanlaethem(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_279K_188-241nm(int-c).txt,Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Vanlaethem-Meurée, J. Wisemberg, and P.C. Simon, ""Absorption des chlorométhanes dans l'ultraviolet: mesures des sections efficaces d'absorption en fonction de la température"",
-  Bull. Acad. Roy. Belgique Cl. Sci. 64, 31-41 (1978); Aeronomica Acta A 191, 1-17 (1978)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_279K_188-241nm(int-c).csv
-279.0,Vanlaethem(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_279K_190-238nm(2nm).txt,Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Vanlaethem-Meurée, J. Wisemberg, and P.C. Simon, ""Absorption des chlorométhanes dans l'ultraviolet: mesures des sections efficaces d'absorption en fonction de la température"",
-  Bull. Acad. Roy. Belgique Cl. Sci. 64, 31-41 (1978); Aeronomica Acta A 191, 1-17 (1978)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_279K_190-238nm(2nm).csv
-296.0,Vanlaethem(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_296K_188-256nm(int-c).txt,Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Vanlaethem-Meurée, J. Wisemberg, and P.C. Simon, ""Absorption des chlorométhanes dans l'ultraviolet: mesures des sections efficaces d'absorption en fonction de la température"",
-  Bull. Acad. Roy. Belgique Cl. Sci. 64, 31-41 (1978); Aeronomica Acta A 191, 1-17 (1978)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_296K_188-256nm(int-c).csv
-296.0,Vanlaethem(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_296K_190-252nm(2nm).txt,Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,CCl4,"carbon tetrachloride, tetrachloromethane","
-
-  N. Vanlaethem-Meurée, J. Wisemberg, and P.C. Simon, ""Absorption des chlorométhanes dans l'ultraviolet: mesures des sections efficaces d'absorption en fonction de la température"",
-  Bull. Acad. Roy. Belgique Cl. Sci. 64, 31-41 (1978); Aeronomica Acta A 191, 1-17 (1978)
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_296K_190-252nm(2nm).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Burton(1994)_298K_3.1-6.4nm(e,e).txt",NaN,6.4,Burton(1994),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",3.1,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0301-0104(94)85022-4,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Burton(1994)_298K_3.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Burton(1994)_298K_6.4-225nm(e,e).txt",NaN,225.0,Burton(1994),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",6.4,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0301-0104(94)85022-4,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Burton(1994)_298K_6.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_CausleyRussell(1977)_298K_110-194nm.txt,NaN,194.0,CausleyRussell(1977),Absorption measurements using a VUV photospectrometer and a hydrogen discharge lamp as a radiation source,110.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0368-2048(77)80015-7,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_CausleyRussell(1977)_298K_110-194nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_CausleyRussell(1977)_298K_112.42-176.09nm(max).txt,NaN,176.09,CausleyRussell(1977),Absorption measurements using a VUV photospectrometer and a hydrogen discharge lamp as a radiation source,112.42,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0368-2048(77)80015-7,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_CausleyRussell(1977)_298K_112.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_ColeDexter(1978)_298K_6.5-10nm.txt,NaN,10.0,ColeDexter(1978),Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,6.5,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(78)90063-8,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_ColeDexter(1978)_298K_6.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Currie(1974)_293-491K_250nm(fit).txt,491.0,NaN,Currie(1974),"Absorption measurements over the temperature range of 296 to 474 K using a spectrometer with expanded scale facilities, giving improved accuracy for low-absorption measurements",250.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1002/kin.550060404,CCl4,293.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Currie(1974)_293-491K_250nm(fit).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Currie(1974)_296-474K_250nm(meas).txt,474.0,NaN,Currie(1974),"Absorption measurements over the temperature range of 296 to 474 K using a spectrometer with expanded scale facilities, giving improved accuracy for low-absorption measurements",250.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1002/kin.550060404,CCl4,296.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Currie(1974)_296-474K_250nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_GordusBernstein(1954)_303K_204-250nm.txt,NaN,250.0,GordusBernstein(1954),Extinction coefficients and uncertainties from Tables II and III have been converted to absorption cross sections (conversion factor 3.8235×10,204.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1063/1.1740194,CCl4,303.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_GordusBernstein(1954)_303K_204-250nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Hanf(2003)_298K_135,193nm.txt",NaN,193.0,Hanf(2003),Absorption cross sections at the laser lines used in the gas-phase photolysis experiments,135.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/S0009-2614(02)01896-1,CCl4,298.0,"data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Hanf(2003)_298K_135,193nm.csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ho(1998)_298K_4.9-200nm.txt,NaN,200.0,Ho(1998),Absorption measurements using a double-ion chamber and synchrotron radiation; spectral resolution ∼ 0.005 nm,4.9,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/S0301-0104(97)00259-0,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ho(1998)_298K_4.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_HubrichStuhl(1980)_298K_160-275nm.txt,NaN,275.0,HubrichStuhl(1980),"The light source consisted of a deuterium lamp, 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0047-2670(80)85031-3,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_HubrichStuhl(1980)_298K_160-275nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ibuki(1986)_298K_105-199nm.txt,NaN,199.0,Ibuki(1986),Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiatio as a light source,105.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1063/1.451532,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ibuki(1986)_298K_105-199nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Ibuki(1986)_298K_111.8-175nm.txt,NaN,175.0,Ibuki(1986),Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiation as a light source,111.8,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1063/1.451532,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Ibuki(1986)_298K_111.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_IUPAC(2008)_210K_204-250nm(rec).txt,NaN,250.0,IUPAC(2008),IUPAC(2008) recommendation:,204.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-8-4141-2008,CCl4,210.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_IUPAC(2008)_210K_204-250nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_IUPAC(2008)_295K_174-275nm(rec).txt,NaN,275.0,IUPAC(2008),IUPAC(2008) recommendation:,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-8-4141-2008,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_IUPAC(2008)_295K_174-275nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_JPL-2010(2011)_295-298K_174-275nm(rec).txt,298.0,275.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",174.0,"carbon tetrachloride, tetrachloromethane",,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_JPL-2010(2011)_295-298K_174-275nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_JPL-2015(2015)_295K_174-234nm(rec).txt,NaN,234.0,JPL-2015(2015),JPL-2015(2015) and JPL-2019(2020) recommendations:,174.0,"carbon tetrachloride, tetrachloromethane",,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_JPL-2015(2015)_295K_174-234nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_JPL-97(1997)_298K_174-275nm(rec).txt,NaN,275.0,JPL-97(1997),JPL-97 recommendation based on the earlier recommendation of,174.0,"carbon tetrachloride, tetrachloromethane",,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_JPL-97(1997)_298K_174-275nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_LeeSuto(1987)_298K_105-225nm.txt,NaN,225.0,LeeSuto(1987),Absorption measurements using synchrotron radiation as a light source with a monochromator resolution of 02 nm,105.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0301-0104(87)85056-5,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_LeeSuto(1987)_298K_105-225nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_220K_186-223nm.txt,NaN,223.0,PrahladKumar(1995),Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(95)00128-8,CCl4,220.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_220K_186-223nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_240K_186-235nm.txt,NaN,235.0,PrahladKumar(1995),Absorption measurements at 220 to 300 K at an interval of 20K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(95)00128-8,CCl4,240.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_240K_186-235nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_260K_186-235nm.txt,NaN,235.0,PrahladKumar(1995),Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(95)00128-8,CCl4,260.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_260K_186-235nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_280K_186-240nm.txt,NaN,240.0,PrahladKumar(1995),Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(95)00128-8,CCl4,280.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_280K_186-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_PrahladKumar(1995)_300K_186-240nm.txt,NaN,240.0,PrahladKumar(1995),Absorption measurements at 220 to 300 K at an interval of 20 K using an argon mini-arc light source and a near normal incidence grating monochromator with a spectral resolution of 0.1 nm,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0022-4073(95)00128-8,CCl4,300.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_PrahladKumar(1995)_300K_186-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RebbertAusloos(1971)_298K_74nm.txt,NaN,NaN,RebbertAusloos(1971),Wavelength range 73.6-74.4 nm of the Ne resonance lamp,74.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.6028/jres.075A.038,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RebbertAusloos(1971)_298K_74nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RebbertAusloos(1976-1977)_300K_313nm.txt,NaN,NaN,RebbertAusloos(1976-1977),,313.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0047-2670(76)85084-8,CCl4,300.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RebbertAusloos(1976-1977)_300K_313nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RebbertAusloos(1976-1977)_376K_313nm.txt,NaN,NaN,RebbertAusloos(1976-1977),,313.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1016/0047-2670(76)85084-8,CCl4,376.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RebbertAusloos(1976-1977)_376K_313nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Robbins(1976)_295K_174-238nm.txt,NaN,238.0,Robbins(1976),"The report of D. E. Robbins has been published in
+
+JPL Publication 77-12, pp. 255-257",174.0,"carbon tetrachloride, tetrachloromethane",,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Robbins(1976)_295K_174-238nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_210K_184.950-213.857nm.txt,NaN,213.857,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,210.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_210K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_225K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,225.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_225K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_243K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,243.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_243K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_263K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,263.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_263K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_295K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_295K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_324K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,324.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_324K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RontuCarlon(2010)_350K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.5194/acp-10-6137-2010,CCl4,350.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RontuCarlon(2010)_350K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RowlandMolina(1975)_298K_186-226nm.txt,NaN,226.0,RowlandMolina(1975),,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1029/RG013i001p00001,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RowlandMolina(1975)_298K_186-226nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RowlandMolina(1975)_298K_186-226nm(2nm).txt,NaN,226.0,RowlandMolina(1975),Data  from,186.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1029/RG013i001p00001,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RowlandMolina(1975)_298K_186-226nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_RoxloMandl(1980)_298K_170-225nm.txt,NaN,225.0,RoxloMandl(1980),Absorption measurements at 170-225 nm using a Xe,170.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1063/1.328108,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_RoxloMandl(1980)_298K_170-225nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Russell(1973)_298K_110-200nm.txt,NaN,200.0,Russell(1973),Extinction coefficients have been digitized from Fig. 1 and converted to absorption cross sections (conversion factor 3.8235×10,110.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1021/ja00788a008,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Russell(1973)_298K_110-200nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Russell(1973)_298K_111.8-175nm.txt,NaN,175.0,Russell(1973),Data as quoted by,111.8,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1021/ja00788a008,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Russell(1973)_298K_111.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Seccombe(1999)_298K_50-200nm.txt,NaN,200.0,Seccombe(1999),Absorption measurements using synchrotron radiation,50.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1039/A809422E,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Seccombe(1999)_298K_50-200nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_210K_173-250nm(int-c).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,210.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_210K_173-250nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_210K_174-250nm(2nm).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,210.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_210K_174-250nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_230K_173-250nm(int-c).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,230.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_230K_173-250nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_230K_174-250nm(2nm).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,230.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_230K_174-250nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_250K_173-250nm(int-c).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,250.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_250K_173-250nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_250K_174-250nm(2nm).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,250.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_250K_174-250nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_270K_173-250nm(int-c).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,270.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_270K_173-250nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_270K_174-250nm(2nm).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,270.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_270K_174-250nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_295K_173-250nm(int-c).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_295K_173-250nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Simon(1988)_295K_174-250nm(2nm).txt,NaN,250.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1007/BF00048042,CCl4,295.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Simon(1988)_295K_174-250nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_SPARC(2013)_298K_121.567nm(rec).txt,NaN,NaN,SPARC(2013),Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.2,121.567,"carbon tetrachloride, tetrachloromethane",,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_SPARC(2013)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Tsubomura(1964)_298K_166-188nm.txt,NaN,188.0,Tsubomura(1964),Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,166.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1246/bcsj.37.417,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Tsubomura(1964)_298K_166-188nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Tsubomura(1964)_298K_174.0nm(max).txt,NaN,NaN,Tsubomura(1964),Absorption measurements using hydrogen-discharge lamps as light sources and a VUV spectrophotometer,174.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.1246/bcsj.37.417,CCl4,298.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Tsubomura(1964)_298K_174.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_279K_188-241nm(int-c).txt,NaN,241.0,Vanlaethem(1978),Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,188.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.3406/barb.1978.58340,CCl4,279.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_279K_188-241nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_279K_190-238nm(2nm).txt,NaN,238.0,Vanlaethem(1978),Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,190.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.3406/barb.1978.58340,CCl4,279.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_279K_190-238nm(2nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_296K_188-256nm(int-c).txt,NaN,256.0,Vanlaethem(1978),Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,188.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.3406/barb.1978.58340,CCl4,296.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_296K_188-256nm(int-c).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4_Vanlaethem(1978)_296K_190-252nm(2nm).txt,NaN,252.0,Vanlaethem(1978),Absorption measurements at 279 and 296 K using a classical single-beam equipment with a deuterium light source,190.0,"carbon tetrachloride, tetrachloromethane", https://doi.org/10.3406/barb.1978.58340,CCl4,296.0,data/cross-sections/Halogeno-alkanes+radicals/Chloroalkanes/CCl4/CCl4_Vanlaethem(1978)_296K_190-252nm(2nm).csv

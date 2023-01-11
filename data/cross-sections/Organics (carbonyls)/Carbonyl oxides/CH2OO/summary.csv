@@ -1,54 +1,14 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Beames(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Beames(2012)_298K_281-410nm.txt,Synthesis of the simplest Criegee biradical intermediate by photolysis (248 nm) of a CH,CH2OO,formaldehyde oxide,"
-
-  J.M. Beames, J.M., F. Liu, L. Lu, and M.I. Lester, ""Ultraviolet spectrum and photochemistry of the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Beames(2012)_298K_281-410nm.csv
-297.0,Buras(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_297K_375nm.txt,Photolysis of CH,CH2OO,formaldehyde oxide,"
-
-  Z.J. Buras, R.M.I. Elsamra, and W.H. Green, ""Direct determination of the simplest Criegee intermediate (CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_297K_375nm.csv
-298.0,Buras(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_298K_375nm.txt,Photolysis of CH,CH2OO,formaldehyde oxide,"
-
-  Z.J. Buras, R.M.I. Elsamra, A. Jalan, J.E. Middaugh, and W.H. Green, ""Direct kinetic measurements of reactions between the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_298K_375nm.csv
-700.0,Buras(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_700K_375nm.txt,Photolysis of CH,CH2OO,formaldehyde oxide,"
-
-  Z.J. Buras, R.M.I. Elsamra, A. Jalan, J.E. Middaugh, and W.H. Green, ""Direct kinetic measurements of reactions between the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_700K_375nm.csv
-295.0,Foreman(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Foreman(2015)_295K_362-476nm.txt,Synthesis of the simplest Criegee biradical intermediate in a reaction flow cell by the reaction between CH,CH2OO,formaldehyde oxide,"
-
-  E.S. Foreman, K.M. Kapnas, YT. Jou, J. Kalinowski, D. Feng, R.B. Gerber, and C. Murray, ""High resolution absolute absorption cross sections of the B ",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Foreman(2015)_295K_362-476nm.csv
-298.0,IUPAC(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_IUPAC(2015)_298K_280-455nm(rec).txt,IUPAC(2015) recommendation:,CH2OO,formaldehyde oxide,"
-
-  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
-  http://iupac.pole-ether.fr
-
-
-",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_IUPAC(2015)_298K_280-455nm(rec).csv
-298.0,IUPAC(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_IUPAC(2015)_298K_340nm(max,rec).txt",IUPAC(2015) recommendation:,CH2OO,formaldehyde oxide,"
-
-  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
-  http://iupac.pole-ether.fr
-
-
-","data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_IUPAC(2015)_298K_340nm(max,rec).csv"
-295.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_JPL-2019(2020)_295K_285-450nm(rec).txt,JPL-2019(2020) recommendation:,CH2OO,formaldehyde oxide,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_JPL-2019(2020)_295K_285-450nm(rec).csv
-295.0,Sheps(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Sheps(2013)_295K_295.156-449.421nm.txt,The 266 nm photolysis of CH,CH2OO,formaldehyde oxide,"
-
-  L. Sheps, ""Absolute ultraviolet absorption spectrum of a Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Sheps(2013)_295K_295.csv
-295.0,Sheps(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Sheps(2013)_295K_355nm(max).txt,"Transient absorption measurements were performed in a time-resolved cavity-enhanced absorption spectrometer, using a gas-phase chemical reactor coupled to a broadband optical resonator that operates in the 300−450 nm wavelength range",CH2OO,formaldehyde oxide,"
-
-  L. Sheps, ""Absolute ultraviolet absorption spectrum of a Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Sheps(2013)_295K_355nm(max).csv
-295.0,Ting(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_280.0-483.8nm.txt,CH,CH2OO,formaldehyde oxide,"
-
-  W.L. Ting, Y.-H. Chen, W. Chao, M.C. Smith, and J.J.-M. Lin, ""The UV absorption spectrum of the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_280.csv
-295.0,Ting(2014),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_308.4,351.8nm.txt",Absolute absorption cross sections of CH,CH2OO,formaldehyde oxide,"
-
-  W.L. Ting, Y.-H. Chen, W. Chao, M.C. Smith, and J.J.-M. Lin, ""The UV absorption spectrum of the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_308.csv
-295.0,Ting(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_340nm(max).txt,Absolute peak absorption cross section deduced from the observed absorbance and the number density of CH,CH2OO,formaldehyde oxide,"
-
-  W.L. Ting, Y.-H. Chen, W. Chao, M.C. Smith, and J.J.-M. Lin, ""The UV absorption spectrum of the simplest Criegee intermediate CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_340nm(max).csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Beames(2012)_298K_281-410nm.txt,NaN,410.0,Beames(2012),Synthesis of the simplest Criegee biradical intermediate by photolysis (248 nm) of a CH,281.0,formaldehyde oxide, https://doi.org/10.1021/ja310603j,CH2OO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Beames(2012)_298K_281-410nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_297K_375nm.txt,NaN,NaN,Buras(2014),Photolysis of CH,375.0,formaldehyde oxide, https://doi.org/10.1021/jz5008406,CH2OO,297.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_297K_375nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_298K_375nm.txt,NaN,NaN,Buras(2014),Photolysis of CH,375.0,formaldehyde oxide, https://doi.org/10.1021/jp4118985,CH2OO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_298K_375nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Buras(2014)_700K_375nm.txt,NaN,NaN,Buras(2014),Photolysis of CH,375.0,formaldehyde oxide, https://doi.org/10.1021/jp4118985,CH2OO,700.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Buras(2014)_700K_375nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Foreman(2015)_295K_362-476nm.txt,NaN,476.0,Foreman(2015),Synthesis of the simplest Criegee biradical intermediate in a reaction flow cell by the reaction between CH,362.0,formaldehyde oxide, https://doi.org/10.1039/C5CP04977F,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Foreman(2015)_295K_362-476nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_IUPAC(2015)_298K_280-455nm(rec).txt,NaN,455.0,IUPAC(2015),IUPAC(2015) recommendation:,280.0,formaldehyde oxide,,CH2OO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_IUPAC(2015)_298K_280-455nm(rec).csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_IUPAC(2015)_298K_340nm(max,rec).txt",NaN,NaN,IUPAC(2015),IUPAC(2015) recommendation:,340.0,formaldehyde oxide,,CH2OO,298.0,"data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_IUPAC(2015)_298K_340nm(max,rec).csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_JPL-2019(2020)_295K_285-450nm(rec).txt,NaN,450.0,JPL-2019(2020),JPL-2019(2020) recommendation:,285.0,formaldehyde oxide,,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_JPL-2019(2020)_295K_285-450nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Sheps(2013)_295K_295.156-449.421nm.txt,NaN,449.421,Sheps(2013),The 266 nm photolysis of CH,295.156,formaldehyde oxide, https://doi.org/10.1021/jz402191w,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Sheps(2013)_295K_295.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Sheps(2013)_295K_355nm(max).txt,NaN,NaN,Sheps(2013),"Transient absorption measurements were performed in a time-resolved cavity-enhanced absorption spectrometer, using a gas-phase chemical reactor coupled to a broadband optical resonator that operates in the 300−450 nm wavelength range",355.0,formaldehyde oxide, https://doi.org/10.1021/jz402191w,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Sheps(2013)_295K_355nm(max).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_280.0-483.8nm.txt,NaN,483.8,Ting(2014),CH,280.0,formaldehyde oxide, https://doi.org/10.1039/C4CP00877D,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_280.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_308.4,351.8nm.txt",NaN,351.8,Ting(2014),Absolute absorption cross sections of CH,308.4,formaldehyde oxide, https://doi.org/10.1039/C4CP00877D,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_308.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/CH2OO_Ting(2014)_295K_340nm(max).txt,NaN,NaN,Ting(2014),Absolute peak absorption cross section deduced from the observed absorbance and the number density of CH,340.0,formaldehyde oxide, https://doi.org/10.1039/C4CP00877D,CH2OO,295.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/CH2OO/CH2OO_Ting(2014)_295K_340nm(max).csv

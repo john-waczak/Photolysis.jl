@@ -1,31 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_JPL-2019(2020)_295K_121.567-220nm(rec).txt,JPL-2019(2020) recommenifdation:,CF3CH2OH,"2,2,2-trifluoroethanol","
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_JPL-2019(2020)_295K_121.csv
-295.0,Orkin(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_Orkin(2011)_295K_163.0-209.5nm.txt,Absorption measurements using a deuterium lamp as the radiation source and a photomultiplier; the spectrum was recorded at increments of 0.5 nm at a spectral silt width of 0.16 nm,CF3CH2OH,"2,2,2-trifluoroethanol","
-
-  V.L. Orkin, V. G. Khamaganov, L.E Martynova, and M.J. Kurylo, ""High-accuracy measurements of OH* reaction rate constants and IR and UV absorption spectra: Ethanol and partially fluorinated ethyl alcohols"",
-  J. Phys. Chem. A 115, 8656-8668 (2011); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_Orkin(2011)_295K_163.csv
-298.0,SalahubSandorfy(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_SalahubSandorfy(1971)_298K_119.9-191.0nm.txt,Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF3CH2OH,"2,2,2-trifluoroethanol","
-
-  D.R. Salahub and C. Sandorfy, ""The far-ultraviolet spectra of some simple alcohols and fluoroalcohols"",
-  Chem. Phys. Lett. 8, 71-74 (1971); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_SalahubSandorfy(1971)_298K_119.csv
-298.0,SalahubSandorfy(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_SalahubSandorfy(1971)_298K_139,143,166nm(max).txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF3CH2OH,"2,2,2-trifluoroethanol","
-
-  D.R. Salahub and C. Sandorfy, ""The far-ultraviolet spectra of some simple alcohols and fluoroalcohols"",
-  Chem. Phys. Lett. 8, 71-74 (1971); 
-
-
-  DOI: ","data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_SalahubSandorfy(1971)_298K_139,143,166nm(max).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_JPL-2019(2020)_295K_121.567-220nm(rec).txt,NaN,220.0,JPL-2019(2020),JPL-2019(2020) recommenifdation:,121.567,"2,2,2-trifluoroethanol",,CF3CH2OH,295.0,data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_JPL-2019(2020)_295K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_Orkin(2011)_295K_163.0-209.5nm.txt,NaN,209.5,Orkin(2011),Absorption measurements using a deuterium lamp as the radiation source and a photomultiplier; the spectrum was recorded at increments of 0.5 nm at a spectral silt width of 0.16 nm,163.0,"2,2,2-trifluoroethanol", https://doi.org/10.1021/jp202099t,CF3CH2OH,295.0,data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_Orkin(2011)_295K_163.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_SalahubSandorfy(1971)_298K_119.9-191.0nm.txt,NaN,191.0,SalahubSandorfy(1971),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,119.9,"2,2,2-trifluoroethanol", https://doi.org/10.1016/0009-2614(71)80578-X,CF3CH2OH,298.0,data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_SalahubSandorfy(1971)_298K_119.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CF3CH2OH_SalahubSandorfy(1971)_298K_139,143,166nm(max).txt",NaN,143.0,SalahubSandorfy(1971),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,139.0,"2,2,2-trifluoroethanol", https://doi.org/10.1016/0009-2614(71)80578-X,CF3CH2OH,298.0,"data/cross-sections/Alcohols/CF3CH2OH/CF3CH2OH_SalahubSandorfy(1971)_298K_139,143,166nm(max).csv"

@@ -1,92 +1,14 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,BerhoLesclaux(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_BerhoLesclaux(1997)_298K_210-290nm.txt",Flash photolysis technique (Cl,C6H5OH,phenol,"
-
-  F. Berho and R. Lesclaux, ""The phenoxy radical: UV spectrum and kinetics of gas-phase reactions with itself and with oxygen"",
-  Chem. Phys. Lett. 279, 289-296 (1997); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_BerhoLesclaux(1997)_298K_210-290nm.csv"
-298.0,Bjergbakke(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Bjergbakke(1996)_298K_250-284nm.txt",Pulse radiolysis (Ar/H,C6H5OH,phenol,"
-
-  E. Bjergbakke, A. Sillesen, and P. Pagsberg, ""UV spectrum and kinetics of hydroxycyclohexadienyl radicals"",
-  J. Phys. Chem. 100, 5729-5736 (1996); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Bjergbakke(1996)_298K_250-284nm.csv"
-300.0,Bjergbakke(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Bjergbakke(1996)_300K_275nm(max).txt",Absorption measurements with phenol vapor in thermal equilibrium with the crystals,C6H5OH,phenol,"
-
-  E. Bjergbakke, A. Sillesen, and P. Pagsberg, ""UV spectrum and kinetics of hydroxycyclohexadienyl radicals"",
-  J. Phys. Chem. 100, 5729-5736 (1996); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Bjergbakke(1996)_300K_275nm(max).csv"
-298.0,Etzkorn(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Etzkorn(1999)_298K_247-288nm.txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),C6H5OH,phenol,"
-
-  T. Etzkorn, B. Klotz, S. Sørensen, I.V. Patroescu, I. Barnes, K.H. Becker, and U. Platt, ""Gas-phase absorption cross sections of 24 monocyclic aromatic hydrocarbons in the UV and IR spectral ranges"",
-  Atmos. Environ. 33, 525-540 (1999); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Etzkorn(1999)_298K_247-288nm.csv"
-296.0,Grosch(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_296K_200-310nm.txt",The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C6H5OH,phenol,"
-
-  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
-  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_296K_200-310nm.csv"
-423.0,Grosch(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_423K_200-310nm.txt",The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C6H5OH,phenol,"
-
-  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
-  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_423K_200-310nm.csv"
-573.0,Grosch(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_573K_200-310nm.txt",The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C6H5OH,phenol,"
-
-  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
-  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_573K_200-310nm.csv"
-773.0,Grosch(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_773K_200-310nm.txt",The temperature dependence of the absorption cross sections was studied between 296 and 773 K,C6H5OH,phenol,"
-
-  H. Grosch, Z. Sárossy, H. Egsgaard, and A. Fateev, ""UV absorption cross-sections of phenol and naphthalene at temperatures up to 500 °C"",
-  J. Quant. Spectrosc. Radiat. Transfer 156, 17-23 (2015); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_773K_200-310nm.csv"
-302.0,KimuraNagakura(1965),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_KimuraNagakura(1965)_302K_159.8-227.7nm.txt",Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5OH,phenol,"
-
-  K. Kimura and S. Nagakura, ""Vacuum ultra-violet absorption spectra of various mono-substituted benzenes"",
-  Mol. Phys. 9, 117-135 (1965); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_KimuraNagakura(1965)_302K_159.csv"
-298.0,Limao-Vieira(2016),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Limao-Vieira(2016)_298K_115.00-334.00nm.txt",High-resolution (0.075 nm) absorption measurements using synchrotron radiation as a light source,C6H5OH,phenol,"
-
-  P. Limão-Vieira, D. Duflot, F. Ferreira da Silva, E. Lange, N.C. Jones, S.V. Hoffmann, M.A. Smialek, D.B. Jones, and M.J. Brunger, ""Valence and lowest Rydberg electronic states of phenol investigated by synchrotron radiation and theoretical methods"",
-  J. Chem. Phys. 145, 034302-1 - 034302-11 (2016); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Limao-Vieira(2016)_298K_115.csv"
-298.0,Olive(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Olive(2005)_298K_260-280nm.txt",Absorption measurements at a spectral resolution of 0.12 nm,C6H5OH,phenol,"
-
-  B.S. Olive, ""Absorption spectra of ammonia, hydrogen sulfide, and several organic compounds"",
-  Results from measurements at the Department of Chemistry and Industrial Hygiene, University of North Alabama, Florence, AL, 2005
-
-
-","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Olive(2005)_298K_260-280nm.csv"
-298.0,Trost(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Trost(1997)_298K_244.1-283.1nm.txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),C6H5OH,phenol,"
-
-  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
-  Atmos. Environ. 31, 3999-4008 (1997); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Trost(1997)_298K_244.csv"
-298.0,Trost(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Trost(1997)_298K_275nm(max).txt",Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),C6H5OH,phenol,"
-
-  B. Trost, J. Stutz, and U. Platt, ""UV-absorption cross sections of a series of monocyclic aromatic compounds"",
-  Atmos. Environ. 31, 3999-4008 (1997); 
-
-
-  DOI: ","data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Trost(1997)_298K_275nm(max).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_BerhoLesclaux(1997)_298K_210-290nm.txt",NaN,290.0,BerhoLesclaux(1997),Flash photolysis technique (Cl,210.0,phenol, https://doi.org/10.1016/S0009-2614(97)01038-5,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_BerhoLesclaux(1997)_298K_210-290nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Bjergbakke(1996)_298K_250-284nm.txt",NaN,284.0,Bjergbakke(1996),Pulse radiolysis (Ar/H,250.0,phenol, https://doi.org/10.1021/jp951588c,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Bjergbakke(1996)_298K_250-284nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Bjergbakke(1996)_300K_275nm(max).txt",NaN,NaN,Bjergbakke(1996),Absorption measurements with phenol vapor in thermal equilibrium with the crystals,275.0,phenol, https://doi.org/10.1021/jp951588c,C6H5OH,300.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Bjergbakke(1996)_300K_275nm(max).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Etzkorn(1999)_298K_247-288nm.txt",NaN,288.0,Etzkorn(1999),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.15 nm),247.0,phenol, https://doi.org/10.1016/S1352-2310(98)00289-1,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Etzkorn(1999)_298K_247-288nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_296K_200-310nm.txt",NaN,310.0,Grosch(2015),The temperature dependence of the absorption cross sections was studied between 296 and 773 K,200.0,phenol, https://doi.org/10.1016/j.jqsrt.2015.01.021,C6H5OH,296.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_296K_200-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_423K_200-310nm.txt",NaN,310.0,Grosch(2015),The temperature dependence of the absorption cross sections was studied between 296 and 773 K,200.0,phenol, https://doi.org/10.1016/j.jqsrt.2015.01.021,C6H5OH,423.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_423K_200-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_573K_200-310nm.txt",NaN,310.0,Grosch(2015),The temperature dependence of the absorption cross sections was studied between 296 and 773 K,200.0,phenol, https://doi.org/10.1016/j.jqsrt.2015.01.021,C6H5OH,573.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_573K_200-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Grosch(2015)_773K_200-310nm.txt",NaN,310.0,Grosch(2015),The temperature dependence of the absorption cross sections was studied between 296 and 773 K,200.0,phenol, https://doi.org/10.1016/j.jqsrt.2015.01.021,C6H5OH,773.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Grosch(2015)_773K_200-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_KimuraNagakura(1965)_302K_159.8-227.7nm.txt",NaN,227.7,KimuraNagakura(1965),Absorption measurements using a VUV spectrophotometer and a hydrogen discharge lamp of hot-cathode type as a light source,159.8,phenol, https://doi.org/10.1080/00268976500100141,C6H5OH,302.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_KimuraNagakura(1965)_302K_159.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Limao-Vieira(2016)_298K_115.00-334.00nm.txt",NaN,334.0,Limao-Vieira(2016),High-resolution (0.075 nm) absorption measurements using synchrotron radiation as a light source,115.0,phenol, https://doi.org/10.1063/1.4955334,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Limao-Vieira(2016)_298K_115.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Olive(2005)_298K_260-280nm.txt",NaN,280.0,Olive(2005),Absorption measurements at a spectral resolution of 0.12 nm,260.0,phenol,,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Olive(2005)_298K_260-280nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Trost(1997)_298K_244.1-283.1nm.txt",NaN,283.1,Trost(1997),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),244.1,phenol, https://doi.org/10.1016/S1352-2310(97)00214-8,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Trost(1997)_298K_244.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Phenol,%20alkylphenols,%20halogenated%20phenols/C6H5OH_Trost(1997)_298K_275nm(max).txt",NaN,NaN,Trost(1997),Absorption measurements using a 0.5 m Czerny-Turner spectrometer coupled with a photodiode array detector (spectral resolution 0.11 nm),275.0,phenol, https://doi.org/10.1016/S1352-2310(97)00214-8,C6H5OH,298.0,"data/cross-sections/Aromatic compounds/Phenol, alkylphenols, halogenated phenols/C6H5OH/C6H5OH_Trost(1997)_298K_275nm(max).csv"

@@ -1,49 +1,9 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Cooper(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1990)_298K_12.4-155nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SiH4,monosilane,"
-
-  G. Cooper, T. Ibuki, and C.E. Brion, ""Absolute oscillator-strengths for photoabsorption, photoionization and ionic photofragmentation of silane. I. The valence shell"",
-  Chem. Phys. 140, 133-145 (1990); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1990)_298K_12.csv
-298.0,Cooper(1990),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1990)_298K_6.8-13.8nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SiH4,monosilane,"
-
-  G. Cooper, T. Ibuki, and C.E. Brion, ""Absolute oscillator-strengths for photoabsorption, photoionization and ionic photofragmentation of silane . II. The Si 2p and 2s inner shells"",
-  Chem. Phys. 140, 147-155 (1990); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1990)_298K_6.csv
-298.0,Cooper(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1995)_298K_3.5-165nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",SiH4,monosilane,"
-
-  G. Cooper, G.R. Burton, W.F. Chan, and C.E. Brion, ""Absolute oscillator-strengths for the photoabsorption of silane in the valence and Si 2p and 2s regions (7.5-350 eV)"",
-  Chem. Phys. 196, 293-306 (1995); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1995)_298K_3.csv
-298.0,Harada(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Harada(1968)_298K_111-159nm.txt,"Absorption measurements (at 1-nm intervals) using a VUV normal incidence spectrometer, a hydrogen discharge lamp as a light source, and a photomultiplier",SiH4,monosilane,"
-
-  Y. Harada, J.N. Murrell, and H.H. Sheena, ""The far ultraviolet spectra of methylsilanes"",
-  Chem. Phys. Lett. 1, 595-596 (1968); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Harada(1968)_298K_111-159nm.csv
-298.0,Itoh(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Itoh(1986)_298K_107.0-153.3nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,SiH4,monosilane,"
-
-  U. Itoh, Y. Toyoshima, H. Onuki, N. Washida, and T. Ibuki, ""Vacuum ultraviolet absorption cross sections of SiH",data/cross-sections/Silicon compounds/SiH4/SiH4_Itoh(1986)_298K_107.csv
-298.0,Kameta(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Kameta(1991)_298K_31-92nm.txt,Absorption measurements using synchrotron radiation as a light source,SiH4,monosilane,"
-
-  K. Kameta, M. Ukai, R. Chiba, K. Nagano, N. Kouchi, Y. Hatano, and K. Tanaka, ""Absolute measurements of photoabsorption cross sections, photoionization cross sections, and photoionization quantum yields of silane in the 13–40 eV region"",
-  J. Chem. Phys. 95, 1456-1460 (1991); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Kameta(1991)_298K_31-92nm.csv
-298.0,Roberge(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Roberge(1978)_298K_120-165nm.txt,Absorption measurements using a vacuum UV spectrometer with a hydrogen discharge source,SiH4,monosilane,"
-
-  R. Roberge, C. Sandorfy, J.I. Matthews, and O.P. Strausz, ""The far ultraviolet and He I photoelectron spectra of alkyl and fluorine substituted silane derivatives"",
-  J. Chem. Phys. 69, 5105-5112 (1978); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/SiH4/SiH4_Roberge(1978)_298K_120-165nm.csv
-298.0,SutoLee(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_SutoLee(1986)_298K_106-157nm.txt,Absorption measurements at a spectral resolution of 0.2 nm using sychrotron radiation as a light source,SiH4,monosilane,"
-
-  M. Suto and L.C. Lee, ""Quantitative photoexcitation study of SiH",data/cross-sections/Silicon compounds/SiH4/SiH4_SutoLee(1986)_298K_106-157nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1990)_298K_12.4-155nm(e,e).txt",NaN,155.0,Cooper(1990),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",12.4,monosilane, https://doi.org/10.1016/0301-0104(90)89054-T,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1990)_298K_12.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1990)_298K_6.8-13.8nm(e,e).txt",NaN,13.8,Cooper(1990),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",6.8,monosilane, https://doi.org/10.1016/0301-0104(90)89055-U,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1990)_298K_6.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Cooper(1995)_298K_3.5-165nm(e,e).txt",NaN,165.0,Cooper(1995),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",3.5,monosilane, https://doi.org/10.1016/0301-0104(95)00085-3,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Cooper(1995)_298K_3.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Harada(1968)_298K_111-159nm.txt,NaN,159.0,Harada(1968),"Absorption measurements (at 1-nm intervals) using a VUV normal incidence spectrometer, a hydrogen discharge lamp as a light source, and a photomultiplier",111.0,monosilane, https://doi.org/10.1016/0009-2614(68)85055-9,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Harada(1968)_298K_111-159nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Itoh(1986)_298K_107.0-153.3nm.txt,NaN,153.3,Itoh(1986),Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,107.0,monosilane, https://doi.org/10.1063/1.451721,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Itoh(1986)_298K_107.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Kameta(1991)_298K_31-92nm.txt,NaN,92.0,Kameta(1991),Absorption measurements using synchrotron radiation as a light source,31.0,monosilane, https://doi.org/10.1063/1.461059,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Kameta(1991)_298K_31-92nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_Roberge(1978)_298K_120-165nm.txt,NaN,165.0,Roberge(1978),Absorption measurements using a vacuum UV spectrometer with a hydrogen discharge source,120.0,monosilane, https://doi.org/10.1063/1.436456,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_Roberge(1978)_298K_120-165nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/SiH4_SutoLee(1986)_298K_106-157nm.txt,NaN,157.0,SutoLee(1986),Absorption measurements at a spectral resolution of 0.2 nm using sychrotron radiation as a light source,106.0,monosilane, https://doi.org/10.1063/1.450506,SiH4,298.0,data/cross-sections/Silicon compounds/SiH4/SiH4_SutoLee(1986)_298K_106-157nm.csv

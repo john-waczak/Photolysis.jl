@@ -1,43 +1,7 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Burrows(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Burrows(1989)_298K_215-280nm.txt",The transient species in the photooxidation of formaldehyde in air has been investigated by using the technique of modulated photolysis-long path kinetic spectroscopy,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  J.P. Burrows, G.K. Moortgat, G.S. Tyndall, R.A. Cox, M.E. Jenkin, G.D. Hayman, and B. Veyret, ""Kinetics and mechanism of the photooxidation of formaldehyde. 2. Molecular modulation studies"",
-  J. Phys. Chem. 93, 2375-2382 (1989); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Burrows(1989)_298K_215-280nm.csv"
-298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Lightfoot(1992)_298K_200-280nm(resc).txt",Rescaling and averaging of the data of,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Lightfoot(1992)_298K_200-280nm(resc).csv"
-298.0,Lightfoot(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Lightfoot(1992)_298K_215-280nm(rec).txt",Recommendation based on a smooth fit to the rescaled and averaged data of,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  P.D. Lightfoot, R.A. Cox, J.N. Crowley, M. Destriau, G.D. Hayman, M.E. Jenkin, G.K. Moortgat, and F. Zabel, ""Organic peroxy radicals: Kinetics, spectroscopy and tropospheric chemistry"",
-  Atmos. Environ. 26A, 1805-1961 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Lightfoot(1992)_298K_215-280nm(rec).csv"
-295.0,Veyret(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Veyret(1989)_295K_200-270nm(orig).txt",Measurements using the technique of flash photolysis (Cl,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  B. Veyret, R. Lesclaux, M.-T. Rayez, J.-C. Rayez, R.A. Cox, and G.K. Moortgat, ""Kinetics and mechanism of the photooxidation of formaldehyde. 1. Flash photolysis study"",
-  J. Phys. Chem. 93, 2368-2374 (1989); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Veyret(1989)_295K_200-270nm(orig).csv"
-295.0,Veyret(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Veyret(1989)_295K_200-270nm(resc).txt",Measurements using the technique of flash photolysis (Cl,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  B. Veyret, R. Lesclaux, M.-T. Rayez, J.-C. Rayez, R.A. Cox, and G.K. Moortgat, ""Kinetics and mechanism of the photooxidation of formaldehyde. 1. Flash photolysis study"",
-  J. Phys. Chem. 93, 2368-2374 (1989); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Veyret(1989)_295K_200-270nm(resc).csv"
-298.0,Wallington(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Wallington(1992)_298K_200-280nm(rec).txt",Recommendation based on the data of,CH2(OH)O2,hydroxymethylperoxy radical,"
-
-  T.J. Wallington, P. Dagaut, and M.J. Kurylo, ""Ultraviolet absorption cross sections and reaction kinetics and mechanisms for peroxy radicals in the gas phase"",
-  Chem. Rev. 92, 667-710 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Wallington(1992)_298K_200-280nm(rec).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Burrows(1989)_298K_215-280nm.txt",NaN,280.0,Burrows(1989),The transient species in the photooxidation of formaldehyde in air has been investigated by using the technique of modulated photolysis-long path kinetic spectroscopy,215.0,hydroxymethylperoxy radical, https://doi.org/10.1021/j100343a034,CH2(OH)O2,298.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Burrows(1989)_298K_215-280nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Lightfoot(1992)_298K_200-280nm(resc).txt",NaN,280.0,Lightfoot(1992),Rescaling and averaging of the data of,200.0,hydroxymethylperoxy radical, https://doi.org/10.1016/0960-1686(92)90423-I,CH2(OH)O2,298.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Lightfoot(1992)_298K_200-280nm(resc).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Lightfoot(1992)_298K_215-280nm(rec).txt",NaN,280.0,Lightfoot(1992),Recommendation based on a smooth fit to the rescaled and averaged data of,215.0,hydroxymethylperoxy radical, https://doi.org/10.1016/0960-1686(92)90423-I,CH2(OH)O2,298.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Lightfoot(1992)_298K_215-280nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Veyret(1989)_295K_200-270nm(orig).txt",NaN,270.0,Veyret(1989),Measurements using the technique of flash photolysis (Cl,200.0,hydroxymethylperoxy radical, https://doi.org/10.1021/j100343a033,CH2(OH)O2,295.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Veyret(1989)_295K_200-270nm(orig).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Veyret(1989)_295K_200-270nm(resc).txt",NaN,270.0,Veyret(1989),Measurements using the technique of flash photolysis (Cl,200.0,hydroxymethylperoxy radical, https://doi.org/10.1021/j100343a033,CH2(OH)O2,295.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Veyret(1989)_295K_200-270nm(resc).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2_Wallington(1992)_298K_200-280nm(rec).txt",NaN,280.0,Wallington(1992),Recommendation based on the data of,200.0,hydroxymethylperoxy radical, https://doi.org/10.1021/cr00012a008,CH2(OH)O2,298.0,"data/cross-sections/Peroxy radicals/Hydroxy-,methoxyalkylperoxy/CH2(OH)O2/CH2(OH)O2_Wallington(1992)_298K_200-280nm(rec).csv"

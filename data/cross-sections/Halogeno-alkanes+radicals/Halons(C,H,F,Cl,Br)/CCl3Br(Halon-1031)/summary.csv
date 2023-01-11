@@ -1,42 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,CadmanSimons(1966),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_CadmanSimons(1966)_298K_207-304nm.txt",Extinction coefficients ε,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  P. Cadman and J.P. Simon, ""Reactions of hot halomethyl radicals"",
-  Trans. Faraday Soc. 62, 631-641 (1966); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_CadmanSimons(1966)_298K_207-304nm.csv"
-298.0,Ibuki(1986),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Ibuki(1986)_298K_104-198nm.txt",Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiation as a light source,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  T. Ibuki, N. Takahashi, A. Hiraya, and K. Shobatake, ""CCl","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Ibuki(1986)_298K_104-198nm.csv"
-298.0,JPL-2002(2002),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_JPL-2002(2002)_298K_170-305nm(rec).txt",JPL-2002 recommendation:,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_JPL-2002(2002)_298K_170-305nm(rec).csv"
-298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_JPL-2010(2011)_298K_235-365nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendation of ",CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_JPL-2010(2011)_298K_235-365nm(rec).csv"
-298.0,RoxloMandl(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_RoxloMandl(1980)_298K_170-230nm.txt",Absorption measurements at 170-230 nm using a Xe,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
-  J. Appl. Phys. 51, 2969-2972 (1980); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_RoxloMandl(1980)_298K_170-230nm.csv"
-298.0,Seccombe(1999),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Seccombe(1999)_298K_50-200nm.txt",Absorption measurements using synchrotron radiation,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  D.P. Seccombe, R.P. Tuckett, H. Baumgärtel, and H.W. Jochims, ""Vacuum-UV fluorescence spectroscopy of CCl","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Seccombe(1999)_298K_50-200nm.csv"
-298.0,Sidebottom(1969),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Sidebottom(1969)_298K_365nm.txt",A continuous absorption spectrum with a maximum at 251 nm was observed,CCl3Br(Halon-1031),trichlorobromomethane (Halon-1031),"
-
-  H.W. Sidebottom, J.M. Tedder, and J.C. Walton, ""Photolysis of bromotrichloromethane"",
-  Trans. Faraday Soc. 65, 755-762 (1969); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Sidebottom(1969)_298K_365nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_CadmanSimons(1966)_298K_207-304nm.txt",NaN,304.0,CadmanSimons(1966),Extinction coefficients ε,207.0,trichlorobromomethane (Halon-1031), https://doi.org/10.1039/TF9666200631,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_CadmanSimons(1966)_298K_207-304nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Ibuki(1986)_298K_104-198nm.txt",NaN,198.0,Ibuki(1986),Absorption measurements at a spectral resolution of 0.4 nm using synchrotron radiation as a light source,104.0,trichlorobromomethane (Halon-1031), https://doi.org/10.1063/1.451532,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Ibuki(1986)_298K_104-198nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_JPL-2002(2002)_298K_170-305nm(rec).txt",NaN,305.0,JPL-2002(2002),JPL-2002 recommendation:,170.0,trichlorobromomethane (Halon-1031),,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_JPL-2002(2002)_298K_170-305nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_JPL-2010(2011)_298K_235-365nm(rec).txt",NaN,365.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",235.0,trichlorobromomethane (Halon-1031),,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_JPL-2010(2011)_298K_235-365nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_RoxloMandl(1980)_298K_170-230nm.txt",NaN,230.0,RoxloMandl(1980),Absorption measurements at 170-230 nm using a Xe,170.0,trichlorobromomethane (Halon-1031), https://doi.org/10.1063/1.328108,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_RoxloMandl(1980)_298K_170-230nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Seccombe(1999)_298K_50-200nm.txt",NaN,200.0,Seccombe(1999),Absorption measurements using synchrotron radiation,50.0,trichlorobromomethane (Halon-1031), https://doi.org/10.1039/A809422E,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Seccombe(1999)_298K_50-200nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)_Sidebottom(1969)_298K_365nm.txt",NaN,NaN,Sidebottom(1969),A continuous absorption spectrum with a maximum at 251 nm was observed,365.0,trichlorobromomethane (Halon-1031), https://doi.org/10.1039/TF9696500755,CCl3Br(Halon-1031),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CCl3Br(Halon-1031)/CCl3Br(Halon-1031)_Sidebottom(1969)_298K_365nm.csv"

@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Carnovale(1981),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Carnovale(1981)_298K_8.3-155nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HF,hydrogen fluoride,"
-
-  F. Carnovale, R. Tseng, and C.E. Brion, ""Absolute oscillator-strengths for the photoabsorption and partial photoionization of hydrogen fluoride"",
-  J. Phys. B: Atom. Molec. Phys. 14, 4771-4785 (1981); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HF/HF_Carnovale(1981)_298K_8.csv
-298.0,Nee(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Nee(1985)_298K_107.5-144.8nm.txt,Absorption measurements at a resolution of 0.3 nm using synchrotron radiation as a light source,HF,hydrogen fluoride,"
-
-  J.B. Nee, M. Suto, and L.C. Lee, ""Photoabsorption cross section of HF at 107-145 nm"",
-  J. Phys. B: Atom. Mol. Phys. 18, L293-L294 (1985); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HF/HF_Nee(1985)_298K_107.csv
-298.0,Nee(1985),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Nee(1985)_298K_121.6,145nm.txt",Absorption measurements at a resolution of 0.3 nm using synchrotron radiation as a light source,HF,hydrogen fluoride,"
-
-  J.B. Nee, M. Suto, and L.C. Lee, ""Photoabsorption cross section of HF at 107-145 nm"",
-  J. Phys. B: Atom. Mol. Phys. 18, L293-L294 (1985); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HF/HF_Nee(1985)_298K_121.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Carnovale(1981)_298K_8.3-155nm(e,e).txt",NaN,155.0,Carnovale(1981),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",8.3,hydrogen fluoride, https://doi.org/10.1088/0022-3700/14/24/013,HF,298.0,data/cross-sections/Hydrogen halides/HF/HF_Carnovale(1981)_298K_8.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Nee(1985)_298K_107.5-144.8nm.txt,NaN,144.8,Nee(1985),Absorption measurements at a resolution of 0.3 nm using synchrotron radiation as a light source,107.5,hydrogen fluoride, https://doi.org/10.1088/0022-3700/18/10/006,HF,298.0,data/cross-sections/Hydrogen halides/HF/HF_Nee(1985)_298K_107.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HF_Nee(1985)_298K_121.6,145nm.txt",NaN,145.0,Nee(1985),Absorption measurements at a resolution of 0.3 nm using synchrotron radiation as a light source,121.6,hydrogen fluoride, https://doi.org/10.1088/0022-3700/18/10/006,HF,298.0,data/cross-sections/Hydrogen halides/HF/HF_Nee(1985)_298K_121.csv

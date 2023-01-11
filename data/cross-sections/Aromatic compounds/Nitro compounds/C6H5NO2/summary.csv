@@ -1,33 +1,6 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Cooper(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Cooper(2001)_298K_35-125nm.txt,High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,C6H5NO2,nitrobenzene,"
-
-  L. Cooper, L.G. Shpinkova, E.E. Rennie, D.M.P. Holland, and D.A. D.A. Shaw, ""Time-of-flight mass spectrometry study of the fragmentation of valence shell ionised nitrobenzene"",
-  Int. J. Mass Spectrom. 207, 223–239 (2001); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Cooper(2001)_298K_35-125nm.csv
-296.0,Frosig(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Frosig(2000)_296K_200-375nm.txt,Absorption measurements using a diode array spectrometer system; spectral resolution 0.6 nm,C6H5NO2,nitrobenzene,"
-
-  L. Frøsig, O.J. Nielsen, M. Bilde, T.J. Wallington, J.J. Orlando, and G.S. Tyndall, ""Kinetics and mechanism of the reaction of Cl atoms with nitrobenzene"",
-  J. Phys. Chem. A 104, 11328-11331 (2000); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Frosig(2000)_296K_200-375nm.csv
-298.0,Nagakura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Nagakura(1964)_298K_155.5-300.0nm.txt,Absorption measurements were carried with a vacuum ultraviolet spectrophotometer constructed in the author's laboratory,C6H5NO2,nitrobenzene,"
-
-  S. Nagakura, M. Kojima, and Y. Maruyama, ""Electronic Spectra and electronic structures of nitrobenzene and nitromesitylene"",
-  J. Mol. Spectrosc. 13, 174-192 (1964); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Nagakura(1964)_298K_155.csv
-298.0,Nagakura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Nagakura(1964)_298K_164-288nm(max).txt,Absorption measurements were carried with a vacuum ultraviolet spectrophotometer constructed in the author's laboratory,C6H5NO2,nitrobenzene,"
-
-  S. Nagakura, M. Kojima, and Y. Maruyama, ""Electronic Spectra and electronic structures of nitrobenzene and nitromesitylene"",
-  J. Mol. Spectrosc. 13, 174-192 (1964); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Nagakura(1964)_298K_164-288nm(max).csv
-298.0,Shama(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Shama(1991)_298K_161.3-295.1nm.txt,"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 37) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",C6H5NO2,nitrobenzene,"
-
-  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
-  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;",data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Shama(1991)_298K_161.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Cooper(2001)_298K_35-125nm.txt,NaN,125.0,Cooper(2001),High-resolution absorption measurements using a double ion chamber and monochromated synchrotron radiation,35.0,nitrobenzene, https://doi.org/10.1016/S1387-3806(01)00374-8,C6H5NO2,298.0,data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Cooper(2001)_298K_35-125nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Frosig(2000)_296K_200-375nm.txt,NaN,375.0,Frosig(2000),Absorption measurements using a diode array spectrometer system; spectral resolution 0.6 nm,200.0,nitrobenzene, https://doi.org/10.1021/jp002696o,C6H5NO2,296.0,data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Frosig(2000)_296K_200-375nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Nagakura(1964)_298K_155.5-300.0nm.txt,NaN,300.0,Nagakura(1964),Absorption measurements were carried with a vacuum ultraviolet spectrophotometer constructed in the author's laboratory,155.5,nitrobenzene, https://doi.org/10.1016/0022-2852(64)90066-9,C6H5NO2,298.0,data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Nagakura(1964)_298K_155.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Nagakura(1964)_298K_164-288nm(max).txt,NaN,288.0,Nagakura(1964),Absorption measurements were carried with a vacuum ultraviolet spectrophotometer constructed in the author's laboratory,164.0,nitrobenzene, https://doi.org/10.1016/0022-2852(64)90066-9,C6H5NO2,298.0,data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Nagakura(1964)_298K_164-288nm(max).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/C6H5NO2_Shama(1991)_298K_161.3-295.1nm.txt,NaN,295.1,Shama(1991),"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 37) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",161.3,nitrobenzene,,C6H5NO2,298.0,data/cross-sections/Aromatic compounds/Nitro compounds/C6H5NO2/C6H5NO2_Shama(1991)_298K_161.csv

@@ -1,112 +1,24 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Au(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Au(1997)_298K_6.2-177nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  J.W. Au, G.R. Burton, and C.E. Brion, ""Quantitative spectroscopic studies of the valence-shell electronic excitations of Freons (CFCl","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Au(1997)_298K_6.csv"
-296.0,Chou(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Chou(1978)_296K_185-203nm.txt",The listed absorption cross sections are expressed as cross sections at the midpoint of 500-cm,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  C.C. Chou, R.J. Milstein, W.S. Smith, H. Vera Ruiz, M.J. Molina, and F.S. Rowland, ""Stratospheric photodissociation of several saturated perhalo chlorofluorocarbon compounds in current technological use (fluorocarbons-13, -113, -114, and -115)"",
-  J. Phys. Chem. 82, 1-7 (1978); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Chou(1978)_296K_185-203nm.csv"
-298.0,ColeDexter(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_ColeDexter(1978)_298K_6.5-10nm.txt",Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  B.E. Cole and R.N. Dexter, ""Photoabsorption cross sections for chlorinated methanes and ethanes between 46 and 100 Å"",
-  J. Quant. Spectrosc. Radiat. Transfer 19, 303-309 (1978); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_ColeDexter(1978)_298K_6.csv"
-298.0,Doucet(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Doucet(1973)_298K_120.1-137.3nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet and photoelectron spectra of fluoro-chloro derivates of methane"",
-  J. Chem. Phys. 58, 3708-3716 (1973); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Doucet(1973)_298K_120.csv"
-298.0,Doucet(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Doucet(1973)_298K_135.0-160.1nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet and photoelectron spectra of fluoro-chloro derivates of methane"",
-  J. Chem. Phys. 58, 3708-3716 (1973); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Doucet(1973)_298K_135.csv"
-298.0,Eden(2006),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Eden(2006)_298K_115-180nm.txt",Absorption measurements using synchrotron radiation; spectral resolution 0.07 nm,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  S. Eden, P. Limão-Vieira, S.V. Hoffmann, and N.J. Mason, ""VUV absorption in CF3X (X = Cl, Br, I) fluoroalkanes"",
-  Chem. Phys. 323, 313-333 (2006); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Eden(2006)_298K_115-180nm.csv"
-298.0,Gilbert(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Gilbert(1974)_298K_58.2-121.8nm.txt",Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-120-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet absorption spectra of chlorofluoromethanes from 120 to 65 nm"",
-  J. Chem. Phys. 60, 4820-4824 (1974); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Gilbert(1974)_298K_58.csv"
-208.0,HubrichStuhl(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_HubrichStuhl(1980)_208K_160-205nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
-  J. Photochem. 12, 93-107 (1980); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_HubrichStuhl(1980)_208K_160-205nm.csv"
-298.0,HubrichStuhl(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_HubrichStuhl(1980)_298K_160-220nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
-  J. Photochem. 12, 93-107 (1980); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_HubrichStuhl(1980)_298K_160-220nm.csv"
-296.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_JPL-2010(2011)_296K_172-220nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_JPL-2010(2011)_296K_172-220nm(rec).csv"
-295.0,Lee(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Lee(1977)_295K_18-74nm.txt",Absorption measurements using a double ion chamber and a synchrotron radiation source; spectral resolution ∼0.1 nm,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  L.C. Lee, E. Philips, and D.L. Judge, ""Photoabsorption cross sections of CH","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Lee(1977)_295K_18-74nm.csv"
-298.0,Ravishankara(1993),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Ravishankara(1993)_298K_121.6nm.txt",Absorption cross section at the Lyman-α line;,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  A.R. Ravishankara, S. Solomon, A.A. Turnipseed, and R.F. Warren, ""Atmospheric lifetimes of long-lived halogenated species"",
-  Science 259, 194-199 (1993); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Ravishankara(1993)_298K_121.csv"
-298.0,RebbertAusloos(1971),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_RebbertAusloos(1971)_298K_74nm.txt",Wavelength range 73.6-74.4 nm of the Ne resonance lamp,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  R.E. Rebbert and P. Ausloos, ""Ionization quantum yields and absorption coefficients of selected compounds at 58.4 and 73.6-74.4 nm"",
-  J. Res. Natl. Bur. Stand. A 75, 481-485 (1971); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_RebbertAusloos(1971)_298K_74nm.csv"
-295.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Simon(1988)_295K_169-202nm(int-c).txt",Absorption measurements using a single-beam equipment with a maximum resolution of 0.015 nm,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Simon(1988)_295K_169-202nm(int-c).csv"
-295.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Simon(1988)_295K_172-200nm(2nm).txt",Absorption measurements using a single-beam equipment with a maximum resolution of 0.015 nm,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Simon(1988)_295K_172-200nm(2nm).csv"
-298.0,SutoLee(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_SutoLee(1983)_298K_106.0-134.9nm.txt",Absorption measurements at a spectral resolution of 0.2 nm using synchrotron radiation as a light source,CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  M. Suto and L.C. Lee, ""Emission spectra of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_SutoLee(1983)_298K_106.csv"
-298.0,Washida(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Washida(1983)_298K_114.6-130.5nm(smoo).txt","Absorption measurements at a monochromator bandwidth of 1. 3 nm using a Hinteregger-type discharge lampas a light source,  which produces many pseudocontinuum lines
-in a dc discharge of hydrogen",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  N. Washida, M. Suto, S. Nagase, U. Nagashima, and K. Morokuma, ""Emission spectra of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Washida(1983)_298K_114.csv"
-298.0,Washida(1983),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Washida(1983)_298K_115-130nm(meas).txt","Absorption measurements at a monochromator bandwidth of 1. 3 nm using a Hinteregger-type discharge lampas a light source,  which produces many pseudocontinuum lines
-in a dc discharge of hydrogen",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  N. Washida, M. Suto, S. Nagase, U. Nagashima, and K. Morokuma, ""Emission spectra of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Washida(1983)_298K_115-130nm(meas).csv"
-298.0,Zhang(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Zhang(1991)_298K_6.2-165nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",CF3Cl(CFC-13),trifluorochloromethane (CFC-13),"
-
-  W. Zhang, G. Cooper, T. Ibuki, and C.E. Brion, ""Excitation and ionization of freon molecules. II. Absolute oscillator-strengthsfor the photoabsorption (7.5-200 eV) and the ionic photofragmentation (12.5-80 eV) of CF","data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Zhang(1991)_298K_6.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Au(1997)_298K_6.2-177nm(e,e).txt",NaN,177.0,Au(1997),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator stengths df/dE (in 10",6.2,trifluorochloromethane (CFC-13), https://doi.org/10.1016/S0301-0104(97)00146-8,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Au(1997)_298K_6.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Chou(1978)_296K_185-203nm.txt",NaN,203.0,Chou(1978),The listed absorption cross sections are expressed as cross sections at the midpoint of 500-cm,185.0,trifluorochloromethane (CFC-13), https://doi.org/10.1021/j100490a001,CF3Cl(CFC-13),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Chou(1978)_296K_185-203nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_ColeDexter(1978)_298K_6.5-10nm.txt",NaN,10.0,ColeDexter(1978),Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,6.5,trifluorochloromethane (CFC-13), https://doi.org/10.1016/0022-4073(78)90063-8,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_ColeDexter(1978)_298K_6.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Doucet(1973)_298K_120.1-137.3nm.txt",NaN,137.3,Doucet(1973),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,120.1,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.1679584,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Doucet(1973)_298K_120.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Doucet(1973)_298K_135.0-160.1nm.txt",NaN,160.1,Doucet(1973),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,135.0,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.1679584,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Doucet(1973)_298K_135.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Eden(2006)_298K_115-180nm.txt",NaN,180.0,Eden(2006),Absorption measurements using synchrotron radiation; spectral resolution 0.07 nm,115.0,trifluorochloromethane (CFC-13), https://doi.org/10.1016/j.chemphys.2005.09.040,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Eden(2006)_298K_115-180nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Gilbert(1974)_298K_58.2-121.8nm.txt",NaN,121.8,Gilbert(1974),Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-120-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,58.2,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.1680987,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Gilbert(1974)_298K_58.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_HubrichStuhl(1980)_208K_160-205nm.txt",NaN,205.0,HubrichStuhl(1980),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,trifluorochloromethane (CFC-13), https://doi.org/10.1016/0047-2670(80)85031-3,CF3Cl(CFC-13),208.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_HubrichStuhl(1980)_208K_160-205nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_HubrichStuhl(1980)_298K_160-220nm.txt",NaN,220.0,HubrichStuhl(1980),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,trifluorochloromethane (CFC-13), https://doi.org/10.1016/0047-2670(80)85031-3,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_HubrichStuhl(1980)_298K_160-220nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_JPL-2010(2011)_296K_172-220nm(rec).txt",NaN,220.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",172.0,trifluorochloromethane (CFC-13),,CF3Cl(CFC-13),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_JPL-2010(2011)_296K_172-220nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Lee(1977)_295K_18-74nm.txt",NaN,74.0,Lee(1977),Absorption measurements using a double ion chamber and a synchrotron radiation source; spectral resolution ∼0.1 nm,18.0,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.434935,CF3Cl(CFC-13),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Lee(1977)_295K_18-74nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Ravishankara(1993)_298K_121.6nm.txt",NaN,NaN,Ravishankara(1993),Absorption cross section at the Lyman-α line;,121.6,trifluorochloromethane (CFC-13), https://doi.org/10.1126/science.259.5092.194,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Ravishankara(1993)_298K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_RebbertAusloos(1971)_298K_74nm.txt",NaN,NaN,RebbertAusloos(1971),Wavelength range 73.6-74.4 nm of the Ne resonance lamp,74.0,trifluorochloromethane (CFC-13), https://doi.org/10.6028/jres.075A.038,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_RebbertAusloos(1971)_298K_74nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Simon(1988)_295K_169-202nm(int-c).txt",NaN,202.0,Simon(1988),Absorption measurements using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,trifluorochloromethane (CFC-13), https://doi.org/10.1007/BF00048042,CF3Cl(CFC-13),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Simon(1988)_295K_169-202nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Simon(1988)_295K_172-200nm(2nm).txt",NaN,200.0,Simon(1988),Absorption measurements using a single-beam equipment with a maximum resolution of 0.015 nm,172.0,trifluorochloromethane (CFC-13), https://doi.org/10.1007/BF00048042,CF3Cl(CFC-13),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Simon(1988)_295K_172-200nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_SutoLee(1983)_298K_106.0-134.9nm.txt",NaN,134.9,SutoLee(1983),Absorption measurements at a spectral resolution of 0.2 nm using synchrotron radiation as a light source,106.0,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.445914,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_SutoLee(1983)_298K_106.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Vanlaethem(1978)_255-296K_169-202nm(int-c).txt",296.0,202.0,Vanlaethem(1978),Absorption measurements at 255 to 296 K using a classical single-beam equipment with a deuterium light source,169.0,trifluorochloromethane (CFC-13),,CF3Cl(CFC-13),255.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Vanlaethem(1978)_255-296K_169-202nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Vanlaethem(1978)_255-296K_172-200nm(2nm).txt",296.0,200.0,Vanlaethem(1978),Absorption measurements at 255 to 296 K using a classical single-beam equipment with a deuterium light source,172.0,trifluorochloromethane (CFC-13),,CF3Cl(CFC-13),255.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Vanlaethem(1978)_255-296K_172-200nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Washida(1983)_298K_114.6-130.5nm(smoo).txt",NaN,130.5,Washida(1983),"Absorption measurements at a monochromator bandwidth of 1. 3 nm using a Hinteregger-type discharge lampas a light source,  which produces many pseudocontinuum lines
+in a dc discharge of hydrogen",114.6,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.444902,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Washida(1983)_298K_114.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Washida(1983)_298K_115-130nm(meas).txt",NaN,130.0,Washida(1983),"Absorption measurements at a monochromator bandwidth of 1. 3 nm using a Hinteregger-type discharge lampas a light source,  which produces many pseudocontinuum lines
+in a dc discharge of hydrogen",115.0,trifluorochloromethane (CFC-13), https://doi.org/10.1063/1.444902,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Washida(1983)_298K_115-130nm(meas).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)_Zhang(1991)_298K_6.2-165nm(e,e).txt",NaN,165.0,Zhang(1991),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",6.2,trifluorochloromethane (CFC-13), https://doi.org/10.1016/0301-0104(91)80020-I,CF3Cl(CFC-13),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-CFC(C,F,Cl)/CF3Cl(CFC-13)/CF3Cl(CFC-13)_Zhang(1991)_298K_6.csv"

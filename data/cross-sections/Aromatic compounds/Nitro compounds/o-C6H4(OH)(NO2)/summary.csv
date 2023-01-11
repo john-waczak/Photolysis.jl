@@ -1,26 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-293.0,Chen(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_Chen(2011)_293K_320-450nm.txt,A broadband cavity absorption spectrometer has been coupled to an atmospheric simulation chamber for the measurement of the gas-phase absorption spectrum,o-C6H4(OH)(NO2),"o-nitrophenol, 2-nitrophenol","
-
-  J. Chen, J.C. Wenger, and D.S. Venables, ""Near-ultraviolet absorption cross sections of nitrophenols and their potential influence on tropospheric oxidation capacity"",
-  J. Phys. Chem. A 115, 12235-12242 (2011); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_Chen(2011)_293K_320-450nm.csv
-298.0,IUPAC(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).txt,IUPAC(2012) recommendation:,o-C6H4(OH)(NO2),"o-nitrophenol, 2-nitrophenol","
-
-  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
-  http://iupac.pole-ether.fr
-
-
-",data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).csv
-295.0,SangwanZhu(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_SangwanZhu(2016)_295K_295-400nm.txt,Absorption cross sections were measured at 5 nm intervals in the 295−400 nm region by using cavity ring-down spectroscopy: ,o-C6H4(OH)(NO2),"o-nitrophenol, 2-nitrophenol","
-
-  M. Sangwan and L. Zhu, ""Absorption cross sections of 2-nitrophenol in the 295-400 nm region and photolysis of 2-nitrophenol at 308 and 351 nm"",
-  J. Phys. Chem. A 120, 9958-9967 (2016); 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_SangwanZhu(2016)_295K_295-400nm.csv
-298.0,Shama(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_Shama(1991)_298K_169.9-284.7nm.txt,"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 43) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",o-C6H4(OH)(NO2),"o-nitrophenol, 2-nitrophenol","
-
-  Sayed Ahmed Abd El-Aziz Shama, ""Vacuum ultraviolet absorption spectra of organic compounds in gaseous and liquid state"",
-  Thesis Faculty of Science (Benha) Zagazig University, Egypt, 1991;",data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_Shama(1991)_298K_169.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_Chen(2011)_293K_320-450nm.txt,NaN,450.0,Chen(2011),A broadband cavity absorption spectrometer has been coupled to an atmospheric simulation chamber for the measurement of the gas-phase absorption spectrum,320.0,"o-nitrophenol, 2-nitrophenol", https://doi.org/10.1021/jp206929r,o-C6H4(OH)(NO2),293.0,data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_Chen(2011)_293K_320-450nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).txt,NaN,450.0,IUPAC(2012),IUPAC(2012) recommendation:,320.0,"o-nitrophenol, 2-nitrophenol",,o-C6H4(OH)(NO2),298.0,data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_IUPAC(2012)_298K_320-450nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_SangwanZhu(2016)_295K_295-400nm.txt,NaN,400.0,SangwanZhu(2016),Absorption cross sections were measured at 5 nm intervals in the 295−400 nm region by using cavity ring-down spectroscopy: ,295.0,"o-nitrophenol, 2-nitrophenol", https://doi.org/10.1021/acs.jpca.6b08961,o-C6H4(OH)(NO2),295.0,data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_SangwanZhu(2016)_295K_295-400nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Nitro%20compounds/o-C6H4(OH)(NO2)_Shama(1991)_298K_169.9-284.7nm.txt,NaN,284.7,Shama(1991),"A logarithmic plot (absorption cross section vs. wavenumber, Fig. 43) obtained by personal communication from Cornelius Zetzsch (2003) has been digitized",169.9,"o-nitrophenol, 2-nitrophenol",,o-C6H4(OH)(NO2),298.0,data/cross-sections/Aromatic compounds/Nitro compounds/o-C6H4(OH)(NO2)/o-C6H4(OH)(NO2)_Shama(1991)_298K_169.csv

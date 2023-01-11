@@ -1,43 +1,7 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Berry(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Berry(1974)_298K_151-234nm.txt,"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",CHCl=CClH,"trans-1,2-dichloroethene","
-
-  M.J. Berry, ""Chloroethylene photochemical lasers: Vibrational energy content of the HCl molecular elimination products"",
-  J. Chem. Phys. 61, 3114-3143 (1974);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Berry(1974)_298K_151-234nm.csv
-298.0,He(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_He(1993)_298K_193nm.txt,Absorption cross section at the wavelength of the ArF excimer laser line,CHCl=CClH,"trans-1,2-dichloroethene","
-
-  G.-X. He,  Y.-A. Yang, Y. Huang, and R.G. Gordon, ""Distribution of rotational states in half-collisions: 193-nm photolysis of dichloroethylene isomers"",
-  J. Phys. Chem. 97, 2186-2193 (1993);
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_He(1993)_298K_193nm.csv
-298.0,Locht(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Locht(2020)_298K_62.042-88.506nm.txt,Medium-resolution (15 meV ≈ 0.05-0.1 nm) absorption measurements using synchrotron radiation as a light source,CHCl=CClH,"trans-1,2-dichloroethene","
-
-  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectroscopy of the trans-dichloroethylene (1,2-ClHC = CClH) in the 5.20 eV range: Experiment and theory"",
-  J. Quant. Spectrosc. Radiat. Transfer 251, 107048 (2020)
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Locht(2020)_298K_62.csv
-298.0,Locht(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Locht(2020)_298K_82.732-248.044nm.txt,Medium-resolution (2 meV ≈ 0.01-0.1 nm) absorption measurements using synchrotron radiation as a light source,CHCl=CClH,"trans-1,2-dichloroethene","
-
-  R. Locht, D. Dehareng, and B. Leyh, ""The vacuum UV photoabsorption spectroscopy of the trans-dichloroethylene (1,2-ClHC = CClH) in the 5.20 eV range: Experiment and theory"",
-  J. Quant. Spectrosc. Radiat. Transfer 251, 107048 (2020)
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Locht(2020)_298K_82.csv
-298.0,Seki(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Seki(2011)_298K_190-228nm.txt,Absorption measurements in the 191-240 nm range using a spectrophotometer with a bandwidth of 0.5 or 1 nm,CHCl=CClH,"trans-1,2-dichloroethene","
-
-  K. Seki, T. Kobayashi, and K. Ebata, ""Laser photolysis ot trans-dichloroethylene at 193 nm: Quantum yields of photoproducts"",
-  J. Photochem Photobiol. A: Chem. 219, 200-203 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Seki(2011)_298K_190-228nm.csv
-298.0,Seki(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Seki(2011)_298K_193nm.txt,Absorption cross section at the ArF excimer laser line,CHCl=CClH,"trans-1,2-dichloroethene","
-
-  K. Seki, T. Kobayashi, and K. Ebata, ""Laser photolysis ot trans-dichloroethylene at 193 nm: Quantum yields of photoproducts"",
-  J. Photochem Photobiol. A: Chem. 219, 200-203 (2011); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Seki(2011)_298K_193nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Berry(1974)_298K_151-234nm.txt,NaN,234.0,Berry(1974),"Absorption measurements at λ > 190 nm using a Cary recording spectrophotometer, at λ > 104 nm using synchrotron radiation as a light source and a normal incidence monochromator with spectral slidwidths of 0.05-0.10 nm",151.0,"trans-1,2-dichloroethene", https://doi.org/10.1063/1.1682468,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Berry(1974)_298K_151-234nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_He(1993)_298K_193nm.txt,NaN,NaN,He(1993),Absorption cross section at the wavelength of the ArF excimer laser line,193.0,"trans-1,2-dichloroethene", https://doi.org/10.1021/j100112a020,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_He(1993)_298K_193nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Locht(2020)_298K_62.042-88.506nm.txt,NaN,88.506,Locht(2020),Medium-resolution (15 meV ≈ 0.05-0.1 nm) absorption measurements using synchrotron radiation as a light source,62.042,"trans-1,2-dichloroethene", https://doi.org/10.1016/j.jqsrt.2020.107048,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Locht(2020)_298K_62.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Locht(2020)_298K_82.732-248.044nm.txt,NaN,248.044,Locht(2020),Medium-resolution (2 meV ≈ 0.01-0.1 nm) absorption measurements using synchrotron radiation as a light source,82.732,"trans-1,2-dichloroethene", https://doi.org/10.1016/j.jqsrt.2020.107048,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Locht(2020)_298K_82.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Seki(2011)_298K_190-228nm.txt,NaN,228.0,Seki(2011),Absorption measurements in the 191-240 nm range using a spectrophotometer with a bandwidth of 0.5 or 1 nm,190.0,"trans-1,2-dichloroethene", https://doi.org/10.1016/j.jphotochem.2011.02.010,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Seki(2011)_298K_190-228nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH_Seki(2011)_298K_193nm.txt,NaN,NaN,Seki(2011),Absorption cross section at the ArF excimer laser line,193.0,"trans-1,2-dichloroethene", https://doi.org/10.1016/j.jphotochem.2011.02.010,CHCl=CClH,298.0,data/cross-sections/Halogeno-alkenes+radicals/Chloroalkenes/CHCl=CClH/CHCl=CClH_Seki(2011)_298K_193nm.csv

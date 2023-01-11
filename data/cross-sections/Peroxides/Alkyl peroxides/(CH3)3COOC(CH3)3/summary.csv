@@ -1,7 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,McMillan(1966),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/(CH3)3COOC(CH3)3_McMillan(1966)_298K_213.0-340.0nm.txt,Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,(CH3)3COOC(CH3)3,di-tert-butyl peroxide,"
-
-  V. McMillan, 1966, personal communication to J.G. Calvert, J.N. Pitts, Jr., Photochemistry, John Wiley & Sons, New York, 1966, p. 443
-
-
-",data/cross-sections/Peroxides/Alkyl peroxides/(CH3)3COOC(CH3)3/(CH3)3COOC(CH3)3_McMillan(1966)_298K_213.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxides/Alkyl%20peroxides/(CH3)3COOC(CH3)3_McMillan(1966)_298K_213.0-340.0nm.txt,NaN,340.0,McMillan(1966),Spectra were determined using a 10 cm cell and Bausch and Lomb model 505 spectrometer,213.0,di-tert-butyl peroxide,,(CH3)3COOC(CH3)3,298.0,data/cross-sections/Peroxides/Alkyl peroxides/(CH3)3COOC(CH3)3/(CH3)3COOC(CH3)3_McMillan(1966)_298K_213.csv

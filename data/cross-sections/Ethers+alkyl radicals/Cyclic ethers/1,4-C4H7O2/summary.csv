@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,Platz(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/1,4-C4H7O2_Platz(1997)_296K_220-320nm.txt",Pulse radiolysis (SF,"1,4-C4H7O2","alkyl radical of 1,4-dioxane","
-
-  J. Platz, J. Sehested, T. Møgelberg, O.J. Nielsen, and T.J. Wallington, ""Atmospheric chemistry of 1,4-dioxane"",
-  J. Chem. Soc. Faraday Trans. 93, 2855-2863 (1997); 
-
-
-  DOI: ","data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/1,4-C4H7O2/1,4-C4H7O2_Platz(1997)_296K_220-320nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Ethers+alkyl%20radicals/Cyclic%20ethers/1,4-C4H7O2_Platz(1997)_296K_220-320nm.txt",NaN,320.0,Platz(1997),Pulse radiolysis (SF,220.0,"alkyl radical of 1,4-dioxane", https://doi.org/10.1039/A700598I,"1,4-C4H7O2",296.0,"data/cross-sections/Ethers+alkyl radicals/Cyclic ethers/1,4-C4H7O2/1,4-C4H7O2_Platz(1997)_296K_220-320nm.csv"

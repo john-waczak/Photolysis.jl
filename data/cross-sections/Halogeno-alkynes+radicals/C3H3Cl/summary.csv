@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,Fahr(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkynes+radicals/C3H3Cl_Fahr(1997)_295K_160-260nm.txt,HC≡CCH,C3H3Cl,propargyl chloride,"
-
-  A. Fahr, P. Hassanzadeh, B. Laszlo, and R.E. Huie, ""Ultraviolet absorption and cross sections of propargyl (C",data/cross-sections/Halogeno-alkynes+radicals/C3H3Cl/C3H3Cl_Fahr(1997)_295K_160-260nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkynes+radicals/C3H3Cl_Fahr(1997)_295K_160-260nm.txt,NaN,260.0,Fahr(1997),HC≡CCH,160.0,propargyl chloride, https://doi.org/10.1016/S0301-0104(96)00334-5,C3H3Cl,295.0,data/cross-sections/Halogeno-alkynes+radicals/C3H3Cl/C3H3Cl_Fahr(1997)_295K_160-260nm.csv

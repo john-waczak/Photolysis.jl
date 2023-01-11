@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Ingham(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Ingham(1999)_298K_280-470nm(Gfit).txt,Gaussian fit of the measured absorption cross sections:,CH3SCH3...Br,dimethyl sulfide-bromine adduct,"
-
-  T. Ingham, D. Bauer, R. Sander, P. Crutzen, and J.N. Crowley, ""Kinetics and products of the reactions BrO + DMS and Br + DMS at 298 K"",
-  J. Phys. Chem. A 103, 7199-7209 (1999); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
-298.0,Ingham(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Ingham(1999)_298K_297-450nm.txt,Pulsed-laser photolysis of Br,CH3SCH3...Br,dimethyl sulfide-bromine adduct,"
-
-  T. Ingham, D. Bauer, R. Sander, P. Crutzen, and J.N. Crowley, ""Kinetics and products of the reactions BrO + DMS and Br + DMS at 298 K"",
-  J. Phys. Chem. A 103, 7199-7209 (1999); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
-295.0,Nakano(2001),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Nakano(2001)_295K_338.3nm.txt,The reaction of Br with CH,CH3SCH3...Br,dimethyl sulfide-bromine adduct,"
-
-  Y. Nakano, M. Goto, S. Hashimoto, M. Kawasaki, and T.J. Wallington, ""Cavity ring-down spectroscopic study of the reactions of Br atoms and BrO radicals with dimethyl sulfide"",
-  J. Phys. Chem. A 105, 11045-11050 (2001); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Ingham(1999)_298K_280-470nm(Gfit).txt,NaN,470.0,Ingham(1999),Gaussian fit of the measured absorption cross sections:,280.0,dimethyl sulfide-bromine adduct, https://doi.org/10.1021/jp9905979,CH3SCH3...Br,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Ingham(1999)_298K_297-450nm.txt,NaN,450.0,Ingham(1999),Pulsed-laser photolysis of Br,297.0,dimethyl sulfide-bromine adduct, https://doi.org/10.1021/jp9905979,CH3SCH3...Br,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SCH3...Br_Nakano(2001)_295K_338.3nm.txt,NaN,NaN,Nakano(2001),The reaction of Br with CH,338.3,dimethyl sulfide-bromine adduct, https://doi.org/10.1021/jp012326f,CH3SCH3...Br,295.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SCH3.csv

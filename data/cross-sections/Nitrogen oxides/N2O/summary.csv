@@ -1,404 +1,113 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Barrus(1979),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Barrus(1979)_298K_2.056-2.450nm.txt,Measurements around the K edge of oxygen at photon energies of 506-603 eV using an x-ray source and a spectrometer with a resolution better than 1 eV,N2O,nitrous oxide,"
-
-  D.M. Barrus, R.L. Blake, A.J. Burek, K.C. Chambers, and A.L. Pregenzer, ""K-shell photoabsorption coefficients of O",data/cross-sections/Nitrogen oxides/N2O/N2O_Barrus(1979)_298K_2.csv
-298.0,BatesHays(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_BatesHays(1967)_298K_170-315nm.txt,"The absorption spectrum depicted in Fig. 1 has been digitized, which shows unpublished results of",N2O,nitrous oxide,"
-
-  D.R. Bates and P.B. Hays, ""Atmospheric nitrous oxide"",
-  Planet. Space Sci. 15, 189-197 (1967); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_BatesHays(1967)_298K_170-315nm.csv
-295.0,Bennett(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Bennett(1971)_295K_58.4nm.txt,"Absorption coefficient k (atm, 273 K)",N2O,nitrous oxide,"
-
-  S.W. Bennett, J.B. Tellinghuisen, and L.F. Phillips, ""Absorption coefficients and ionization yields of some small molecules at 58.4 nm"",
-  J. Phys. Chem. 75, 719-721 (1971); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Bennett(1971)_295K_58.csv
-298.0,Bertrand(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Bertrand(1975)_298K_123.6nm.txt,Kr resonance line as a light source,N2O,nitrous oxide,"
-
-  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
-  J. Chim. Phys. 72, 719-723 (1975); 	
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Bertrand(1975)_298K_123.csv
-298.0,BrionTan(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_BrionTan(1978)_298K_20.7-72.9nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",N2O,nitrous oxide,"
-
-  C.E. Brion and K.H. Tan, ""Partial oscillator strengths for the photoionization of N",data/cross-sections/Nitrogen oxides/N2O/N2O_BrionTan(1978)_298K_20.csv
-298.0,Cantrell(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cantrell(1997)_298K_184.9nm.txt,Absorption cross section measured at 184.9 nm using a low-pressure mercury lamp light source,N2O,nitrous oxide,"
-
-  C.A. Cantrell, A. Zimmer, and G.S. Tyndall, ""Absorption cross sections for water vapor from 183 to 193 nm"",
-  Geophys. Res. Lett. 24, 2195-2198 (1997) DOI: 10.1029/97GL02100;",data/cross-sections/Nitrogen oxides/N2O/N2O_Cantrell(1997)_298K_184.csv
-353.0,Cantrell(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cantrell(1997)_353K_184.9nm.txt,Absorption cross section measured at 184.9 nm using a low-pressure mercury lamp light source,N2O,nitrous oxide,"
-
-  C.A. Cantrell, A. Zimmer, and G.S. Tyndall, ""Absorption cross sections for water vapor from 183 to 193 nm"",
-  Geophys. Res. Lett. 24, 2195-2198 (1997) DOI: 10.1029/97GL02100;",data/cross-sections/Nitrogen oxides/N2O/N2O_Cantrell(1997)_353K_184.csv
-298.0,Chan(1994),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Chan(1994)_298K_6.1-168nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",N2O,nitrous oxide,"
-
-  W.F. Chan, G. Cooper, and C.E. Brion, ""Discrete and continuum photoabsorption oscillator-strengths for the electronic spectrum of nitrous oxide (5.5-203 eV)"",
-  Chem. Phys. 180, 77-88 (1994); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Chan(1994)_298K_6.csv
-298.0,ColeDexter(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ColeDexter(1978)_298K_5-34nm.txt,Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,N2O,nitrous oxide,"
-
-  B.E. Cole and R.N. Dexter, ""Photoabsorption and photoionisation measurements on some atmospheric gases in the wavelength region 50-340 Å"",
-  J. Phys. B: Atom. Molec. Phys. 11, 1011-1023 (1978); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_ColeDexter(1978)_298K_5-34nm.csv
-298.0,Cook(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cook(1968)_298K_60.0-99.9nm.txt,Absorption measurements at a spectral resolution of 0.05 nm using the Hopfield-continuum light source,N2O,nitrous oxide,"
-
-  G.R. Cook, P.H. Metzger, and M. Ogawa, ""Photoionization and absorption coefficients of N",data/cross-sections/Nitrogen oxides/N2O/N2O_Cook(1968)_298K_60.csv
-298.0,Creasey(2000),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Creasey(2000)_298K_184.9nm.txt,Absorption measurements using a low-pressure mercury lamp optically filtered to isolate the emission near 184.9 nm,N2O,nitrous oxide,"
-
-  D.J. Creasey, D.E. Heard, and J.D. Lee, ""Absorption cross-section measurements of water vapour and oxygen at 185 nm. Implications for the calibration of field instruments to measure OH, HO",data/cross-sections/Nitrogen oxides/N2O/N2O_Creasey(2000)_298K_184.csv
-233.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(14N14NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
-233.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(14N15NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
-233.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(15N14NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
-233.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(15N15NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
-283.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(14N14NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
-283.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(14N15NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
-283.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(15N14NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
-283.0,Hessberg(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(15N15NO).txt,Isotopically substituted N,N2O,nitrous oxide,"
-
-  P. von Hessberg, J. Kaiser, M.B. Enghoff, C.A. McLinden, S.L. Sorensen, T. Röckmann, and M.S. Johnson, ""Ultra-violet absorption cross sections of isotopically substituted nitrous oxide species: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
-298.0,Hitchcock(1980),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hitchcock(1980)_298K_16.8-155nm(e,e).txt","Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",N2O,nitrous oxide,"
-
-  A.P. Hitchcock, C.E. Brion, and M.J. van der Wiel, ""Absolute oscillator-strengths for valence-shell ionic photofragmentation of N",data/cross-sections/Nitrogen oxides/N2O/N2O_Hitchcock(1980)_298K_16.csv
-293.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_293K_190-220nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_293K_190-220nm.csv
-373.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_373K_200-230nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_373K_200-230nm.csv
-473.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_473K_200-240nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_473K_200-240nm.csv
-573.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_573K_200-250nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_573K_200-250nm.csv
-673.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_673K_200-260nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_673K_200-260nm.csv
-773.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_773K_200-260nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_773K_200-260nm.csv
-873.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_873K_200-280nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_873K_200-280nm.csv
-953.0,HollidayReuben(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_953K_200-280nm.txt,"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",N2O,nitrous oxide,"
-
-  M.G. Holliday and B.G. Reuben, ""Temperature dependence of the absorption of nitrous oxide in the quartz ultra-violet"",
-  Trans. Faraday Soc. 64, 1735-1741 (1968); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_953K_200-280nm.csv
-208.0,HubrichStuhl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HubrichStuhl(1980)_208K_160-235nm.txt,"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",N2O,nitrous oxide,"
-
-  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
-  J. Photochem. 12, 93-107 (1980); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HubrichStuhl(1980)_208K_160-235nm.csv
-298.0,HubrichStuhl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HubrichStuhl(1980)_298K_160-250nm.txt,"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",N2O,nitrous oxide,"
-
-  C. Hubrich and F. Stuhl, ""Ultraviolet absorption of some halogenated methanes and ethanes of atmospheric interest"",
-  J. Photochem. 12, 93-107 (1980); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_HubrichStuhl(1980)_298K_160-250nm.csv
-298.0,IUPAC(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_IUPAC(2004)_298K_175-240nm(rec).txt,IUPAC2004) recommendation:,N2O,nitrous oxide,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume I - gas phas reactions of O",data/cross-sections/Nitrogen oxides/N2O/N2O_IUPAC(2004)_298K_175-240nm(rec).csv
-298.0,JohnstonGraham(1974),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonGraham(1974)_298K_190-315nm.txt,Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,N2O,nitrous oxide,"
-
-  H.S. Johnston and R. Graham, ""Photochemistry of NO",data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonGraham(1974)_298K_190-315nm.csv
-294.0,JohnstonSelwyn(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonSelwyn(1975)_294K_210.0-250.0nm.txt,Absorption measurements with a Cary 118 double beam spectrophotometer,N2O,nitrous oxide,"
-
-  H.S. Johnston and G.S. Selwyn, ""New cross sections for the absorption of near ultraviolet radiation by nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonSelwyn(1975)_294K_210.csv
-294.0,JohnstonSelwyn(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonSelwyn(1975)_294K_250.3-324.5nm.txt,Absorption measurements with a Cary 118 double beam spectrophotometer,N2O,nitrous oxide,"
-
-  H.S. Johnston and G.S. Selwyn, ""New cross sections for the absorption of near ultraviolet radiation by nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonSelwyn(1975)_294K_250.csv
-298.0,JPL-2002(2002),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JPL-2002(2002)_298K_173-240nm(rec).txt,"JPL-2002 recommendation, adopting the earlier recommendation of ",N2O,nitrous oxide,"
-
-  S.P. Sander, R.R. Friedl, D.M. Golden, M.J. Kurylo, R.E. Huie, V.L. Orkin, G.K. Moortgat, A.R. Ravishankara, C.E. Kolb, M.J. Molina, and B.J. Finlayson-Pitts, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies. Evaluation Number 14"",
-  JPL Publication 02-25, Jet Propulsion Laboratory, Pasadena, 2002; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_JPL-2002(2002)_298K_173-240nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JPL-2010(2011)_298K_160-240nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",N2O,nitrous oxide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_JPL-2010(2011)_298K_160-240nm(rec).csv
-298.0,Lee(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Lee(1973)_298K_17.6-71.9nm.txt,Absorption measurements using synchrotron radiation and a double ionization chamber; spectral resolution 0.05 nm,N2O,nitrous oxide,"
-
-  L.C. Lee, R.W. Carlson, D.L. Judge, and M. Ogawa, ""The absorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O/N2O_Lee(1973)_298K_17.csv
-220.0,Merienne(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_220K_200-240nm.txt,"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",N2O,nitrous oxide,"
-
-  M.F. Mérienne, B. Coquart, and A. Jenouvrier, ""Temperature effect on the ultraviolet absorption of CFCl",data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_220K_200-240nm.csv
-240.0,Merienne(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_240K_200-240nm.txt,"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",N2O,nitrous oxide,"
-
-  M.F. Mérienne, B. Coquart, and A. Jenouvrier, ""Temperature effect on the ultraviolet absorption of CFCl",data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_240K_200-240nm.csv
-296.0,Merienne(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_296K_200-240nm.txt,"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",N2O,nitrous oxide,"
-
-  M.F. Mérienne, B. Coquart, and A. Jenouvrier, ""Temperature effect on the ultraviolet absorption of CFCl",data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_296K_200-240nm.csv
-298.0,Nee(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Nee(1999)_298K_138.1-158.3nm.txt,Absorption measurements between 100 and 220 nm at resolutions of 0.05-0.5 nm using synchrotron radiation as a light source,N2O,nitrous oxide,"
-
-  J.B. Nee, J.C. Yang, P.C. Lee, X.Y. Wang, and C.T. Kuo, ""Photoabsorption cross sections of N",data/cross-sections/Nitrogen oxides/N2O/N2O_Nee(1999)_298K_138.csv
-250.0,Nicolet(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Nicolet(1983)_250K_201-239.5nm.txt,Absorption cross sections from the CD-ROM of,N2O,nitrous oxide,"
-
-  M. Nicolet, 1983, personal communication to",data/cross-sections/Nitrogen oxides/N2O/N2O_Nicolet(1983)_250K_201-239.csv
-298.0,NicoletPeetermans(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_NicoletPeetermans(1972)_298K_130.1-209.5nm.txt,Average absorption cross sections adopted for Δν = 500 cm,N2O,nitrous oxide,"
-
-  M. Nicolet and W. Peetermans, ""The production of nitric oxide in the stratosphere by oxidation of nitrous oxide"",
-  Ann. Géophys. 28, 751-762 (1972)
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_NicoletPeetermans(1972)_298K_130.csv
-298.0,NicoletPeetermans(1972),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_NicoletPeetermans(1972)_298K_212.9-315.1nm.txt,Average absorption cross sections adopted for Δν = 500 cm,N2O,nitrous oxide,"
-
-  M. Nicolet and W. Peetermans, ""The production of nitric oxide in the stratosphere by oxidation of nitrous oxide"",
-  Ann. Géophys. 28, 751-762 (1972)
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_NicoletPeetermans(1972)_298K_212.csv
-298.0,Rabalais(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Rabalais(1971)_298K_122.25-214.65nm.txt,"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",N2O,nitrous oxide,"
-
-  J.W. Rabalais, J.M. McDonald, V. Scherr, and S.P. McGlynn, ""Electronic spectroscopy of isoelectronic molecules. II. Linear triatomic groupings containing sixteen valence electrons"",
-  Chem. Rev. 71, 73-108 (1971);
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Rabalais(1971)_298K_122.csv
-298.0,ReilhacDamany(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ReilhacDamany(1977)_298K_10.5-50.0nm.txt,Absorption measurements by photographic spectrometry using a grating spectrograph and a spark produced by an uranium anode as a light source,N2O,nitrous oxide,"
-
-  L. de Reilhac and N. Damany, ""Photoabsorption cross-section measurements of some gases, from 10 to 50 nm"",
-  J. Quant. Spectrosc. Radiat. Transfer 18, 121-131 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_ReilhacDamany(1977)_298K_10.csv
-291.0,RomandMayence(1949),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RomandMayence(1949)_291K_139-233nm.txt,Absorption spectra have been obtained by photographic spectrometry,N2O,nitrous oxide,"
-
-  J. Romand and J. Mayence, ""Spectre d'absorption de l'oxide azoteux gazeux dans la région de Schumann"",
-  Compt. Rend. Acad. Sci. Paris 228, 998-1000 (1949)
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_RomandMayence(1949)_291K_139-233nm.csv
-210.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_210K_184.950-213.857nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_210K_184.csv
-225.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_225K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_225K_184.csv
-243.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_243K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_243K_184.csv
-263.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_263K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_263K_184.csv
-298.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_298K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_298K_184.csv
-324.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_324K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_324K_184.csv
-350.0,RontuCarlon(2010),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_350K_184.950-228.802nm.txt,"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",N2O,nitrous oxide,"
-
-  N. Rontu Carlon, D.K. Papanastasiou, E.L. Fleming, C.H. Jackman, P.A. Newman, and J.B. Burkholder, ""UV absorption cross sections of nitrous oxide (N",data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_350K_184.csv
-194.0,Selwyn(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_194K_173-210nm.txt,Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,N2O,nitrous oxide,"
-
-  G. Selwyn, J. Podolske, and H.S. Johnston, ""Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures"",
-  Geophys. Res. Lett. 4, 427-430 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_194K_173-210nm.csv
-225.0,Selwyn(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_225K_173-240nm.txt,Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,N2O,nitrous oxide,"
-
-  G. Selwyn, J. Podolske, and H.S. Johnston, ""Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures"",
-  Geophys. Res. Lett. 4, 427-430 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_225K_173-240nm.csv
-243.0,Selwyn(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_243K_173-240nm.txt,Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,N2O,nitrous oxide,"
-
-  G. Selwyn, J. Podolske, and H.S. Johnston, ""Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures"",
-  Geophys. Res. Lett. 4, 427-430 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_243K_173-240nm.csv
-263.0,Selwyn(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_263K_173-240nm.txt,Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,N2O,nitrous oxide,"
-
-  G. Selwyn, J. Podolske, and H.S. Johnston, ""Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures"",
-  Geophys. Res. Lett. 4, 427-430 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_263K_173-240nm.csv
-302.0,Selwyn(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_302K_173-240nm.txt,Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,N2O,nitrous oxide,"
-
-  G. Selwyn, J. Podolske, and H.S. Johnston, ""Nitrous oxide ultraviolet absorption spectrum at stratospheric temperatures"",
-  Geophys. Res. Lett. 4, 427-430 (1977); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_302K_173-240nm.csv
-298.0,SPARC(2013),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_SPARC(2013)_298K_121.567nm(rec).txt,Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.5,N2O,nitrous oxide,"
-
-  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
-  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_SPARC(2013)_298K_121.csv
-298.0,Sundararaman(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Sundararaman(1977)_298K_212-250nm.txt,"Reported by
-
-E.-P. Röth, R. Ruhnke, G. Moortgat, R. Meller, and W. Schneider, Berichte des Forschungszentums Jülich, jül-3340 (1997)",N2O,nitrous oxide,"
-
-  N. Sundararanam, ""Summary of upper atmospheric data"",
-  Report No. FAA-EQ-77-2, 1977
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_Sundararaman(1977)_298K_212-250nm.csv
-298.0,Sundararaman(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Sundararaman(1977)_298K_212-250nm(1nm).txt,"Reported by
-
-E.-P. Röth, R. Ruhnke, G. Moortgat, R. Meller, and W. Schneider, Berichte des Forschungszentums Jülich, jül-3340 (1997)",N2O,nitrous oxide,"
-
-  N. Sundararanam, ""Summary of upper atmospheric data"",
-  Report No. FAA-EQ-77-2, 1977
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_Sundararaman(1977)_298K_212-250nm(1nm).csv
-298.0,Thompson(1963),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Thompson(1963)_298K_188-239nm.txt,Absorption measurements with a Perkin-Elmer spectrophotometer able to measure absorption coefficients k as low as 10,N2O,nitrous oxide,"
-
-  B.A. Thompson, P. Harteck, and R.R. Reeves, Jr., ""Ultraviolet absorption coefficients of CO",data/cross-sections/Nitrogen oxides/N2O/N2O_Thompson(1963)_298K_188-239nm.csv
-298.0,Watanabe(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Watanabe(1953)_298K_150-216nm.txt,"Absorption coefficients k (atm, 273K)",N2O,nitrous oxide,"
-
-  K. Watanabe, M. Zelikoff, and E.C.I. Inn, ""Absorption coefficients of several atmospheric gases"",
-  Air Force Cambridge Research Center Technical Report 53-23, 1953
-
-
-",data/cross-sections/Nitrogen oxides/N2O/N2O_Watanabe(1953)_298K_150-216nm.csv
-298.0,Zelikoff(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_108.2-122.6nm.txt,"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
-",N2O,nitrous oxide,"
-
-  M. Zelikoff, K. Watanabe, and E.C.Y. Inn, ""Absorption coefficients of gases in the vacuum ultraviolet. Part II. Nitrous oxide"",
-  J. Chem. Phys. 21, 1643-1647 (1953); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_108.csv
-298.0,Zelikoff(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_121.9-137.5nm.txt,"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
-",N2O,nitrous oxide,"
-
-  M. Zelikoff, K. Watanabe, and E.C.Y. Inn, ""Absorption coefficients of gases in the vacuum ultraviolet. Part II. Nitrous oxide"",
-  J. Chem. Phys. 21, 1643-1647 (1953); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_121.csv
-298.0,Zelikoff(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_138.0-160.6nm.txt,"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
-",N2O,nitrous oxide,"
-
-  M. Zelikoff, K. Watanabe, and E.C.Y. Inn, ""Absorption coefficients of gases in the vacuum ultraviolet. Part II. Nitrous oxide"",
-  J. Chem. Phys. 21, 1643-1647 (1953); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_138.csv
-298.0,Zelikoff(1953),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_160.0-209.0nm.txt,"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
-",N2O,nitrous oxide,"
-
-  M. Zelikoff, K. Watanabe, and E.C.Y. Inn, ""Absorption coefficients of gases in the vacuum ultraviolet. Part II. Nitrous oxide"",
-  J. Chem. Phys. 21, 1643-1647 (1953); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_160.csv
-298.0,ZelikoffAschenbrand(1954),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZelikoffAschenbrand(1954)_298K_184.9nm.txt,"Absorption coefficient k (atm, 273 K)",N2O,nitrous oxide,"
-
-  M. Zelikoff and L.M. Aschenbrand, ""Vacuum ultraviolet photochemistry, Part II. Nitrous oxide at 1849 Å"",
-  J. Chem. Phys. 22, 1685-1687 (1954); 
-
-
-  DOI: ",data/cross-sections/Nitrogen oxides/N2O/N2O_ZelikoffAschenbrand(1954)_298K_184.csv
-1000.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1000K_185.19-263.16nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1000K_185.csv
-1000.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1000K_190.59-257.28nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1000K_190.csv
-1250.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1250K_185.19-263.16nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1250K_185.csv
-1250.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1250K_190.85-257.61nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1250K_190.csv
-1428.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1428K_185.19-333.33nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1428K_185.csv
-1428.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1428K_190.85-321.34nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1428K_190.csv
-1667.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1667K_185.19-357.14nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1667K_185.csv
-1667.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1667K_198.31-343.84nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1667K_198.csv
-2000.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_2000K_185.19-357.14nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_2000K_185.csv
-2000.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_2000K_198.51-350.12nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_2000K_198.csv
-714.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_714K_185.19-256.41nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_714K_185.csv
-714.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_714K_190.70-249.90nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_714K_190.csv
-833.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_833K_185.19-256.41nm(fit).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_833K_185.csv
-833.0,ZuevStarikovskii(1990),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_833K_190.59-250.64nm(meas).txt,Absorption measurements behind incident and reflected shock waves in N,N2O,nitrous oxide,"
-
-  A.P. Zuev and A.Y. Starikovskii, ""UV absorption cross section of the molecules O",data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_833K_190.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Barrus(1979)_298K_2.056-2.450nm.txt,NaN,2.45,Barrus(1979),Measurements around the K edge of oxygen at photon energies of 506-603 eV using an x-ray source and a spectrometer with a resolution better than 1 eV,2.056,nitrous oxide, https://doi.org/10.1103/PhysRevA.20.1045,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Barrus(1979)_298K_2.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_BatesHays(1967)_298K_170-315nm.txt,NaN,315.0,BatesHays(1967),"The absorption spectrum depicted in Fig. 1 has been digitized, which shows unpublished results of",170.0,nitrous oxide, https://doi.org/10.1016/0032-0633(67)90074-8,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_BatesHays(1967)_298K_170-315nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Bennett(1971)_295K_58.4nm.txt,NaN,NaN,Bennett(1971),"Absorption coefficient k (atm, 273 K)",58.4,nitrous oxide, https://doi.org/10.1021/j100675a019,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Bennett(1971)_295K_58.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Bertrand(1975)_298K_123.6nm.txt,NaN,NaN,Bertrand(1975),Kr resonance line as a light source,123.6,nitrous oxide, https://doi.org/10.1051/jcp/1975720719,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Bertrand(1975)_298K_123.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_BrionTan(1978)_298K_20.7-72.9nm(e,e).txt",NaN,72.9,BrionTan(1978),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",20.7,nitrous oxide, https://doi.org/10.1016/0301-0104(78)80030-5,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_BrionTan(1978)_298K_20.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cantrell(1997)_298K_184.9nm.txt,NaN,NaN,Cantrell(1997),Absorption cross section measured at 184.9 nm using a low-pressure mercury lamp light source,184.9,nitrous oxide, https://doi.org/10.1029/97GL02803,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Cantrell(1997)_298K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cantrell(1997)_353K_184.9nm.txt,NaN,NaN,Cantrell(1997),Absorption cross section measured at 184.9 nm using a low-pressure mercury lamp light source,184.9,nitrous oxide, https://doi.org/10.1029/97GL02803,N2O,353.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Cantrell(1997)_353K_184.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Chan(1994)_298K_6.1-168nm(e,e).txt",NaN,168.0,Chan(1994),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",6.1,nitrous oxide, https://doi.org/10.1016/0301-0104(93)E0386-A,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Chan(1994)_298K_6.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ColeDexter(1978)_298K_5-34nm.txt,NaN,34.0,ColeDexter(1978),Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,5.0,nitrous oxide, https://doi.org/10.1088/0022-3700/11/6/013,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ColeDexter(1978)_298K_5-34nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Cook(1968)_298K_60.0-99.9nm.txt,NaN,99.9,Cook(1968),Absorption measurements at a spectral resolution of 0.05 nm using the Hopfield-continuum light source,60.0,nitrous oxide, https://doi.org/10.1364/JOSA.58.000129,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Cook(1968)_298K_60.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Creasey(2000)_298K_184.9nm.txt,NaN,NaN,Creasey(2000),Absorption measurements using a low-pressure mercury lamp optically filtered to isolate the emission near 184.9 nm,184.9,nitrous oxide, https://doi.org/10.1029/1999GL011014,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Creasey(2000)_298K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(14N14NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,233.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(14N15NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,233.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(15N14NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,233.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_233K_180.6-217.8nm(15N15NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,233.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_233K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(14N14NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,283.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(14N15NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,283.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(15N14NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,283.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hessberg(2004)_283K_180.6-217.8nm(15N15NO).txt,NaN,217.8,Hessberg(2004),Isotopically substituted N,180.6,nitrous oxide, https://doi.org/10.5194/acp-4-1237-2004,N2O,283.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hessberg(2004)_283K_180.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Hitchcock(1980)_298K_16.8-155nm(e,e).txt",NaN,155.0,Hitchcock(1980),"Measured by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",16.8,nitrous oxide, https://doi.org/10.1016/0301-0104(80)87015-7,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Hitchcock(1980)_298K_16.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_293K_190-220nm.txt,NaN,220.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",190.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,293.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_293K_190-220nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_373K_200-230nm.txt,NaN,230.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,373.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_373K_200-230nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_473K_200-240nm.txt,NaN,240.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,473.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_473K_200-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_573K_200-250nm.txt,NaN,250.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,573.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_573K_200-250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_673K_200-260nm.txt,NaN,260.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,673.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_673K_200-260nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_773K_200-260nm.txt,NaN,260.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,773.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_773K_200-260nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_873K_200-280nm.txt,NaN,280.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,873.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_873K_200-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HollidayReuben(1968)_953K_200-280nm.txt,NaN,280.0,HollidayReuben(1968),"Absorption measurements using a deuterium lamp, a sigle prism monochromator of low resolution, a photomultiplier, a potentiometric recorder, and a furnace with temperature control to ±1 °C",200.0,nitrous oxide, https://doi.org/10.1039/TF9686401735,N2O,953.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HollidayReuben(1968)_953K_200-280nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HubrichStuhl(1980)_208K_160-235nm.txt,NaN,235.0,HubrichStuhl(1980),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,nitrous oxide, https://doi.org/10.1016/0047-2670(80)85031-3,N2O,208.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HubrichStuhl(1980)_208K_160-235nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_HubrichStuhl(1980)_298K_160-250nm.txt,NaN,250.0,HubrichStuhl(1980),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,nitrous oxide, https://doi.org/10.1016/0047-2670(80)85031-3,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_HubrichStuhl(1980)_298K_160-250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_IUPAC(2004)_298K_175-240nm(rec).txt,NaN,240.0,IUPAC(2004),IUPAC2004) recommendation:,175.0,nitrous oxide, https://doi.org/10.5194/acp-4-1461-2004,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_IUPAC(2004)_298K_175-240nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonGraham(1974)_298K_190-315nm.txt,NaN,315.0,JohnstonGraham(1974),Scanning monochromator in conjunction with a multiple reflection long-path gas cell; deuterium arc as a light source; spectral resolution 0.7 nm,190.0,nitrous oxide, https://doi.org/10.1139/v74-214,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonGraham(1974)_298K_190-315nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonSelwyn(1975)_294K_210.0-250.0nm.txt,NaN,250.0,JohnstonSelwyn(1975),Absorption measurements with a Cary 118 double beam spectrophotometer,210.0,nitrous oxide, https://doi.org/10.1029/GL002i012p00549,N2O,294.0,data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonSelwyn(1975)_294K_210.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JohnstonSelwyn(1975)_294K_250.3-324.5nm.txt,NaN,324.5,JohnstonSelwyn(1975),Absorption measurements with a Cary 118 double beam spectrophotometer,250.3,nitrous oxide, https://doi.org/10.1029/GL002i012p00549,N2O,294.0,data/cross-sections/Nitrogen oxides/N2O/N2O_JohnstonSelwyn(1975)_294K_250.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JPL-2002(2002)_298K_173-240nm(rec).txt,NaN,240.0,JPL-2002(2002),"JPL-2002 recommendation, adopting the earlier recommendation of ",173.0,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_JPL-2002(2002)_298K_173-240nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_JPL-2010(2011)_298K_160-240nm(rec).txt,NaN,240.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",160.0,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_JPL-2010(2011)_298K_160-240nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Lee(1973)_298K_17.6-71.9nm.txt,NaN,71.9,Lee(1973),Absorption measurements using synchrotron radiation and a double ionization chamber; spectral resolution 0.05 nm,17.6,nitrous oxide, https://doi.org/10.1016/0022-4073(73)90075-7,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Lee(1973)_298K_17.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_220K_200-240nm.txt,NaN,240.0,Merienne(1990),"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",200.0,nitrous oxide, https://doi.org/10.1016/0032-0633(90)90067-Z,N2O,220.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_220K_200-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_240K_200-240nm.txt,NaN,240.0,Merienne(1990),"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",200.0,nitrous oxide, https://doi.org/10.1016/0032-0633(90)90067-Z,N2O,240.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_240K_200-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Merienne(1990)_296K_200-240nm.txt,NaN,240.0,Merienne(1990),"Argon plasma UV source, a 5 m multipass absorption cell, monochromator equipped with a photomultiplier; bandwidth 0.01 and 0.08 nm, data step 0.02nm",200.0,nitrous oxide, https://doi.org/10.1016/0032-0633(90)90067-Z,N2O,296.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Merienne(1990)_296K_200-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Nee(1999)_298K_138.1-158.3nm.txt,NaN,158.3,Nee(1999),Absorption measurements between 100 and 220 nm at resolutions of 0.05-0.5 nm using synchrotron radiation as a light source,138.1,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Nee(1999)_298K_138.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Nicolet(1983)_250K_201-239.5nm.txt,NaN,239.5,Nicolet(1983),Absorption cross sections from the CD-ROM of,201.0,nitrous oxide,,N2O,250.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Nicolet(1983)_250K_201-239.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_NicoletPeetermans(1972)_298K_130.1-209.5nm.txt,NaN,209.5,NicoletPeetermans(1972),Average absorption cross sections adopted for Δν = 500 cm,130.1,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_NicoletPeetermans(1972)_298K_130.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_NicoletPeetermans(1972)_298K_212.9-315.1nm.txt,NaN,315.1,NicoletPeetermans(1972),Average absorption cross sections adopted for Δν = 500 cm,212.9,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_NicoletPeetermans(1972)_298K_212.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Rabalais(1971)_298K_122.25-214.65nm.txt,NaN,214.65,Rabalais(1971),"Absorption spectra were recorded on Cary 14 and 15 and McPherson 225 (1-m) spectrophotomers, absorption pathlengths ranged from 0.1 to 10 cm",122.25,nitrous oxide, https://doi.org/10.1021/cr60269a004,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Rabalais(1971)_298K_122.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ReilhacDamany(1977)_298K_10.5-50.0nm.txt,NaN,50.0,ReilhacDamany(1977),Absorption measurements by photographic spectrometry using a grating spectrograph and a spark produced by an uranium anode as a light source,10.5,nitrous oxide, https://doi.org/10.1016/0022-4073(77)90132-7,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ReilhacDamany(1977)_298K_10.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RomandMayence(1949)_291K_139-233nm.txt,NaN,233.0,RomandMayence(1949),Absorption spectra have been obtained by photographic spectrometry,139.0,nitrous oxide,,N2O,291.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RomandMayence(1949)_291K_139-233nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_210K_184.950-213.857nm.txt,NaN,213.857,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,210.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_210K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_225K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,225.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_225K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_243K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,243.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_243K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_263K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,263.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_263K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_298K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_298K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_324K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,324.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_324K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_RontuCarlon(2010)_350K_184.950-228.802nm.txt,NaN,228.802,RontuCarlon(2010),"Single wavelength absorption cross sections for the atomic lines at 185 nm (Hg), 203, 206, 214 nm (Zn) and 229 nm (Cd) at temperatures between 210 and 350 K",184.95,nitrous oxide, https://doi.org/10.5194/acp-10-6137-2010,N2O,350.0,data/cross-sections/Nitrogen oxides/N2O/N2O_RontuCarlon(2010)_350K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_194K_173-210nm.txt,NaN,210.0,Selwyn(1977),Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,173.0,nitrous oxide, https://doi.org/10.1029/GL004i010p00427,N2O,194.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_194K_173-210nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_225K_173-240nm.txt,NaN,240.0,Selwyn(1977),Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,173.0,nitrous oxide, https://doi.org/10.1029/GL004i010p00427,N2O,225.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_225K_173-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_243K_173-240nm.txt,NaN,240.0,Selwyn(1977),Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,173.0,nitrous oxide, https://doi.org/10.1029/GL004i010p00427,N2O,243.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_243K_173-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_263K_173-240nm.txt,NaN,240.0,Selwyn(1977),Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,173.0,nitrous oxide, https://doi.org/10.1029/GL004i010p00427,N2O,263.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_263K_173-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Selwyn(1977)_302K_173-240nm.txt,NaN,240.0,Selwyn(1977),Data points were taken every 0.2 nm over the wavelength range studied with a resolution of 0.7 nm,173.0,nitrous oxide, https://doi.org/10.1029/GL004i010p00427,N2O,302.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Selwyn(1977)_302K_173-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_SPARC(2013)_298K_121.567nm(rec).txt,NaN,NaN,SPARC(2013),Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.5,121.567,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_SPARC(2013)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_StarrLoewenstein(1972)_298K_58.43nm.txt,NaN,NaN,StarrLoewenstein(1972),,58.43,nitrous oxide, https://doi.org/10.1029/JA077i025p04790,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_StarrLoewenstein(1972)_298K_58.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Sundararaman(1977)_298K_212-250nm.txt,NaN,250.0,Sundararaman(1977),"Reported by
+
+E.-P. Röth, R. Ruhnke, G. Moortgat, R. Meller, and W. Schneider, Berichte des Forschungszentums Jülich, jül-3340 (1997)",212.0,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Sundararaman(1977)_298K_212-250nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Sundararaman(1977)_298K_212-250nm(1nm).txt,NaN,250.0,Sundararaman(1977),"Reported by
+
+E.-P. Röth, R. Ruhnke, G. Moortgat, R. Meller, and W. Schneider, Berichte des Forschungszentums Jülich, jül-3340 (1997)",212.0,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Sundararaman(1977)_298K_212-250nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Thompson(1963)_298K_188-239nm.txt,NaN,239.0,Thompson(1963),Absorption measurements with a Perkin-Elmer spectrophotometer able to measure absorption coefficients k as low as 10,188.0,nitrous oxide, https://doi.org/10.1029/JZ068i024p06431,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Thompson(1963)_298K_188-239nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Watanabe(1953)_298K_150-216nm.txt,NaN,216.0,Watanabe(1953),"Absorption coefficients k (atm, 273K)",150.0,nitrous oxide,,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Watanabe(1953)_298K_150-216nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_169.615-172.526nm.txt,299.0,172.526,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,169.615,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_169.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_172.526-175.257nm.txt,299.0,175.257,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,172.526,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_172.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_175.257-178.144nm.txt,299.0,178.144,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,175.257,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_175.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_178.144-180.581nm.txt,299.0,180.581,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,178.144,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_178.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_180.582-183.426nm.txt,299.0,183.426,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,180.582,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_180.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_183.426-185.925nm.txt,299.0,185.925,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,183.426,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_183.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_185.925-188.740nm.txt,299.0,188.74,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,185.925,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_188.741-191.292nm.txt,299.0,191.292,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,188.741,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_188.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_191.292-193.811nm.txt,299.0,193.811,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,191.292,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_191.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_193.811-196.493nm.txt,299.0,196.493,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,193.811,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_193.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_196.494-199.253nm.txt,299.0,199.253,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,196.494,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_196.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_199.253-201.751nm.txt,299.0,201.751,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,199.253,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_199.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_201.752-204.389nm.txt,299.0,204.389,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,201.752,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_201.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_204.389-206.987nm.txt,299.0,206.987,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,204.389,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_204.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_206.987-209.613nm.txt,299.0,209.613,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,206.987,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_206.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_209.613-212.042nm.txt,299.0,212.042,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,209.613,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_209.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_212.043-214.658nm.txt,299.0,214.658,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,212.043,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_212.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_214.657-217.156nm.txt,299.0,217.156,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,214.657,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_214.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_217.156-219.796nm.txt,299.0,219.796,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,217.156,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_217.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Yoshino(1984)_295-299K_219.976-222.598nm.txt,299.0,222.598,Yoshino(1984),High-resolution (FWHM = 0.0013 nm) measurements,219.976,nitrous oxide, https://doi.org/10.1016/0032-0633(84)90065-5,N2O,295.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Yoshino(1984)_295-299K_219.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_108.2-122.6nm.txt,NaN,122.6,Zelikoff(1953),"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
+",108.2,nitrous oxide, https://doi.org/10.1063/1.1698636,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_108.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_121.9-137.5nm.txt,NaN,137.5,Zelikoff(1953),"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
+",121.9,nitrous oxide, https://doi.org/10.1063/1.1698636,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_138.0-160.6nm.txt,NaN,160.6,Zelikoff(1953),"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
+",138.0,nitrous oxide, https://doi.org/10.1063/1.1698636,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_138.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_Zelikoff(1953)_298K_160.0-209.0nm.txt,NaN,209.0,Zelikoff(1953),"Absorption measurements using a vacuum monochromator with a band width of 0.085 nm and a hydrogen discharge light source
+",160.0,nitrous oxide, https://doi.org/10.1063/1.1698636,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_Zelikoff(1953)_298K_160.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZelikoffAschenbrand(1954)_298K_184.9nm.txt,NaN,NaN,ZelikoffAschenbrand(1954),"Absorption coefficient k (atm, 273 K)",184.9,nitrous oxide, https://doi.org/10.1063/1.1739874,N2O,298.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZelikoffAschenbrand(1954)_298K_184.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1000K_185.19-263.16nm(fit).txt,NaN,263.16,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1000.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1000K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1000K_190.59-257.28nm(meas).txt,NaN,257.28,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,190.59,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1000.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1000K_190.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1250K_185.19-263.16nm(fit).txt,NaN,263.16,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1250.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1250K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1250K_190.85-257.61nm(meas).txt,NaN,257.61,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,190.85,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1250.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1250K_190.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1428K_185.19-333.33nm(fit).txt,NaN,333.33,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1428.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1428K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1428K_190.85-321.34nm(meas).txt,NaN,321.34,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,190.85,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1428.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1428K_190.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1667K_185.19-357.14nm(fit).txt,NaN,357.14,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1667.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1667K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_1667K_198.31-343.84nm(meas).txt,NaN,343.84,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,198.31,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,1667.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_1667K_198.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_2000K_185.19-357.14nm(fit).txt,NaN,357.14,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,2000.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_2000K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_2000K_198.51-350.12nm(meas).txt,NaN,350.12,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,198.51,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,2000.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_2000K_198.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_714K_185.19-256.41nm(fit).txt,NaN,256.41,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,714.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_714K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_714K_190.70-249.90nm(meas).txt,NaN,249.9,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,190.7,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,714.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_714K_190.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_833K_185.19-256.41nm(fit).txt,NaN,256.41,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,185.19,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,833.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_833K_185.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Nitrogen%20oxides/N2O_ZuevStarikovskii(1990)_833K_190.59-250.64nm(meas).txt,NaN,250.64,ZuevStarikovskii(1990),Absorption measurements behind incident and reflected shock waves in N,190.59,nitrous oxide, https://doi.org/10.1007/BF00665356,N2O,833.0,data/cross-sections/Nitrogen oxides/N2O/N2O_ZuevStarikovskii(1990)_833K_190.csv

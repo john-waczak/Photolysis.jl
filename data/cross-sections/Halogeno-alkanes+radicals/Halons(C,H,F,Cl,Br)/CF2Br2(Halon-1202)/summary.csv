@@ -1,176 +1,37 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-210.0,Burkholder(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_210K_190-301nm.txt",Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, R.R. Wilson, T. Gierczak, R. Talukdar, S.A. McKeen, J.J. Orlando, G.L. Vaghjiani, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_210K_190-301nm.csv"
-230.0,Burkholder(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_230K_190-304nm.txt",Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array detector,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, R.R. Wilson, T. Gierczak, R. Talukdar, S.A. McKeen, J.J. Orlando, G.L. Vaghjiani, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_230K_190-304nm.csv"
-250.0,Burkholder(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_250K_190-310nm.txt","Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
-detector",CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, R.R. Wilson, T. Gierczak, R. Talukdar, S.A. McKeen, J.J. Orlando, G.L. Vaghjiani, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_250K_190-310nm.csv"
-270.0,Burkholder(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_270K_190-320nm.txt","Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
-detector",CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, R.R. Wilson, T. Gierczak, R. Talukdar, S.A. McKeen, J.J. Orlando, G.L. Vaghjiani, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_270K_190-320nm.csv"
-296.0,Burkholder(1991),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_296K_190-320nm.txt","Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
-detector",CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, R.R. Wilson, T. Gierczak, R. Talukdar, S.A. McKeen, J.J. Orlando, G.L. Vaghjiani, and A.R. Ravishankara, ""Atmospheric fate of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_296K_190-320nm.csv"
-298.0,Davidson(1951),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Davidson(1951)_298K_215-290nm.txt",Extinction coefficients from Table II have been converted to absorption cross sections; conversion factor 3.8235×10,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  N. Davidson, ""The ultraviolet absorption spectra and the refractive indices of some fluorobromomethanes"",
-  J. Am. Chem. Soc. 73, 467-468 (1951); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Davidson(1951)_298K_215-290nm.csv"
-298.0,Doucet(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Doucet(1975)_298K_121.9-220.1nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J. Doucet, R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Photoelectron and far-ultraviolet spectra of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Doucet(1975)_298K_121.csv"
-298.0,Doucet(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Doucet(1975)_298K_60.1-124.3nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J. Doucet, R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Photoelectron and far-ultraviolet spectra of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Doucet(1975)_298K_60.csv"
-210.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_169-308nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_169-308nm(int-c).csv"
-210.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_170-304nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_170-304nm(2nm).csv"
-230.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_169-308nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_169-308nm(int-c).csv"
-230.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_170-304nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_170-304nm(2nm).csv"
-250.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_169-308nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_169-308nm(int-c).csv"
-250.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_170-304nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_170-304nm(2nm).csv"
-270.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_169-308nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_169-308nm(int-c).csv"
-270.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_170-304nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_170-304nm(2nm).csv"
-295.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_169-308nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_169-308nm(int-c).csv"
-295.0,GillotaySimon(1989),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_170-304nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D. Gillotay and P.C. Simon, ""Ultraviolet absorption spectrum of trifluoro-bromo-methane, difluoro-dibromo-methane and difluoro-bromo-chloro-methane in the vapor phase"",
-  Aeronomica Acta A 343, 1-40 (1989); J. Atmos. Chem. 8, 41-62 (1989); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_170-304nm(2nm).csv"
-210.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_IUPAC(2008)_210K_190-304nm(rec).txt",IUPAC(2008) recommendation:,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_IUPAC(2008)_210K_190-304nm(rec).csv"
-295.0,IUPAC(2008),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_IUPAC(2008)_295K_190-308nm(rec).txt",IUPAC(2008) recommendation:,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, J. Troe, and T.J. Wallington, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume IV - gas phase reactions of organic halogen species"",
-  Atmos. Chem. Phys. 8, 4141-4496 (2008); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_IUPAC(2008)_295K_190-308nm(rec).csv"
-296.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-2010(2011)_296K_170-340nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-2010(2011)_296K_170-340nm(rec).csv"
-296.0,JPL-2015(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-2015(2015)_296K_170-350nm(rec).txt",JPL-2015 recommendation:,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-2015(2015)_296K_170-350nm(rec).csv"
-298.0,JPL-97(1997),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-97(1997)_298K_190-300nm(rec).txt",JPL-97 recommendation:,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
-  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-97(1997)_298K_190-300nm(rec).csv"
-298.0,Molina(1982),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Molina(1982)_298K_190-340nm.txt",Absorption measurements using a UV-VIS double-beam spectrophotometer,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  L.T. Molina, M.J. Molina, and F.S. Rowland, ""Ultraviolet absorption cross sections of several brominated methanes and ethanes of atmospheric interest"",
-  J. Phys. Chem. 86, 2672-2676 (1982); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Molina(1982)_298K_190-340nm.csv"
-295.0,OrkinKasimovskaya(1995),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_OrkinKasimovskaya(1995)_295K_190-320nm.txt",The absorption spectrum has been recorded with an increment of 0.05 to 0.5 nm using double beam diffraction devices,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  L. Orkin and E.E. Kasimovskaya, ""Ultraviolet absorption spectra of some Br-containing haloalkanes"",
-  J. Atmos. Chem. 21, 1-11 (1995); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_OrkinKasimovskaya(1995)_295K_190-320nm.csv"
-210.0,Papanastasiou(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_210K_300-310nm.txt",Absorption measurements using cavity ringdown spectroscopy,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.K. Papanastasiou, N. Rontu Carlon, A. Neuman, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""Revised UV absorption spectra, ozone depletion potentials, and global warming potentials for the ozone-depleting substances CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_210K_300-310nm.csv"
-230.0,Papanastasiou(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_230K_300-320nm.txt",Absorption measurements using cavity ringdown spectroscopy,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.K. Papanastasiou, N. Rontu Carlon, A. Neuman, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""Revised UV absorption spectra, ozone depletion potentials, and global warming potentials for the ozone-depleting substances CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_230K_300-320nm.csv"
-250.0,Papanastasiou(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_250K_300-320nm.txt",Absorption measurements using cavity ringdown spectroscopy,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.K. Papanastasiou, N. Rontu Carlon, A. Neuman, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""Revised UV absorption spectra, ozone depletion potentials, and global warming potentials for the ozone-depleting substances CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_250K_300-320nm.csv"
-270.0,Papanastasiou(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_270K_300-325nm.txt",Absorption measurements using cavity ringdown spectroscopy,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.K. Papanastasiou, N. Rontu Carlon, A. Neuman, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""Revised UV absorption spectra, ozone depletion potentials, and global warming potentials for the ozone-depleting substances CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_270K_300-325nm.csv"
-296.0,Papanastasiou(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_296K_300-350nm.txt",Absorption measurements using cavity ringdown spectroscopy,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.K. Papanastasiou, N. Rontu Carlon, A. Neuman, E.L. Fleming, C.H. Jackman, and J.B. Burkholder, ""Revised UV absorption spectra, ozone depletion potentials, and global warming potentials for the ozone-depleting substances CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_296K_300-350nm.csv"
-298.0,Seccombe(2001),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Seccombe(2001)_298K_55-175nm.txt",Absorption measurements using synchrotron radiation,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  D.P. Seccombe, R.Y.L. Chim, R.P. Tuckett, H.W. Jochims, and H. Baumgärtel, ""Vacuum-ultraviolet absorption and fluorescence spectroscopy of CF","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Seccombe(2001)_298K_55-175nm.csv"
-298.0,SPARC(2013),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_SPARC(2013)_298K_121.567nm(rec).txt",Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.5,CF2Br2(Halon-1202),difluorodibromomethane (Halon-1202),"
-
-  J.B. Burkholder, W. Mellouki, E.L. Fleming, C. George, D.E. Heard, C.H. Jackman, M.J. Kurylo, V.L. Orkin, W.H. Swartz, and T.J. Wallington, ""Evaluation of Atmospheric Loss Processes: Photochemistry Supplement"",
-  SPARC Lifetimes Report (2013) – SPARC Report No. 6, Chapter 3: Supplement 4, 3S4-1 - 3S4-52 (2013); www.sparc-climate.org/publications/sparc-reports/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_SPARC(2013)_298K_121.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_210K_190-301nm.txt",NaN,301.0,Burkholder(1991),Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1029/90JD02735,CF2Br2(Halon-1202),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_210K_190-301nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_230K_190-304nm.txt",NaN,304.0,Burkholder(1991),Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array detector,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1029/90JD02735,CF2Br2(Halon-1202),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_230K_190-304nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_250K_190-310nm.txt",NaN,310.0,Burkholder(1991),"Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
+detector",190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1029/90JD02735,CF2Br2(Halon-1202),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_250K_190-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_270K_190-320nm.txt",NaN,320.0,Burkholder(1991),"Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
+detector",190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1029/90JD02735,CF2Br2(Halon-1202),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_270K_190-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Burkholder(1991)_296K_190-320nm.txt",NaN,320.0,Burkholder(1991),"Absorption measurements using two different spectrographs with instrumental resolutions of ∼ 0.5nm and ∼ 0.4 nm coupled to a 1024-element diode array
+detector",190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1029/90JD02735,CF2Br2(Halon-1202),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Burkholder(1991)_296K_190-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Davidson(1951)_298K_215-290nm.txt",NaN,290.0,Davidson(1951),Extinction coefficients from Table II have been converted to absorption cross sections; conversion factor 3.8235×10,215.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1021/ja01145a506,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Davidson(1951)_298K_215-290nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Doucet(1975)_298K_121.9-220.1nm.txt",NaN,220.1,Doucet(1975),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,121.9,difluorodibromomethane (Halon-1202), https://doi.org/10.1063/1.430495,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Doucet(1975)_298K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Doucet(1975)_298K_60.1-124.3nm.txt",NaN,124.3,Doucet(1975),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,60.1,difluorodibromomethane (Halon-1202), https://doi.org/10.1063/1.430495,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Doucet(1975)_298K_60.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_169-308nm(int-c).txt",NaN,308.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_169-308nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_170-304nm(2nm).txt",NaN,304.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,170.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_210K_170-304nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_169-308nm(int-c).txt",NaN,308.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_169-308nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_170-304nm(2nm).txt",NaN,304.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,170.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_230K_170-304nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_169-308nm(int-c).txt",NaN,308.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_169-308nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_170-304nm(2nm).txt",NaN,304.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,170.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_250K_170-304nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_169-308nm(int-c).txt",NaN,308.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_169-308nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_170-304nm(2nm).txt",NaN,304.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,170.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_270K_170-304nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_169-308nm(int-c).txt",NaN,308.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,169.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_169-308nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_170-304nm(2nm).txt",NaN,304.0,GillotaySimon(1989),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,170.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00053815,CF2Br2(Halon-1202),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_GillotaySimon(1989)_295K_170-304nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_IUPAC(2008)_210K_190-304nm(rec).txt",NaN,304.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.5194/acp-8-4141-2008,CF2Br2(Halon-1202),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_IUPAC(2008)_210K_190-304nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_IUPAC(2008)_295K_190-308nm(rec).txt",NaN,308.0,IUPAC(2008),IUPAC(2008) recommendation:,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.5194/acp-8-4141-2008,CF2Br2(Halon-1202),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_IUPAC(2008)_295K_190-308nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-2010(2011)_296K_170-340nm(rec).txt",NaN,340.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",170.0,difluorodibromomethane (Halon-1202),,CF2Br2(Halon-1202),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-2010(2011)_296K_170-340nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-2015(2015)_296K_170-350nm(rec).txt",NaN,350.0,JPL-2015(2015),JPL-2015 recommendation:,170.0,difluorodibromomethane (Halon-1202),,CF2Br2(Halon-1202),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-2015(2015)_296K_170-350nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_JPL-97(1997)_298K_190-300nm(rec).txt",NaN,300.0,JPL-97(1997),JPL-97 recommendation:,190.0,difluorodibromomethane (Halon-1202),,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_JPL-97(1997)_298K_190-300nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Molina(1982)_298K_190-340nm.txt",NaN,340.0,Molina(1982),Absorption measurements using a UV-VIS double-beam spectrophotometer,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1021/j100211a023,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Molina(1982)_298K_190-340nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_OrkinKasimovskaya(1995)_295K_190-320nm.txt",NaN,320.0,OrkinKasimovskaya(1995),The absorption spectrum has been recorded with an increment of 0.05 to 0.5 nm using double beam diffraction devices,190.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1007/BF00712435,CF2Br2(Halon-1202),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_OrkinKasimovskaya(1995)_295K_190-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_210K_300-310nm.txt",NaN,310.0,Papanastasiou(2013),Absorption measurements using cavity ringdown spectroscopy,300.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1002/grl.50121,CF2Br2(Halon-1202),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_210K_300-310nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_230K_300-320nm.txt",NaN,320.0,Papanastasiou(2013),Absorption measurements using cavity ringdown spectroscopy,300.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1002/grl.50121,CF2Br2(Halon-1202),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_230K_300-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_250K_300-320nm.txt",NaN,320.0,Papanastasiou(2013),Absorption measurements using cavity ringdown spectroscopy,300.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1002/grl.50121,CF2Br2(Halon-1202),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_250K_300-320nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_270K_300-325nm.txt",NaN,325.0,Papanastasiou(2013),Absorption measurements using cavity ringdown spectroscopy,300.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1002/grl.50121,CF2Br2(Halon-1202),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_270K_300-325nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Papanastasiou(2013)_296K_300-350nm.txt",NaN,350.0,Papanastasiou(2013),Absorption measurements using cavity ringdown spectroscopy,300.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1002/grl.50121,CF2Br2(Halon-1202),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Papanastasiou(2013)_296K_300-350nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Seccombe(2001)_298K_55-175nm.txt",NaN,175.0,Seccombe(2001),Absorption measurements using synchrotron radiation,55.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1063/1.1344888,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Seccombe(2001)_298K_55-175nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_SPARC(2013)_298K_121.567nm(rec).txt",NaN,NaN,SPARC(2013),Recommended absorption cross section at the Lyman-α wavelength with an estimated uncertainty factor p(298 K) = 1.5,121.567,difluorodibromomethane (Halon-1202),,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_SPARC(2013)_298K_121.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)_Walton(1972)_298K_228,265nm.txt",NaN,265.0,Walton(1972),,228.0,difluorodibromomethane (Halon-1202), https://doi.org/10.1039/F19726801559,CF2Br2(Halon-1202),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Halons(C,H,F,Cl,Br)/CF2Br2(Halon-1202)/CF2Br2(Halon-1202)_Walton(1972)_298K_228,265nm.csv"

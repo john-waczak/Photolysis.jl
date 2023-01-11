@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,MacphersonSimons(1978),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/DCN_MacphersonSimons(1978)_298K_131.18-146.33nm.txt,Absorption measurements at a spectral resolution of 0.04 nm,DCN,"hydrocyanic acid-d, deuterium cyanide","
-
-  M.T. Macpherson and J.P. Simons, ""Spectroscopic study of the predissociation H(D)CN (C ",data/cross-sections/Organics (acids)/DCN/DCN_MacphersonSimons(1978)_298K_131.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(acids)/DCN_MacphersonSimons(1978)_298K_131.18-146.33nm.txt,NaN,146.33,MacphersonSimons(1978),Absorption measurements at a spectral resolution of 0.04 nm,131.18,"hydrocyanic acid-d, deuterium cyanide", https://doi.org/10.1039/F29787401965,DCN,298.0,data/cross-sections/Organics (acids)/DCN/DCN_MacphersonSimons(1978)_298K_131.csv

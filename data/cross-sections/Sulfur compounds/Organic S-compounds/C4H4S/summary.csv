@@ -1,22 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Holland(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Holland(2014)_298K_99.98-246.22nm.txt,The photoabsorption spectrum of thiophene was recorded between ~5 and 12.5 eV (~ 248 - 99.2 nm) at a resolution of 2.1 meV (FWHM) by using a Fourier transform spectrometer (FTS) attached to a synchrotron radiation source,C4H4S,thiophene,"
-
-  D.M.P. Holland, A.B. Trofimov, E.A. Seddon, E.V. Gromov, T. Korona, N.d. Oliveira, L.E. Archer, D. Joyeux, and L. Nahon, ""Excited electronic states of thiophene: high resolution photoabsorption Fourier transform spectroscopy and ab initio calculations"",
-  Phys. Chem. Chem. Phys. 16, 21629-21644 (2014); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Holland(2014)_298K_99.csv
-298.0,Jones(2019),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Jones(2019)_298K_115.55-320.00nm.txt,High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source; absolute photoabsorption cross sections were determined to within ±5%,C4H4S,thiophene,"
-
-  D.B. Jones, M. Mendes, P. Limão-Vieira, F. Ferreira da Silva, N.C. Jones, S.V. Hoffmann, and M.J. Brunger, ""Electronic structure and VUV photoabsorption measurements of thiophene"",
-  J. Chem. Phys. 150, 064303 (2019);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Jones(2019)_298K_115.csv
-298.0,Rennie(2004),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Rennie(2004)_298K_34.84-140.57nm.txt,Absorption measurements using a double ion chamber and monochromated synchrotron radiation,C4H4S,thiophene,"
-
-  E.E. Rennie, D.M.P. Holland, D.A. Shaw, C.A.F. Johnson, and J.E. Parker, ""A study of the valence shell spectroscopic and thermodynamic properties of thiophene by photoabsorption and photoion spectroscopy"",
-  Chem. Phys. 306, 295-208 (2004); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Rennie(2004)_298K_34.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Holland(2014)_298K_99.98-246.22nm.txt,NaN,246.22,Holland(2014),The photoabsorption spectrum of thiophene was recorded between ~5 and 12.5 eV (~ 248 - 99.2 nm) at a resolution of 2.1 meV (FWHM) by using a Fourier transform spectrometer (FTS) attached to a synchrotron radiation source,99.98,thiophene, https://doi.org/10.1039/C4CP02420F,C4H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Holland(2014)_298K_99.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Jones(2019)_298K_115.55-320.00nm.txt,NaN,320.0,Jones(2019),High-resolution (0.08 nm) absorption measurements using synchrotron radiation as a light source; absolute photoabsorption cross sections were determined to within ±5%,115.55,thiophene, https://doi.org/10.1063/1.5089505,C4H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Jones(2019)_298K_115.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/C4H4S_Rennie(2004)_298K_34.84-140.57nm.txt,NaN,140.57,Rennie(2004),Absorption measurements using a double ion chamber and monochromated synchrotron radiation,34.84,thiophene, https://doi.org/10.1016/j.chemphys.2004.07.029,C4H4S,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/C4H4S/C4H4S_Rennie(2004)_298K_34.csv

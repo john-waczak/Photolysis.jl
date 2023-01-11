@@ -1,18 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Fuss(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Fuss(1971)_298K_187-206nm.txt,Structure of diborane (NIST structure erroneous):,B2H6,diborane,"
-
-  W. Fuss, ""Ph.D. Thesis"",
-  Univ. Frankfurt am Main, Germany, 1971
-
-
-",data/cross-sections/Boron compounds/B2H6/B2H6_Fuss(1971)_298K_187-206nm.csv
-298.0,Peng(2016),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Peng(2016)_298K_107-240nm.txt,Structure of diborane (NIST structure erroneous):,B2H6,diborane,"
-
-  Y.-C. Peng, S.-L. Chou, J.-I. Lo, M.-Y. Lin, H.-C. Lu, B.-M. Cheng, and J.F. Ogilvie, ""Infrared and Ultraviolet Spectra of Diborane(6): B",data/cross-sections/Boron compounds/B2H6/B2H6_Peng(2016)_298K_107-240nm.csv
-298.0,Price(1948),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Price(1948)_298K_101-200nm.txt,Structure of diborane (NIST structure erroneous):,B2H6,diborane,"
-
-  W. C. Price, ""The absorption spectrum of diborane"",
-  J. Chem. Phys. 16, 894-902 (1948); 
-
-
-  DOI: ",data/cross-sections/Boron compounds/B2H6/B2H6_Price(1948)_298K_101-200nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Fuss(1971)_298K_187-206nm.txt,NaN,206.0,Fuss(1971),Structure of diborane (NIST structure erroneous):,187.0,diborane,,B2H6,298.0,data/cross-sections/Boron compounds/B2H6/B2H6_Fuss(1971)_298K_187-206nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Peng(2016)_298K_107-240nm.txt,NaN,240.0,Peng(2016),Structure of diborane (NIST structure erroneous):,107.0,diborane, https://doi.org/10.1021/acs.jpca.6b05150,B2H6,298.0,data/cross-sections/Boron compounds/B2H6/B2H6_Peng(2016)_298K_107-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B2H6_Price(1948)_298K_101-200nm.txt,NaN,200.0,Price(1948),Structure of diborane (NIST structure erroneous):,101.0,diborane, https://doi.org/10.1063/1.1747028,B2H6,298.0,data/cross-sections/Boron compounds/B2H6/B2H6_Price(1948)_298K_101-200nm.csv

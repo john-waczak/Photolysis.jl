@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-295.0,Sehested(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SF5O2_Sehested(1994)_295K_215-270nm.txt,Absorption measurements for the SF,SF5O2,sulfur pentafluoride peroxy radical,"
-
-  J. Sehested, T. Ellermann, O.J. Nielsen, and T.J. Wallington, ""Spectrokinetic study of SF",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SF5O2/SF5O2_Sehested(1994)_295K_215-270nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SF5O2_Sehested(1994)_295K_215-270nm.txt,NaN,270.0,Sehested(1994),Absorption measurements for the SF,215.0,sulfur pentafluoride peroxy radical, https://doi.org/10.1002/kin.550260604,SF5O2,295.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SF5O2/SF5O2_Sehested(1994)_295K_215-270nm.csv

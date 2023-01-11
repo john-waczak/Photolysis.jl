@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Antinolo(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CHF2CF2CH2OH_Antinolo(2012)_298K_195-365nm.txt,"The UV apparatus consisted of a deuterium lamp (source of continuous UV-VIS radiation, 180−500 nm), a gas cell with an optical path length of 107 cm, and a 0.5-m focal length spectrograph coupled to a cooled coupled-charged device (CCD)",CHF2CF2CH2OH,"2,2,3,3-tetrafluoropropanol","
-
-  M. Antiñolo, S. Gonzalez, B. Ballesteros, J. Albaladejo, and E. Jiménez, ""Laboratory studies of CHF2CF2CH2OH and CF3CF2CH2OH: UV and IR absorption cross sections and OH rate coefficients between 263 and 358 K"",
-  J. Phys. Chem. A 116, 6041-6050 (2012); 
-
-
-  DOI: ",data/cross-sections/Alcohols/CHF2CF2CH2OH/CHF2CF2CH2OH_Antinolo(2012)_298K_195-365nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alcohols/CHF2CF2CH2OH_Antinolo(2012)_298K_195-365nm.txt,NaN,365.0,Antinolo(2012),"The UV apparatus consisted of a deuterium lamp (source of continuous UV-VIS radiation, 180−500 nm), a gas cell with an optical path length of 107 cm, and a 0.5-m focal length spectrograph coupled to a cooled coupled-charged device (CCD)",195.0,"2,2,3,3-tetrafluoropropanol", https://doi.org/10.1021/jp2111633,CHF2CF2CH2OH,298.0,data/cross-sections/Alcohols/CHF2CF2CH2OH/CHF2CF2CH2OH_Antinolo(2012)_298K_195-365nm.csv

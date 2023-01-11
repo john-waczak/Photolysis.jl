@@ -1,29 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,GrosjeanBletzinger(1977),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_GrosjeanBletzinger(1977)_298K_116-168nm.txt,Absorption measurements using a windowless capillary-type discharge with 1 Torr of H,C6H5N(CH3)2,"N,N-dimethylaniline","
-
-  D.F. Grosjean and P. Bletzinger, ""Photoionization and photoabsorption characteristics of laser seed compounds"",
-  IEEE J. Quantum Electronics QE-13, 898-904 (1977);  
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_GrosjeanBletzinger(1977)_298K_116-168nm.csv
-298.0,Kimura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Kimura(1964)_298K_152-300nm.txt,Absorption measurements using UV and VUV spectrophotometers and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5N(CH3)2,"N,N-dimethylaniline","
-
-  K. Kimura, H. Tsubomura, and S. Nagakura, ""The vacuum ultraviolet absorption spectra of aniline and some of its N-derivatives"",
-  Bull. Chem. Soc. Japan 37, 1336-1346 1964;
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Kimura(1964)_298K_152-300nm.csv
-298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Mangini(1967)_298K_210.57-315.35nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5N(CH3)2,"N,N-dimethylaniline","
-
-  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
-  J. Chem. Soc. B 1967, 153-165; 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Mangini(1967)_298K_210.csv
-298.0,Mangini(1967),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Mangini(1967)_298K_241.02-303.04nm.txt,Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,C6H5N(CH3)2,"N,N-dimethylaniline","
-
-  A. Mangini, A. Trombetti, and C. Zauli, ""Vapour phase spectra in the near-ultraviolet of some monosubstituted benzenes"",
-  J. Chem. Soc. B 1967, 153-165; 
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Mangini(1967)_298K_241.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_GrosjeanBletzinger(1977)_298K_116-168nm.txt,NaN,168.0,GrosjeanBletzinger(1977),Absorption measurements using a windowless capillary-type discharge with 1 Torr of H,116.0,"N,N-dimethylaniline", https://doi.org/10.1109/JQE.1977.1069252,C6H5N(CH3)2,298.0,data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_GrosjeanBletzinger(1977)_298K_116-168nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Kimura(1964)_298K_152-300nm.txt,NaN,300.0,Kimura(1964),Absorption measurements using UV and VUV spectrophotometers and a hydrogen discharge lamp of hot-cathode type as a light source,152.0,"N,N-dimethylaniline", https://doi.org/10.1246/bcsj.37.1336,C6H5N(CH3)2,298.0,data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Kimura(1964)_298K_152-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Mangini(1967)_298K_210.57-315.35nm.txt,NaN,315.35,Mangini(1967),Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,210.57,"N,N-dimethylaniline", https://doi.org/10.1039/J29670000153,C6H5N(CH3)2,298.0,data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Mangini(1967)_298K_210.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(CH3)2_Mangini(1967)_298K_241.02-303.04nm.txt,NaN,303.04,Mangini(1967),Absorption spectra were recorded over a wide temperature range (298-473 K) with the vapour in equilibrium with the liquid at constant temperature or at constant concentration,241.02,"N,N-dimethylaniline", https://doi.org/10.1039/J29670000153,C6H5N(CH3)2,298.0,data/cross-sections/Aromatic compounds/Anilines/C6H5N(CH3)2/C6H5N(CH3)2_Mangini(1967)_298K_241.csv

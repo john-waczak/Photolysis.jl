@@ -1,33 +1,7 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Chang(2016),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Chang(2016)_298K_308.4,330,351.8nm.txt",Absolute absorption cross sections at 308.4 and 351.8 nm were measured by laser depletion in a molecular beam (CH,(CH3)2COO,acetone oxide,"
-
-  Y.-P. Chang, C.-H. Chang, K. Takahashi, and J.J.-M. Lin, ""Absolute UV absorption cross sections of dimethyl substituted Criegee intermediate (CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Chang(2016)_298K_308.csv
-293.0,Chhantyal-Pun(2017),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Chhantyal-Pun(2017)_293K_355nm.txt,Cavity ring-down spectroscopy of CH,(CH3)2COO,acetone oxide,"
-
-  R. Chhantyal-Pun, O. Welz, J.D. Savee, A.J. Eskola, E.P.F. Lee, L.Blacker, H.R. Hill, M. Ashcroft, M.A.H. Khan, G.C. Lloyd-Jones, L. Evans, B. Rotavera, H. Huang, D.L. Osborn, .D.K W. Mok, J.M. Dyke, D.E. Shallcross, C.J. Percival, A.J. Orr-Ewing, and C.A. Taatjes, ""Direct measurements of unimolecular and bimolecular reaction kinetics of the Criegee intermediate (CH",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Chhantyal-Pun(2017)_293K_355nm.csv
-298.0,Huang(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Huang(2015)_298K_278.5-390.3nm.txt,Absorption spectra have been recorded in a (CH,(CH3)2COO,acetone oxide,"
-
-  H.-L. Huang, W. Chao, and J.J.-M. Lin, ""Kinetics of a Criegee intermediate that would survive high humidity and may oxidize atmospheric SO",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Huang(2015)_298K_278.csv
-298.0,IUPAC(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_IUPAC(2015)_298K_280-405nm(rec).txt,Gausian fit,(CH3)2COO,acetone oxide,"
-
-  M. Ammann, R. A. Cox, J. N. Crowley, H. Herrmann, E. Jenkin, V.F. McNeill, A. Mellouki, M. J. Troe, T. J. Wallington, ""Task Group on Atmospheric Chemical Kinetic Data Evaluation – Evaluated Kinetic Data"",
-  http://iupac.pole-ether.fr
-
-
-",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_IUPAC(2015)_298K_280-405nm(rec).csv
-298.0,JPL-2019(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_JPL-2019(2020)_298K_290-390nm(rec).txt,JPL-2019(2020) recommendation:,(CH3)2COO,acetone oxide,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, C. Cappa, J. D. Crounse, T. S. Dibble, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, C. J. Percival, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical
-Data for Use in Atmospheric Studies, Evaluation No. 19"",
-  JPL Publication 19-5, Jet Propulsion Laboratory, Pasadena,
-2019, http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_JPL-2019(2020)_298K_290-390nm(rec).csv
-298.0,Liu(2014),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Liu(2014)_298K_288-368nm.txt,Synthesis of the Criegee intermediate by photolysis  (118 nm) of a (CH,(CH3)2COO,acetone oxide,"
-
-  F. Liu, J.M. Beames, A.M. Green, and M.I. Lester, ""UV spectroscopic characterization of dimethyl- and ethyl-substituted carbonyl oxides"",
-  J. Phys. Chem. A 118, 2298-2306 (2014); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Liu(2014)_298K_288-368nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Chang(2016)_298K_308.4,330,351.8nm.txt",NaN,330.0,Chang(2016),Absolute absorption cross sections at 308.4 and 351.8 nm were measured by laser depletion in a molecular beam (CH,308.4,acetone oxide, https://doi.org/10.1016/j.cplett.2016.04.082,(CH3)2COO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Chang(2016)_298K_308.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Chhantyal-Pun(2017)_293K_355nm.txt,NaN,NaN,Chhantyal-Pun(2017),Cavity ring-down spectroscopy of CH,355.0,acetone oxide, https://doi.org/10.1021/acs.jpca.6b07810,(CH3)2COO,293.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Chhantyal-Pun(2017)_293K_355nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Huang(2015)_298K_278.5-390.3nm.txt,NaN,390.3,Huang(2015),Absorption spectra have been recorded in a (CH,278.5,acetone oxide, https://doi.org/10.1073/pnas.1513149112,(CH3)2COO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Huang(2015)_298K_278.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_IUPAC(2015)_298K_280-405nm(rec).txt,NaN,405.0,IUPAC(2015),Gausian fit,280.0,acetone oxide,,(CH3)2COO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_IUPAC(2015)_298K_280-405nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_JPL-2019(2020)_298K_290-390nm(rec).txt,NaN,390.0,JPL-2019(2020),JPL-2019(2020) recommendation:,290.0,acetone oxide,,(CH3)2COO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_JPL-2019(2020)_298K_290-390nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Carbonyl%20oxides/(CH3)2COO_Liu(2014)_298K_288-368nm.txt,NaN,368.0,Liu(2014),Synthesis of the Criegee intermediate by photolysis  (118 nm) of a (CH,288.0,acetone oxide, https://doi.org/10.1021/jp412726z,(CH3)2COO,298.0,data/cross-sections/Organics (carbonyls)/Carbonyl oxides/(CH3)2COO/(CH3)2COO_Liu(2014)_298K_288-368nm.csv

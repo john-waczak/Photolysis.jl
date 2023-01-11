@@ -1,32 +1,6 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Drage(2006),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_Drage(2006)_298K_115-340nm.txt,High-resolution (0.075 nm FWHM) measurements using synchrotron radiation,CH3SOCH3,"dimethyl sulfoxide, DMSO","
-
-  E.A. Drage, P. Cahillane, S.V. Hoffmann, N.J. Mason, and P. Limão-Vieira, ""High resolution VUV photoabsorption cross section of dimethyl sulphoxide (CH",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_Drage(2006)_298K_115-340nm.csv
-298.0,GollnickStracke(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_GollnickStracke(1973)_298K_140-240nm.txt,The VUV absorption spectrum of DMSO was obtained with a McPherson Model 225 spectrometer,CH3SOCH3,"dimethyl sulfoxide, DMSO","
-
-  K. Gollnick and H.-U. Stracke, ""Direct and sensitized photolysis of dimethyl sulphoxide in solution"",
-  Pure Appl. Chem. 33, 217-245 (1973); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_GollnickStracke(1973)_298K_140-240nm.csv
-298.0,HynesWine(1996),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_HynesWine(1996)_298K_190.4-245.0nm.txt,"Absorption cross-sections were determined using a deuterium lamp as the light source; the light passed through a 41 cm absorption cell, was dispersed by a 0.22 m spectrograph, and detected by a 1024-element photodiode array",CH3SOCH3,"dimethyl sulfoxide, DMSO","
-
-  A.J. Hynes and P. H. Wine, ""The atmospheric chemistry of dimethylsulfoxide (DMSO) kinetics and mechanism of the OH+DMSO reaction"",
-  J. Atmos. Chem. 24, 23–37 (1996);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_HynesWine(1996)_298K_190.csv
-298.0,HynesWine(1996),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_HynesWine(1996)_298K_205,213.9nm.txt","Absorption cross-sections were determined using a deuterium lamp as the light source; the light passed through a 41 cm absorption cell, was dispersed by a 0.22 m spectrograph, and detected by a 1024-element photodiode array",CH3SOCH3,"dimethyl sulfoxide, DMSO","
-
-  A.J. Hynes and P. H. Wine, ""The atmospheric chemistry of dimethylsulfoxide (DMSO) kinetics and mechanism of the OH+DMSO reaction"",
-  J. Atmos. Chem. 24, 23–37 (1996);
-
-
-  DOI: ","data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_HynesWine(1996)_298K_205,213.csv"
-300.0,Li(2020),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_Li(2020)_300K_185-250nm.txt,Absorption measurements using an absorption cell (40 cm in length) with a D,CH3SOCH3,"dimethyl sulfoxide, DMSO","
-
-  Y.-L. Li, C.-Y. Lin, Y.-H. Lin, and J. J.-M. Lin, ""Temperature-dependent kinetics of the simplest Criegee intermediate reaction with dimethyl sulfoxide"",
-  J. Chin. Chem. Soc. 67, 1563-1570 (2020);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_Li(2020)_300K_185-250nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_Drage(2006)_298K_115-340nm.txt,NaN,340.0,Drage(2006),High-resolution (0.075 nm FWHM) measurements using synchrotron radiation,115.0,"dimethyl sulfoxide, DMSO", https://doi.org/10.1016/j.chemphys.2006.11.017,CH3SOCH3,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_Drage(2006)_298K_115-340nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_GollnickStracke(1973)_298K_140-240nm.txt,NaN,240.0,GollnickStracke(1973),The VUV absorption spectrum of DMSO was obtained with a McPherson Model 225 spectrometer,140.0,"dimethyl sulfoxide, DMSO", https://doi.org/10.1351/pac197333020217,CH3SOCH3,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_GollnickStracke(1973)_298K_140-240nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_HynesWine(1996)_298K_190.4-245.0nm.txt,NaN,245.0,HynesWine(1996),"Absorption cross-sections were determined using a deuterium lamp as the light source; the light passed through a 41 cm absorption cell, was dispersed by a 0.22 m spectrograph, and detected by a 1024-element photodiode array",190.4,"dimethyl sulfoxide, DMSO", https://doi.org/10.1007/BF00053821,CH3SOCH3,298.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_HynesWine(1996)_298K_190.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_HynesWine(1996)_298K_205,213.9nm.txt",NaN,213.9,HynesWine(1996),"Absorption cross-sections were determined using a deuterium lamp as the light source; the light passed through a 41 cm absorption cell, was dispersed by a 0.22 m spectrograph, and detected by a 1024-element photodiode array",205.0,"dimethyl sulfoxide, DMSO", https://doi.org/10.1007/BF00053821,CH3SOCH3,298.0,"data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_HynesWine(1996)_298K_205,213.csv"
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Organic%20S-compounds/CH3SOCH3_Li(2020)_300K_185-250nm.txt,NaN,250.0,Li(2020),Absorption measurements using an absorption cell (40 cm in length) with a D,185.0,"dimethyl sulfoxide, DMSO", https://doi.org/10.1002/jccs.202000206,CH3SOCH3,300.0,data/cross-sections/Sulfur compounds/Organic S-compounds/CH3SOCH3/CH3SOCH3_Li(2020)_300K_185-250nm.csv

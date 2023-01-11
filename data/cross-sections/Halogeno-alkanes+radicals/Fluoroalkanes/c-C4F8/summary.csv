@@ -1,25 +1,5 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bastien(1985),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Bastien(1985)_298K_125-195nm.txt,Absorption measurements using a synchrotron radiation source;,c-C4F8,octafluorocyclobutane,"
-
-  F. Bastien, P. A. Chatterton, E. Marode, and J. L. Moruzzi, ""Photoabsorption measurements in SF",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Bastien(1985)_298K_125-195nm.csv
-298.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_JPL-2015(2015)_298K_121.567nm(rec).txt,JPL-2015 recommendation:,c-C4F8,octafluorocyclobutane,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_JPL-2015(2015)_298K_121.csv
-298.0,Limao-Vieira(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Limao-Vieira(2007)_298K_115-204nm.txt,High-resolution (∼0.075nm) VUV absorption measurements using synchrotron radiation,c-C4F8,octafluorocyclobutane,"
-
-  P. Limão-Vieira, E. Vasekova, A. Giuliani, J.M.C. Lourenço, P.M. Santos, D. Duflot, S.V. Hoffmann, N.J. Mason, J. Delwiche, and M.-J. Hubin-Franskin, ""Perfluorocyclobutane electronic state spectroscopy by high-resolution vacuum ultraviolet photoabsorption, electron impact, He(I) photoelectron spectroscopy and ab initio calculations"",
-  Phys. Rev. A 76, 032509-1 - 032509-11 (2007); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Limao-Vieira(2007)_298K_115-204nm.csv
-298.0,Ravishankara(1993),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Ravishankara(1993)_298K_121.6nm.txt,Absorption cross section at the Lyman-α line;,c-C4F8,octafluorocyclobutane,"
-
-  A.R. Ravishankara, S. Solomon, A.A. Turnipseed, and R.F. Warren, ""Atmospheric lifetimes of long-lived halogenated species"",
-  Science 259, 194-199 (1993); 
-
-
-  DOI: ",data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Ravishankara(1993)_298K_121.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Bastien(1985)_298K_125-195nm.txt,NaN,195.0,Bastien(1985),Absorption measurements using a synchrotron radiation source;,125.0,octafluorocyclobutane, https://doi.org/10.1088/0022-3727/18/7/018,c-C4F8,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Bastien(1985)_298K_125-195nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_JPL-2015(2015)_298K_121.567nm(rec).txt,NaN,NaN,JPL-2015(2015),JPL-2015 recommendation:,121.567,octafluorocyclobutane,,c-C4F8,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_JPL-2015(2015)_298K_121.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Limao-Vieira(2007)_298K_115-204nm.txt,NaN,204.0,Limao-Vieira(2007),High-resolution (∼0.075nm) VUV absorption measurements using synchrotron radiation,115.0,octafluorocyclobutane, https://doi.org/10.1103/PhysRevA.76.032509,c-C4F8,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Limao-Vieira(2007)_298K_115-204nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8_Ravishankara(1993)_298K_121.6nm.txt,NaN,NaN,Ravishankara(1993),Absorption cross section at the Lyman-α line;,121.6,octafluorocyclobutane, https://doi.org/10.1126/science.259.5092.194,c-C4F8,298.0,data/cross-sections/Halogeno-alkanes+radicals/Fluoroalkanes/c-C4F8/c-C4F8_Ravishankara(1993)_298K_121.csv

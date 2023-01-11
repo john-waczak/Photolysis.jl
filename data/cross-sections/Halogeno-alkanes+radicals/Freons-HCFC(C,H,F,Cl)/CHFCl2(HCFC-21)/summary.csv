@@ -1,151 +1,24 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-296.0,Chou(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Chou(1976)_296K_186-216nm.txt",Absorption cross sections have been reported by,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  C.C. Chou, H. Vera Ruiz, K. Moe, and F.S. Rowland, ""Absorption cross sections of chlorofluoromethanes and methylchloroform"",
-  private communication, Univ. of California, Irvine, 1976
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Chou(1976)_296K_186-216nm.csv"
-298.0,ColeDexter(1978),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_ColeDexter(1978)_298K_6.5-10nm.txt",Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  B.E. Cole and R.N. Dexter, ""Photoabsorption cross sections for chlorinated methanes and ethanes between 46 and 100 Å"",
-  J. Quant. Spectrosc. Radiat. Transfer 19, 303-309 (1978); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_ColeDexter(1978)_298K_6.csv"
-298.0,Doucet(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Doucet(1973)_298K_116.9-151.9nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet and photoelectron spectra of fluoro-chloro derivates of methane"",
-  J. Chem. Phys. 58, 3708-3716 (1973); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Doucet(1973)_298K_116.csv"
-298.0,Doucet(1973),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Doucet(1973)_298K_154.3-199.2nm.txt",Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  J. Doucet, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet and photoelectron spectra of fluoro-chloro derivates of methane"",
-  J. Chem. Phys. 58, 3708-3716 (1973); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Doucet(1973)_298K_154.csv"
-298.0,Gilbert(1974),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Gilbert(1974)_298K_60.2-122.7nm.txt",Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-120-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  R. Gilbert, P. Sauvageau, and C. Sandorfy, ""Vacuum ultraviolet absorption spectra of chlorofluoromethanes from 120 to 65 nm"",
-  J. Chem. Phys. 60, 4820-4824 (1974); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Gilbert(1974)_298K_60.csv"
-303.0,GordusBernstein(1954),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GordusBernstein(1954)_303K_208nm.txt",Extinction coefficient from Table III have been converted to absorption cross section (conversion factor 3.8235×10,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  A.A. Gordus and R.B. Bernstein, ""Isotope effect in continuous ultraviolet absorption spectra: Methyl bromide-d","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GordusBernstein(1954)_303K_208nm.csv"
-300.0,GreenWayne(1976-1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_184.5-205.5nm(smoo).txt",Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  R.G. Green and R.P. Wayne, ""Ultraviolet absorption spectra of halogenated methanes and ethanes"",
-  J. Photochem. 6, 375-377 (1976-1977); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_184.csv"
-300.0,GreenWayne(1976-1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_185-205nm(meas).txt",Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  R.G. Green and R.P. Wayne, ""Ultraviolet absorption spectra of halogenated methanes and ethanes"",
-  J. Photochem. 6, 375-377 (1976-1977); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_185-205nm(meas).csv"
-208.0,Hubrich(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Hubrich(1977)_208K_160-210nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  C. Hubrich, C. Zetzsch, and F. Stuhl, ""Absorptionsspektren von halogenierten Methanen im Bereich von 275 bis 160 nm bei Temperaturen von 298 und 208 K"",
-  Ber. Bunsenges. Phys. Chem. 81, 437-442 (1977); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Hubrich(1977)_208K_160-210nm.csv"
-298.0,Hubrich(1977),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Hubrich(1977)_298K_158-235nm.txt","The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  C. Hubrich, C. Zetzsch, and F. Stuhl, ""Absorptionsspektren von halogenierten Methanen im Bereich von 275 bis 160 nm bei Temperaturen von 298 und 208 K"",
-  Ber. Bunsenges. Phys. Chem. 81, 437-442 (1977); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Hubrich(1977)_298K_158-235nm.csv"
-298.0,JPL-2010(2011),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_JPL-2010(2011)_298K_174-236nm(rec).txt","JPL-2010 recommendation, adopting the earlier recommendations of",CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_JPL-2010(2011)_298K_174-236nm(rec).csv"
-295.0,RobbinsStolarski(1976),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_RobbinsStolarski(1976)_295K_174-222nm.txt","The cross section measurements (at 2 nm intervals) were carried out utilizing a monochromator to provide UV radiation with a 0.07 nm bandwidth and, as a source of UV radiation, a lamp which produced a discharge in H",CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  D.E. Robbins and R.S. Stolarski, ""Comparison of stratospheric ozone destruction by fluorocarbons 11, 12, 21, and 22"",
-  Geophys. Res. Lett. 3, 603-606 (1976); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_RobbinsStolarski(1976)_295K_174-222nm.csv"
-210.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_210K_173-220nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_210K_173-220nm(int-c).csv"
-210.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_210K_174-222nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_210K_174-222nm(2nm).csv"
-230.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_230K_173-220nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_230K_173-220nm(int-c).csv"
-230.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_230K_174-222nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_230K_174-222nm(2nm).csv"
-250.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_250K_173-220nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_250K_173-220nm(int-c).csv"
-250.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_250K_174-222nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_250K_174-222nm(2nm).csv"
-270.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_270K_173-220nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_270K_173-220nm(int-c).csv"
-270.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_270K_174-222nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_270K_174-222nm(2nm).csv"
-295.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_295K_173-220nm(int-c).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_295K_173-220nm(int-c).csv"
-295.0,Simon(1988),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_295K_174-222nm(2nm).txt",Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,CHFCl2(HCFC-21),fluorodichloromethane (HCFC-21),"
-
-  P.C. Simon, D. Gillotay, N. Vanlaethem-Meurée, and J. Wisemberg, ""Ultraviolet absorption cross-sections of chloro- and chlorofluoro-methanes at stratospheric temperatures"",
-  Aeronomica Acta A 324, 1-55 (1988); J. Atmos. Chem. 7, 107-135 (1988); 
-
-
-  DOI: ","data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_295K_174-222nm(2nm).csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Chou(1976)_296K_186-216nm.txt",NaN,216.0,Chou(1976),Absorption cross sections have been reported by,186.0,fluorodichloromethane (HCFC-21),,CHFCl2(HCFC-21),296.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Chou(1976)_296K_186-216nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_ColeDexter(1978)_298K_6.5-10nm.txt",NaN,10.0,ColeDexter(1978),Absorption measurements at a spectral resolution of 0.02 nm using vacuum-UV radiation from a synchrotron source,6.5,fluorodichloromethane (HCFC-21), https://doi.org/10.1016/0022-4073(78)90063-8,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_ColeDexter(1978)_298K_6.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Doucet(1973)_298K_116.9-151.9nm.txt",NaN,151.9,Doucet(1973),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,116.9,fluorodichloromethane (HCFC-21), https://doi.org/10.1063/1.1679584,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Doucet(1973)_298K_116.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Doucet(1973)_298K_154.3-199.2nm.txt",NaN,199.2,Doucet(1973),Absorption measurements using a hydrogen discharge tube as the light source and a vacuum spectrophotometer under 0.02 nm resolution,154.3,fluorodichloromethane (HCFC-21), https://doi.org/10.1063/1.1679584,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Doucet(1973)_298K_154.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Gilbert(1974)_298K_60.2-122.7nm.txt",NaN,122.7,Gilbert(1974),Absorption measurements using the helium (Hopfield) continuum for the 65-106-nm region and a hydrogen discharge tube for the 106-120-nm region as light sources and a vacuum spectrophotometer under 0.02 nm resolution,60.2,fluorodichloromethane (HCFC-21), https://doi.org/10.1063/1.1680987,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Gilbert(1974)_298K_60.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GordusBernstein(1954)_303K_208nm.txt",NaN,NaN,GordusBernstein(1954),Extinction coefficient from Table III have been converted to absorption cross section (conversion factor 3.8235×10,208.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1063/1.1740194,CHFCl2(HCFC-21),303.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GordusBernstein(1954)_303K_208nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_184.5-205.5nm(smoo).txt",NaN,205.5,GreenWayne(1976-1977),Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,184.5,fluorodichloromethane (HCFC-21), https://doi.org/10.1016/0047-2670(76)85077-0,CHFCl2(HCFC-21),300.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_184.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_185-205nm(meas).txt",NaN,205.0,GreenWayne(1976-1977),Absorption measurements at a spectral resolution of 0.5 nm(FWHM) using a deuterium lamp as the light source,185.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1016/0047-2670(76)85077-0,CHFCl2(HCFC-21),300.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_GreenWayne(1976-1977)_300K_185-205nm(meas).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Hubrich(1977)_208K_160-210nm.txt",NaN,210.0,Hubrich(1977),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",160.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1002/bbpc.19770810417,CHFCl2(HCFC-21),208.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Hubrich(1977)_208K_160-210nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Hubrich(1977)_298K_158-235nm.txt",NaN,235.0,Hubrich(1977),"The light source consisted of a deuterium lamp, a 0.5 m vacuum UV monochromator was used to select the desired wavelengths, the resolution was typically 0.3 nm",158.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1002/bbpc.19770810417,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Hubrich(1977)_298K_158-235nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_JPL-2010(2011)_298K_174-236nm(rec).txt",NaN,236.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendations of",174.0,fluorodichloromethane (HCFC-21),,CHFCl2(HCFC-21),298.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_JPL-2010(2011)_298K_174-236nm(rec).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Rebbert(1978)_300K_147,214nm.txt",NaN,214.0,Rebbert(1978),,147.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1016/0047-2670(78)80003-3,CHFCl2(HCFC-21),300.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Rebbert(1978)_300K_147,214nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_RobbinsStolarski(1976)_295K_174-222nm.txt",NaN,222.0,RobbinsStolarski(1976),"The cross section measurements (at 2 nm intervals) were carried out utilizing a monochromator to provide UV radiation with a 0.07 nm bandwidth and, as a source of UV radiation, a lamp which produced a discharge in H",174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1029/GL003i010p00603,CHFCl2(HCFC-21),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_RobbinsStolarski(1976)_295K_174-222nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_210K_173-220nm(int-c).txt",NaN,220.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_210K_173-220nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_210K_174-222nm(2nm).txt",NaN,222.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),210.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_210K_174-222nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_230K_173-220nm(int-c).txt",NaN,220.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_230K_173-220nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_230K_174-222nm(2nm).txt",NaN,222.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),230.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_230K_174-222nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_250K_173-220nm(int-c).txt",NaN,220.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_250K_173-220nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_250K_174-222nm(2nm).txt",NaN,222.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),250.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_250K_174-222nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_270K_173-220nm(int-c).txt",NaN,220.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_270K_173-220nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_270K_174-222nm(2nm).txt",NaN,222.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),270.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_270K_174-222nm(2nm).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_295K_173-220nm(int-c).txt",NaN,220.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,173.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_295K_173-220nm(int-c).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)_Simon(1988)_295K_174-222nm(2nm).txt",NaN,222.0,Simon(1988),Absorption measurements at 210 to 295 K using a single-beam equipment with a maximum resolution of 0.015 nm,174.0,fluorodichloromethane (HCFC-21), https://doi.org/10.1007/BF00048042,CHFCl2(HCFC-21),295.0,"data/cross-sections/Halogeno-alkanes+radicals/Freons-HCFC(C,H,F,Cl)/CHFCl2(HCFC-21)/CHFCl2(HCFC-21)_Simon(1988)_295K_174-222nm(2nm).csv"

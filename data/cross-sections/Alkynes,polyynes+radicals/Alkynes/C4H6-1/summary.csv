@@ -1,43 +1,7 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bertrand(1975),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Bertrand(1975)_298K_123.6nm.txt",HC≡CC,C4H6-1,"1-butyne, ethylacetylene","
-
-  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
-  J. Chim. Phys. 72, 719-723 (1975); 	
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Bertrand(1975)_298K_123.csv"
-298.0,HamaiHirayama(1979),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_HamaiHirayama(1979)_298K_165-221nm.txt",CH,C4H6-1,"1-butyne, ethylacetylene","
-
-  S. Hamai and F. Hirayama, ""Fluorescence of acetylenic hydrocarbons"",
-  J. Chem. Phys. 71, 2934-2939 (1979); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_HamaiHirayama(1979)_298K_165-221nm.csv"
-298.0,Jacovella(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Jacovella(2015)_298K_116.53112-167.60772nm.txt",HC≡CC,C4H6-1,"1-butyne, ethylacetylene","
-
-  U. Jacovella, D.M.P. Holland, S. Boyé-Péronne, B. Gans, N. de Oliveira, D. Joyeux, L.E. Archer, R.R. Lucchese, H. Xu, and S.T. Pratt, ""High-resolution vacuum-ultraviolet photoabsorption spectra of 1-butyne and 2-butyne"",
-  J. Chem. Phys. 143, 034304-1 - 034304-14 (2015); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Jacovella(2015)_298K_116.csv"
-298.0,Jacovella(2015),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Jacovella(2015)_298K_122.213-159.404nm(max).txt",HC≡CC,C4H6-1,"1-butyne, ethylacetylene","
-
-  U. Jacovella, D.M.P. Holland, S. Boyé-Péronne, B. Gans, N. de Oliveira, D. Joyeux, L.E. Archer, R.R. Lucchese, H. Xu, and S.T. Pratt, ""High-resolution vacuum-ultraviolet photoabsorption spectra of 1-butyne and 2-butyne"",
-  J. Chem. Phys. 143, 034304-1 - 034304-14 (2015); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Jacovella(2015)_298K_122.csv"
-298.0,JonesTaylor(1955),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_JonesTaylor(1955)_298K_167-190nm.txt","Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",C4H6-1,"1-butyne, ethylacetylene","
-
-  L.C. Jones and L.W. Taylor, ""Far ultraviolet absorption spectra of unsaturated and aromatic hydrocarbons"",
-  Anal. Chem. 27, 228-237 (1955); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_JonesTaylor(1955)_298K_167-190nm.csv"
-298.0,NakayamaWatanabe(1964),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_NakayamaWatanabe(1964)_298K_165-200nm.txt",HC≡CC,C4H6-1,"1-butyne, ethylacetylene","
-
-  T. Nakayama and K. Watanabe, ""Absorption and photoionization coefficients of acetylene, propyne, and 1-butyne"",
-  J. Chem. Phys. 40, 558-561 (1964); 
-
-
-  DOI: ","data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_NakayamaWatanabe(1964)_298K_165-200nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Bertrand(1975)_298K_123.6nm.txt",NaN,NaN,Bertrand(1975),HC≡CC,123.6,"1-butyne, ethylacetylene", https://doi.org/10.1051/jcp/1975720719,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Bertrand(1975)_298K_123.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_HamaiHirayama(1979)_298K_165-221nm.txt",NaN,221.0,HamaiHirayama(1979),CH,165.0,"1-butyne, ethylacetylene", https://doi.org/10.1063/1.438695,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_HamaiHirayama(1979)_298K_165-221nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Jacovella(2015)_298K_116.53112-167.60772nm.txt",NaN,167.60772,Jacovella(2015),HC≡CC,116.53112,"1-butyne, ethylacetylene", https://doi.org/10.1063/1.4926541,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Jacovella(2015)_298K_116.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_Jacovella(2015)_298K_122.213-159.404nm(max).txt",NaN,159.404,Jacovella(2015),HC≡CC,122.213,"1-butyne, ethylacetylene", https://doi.org/10.1063/1.4926541,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_Jacovella(2015)_298K_122.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_JonesTaylor(1955)_298K_167-190nm.txt",NaN,190.0,JonesTaylor(1955),"Absorption measurements using a VUV monochromator, a windowless hydrogen discharge tube, and a photomultiplier (spectral band width 0.17 nm)",167.0,"1-butyne, ethylacetylene", https://doi.org/10.1021/ac60098a015,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_JonesTaylor(1955)_298K_167-190nm.csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1_NakayamaWatanabe(1964)_298K_165-200nm.txt",NaN,200.0,NakayamaWatanabe(1964),HC≡CC,165.0,"1-butyne, ethylacetylene", https://doi.org/10.1063/1.1725154,C4H6-1,298.0,"data/cross-sections/Alkynes,polyynes+radicals/Alkynes/C4H6-1/C4H6-1_NakayamaWatanabe(1964)_298K_165-200nm.csv"

@@ -1,53 +1,11 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-294.0,GrayStyle(1930),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_GrayStyle(1930)_294K_240-546nm.txt,"Extinction coefficients from Table V converted to absorption cross sections 
-(conversion factor 3.8235×10",BrCl,bromine monochloride,"
-
-  L.T.M. Gray and D.W.G. Style, ""The absorption of light by chlorine, bromine, and their gaseous mixtures"",
-  Proc. Roy. Soc. London A 126, 603-612 (1930); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_GrayStyle(1930)_294K_240-546nm.csv
-295.0,HubingerNee(1995),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_HubingerNee(1995)_295K_190-560nm.txt,"Absorption measurements at a resolution of 0.10 nm using a vacuum monochromator, a flow tube, and as light sources a car lamp filament (visible) and a deuterium lamp (UV)",BrCl,bromine monochloride,"
-
-  S. Hubinger and J.B. Nee, ""Absorption spectra of Cl",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_HubingerNee(1995)_295K_190-560nm.csv
-298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_IUPAC(2007)_298K_200-600nm(rec).txt,IUPAC(2007) recommendation:,BrCl,bromine monochloride,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
-  Atmos. Chem. Phys. 7, 981-1191 (2007); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_IUPAC(2007)_298K_200-600nm(rec).csv
-291.0,Jost(1931),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Jost(1931)_291K_486-548nm.txt,"Absorption constants k (atm, 273K)",BrCl,bromine monochloride,"
-
-  W. Jost, ""Das Gleichgewicht zwischen Chlor, Brom und Bromchlorid (BrCl)"",
-  Z. Physik. Chem. [Leipzig] A 153, 143-152 (1931)
-
-
-",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Jost(1931)_291K_486-548nm.csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_JPL-2010(2011)_298K_200-600nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",BrCl,bromine monochloride,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_JPL-2010(2011)_298K_200-600nm(rec).csv
-298.0,JPL-97(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_JPL-97(1997)_298K_200-560nm(rec).txt,JPL-97 recommendation:,BrCl,bromine monochloride,"
-
-  W.B. DeMore, S.P. Sander, D.M. Golden, R.F. Hampson, M.J. Kurylo, C.J. Howard, A.R. Ravishankara, C.E. Kolb, and M.J. Molina, ""Chemical Kinetics and Photochemical Data for Use in Stratospheric Modeling. Evaluation Number 12"",
-  JPL Publication 97-4, Jet Propulsion Laboratory, Pasadena, 1997; https://jpldataeval.jpl.nasa.gov/pdf/Atmos97
-
-
-",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_JPL-97(1997)_298K_200-560nm(rec).csv
-298.0,Maric(1994),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Maric(1994)_298K_200-600nm.txt,"Absorption cross sections calculated at 0.25-nm intervals using the three-band Gaussian fit, eqn. (21):",BrCl,bromine monochloride,"
-
-  D. Maric, J.P. Burrows, and G.K. Moortgat, ""A study of the UV-visible absorption spectra of Br",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Maric(1994)_298K_200-600nm.csv
-298.0,SeeryBritton(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_SeeryBritton(1964)_298K_220-510nm.txt,Absorption measurements were made on a Cary Model 11 recording spectrophotometer using 10-cm quartz cells,BrCl,bromine monochloride,"
-
-  D.J. Seery and D. Britton, ""The continuous absorption spectra of chlorine, bromine, bromine chloride, iodine chloride, and iodine bromide"",
-  J. Phys. Chem. 68, 2263-2266 (1964); 
-
-
-  DOI: ",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_SeeryBritton(1964)_298K_220-510nm.csv
-297.0,Tellinghuisen(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Tellinghuisen(2003)_297K_200-600nm.txt,Absorption measurements with Cl,BrCl,bromine monochloride,"
-
-  J. Tellinghuisen, ""Precise equilibrium constants from spectrophotometric data: BrCl in Br",data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Tellinghuisen(2003)_297K_200-600nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_GrayStyle(1930)_294K_240-546nm.txt,NaN,546.0,GrayStyle(1930),"Extinction coefficients from Table V converted to absorption cross sections 
+(conversion factor 3.8235×10",240.0,bromine monochloride, https://doi.org/10.1098/rspa.1930.0029,BrCl,294.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_GrayStyle(1930)_294K_240-546nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_HubingerNee(1995)_295K_190-560nm.txt,NaN,560.0,HubingerNee(1995),"Absorption measurements at a resolution of 0.10 nm using a vacuum monochromator, a flow tube, and as light sources a car lamp filament (visible) and a deuterium lamp (UV)",190.0,bromine monochloride, https://doi.org/10.1016/1010-6030(94)03949-U,BrCl,295.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_HubingerNee(1995)_295K_190-560nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_IUPAC(2007)_298K_200-600nm(rec).txt,NaN,600.0,IUPAC(2007),IUPAC(2007) recommendation:,200.0,bromine monochloride, https://doi.org/10.5194/acp-7-981-2007,BrCl,298.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_IUPAC(2007)_298K_200-600nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Jost(1931)_291K_486-548nm.txt,NaN,548.0,Jost(1931),"Absorption constants k (atm, 273K)",486.0,bromine monochloride, https://doi.org/10.1515/zpch-1931-15310,BrCl,291.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Jost(1931)_291K_486-548nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_JPL-2010(2011)_298K_200-600nm(rec).txt,NaN,600.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",200.0,bromine monochloride,,BrCl,298.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_JPL-2010(2011)_298K_200-600nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_JPL-97(1997)_298K_200-560nm(rec).txt,NaN,560.0,JPL-97(1997),JPL-97 recommendation:,200.0,bromine monochloride,,BrCl,298.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_JPL-97(1997)_298K_200-560nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Maric(1994)_298K_200-600nm.txt,NaN,600.0,Maric(1994),"Absorption cross sections calculated at 0.25-nm intervals using the three-band Gaussian fit, eqn. (21):",200.0,bromine monochloride, https://doi.org/10.1016/1010-6030(94)03823-6,BrCl,298.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Maric(1994)_298K_200-600nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_SeeryBritton(1964)_298K_220-510nm.txt,NaN,510.0,SeeryBritton(1964),Absorption measurements were made on a Cary Model 11 recording spectrophotometer using 10-cm quartz cells,220.0,bromine monochloride, https://doi.org/10.1021/j100790a039,BrCl,298.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_SeeryBritton(1964)_298K_220-510nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogens+mixed%20halogens/BrCl_Tellinghuisen(2003)_297K_200-600nm.txt,NaN,600.0,Tellinghuisen(2003),Absorption measurements with Cl,200.0,bromine monochloride, https://doi.org/10.1021/jp027227w,BrCl,297.0,data/cross-sections/Halogens+mixed halogens/BrCl/BrCl_Tellinghuisen(2003)_297K_200-600nm.csv

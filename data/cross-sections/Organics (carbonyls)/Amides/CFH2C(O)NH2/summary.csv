@@ -1,9 +1,3 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Basch(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Amides/CFH2C(O)NH2_Basch(1968)_298K_128.5-201.3nm.txt,"Absorption measurements using a Cary Model 14 and a McPherson 1-m normal-incidence spectrometer and LiF and quartz-windowed cells
-",CFH2C(O)NH2,fluoroacetamide,"
-
-  H. Basch, M.B. Robin, and N.A. Kuebler, ""Electronic spectra of isoelectronic amides, acids, and acyl fluorides"",
-  J. Chem. Phys. 49, 5007-5018 (1968); 
-
-
-  DOI: ",data/cross-sections/Organics (carbonyls)/Amides/CFH2C(O)NH2/CFH2C(O)NH2_Basch(1968)_298K_128.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Organics%20(carbonyls)/Amides/CFH2C(O)NH2_Basch(1968)_298K_128.5-201.3nm.txt,NaN,201.3,Basch(1968),"Absorption measurements using a Cary Model 14 and a McPherson 1-m normal-incidence spectrometer and LiF and quartz-windowed cells
+",128.5,fluoroacetamide, https://doi.org/10.1063/1.1669992,CFH2C(O)NH2,298.0,data/cross-sections/Organics (carbonyls)/Amides/CFH2C(O)NH2/CFH2C(O)NH2_Basch(1968)_298K_128.csv

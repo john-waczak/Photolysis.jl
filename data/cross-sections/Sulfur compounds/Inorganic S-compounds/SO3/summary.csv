@@ -1,42 +1,8 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,BurkholderMcKeen(1997),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_BurkholderMcKeen(1997)_298K_196-330nm.txt,Absorption measurements under fast gas flow conditions and using a diode array spectrometer. These approaches were taken to overcome the problem of spectral interference due to SO,SO3,sulfur trioxide,"
-
-  J.B. Burkholder and S. McKeen, ""UV absorption cross sections for SO",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_BurkholderMcKeen(1997)_298K_196-330nm.csv
-291.0,FajansGoodeve(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_FajansGoodeve(1936)_291K_215-302nm(meas).txt,Absorption measurements using two Hilger quartz spectrographs and a hydrogen discharge tube as a source of continuous ultra-violet light,SO3,sulfur trioxide,"
-
-  E. Fajans and C.F. Goodeve, ""The absorption spectrum of sulphur trioxide"",
-  Trans. Faraday Soc. 32, 511-514 (1936);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_FajansGoodeve(1936)_291K_215-302nm(meas).csv
-291.0,FajansGoodeve(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_FajansGoodeve(1936)_291K_215-312nm(smoo).txt,Absorption measurements using two Hilger quartz spectrographs and a hydrogen discharge tube as a source of continuous ultra-violet light,SO3,sulfur trioxide,"
-
-  E. Fajans and C.F. Goodeve, ""The absorption spectrum of sulphur trioxide"",
-  Trans. Faraday Soc. 32, 511-514 (1936);
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_FajansGoodeve(1936)_291K_215-312nm(smoo).csv
-403.0,Hintze(2003),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_Hintze(2003)_403K_140-194nm.txt,Absorption measurements at a spectral resolution of 0.5 nm ,SO3,sulfur trioxide,"
-
-  P. Hintze, H.G. Kjaergaard, V. Vaida, and J.B. Burkholder, ""Vibrational and electronic spectroscopy of sulfuric acid vapor"",
-  J. Phys. Chem. A 107, 1112-1118 (2003); 
-
-
-  DOI: ",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_Hintze(2003)_403K_140-194nm.csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_JPL-2010(2011)_298K_180-330nm(rec).txt,JPL-2010 recommendation:,SO3,sulfur trioxide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_JPL-2010(2011)_298K_180-330nm(rec).csv
-298.0,JPL-2015(2015),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_JPL-2015(2015)_298K_180-330nm(rec).txt,JPL-2015(2015) recommendation:,SO3,sulfur trioxide,"
-
-  J. B. Burkholder, S. P. Sander, J. Abbatt, J. R. Barker, R. E. Huie, C. E. Kolb, M. J. Kurylo, V. L. Orkin, D. M. Wilmouth, and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation No. 18"",
-  JPL Publication 15-10, Jet Propulsion Laboratory, Pasadena, 2015 http://jpldataeval.jpl.nasa.gov
-
-
-",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_JPL-2015(2015)_298K_180-330nm(rec).csv
-294.0,Leroy(1981),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_Leroy(1981)_294K_240-264nm.txt,High-resolution (0.015 nm) absorption measurements using a deuterium lamp as a light source; the spectra recorded on photgraphic plates have been analyzed by using a microdensitometer,SO3,sulfur trioxide,"
-
-  B. Leroy, G. Le Bras, and P. Rigaud, ""Spectres d'absorption dans l'ultraviolet de composés soufrés d'intérêt aéronomique (COS, CS",data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_Leroy(1981)_294K_240-264nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_BurkholderMcKeen(1997)_298K_196-330nm.txt,NaN,330.0,BurkholderMcKeen(1997),Absorption measurements under fast gas flow conditions and using a diode array spectrometer. These approaches were taken to overcome the problem of spectral interference due to SO,196.0,sulfur trioxide, https://doi.org/10.1029/97GL03255,SO3,298.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_BurkholderMcKeen(1997)_298K_196-330nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_FajansGoodeve(1936)_291K_215-302nm(meas).txt,NaN,302.0,FajansGoodeve(1936),Absorption measurements using two Hilger quartz spectrographs and a hydrogen discharge tube as a source of continuous ultra-violet light,215.0,sulfur trioxide, https://doi.org/10.1039/TF9363200511,SO3,291.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_FajansGoodeve(1936)_291K_215-302nm(meas).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_FajansGoodeve(1936)_291K_215-312nm(smoo).txt,NaN,312.0,FajansGoodeve(1936),Absorption measurements using two Hilger quartz spectrographs and a hydrogen discharge tube as a source of continuous ultra-violet light,215.0,sulfur trioxide, https://doi.org/10.1039/TF9363200511,SO3,291.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_FajansGoodeve(1936)_291K_215-312nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_Hintze(2003)_403K_140-194nm.txt,NaN,194.0,Hintze(2003),Absorption measurements at a spectral resolution of 0.5 nm ,140.0,sulfur trioxide, https://doi.org/10.1021/jp0263626,SO3,403.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_Hintze(2003)_403K_140-194nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_JPL-2010(2011)_298K_180-330nm(rec).txt,NaN,330.0,JPL-2010(2011),JPL-2010 recommendation:,180.0,sulfur trioxide,,SO3,298.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_JPL-2010(2011)_298K_180-330nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_JPL-2015(2015)_298K_180-330nm(rec).txt,NaN,330.0,JPL-2015(2015),JPL-2015(2015) recommendation:,180.0,sulfur trioxide,,SO3,298.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_JPL-2015(2015)_298K_180-330nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Sulfur%20compounds/Inorganic%20S-compounds/SO3_Leroy(1981)_294K_240-264nm.txt,NaN,264.0,Leroy(1981),High-resolution (0.015 nm) absorption measurements using a deuterium lamp as a light source; the spectra recorded on photgraphic plates have been analyzed by using a microdensitometer,240.0,sulfur trioxide,,SO3,294.0,data/cross-sections/Sulfur compounds/Inorganic S-compounds/SO3/SO3_Leroy(1981)_294K_240-264nm.csv

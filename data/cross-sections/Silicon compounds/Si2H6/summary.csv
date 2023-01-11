@@ -1,18 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Chu(1989),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Chu(1989)_298K_193nm.txt,Absorption measurements of disilane excited with 193 nm ArF laser pulses,Si2H6,disilane,"
-
-  J.O. Chu, M.H. Begeman, J.S. McKillop, and J.M. Jasinski, ""Quantum yield studies of disilane photodissociation at 193 nm by infrared diode laser spectroscopy"",
-  Chem. Phys. Lett. 155, 576-582 (1989); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/Si2H6/Si2H6_Chu(1989)_298K_193nm.csv
-298.0,Itoh(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Itoh(1986)_298K_106.8-190.2nm.txt,Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,Si2H6,disilane,"
-
-  U. Itoh, Y. Toyoshima, H. Onuki, N. Washida, and T. Ibuki, ""Vacuum ultraviolet absorption cross sections of SiH",data/cross-sections/Silicon compounds/Si2H6/Si2H6_Itoh(1986)_298K_106.csv
-298.0,Kameta(1991),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Kameta(1991)_298K_31.5-91.1nm.txt,Absorption measurements using synchrotron radiation as a light source,Si2H6,disilane,"
-
-  K. Kameta, M. Ukai, N. Terazawa, K. Nagano, Y. Chikahiro, N. Kouchi, Y. Hatano, and K. Tanaka, ""Absolute measurements of photoabsorption and photoionization cross sections of disilane in the 13–40 eV region"",
-  J. Chem. Phys. 95, 6188-6189 (1991); 
-
-
-  DOI: ",data/cross-sections/Silicon compounds/Si2H6/Si2H6_Kameta(1991)_298K_31.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Chu(1989)_298K_193nm.txt,NaN,NaN,Chu(1989),Absorption measurements of disilane excited with 193 nm ArF laser pulses,193.0,disilane, https://doi.org/10.1016/0009-2614(89)87476-7,Si2H6,298.0,data/cross-sections/Silicon compounds/Si2H6/Si2H6_Chu(1989)_298K_193nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Itoh(1986)_298K_106.8-190.2nm.txt,NaN,190.2,Itoh(1986),Absorption measurements at a spectral resolution of about 0.5 nm using synchrotron radiation as a light source,106.8,disilane, https://doi.org/10.1063/1.451721,Si2H6,298.0,data/cross-sections/Silicon compounds/Si2H6/Si2H6_Itoh(1986)_298K_106.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Silicon%20compounds/Si2H6_Kameta(1991)_298K_31.5-91.1nm.txt,NaN,91.1,Kameta(1991),Absorption measurements using synchrotron radiation as a light source,31.5,disilane, https://doi.org/10.1063/1.461593,Si2H6,298.0,data/cross-sections/Silicon compounds/Si2H6/Si2H6_Kameta(1991)_298K_31.csv

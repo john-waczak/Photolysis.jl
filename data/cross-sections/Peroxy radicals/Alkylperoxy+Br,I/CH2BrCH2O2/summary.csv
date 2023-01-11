@@ -1,18 +1,4 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,CrowleyMoortgat(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(fit).txt",Absorption cross sections measured using the molecular modulation technique; modulated production of the peroxy radical by the regularly interrupted photolysis of flowing Br,CH2BrCH2O2,2-bromoethylperoxy radical,"
-
-  J.N. Crowley and G.K. Moortgat, ""2-Bromoethylperoxy and 2-bromo-1-methylpropylperoxy radicals - Ultraviolet absorption spectra and self reaction rate constants at 298 K"",
-  J. Chem. Soc. Faraday Trans. 88, 2437-2444 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(fit).csv"
-298.0,CrowleyMoortgat(1992),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(meas).txt",Absorption cross sections measured using the molecular modulation technique; modulated production of the peroxy radical by the regularly interrupted photolysis of flowing Br,CH2BrCH2O2,2-bromoethylperoxy radical,"
-
-  J.N. Crowley and G.K. Moortgat, ""2-Bromoethylperoxy and 2-bromo-1-methylpropylperoxy radicals - Ultraviolet absorption spectra and self reaction rate constants at 298 K"",
-  J. Chem. Soc. Faraday Trans. 88, 2437-2444 (1992); 
-
-
-  DOI: ","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(meas).csv"
-296.0,Villenave(2003),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_Villenave(2003)_296K_210-290nm.txt",Flash photolysis technique (Br,CH2BrCH2O2,2-bromoethylperoxy radical,"
-
-  E. Villenave, S. Moisan, and R. Lesclaux, ""Kinetic study of the self-reactions of BrCH","data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_Villenave(2003)_296K_210-290nm.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(fit).txt",NaN,280.0,CrowleyMoortgat(1992),Absorption cross sections measured using the molecular modulation technique; modulated production of the peroxy radical by the regularly interrupted photolysis of flowing Br,200.0,2-bromoethylperoxy radical, https://doi.org/10.1039/FT9928802437,CH2BrCH2O2,298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(fit).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(meas).txt",NaN,280.0,CrowleyMoortgat(1992),Absorption cross sections measured using the molecular modulation technique; modulated production of the peroxy radical by the regularly interrupted photolysis of flowing Br,200.0,2-bromoethylperoxy radical, https://doi.org/10.1039/FT9928802437,CH2BrCH2O2,298.0,"data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_CrowleyMoortgat(1992)_298K_200-280nm(meas).csv"
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Peroxy%20radicals/Alkylperoxy+Br,I/CH2BrCH2O2_Villenave(2003)_296K_210-290nm.txt",NaN,290.0,Villenave(2003),Flash photolysis technique (Br,210.0,2-bromoethylperoxy radical, https://doi.org/10.1021/jp0258558,CH2BrCH2O2,296.0,"data/cross-sections/Peroxy radicals/Alkylperoxy+Br,I/CH2BrCH2O2/CH2BrCH2O2_Villenave(2003)_296K_210-290nm.csv"

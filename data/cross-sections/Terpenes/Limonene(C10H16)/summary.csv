@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Smialek(2012),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Terpenes/Limonene(C10H16)_Smialek(2012)_298K_116-285nm.txt,Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,Limonene(C10H16),1-methyl-4-isopropenyl-1-cyclohexene,"
-
-  M.A. Smialek, M.-J. Hubin-Franskin, J. Delwiche, D. Duflot, N.J. Mason, S. Vrønning-Hoffmann, G.G.B. de Souza, A.M. Ferreira Rodrigues, F.N. Rodrigues, and P. Limão-Vieira, ""Limonene: electronic state spectroscopy by high-resolution vacuum ultraviolet photoabsorption, electron scattering, He(I) photoelectron spectroscopy and ab initio calculations"",
-  Phys. Chem. Chem. Phys. 14, 2056-2064 (2012); 
-
-
-  DOI: ",data/cross-sections/Terpenes/Limonene(C10H16)/Limonene(C10H16)_Smialek(2012)_298K_116-285nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Terpenes/Limonene(C10H16)_Smialek(2012)_298K_116-285nm.txt,NaN,285.0,Smialek(2012),Absorption measurements using synchrotron radiation; spectral resolution 0.075 nm,116.0,1-methyl-4-isopropenyl-1-cyclohexene, https://doi.org/10.1039/C2CP22847E,Limonene(C10H16),298.0,data/cross-sections/Terpenes/Limonene(C10H16)/Limonene(C10H16)_Smialek(2012)_298K_116-285nm.csv

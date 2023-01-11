@@ -1,123 +1,19 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Bertrand(1975),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Bertrand(1975)_298K_123.6nm.txt,Kr resonance line as a light source,HI,hydrogen iodide,"
-
-  C. Bertrand, G.J. Collin, and H. Gagnon, ""Coefficients d'absorption et rendements quantiques ioniques de composés inorganiques et d'hydrocarbones insaturés"",
-  J. Chim. Phys. 72, 719-723 (1975); 	
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Bertrand(1975)_298K_123.csv
-298.0,BridgesWhite(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_BridgesWhite(1973)_298K_254nm.txt,"Extinction coefficient k(Torr, 298K)",HI,hydrogen iodide,"
-
-  L. Bridges and J.M. White, ""Photochemistry of methanethiol at 254 and 214 nm"",
-  J. Phys. Chem. 77, 295-298 (1973); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_BridgesWhite(1973)_298K_254nm.csv
-298.0,Brion(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_10.3-206.6nm(e,e).txt","Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HI,hydrogen iodide,"
-
-  C.E. Brion, M. Dyck, and C. G., ""Absolute photoabsorption cross-sections (oscillator strengths) for valence and inner shell excitations in hydrogen chloride, hydrogen bromide and hydrogen iodide"",
-  J. Electron Spectrosc. Related Phenom. 144-147, 127-130 (2005); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_10.csv
-298.0,Brion(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_20.6-27.5nm(e,e).txt","Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HI,hydrogen iodide,"
-
-  C.E. Brion, M. Dyck, and C. G., ""Absolute photoabsorption cross-sections (oscillator strengths) for valence and inner shell excitations in hydrogen chloride, hydrogen bromide and hydrogen iodide"",
-  J. Electron Spectrosc. Related Phenom. 144-147, 127-130 (2005); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_20.csv
-298.0,Brion(2005),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_27.5-248.2nm(e,e).txt","Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",HI,hydrogen iodide,"
-
-  C.E. Brion, M. Dyck, and C. G., ""Absolute photoabsorption cross-sections (oscillator strengths) for valence and inner shell excitations in hydrogen chloride, hydrogen bromide and hydrogen iodide"",
-  J. Electron Spectrosc. Related Phenom. 144-147, 127-130 (2005); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_27.csv
-298.0,Campuzano-JostCrowley(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Campuzano-JostCrowley(1999)_298K_198-341nm.txt,A D,HI,hydrogen iodide,"
-
-  P. Campuzano-Jost and J.N. Crowley, ""Kinetics of the reaction of OH with HI between 246 and 353 K"",
-  J. Phys. Chem. A 103, 2712-2719 (1999); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Campuzano-JostCrowley(1999)_298K_198-341nm.csv
-298.0,Campuzano-JostCrowley(1999),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Campuzano-JostCrowley(1999)_298K_199-340nm(1nm).txt,"Averages over 1-nm intervals of the high-resolution spectrum calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",HI,hydrogen iodide,"
-
-  P. Campuzano-Jost and J.N. Crowley, ""Kinetics of the reaction of OH with HI between 246 and 353 K"",
-  J. Phys. Chem. A 103, 2712-2719 (1999); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Campuzano-JostCrowley(1999)_298K_199-340nm(1nm).csv
-298.0,GoodeveTaylor(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_GoodeveTaylor(1936)_298K_200-370nm(smoo).txt,Absorption measurements by the photographic method,HI,hydrogen iodide,"
-
-  C.F. Goodeve and A.W.C. Taylor, ""The continuous absorption spectrum of hydrogen iodide"",
-  Proc. Roy. Soc. London A 154, 181-187 (1936); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_GoodeveTaylor(1936)_298K_200-370nm(smoo).csv
-298.0,GoodeveTaylor(1936),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_GoodeveTaylor(1936)_298K_203.4-366.2nm(meas).txt,Absorption measurements by the photographic method,HI,hydrogen iodide,"
-
-  C.F. Goodeve and A.W.C. Taylor, ""The continuous absorption spectrum of hydrogen iodide"",
-  Proc. Roy. Soc. London A 154, 181-187 (1936); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_GoodeveTaylor(1936)_298K_203.csv
-195.0,HuebertMartin(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_HuebertMartin(1968)_195K_180-195nm.txt,Extinction coefficients from Table I converted to absorption cross sections (conversion factor 3.8235×10,HI,hydrogen iodide,"
-
-  B.J. Huebert and R.M. Martin, ""Gas-phase far-ultraviolet absorption spectrum of hydrogen bromide and hydrogen iodide"",
-  J. Phys. Chem. 72, 3046-3048 (1968); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_HuebertMartin(1968)_195K_180-195nm.csv
-296.0,HuebertMartin(1968),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_HuebertMartin(1968)_296K_200-300nm.txt,Extinction coefficients from Table I converted to absorption cross sections (conversion factor 3.8235×10,HI,hydrogen iodide,"
-
-  B.J. Huebert and R.M. Martin, ""Gas-phase far-ultraviolet absorption spectrum of hydrogen bromide and hydrogen iodide"",
-  J. Phys. Chem. 72, 3046-3048 (1968); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_HuebertMartin(1968)_296K_200-300nm.csv
-298.0,IUPAC(2007),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_IUPAC(2007)_298K_200-340nm(rec).txt,IUPAC(2007) recommendation:,HI,hydrogen iodide,"
-
-  R. Atkinson, D.L. Baulch, R.A. Cox, J.N. Crowley, R.F. Hampson, R.G. Hynes, M.E. Jenkin, M.J. Rossi, and J. Troe, ""Evaluated kinetic and photochemical data for atmospheric chemistry: Volume III - gas phase reactions of inorganic halogens"",
-  Atmos. Chem. Phys. 7, 981-1191 (2007); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_IUPAC(2007)_298K_200-340nm(rec).csv
-298.0,JPL-2010(2011),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_JPL-2010(2011)_298K_190-340nm(rec).txt,"JPL-2010 recommendation, adopting the earlier recommendation of ",HI,hydrogen iodide,"
-
-  S.P. Sander, J. Abbatt, J. R. Barker, J. B. Burkholder, R. R. Friedl, D. M. Golden, R. E. Huie, C. E. Kolb, M. J. Kurylo, G. K. Moortgat, V. L. Orkin and P. H. Wine, ""Chemical Kinetics and Photochemical Data for Use in Atmospheric Studies, Evaluation Number 17"",
-  JPL Publication 10-6, Jet Propulsion Laboratory, Pasadena, 2011; http://jpldataeval.jpl.nasa.gov/
-
-
-",data/cross-sections/Hydrogen halides/HI/HI_JPL-2010(2011)_298K_190-340nm(rec).csv
-294.0,Ogilvie(1971),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Ogilvie(1971)_294K_192-313nm.txt,Measurements at intervals of 500 cm,HI,hydrogen iodide,"
-
-  J.F. Ogilvie, ""Semi-experimental determination of a repulsive potential curve for hydrogen iodide"",
-  Trans. Faraday Soc. 67, 2205-2215 (1971); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Ogilvie(1971)_294K_192-313nm.csv
-298.0,Rebbert(1973),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Rebbert(1973)_298K_147nm.txt,Photolysis with a xenon resonance lamp,HI,hydrogen iodide,"
-
-  R.E. Rebbert, S.G. Lias, and P. Ausloos, ""Photolysis of alkyl iodides at 147.0 nm. The reaction H + C",data/cross-sections/Hydrogen halides/HI/HI_Rebbert(1973)_298K_147nm.csv
-298.0,Romand(1949),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Romand(1949)_298K_149-234nm.txt,Absorption spectra have been obtained by photographic spectrometry,HI,hydrogen iodide,"
-
-  J. Romand, ""Absorption ultraviolette dans la région de Schumann. Étude de: ClH, BrH et IH gazeux"",
-  Ann. Phys. (Paris) 12 (No. 4), 529-590 (1949); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_Romand(1949)_298K_149-234nm.csv
-298.0,RoxloMandl(1980),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_RoxloMandl(1980)_298K_170-230nm.txt,Absorption measurements at 170-230 nm using a Xe,HI,hydrogen iodide,"
-
-  C. Roxlo and A. Mandl, ""Vacuum ultraviolet absorption cross sections for halogen containing molecules"",
-  J. Appl. Phys. 51, 2969-2972 (1980); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_RoxloMandl(1980)_298K_170-230nm.csv
-298.0,WightLeone(1983),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_WightLeone(1983)_298K_193nm.txt,Absorption cross section at the ArF excimer laser line,HI,hydrogen iodide,"
-
-  C.A. Wight and S.R. Leone, ""Vibrational state distributions and absolute excitation efficiencies for T-V transfer collisions of NO and CO with H atoms produced by excimer laser photolysis"",
-  J. Chem. Phys. 79, 4823-4829 (1983); 
-
-
-  DOI: ",data/cross-sections/Hydrogen halides/HI/HI_WightLeone(1983)_298K_193nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Bertrand(1975)_298K_123.6nm.txt,NaN,NaN,Bertrand(1975),Kr resonance line as a light source,123.6,hydrogen iodide, https://doi.org/10.1051/jcp/1975720719,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Bertrand(1975)_298K_123.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_BridgesWhite(1973)_298K_254nm.txt,NaN,NaN,BridgesWhite(1973),"Extinction coefficient k(Torr, 298K)",254.0,hydrogen iodide, https://doi.org/10.1021/j100621a031,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_BridgesWhite(1973)_298K_254nm.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_10.3-206.6nm(e,e).txt",NaN,206.6,Brion(2005),"Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",10.3,hydrogen iodide, https://doi.org/10.1016/j.elspec.2005.01.010,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_10.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_20.6-27.5nm(e,e).txt",NaN,27.5,Brion(2005),"Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",20.6,hydrogen iodide, https://doi.org/10.1016/j.elspec.2005.01.010,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_20.csv
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Brion(2005)_298K_27.5-248.2nm(e,e).txt",NaN,248.2,Brion(2005),"Measurements by dipole (e,e) spectroscopy; energies E (in eV) and differential oscillator strengths df/dE (in 10",27.5,hydrogen iodide, https://doi.org/10.1016/j.elspec.2005.01.010,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Brion(2005)_298K_27.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Campuzano-JostCrowley(1999)_298K_198-341nm.txt,NaN,341.0,Campuzano-JostCrowley(1999),A D,198.0,hydrogen iodide, https://doi.org/10.1021/jp984321x,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Campuzano-JostCrowley(1999)_298K_198-341nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Campuzano-JostCrowley(1999)_298K_199-340nm(1nm).txt,NaN,340.0,Campuzano-JostCrowley(1999),"Averages over 1-nm intervals of the high-resolution spectrum calculated by Karl-Heinz Möbus, Max-Planck-Institut für Chemie, Mainz, Germany",199.0,hydrogen iodide, https://doi.org/10.1021/jp984321x,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Campuzano-JostCrowley(1999)_298K_199-340nm(1nm).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_GoodeveTaylor(1936)_298K_200-370nm(smoo).txt,NaN,370.0,GoodeveTaylor(1936),Absorption measurements by the photographic method,200.0,hydrogen iodide, https://doi.org/10.1098/rspa.1936.0044,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_GoodeveTaylor(1936)_298K_200-370nm(smoo).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_GoodeveTaylor(1936)_298K_203.4-366.2nm(meas).txt,NaN,366.2,GoodeveTaylor(1936),Absorption measurements by the photographic method,203.4,hydrogen iodide, https://doi.org/10.1098/rspa.1936.0044,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_GoodeveTaylor(1936)_298K_203.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_HuebertMartin(1968)_195K_180-195nm.txt,NaN,195.0,HuebertMartin(1968),Extinction coefficients from Table I converted to absorption cross sections (conversion factor 3.8235×10,180.0,hydrogen iodide, https://doi.org/10.1021/j100854a071,HI,195.0,data/cross-sections/Hydrogen halides/HI/HI_HuebertMartin(1968)_195K_180-195nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_HuebertMartin(1968)_296K_200-300nm.txt,NaN,300.0,HuebertMartin(1968),Extinction coefficients from Table I converted to absorption cross sections (conversion factor 3.8235×10,200.0,hydrogen iodide, https://doi.org/10.1021/j100854a071,HI,296.0,data/cross-sections/Hydrogen halides/HI/HI_HuebertMartin(1968)_296K_200-300nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_IUPAC(2007)_298K_200-340nm(rec).txt,NaN,340.0,IUPAC(2007),IUPAC(2007) recommendation:,200.0,hydrogen iodide, https://doi.org/10.5194/acp-7-981-2007,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_IUPAC(2007)_298K_200-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_JPL-2010(2011)_298K_190-340nm(rec).txt,NaN,340.0,JPL-2010(2011),"JPL-2010 recommendation, adopting the earlier recommendation of ",190.0,hydrogen iodide,,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_JPL-2010(2011)_298K_190-340nm(rec).csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Ogilvie(1971)_294K_192-313nm.txt,NaN,313.0,Ogilvie(1971),Measurements at intervals of 500 cm,192.0,hydrogen iodide, https://doi.org/10.1039/TF9716702205,HI,294.0,data/cross-sections/Hydrogen halides/HI/HI_Ogilvie(1971)_294K_192-313nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Rebbert(1973)_298K_147nm.txt,NaN,NaN,Rebbert(1973),Photolysis with a xenon resonance lamp,147.0,hydrogen iodide, https://doi.org/10.1002/kin.550050515,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Rebbert(1973)_298K_147nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_Romand(1949)_298K_149-234nm.txt,NaN,234.0,Romand(1949),Absorption spectra have been obtained by photographic spectrometry,149.0,hydrogen iodide, https://doi.org/10.1051/anphys/194912040529,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_Romand(1949)_298K_149-234nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_RoxloMandl(1980)_298K_170-230nm.txt,NaN,230.0,RoxloMandl(1980),Absorption measurements at 170-230 nm using a Xe,170.0,hydrogen iodide, https://doi.org/10.1063/1.328108,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_RoxloMandl(1980)_298K_170-230nm.csv
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Hydrogen%20halides/HI_WightLeone(1983)_298K_193nm.txt,NaN,NaN,WightLeone(1983),Absorption cross section at the ArF excimer laser line,193.0,hydrogen iodide, https://doi.org/10.1063/1.445628,HI,298.0,data/cross-sections/Hydrogen halides/HI/HI_WightLeone(1983)_298K_193nm.csv

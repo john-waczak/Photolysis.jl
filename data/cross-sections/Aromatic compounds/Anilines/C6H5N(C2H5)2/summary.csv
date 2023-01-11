@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Kimura(1964),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(C2H5)2_Kimura(1964)_298K_153-313nm.txt,Absorption measurements using UV and VUV spectrophotometers and a hydrogen discharge lamp of hot-cathode type as a light source,C6H5N(C2H5)2,"N,N-diethylaniline","
-
-  K. Kimura, H. Tsubomura, and S. Nagakura, ""The vacuum ultraviolet absorption spectra of aniline and some of its N-derivatives"",
-  Bull. Chem. Soc. Japan 37, 1336-1346 1964;
-
-
-  DOI: ",data/cross-sections/Aromatic compounds/Anilines/C6H5N(C2H5)2/C6H5N(C2H5)2_Kimura(1964)_298K_153-313nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Aromatic%20compounds/Anilines/C6H5N(C2H5)2_Kimura(1964)_298K_153-313nm.txt,NaN,313.0,Kimura(1964),Absorption measurements using UV and VUV spectrophotometers and a hydrogen discharge lamp of hot-cathode type as a light source,153.0,"N,N-diethylaniline", https://doi.org/10.1246/bcsj.37.1336,C6H5N(C2H5)2,298.0,data/cross-sections/Aromatic compounds/Anilines/C6H5N(C2H5)2/C6H5N(C2H5)2_Kimura(1964)_298K_153-313nm.csv

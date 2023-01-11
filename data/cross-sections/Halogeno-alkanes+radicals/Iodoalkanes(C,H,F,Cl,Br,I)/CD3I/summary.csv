@@ -1,4 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Locht(2009),"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CD3I_Locht(2009)_298K_112.7-248.0nm.txt",High-resolution (0.0015 eV ∼ 0.016-0.074nm) absorption measurements using synchrotron radiation,CD3I,"iodomethane-d3, methyl-d3 iodide","
-
-  R. Locht, B. Leyh, H.W. Jochims, and H. Baumgärtel, ""Medium and high resolution vacuum UV photoabsorption spectroscopy of methyl iodide (CH","data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CD3I/CD3I_Locht(2009)_298K_112.csv"
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+"https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CD3I_Locht(2009)_298K_112.7-248.0nm.txt",NaN,248.0,Locht(2009),High-resolution (0.0015 eV ∼ 0.016-0.074nm) absorption measurements using synchrotron radiation,112.7,"iodomethane-d3, methyl-d3 iodide", https://doi.org/10.1016/j.chemphys.2009.09.025,CD3I,298.0,"data/cross-sections/Halogeno-alkanes+radicals/Iodoalkanes(C,H,F,Cl,Br,I)/CD3I/CD3I_Locht(2009)_298K_112.csv"

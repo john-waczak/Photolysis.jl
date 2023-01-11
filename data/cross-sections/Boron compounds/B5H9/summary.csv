@@ -1,8 +1,2 @@
-T,author_year,download_url,comments,formula,name,citation,fname
-298.0,Irion(1986),https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B5H9_Irion(1986)_298K_187-227nm.txt,"A Beckman UV-5270 spectrometer, flushed with dry nitrogen was used to measure the the UV spectrum",B5H9,pentaborane(9),"
-
-  M.P. Irion, M. Seitz, and K.L. Kompa, ""The UV spectra of tetraborane(10) and pentaborane (9) in the gas phase"",
-  J. Mol. Spectrosc. 118, 64-69 (1986); 
-
-
-  DOI: ",data/cross-sections/Boron compounds/B5H9/B5H9_Irion(1986)_298K_187-227nm.csv
+download_url,T2,λ2,author_year,comments,λ1,name,doi,formula,T1,fname
+https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Boron%20compounds/B5H9_Irion(1986)_298K_187-227nm.txt,NaN,227.0,Irion(1986),"A Beckman UV-5270 spectrometer, flushed with dry nitrogen was used to measure the the UV spectrum",187.0,pentaborane(9), https://doi.org/10.1016/0022-2852(86)90223-7,B5H9,298.0,data/cross-sections/Boron compounds/B5H9/B5H9_Irion(1986)_298K_187-227nm.csv
