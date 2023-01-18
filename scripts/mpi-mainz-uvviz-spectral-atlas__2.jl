@@ -320,6 +320,52 @@ function download_data(url)
     end
 
 
+    if url == "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/C2H5_Khamaganov(2007)_296K_216.4,220,222nm.txt"
+        data = [
+            216.4	3.0e-18 NaN
+            220	3.0e-18 NaN
+            222	2.5e-18	0.6e-18
+        ]
+    end
+
+    if url == "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Hanf(2010)_298K_121.6,193nm.txt"
+        data = [
+            121.6	4.4e-17	0.2e-17
+            193	6.0e-17	0.1e-17
+        ]
+    end
+
+
+    if url == "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClO_Rigaud(1977)_298K_272.6-307.9nm.txt"
+        data = [
+            272.6	3.90e-18 NaN
+            272.9	7.22e-18 NaN
+	          274.6	3.77e-18 NaN
+            275.0	7.41e-18 NaN
+	          276.8	3.34e-18 NaN
+            277.2	7.20e-18 NaN
+	          279.2	3.19e-18 NaN
+            279.6	7.03e-18 NaN
+	          281.9	3.14e-18 NaN
+            282.2	6.98e-18 NaN
+	          284.9	3.00e-18 NaN
+            285.2	6.21e-18 NaN
+	          287.8	2.53e-18 NaN
+            288.4	5.14e-18 NaN
+	          291.2	2.12e-18 NaN
+            291.8	4.16e-18 NaN
+	          295.0	1.77e-18 NaN
+            295.4	3.81e-18 NaN
+	          298.9	1.33e-18 NaN
+            299.3	2.61e-18 NaN
+	          303.2	9.90e-19 NaN
+            303.5	1.84e-18 NaN
+	          307.3	6.40e-19 NaN
+            307.9	1.03e-18 NaN
+        ]
+    end
+
+
     return data
 end
 
@@ -449,10 +495,7 @@ end
 # try it out!
 # -----------------------------------------------------------------------
 ignore_urls = String[
-    "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkanes+alkyl%20radicals/Alkyl%20radicals/C2H5_Khamaganov(2007)_296K_216.4,220,222nm.txt",
-    "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Alkenes,polyenes+radicals/Polyenes/CH2=CHCH=CH2_Hanf(2010)_298K_121.6,193nm.txt",
-    "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClO_Rigaud(1977)_298K_272.6-307.9nm.txt",
-    "https://uv-vis-spectral-atlas-mainz.org//uvvis_data/cross_sections/Halogen%20oxides/Cl%20oxides/ClOOCl_Burkholder(1990)_250K_245nm(max).txt",
+    "",
 ]
 
 T_vs_σ_urls = String[
@@ -495,45 +538,49 @@ T_vs_σ_urls = String[
 # data[i_start+1, :]
 # typeof.(data[i_start, :])
 
-# # now go through and download all the data
-# Threads.nthreads()
-# summary_df = CSV.File(summary_list[1]) |> DataFrame
+# now go through and download all the data
+failures = String[]
+
+Threads.nthreads()
+summary_df = CSV.File(summary_list[1]) |> DataFrame
 
 p = Progress(length(summary_list))
 Threads.@threads for i ∈ 1:length(summary_list)
     summary_df = CSV.File(summary_list[i]) |> DataFrame
     for row ∈ eachrow(summary_df)
-        println()
-        data = download_data(row.download_url)
-        λ,σ,Δσ = interpret_data(data)
-        out_df = DataFrame(λ=λ, σ=σ, Δσ=Δσ)
-        CSV.write(joinpath("../", row.fname), out_df)
+        try
+            data = download_data(row.download_url)
+            λ,σ,Δσ = interpret_data(data)
+            out_df = DataFrame(λ=λ, σ=σ, Δσ=Δσ)
+            CSV.write(joinpath("../", row.fname), out_df)
+        catch e
+            push!(failures, row.download_url)
+        end
     end
     next!(p)
 end
 
-
 # okay let's load in some test data for formaldehyde
-path_to_CH2O = "/home/jwaczak/gitrepos/ActivePure/Photolysis.jl/data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2O"
-summary_df = CSV.File(joinpath(path_to_CH2O, "summary.csv")) |> DataFrame
+# path_to_CH2O = "/home/jwaczak/gitrepos/ActivePure/Photolysis.jl/data/cross-sections/Organics (carbonyls)/Aldehydes(aliphatic)/CH2O"
+# summary_df = CSV.File(joinpath(path_to_CH2O, "summary.csv")) |> DataFrame
 
 
-res_df = summary_df[(summary_df.T1 .< 250.0) .&& isnan.(summary_df.T2),:]
-cs = cgrad(:inferno, res_df.T1)
-p = plot()
-#plot!(p, df.λ, df.σ) #, linecolor=res_df.T1[1])
-for i ∈ 1:10
-    df = CSV.File(joinpath("../", res_df.fname[i])) |> DataFrame
-    plot!(p, df.λ, df.σ, linecolor=cs[i], c=cs, label="", colobar=true, show=true)
-end
+# res_df = summary_df[(summary_df.T1 .< 250.0) .&& isnan.(summary_df.T2),:]
+# cs = cgrad(:inferno, res_df.T1)
+# p = plot()
+# #plot!(p, df.λ, df.σ) #, linecolor=res_df.T1[1])
+# for i ∈ 1:10
+#     df = CSV.File(joinpath("../", res_df.fname[i])) |> DataFrame
+#     plot!(p, df.λ, df.σ, linecolor=cs[i], c=cs, label="", colobar=true, show=true)
+# end
 
-h2 = scatter([0,0], [0,1], zcolor=[minimum(res_df.T1),maximum(res_df.T1)],
-             xlims=(1,1.1), xshowaxis=false, yshowaxis=false, label="", c=:inferno, colorbar_title="T [K]", grid=false)
-l = @layout [a b{0.01w}]
+# h2 = scatter([0,0], [0,1], zcolor=[minimum(res_df.T1),maximum(res_df.T1)],
+#              xlims=(1,1.1), xshowaxis=false, yshowaxis=false, label="", c=:inferno, colorbar_title="T [K]", grid=false)
+# l = @layout [a b{0.01w}]
 
-ylims!(p, 0, 1e-19)
-xlims!(p, 200, 400)
+# ylims!(p, 0, 1e-19)
+# xlims!(p, 200, 400)
 
-plot(p, h2, layout=l)
+# plot(p, h2, layout=l)
 
 
