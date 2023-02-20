@@ -1,0 +1,2065 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Cross Sections, Quantum Yields, and Photolysis Rates – hono</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Cross Sections, Quantum Yields, and Photolysis Rates</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../cross_sections.html" aria-current="page">
+ <span class="menu-text">Cross Sections</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../quantum_yields.html">
+ <span class="menu-text">Quantum Yields</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"></h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections.html" class="sidebar-item-text sidebar-link">Cross Sections</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/O3.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{O_3}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/H2O2.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{H_2O_2}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/NO2.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{NO_2}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/NO3.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{NO_3}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/HONO.html" class="sidebar-item-text sidebar-link active"><span class="math inline">\(\mathrm{HONO}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/CH2O.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{CH_2O}\)</span> (Formaldehyde)</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/HONO2.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{HONO_2}\)</span> (Nitric Acid)</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mathrmhono" id="toc-mathrmhono" class="nav-link active" data-scroll-target="#mathrmhono"><span class="math inline">\(\mathrm{HONO}\)</span></a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="mathrmhono" class="level1">
+<h1><span class="math inline">\(\mathrm{HONO}\)</span></h1>
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">Plots</span>, <span class="bu">MLPlotRecipes</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">HDF5</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">Tables</span>, <span class="bu">DataFrames</span>, <span class="bu">CSV</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">MLJ</span>, <span class="bu">MLJGaussianProcesses</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">StatsBase </span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">KernelFunctions</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">ParameterHandling</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">include</span>(<span class="st">"./utils.jl"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="2">
+<pre><code>predict_logσ_wΔ</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="3">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>h5_path <span class="op">=</span> <span class="st">"../../data/photolysis_data.h5"</span> </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>species <span class="op">=</span> <span class="st">"HONO"</span> </span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>nice_name <span class="op">=</span> <span class="st">"HONO"</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>λs, σs, T1s, T2s, source_idx, T_units, category, formula, λ_units, σ_units <span class="op">=</span> <span class="fu">get_raw_data</span>(h5_path, species)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="st">"max λ: "</span>, <span class="fu">maximum</span>(λs))</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="st">"min λ: "</span>, <span class="fu">minimum</span>(λs))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>max λ: 403.93913
+min λ: 184.0</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="4">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># load in spectrometer wavelengths</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>hr4000_df <span class="op">=</span> CSV.<span class="fu">File</span>(<span class="st">"../hr4000_wavelengths.txt"</span>) <span class="op">|&gt;</span> DataFrame ; </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="5">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>Δλ <span class="op">=</span> <span class="fl">50</span> <span class="co"># nm for padding</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> <span class="fu">data_to_df</span>(λs, σs, T1s, T2s, source_idx; λ_lb<span class="op">=</span><span class="fu">minimum</span>(hr4000_df.λ)<span class="op">-</span>Δλ, λ_ub<span class="op">=</span><span class="fu">maximum</span>(hr4000_df.λ)<span class="op">+</span>Δλ)</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="co"># df = data_to_df(λs, σs, T1s, T2s, source_idx; λ_lb=0.0, λ_ub=1200.0)</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="fu">nrow</span>(df))</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="fu">describe</span>(df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>10544</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="5">
+
+<div><div style="float: left;"><span>4×7 DataFrame</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">variable</th><th style="text-align: left;">mean</th><th style="text-align: left;">min</th><th style="text-align: left;">median</th><th style="text-align: left;">max</th><th style="text-align: left;">nmissing</th><th style="text-align: left;">eltype</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Symbol" style="text-align: left;">Symbol</th><th title="Float64" style="text-align: left;">Float64</th><th title="Real" style="text-align: left;">Real</th><th title="Float64" style="text-align: left;">Float64</th><th title="Real" style="text-align: left;">Real</th><th title="Int64" style="text-align: left;">Int64</th><th title="DataType" style="text-align: left;">DataType</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: left;">λ</td><td style="text-align: right;">347.453</td><td style="text-align: right;">184.0</td><td style="text-align: right;">349.651</td><td style="text-align: right;">401.423</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: left;">σ</td><td style="text-align: right;">9.53908e-20</td><td style="text-align: right;">6.5563e-24</td><td style="text-align: right;">6.51245e-20</td><td style="text-align: right;">4.25e-18</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: left;">T</td><td style="text-align: right;">297.984</td><td style="text-align: right;">295.0</td><td style="text-align: right;">298.0</td><td style="text-align: right;">300.0</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">4</td><td style="text-align: left;">source_id</td><td style="text-align: right;">16.7276</td><td style="text-align: right;">1</td><td style="text-align: right;">22.0</td><td style="text-align: right;">28</td><td style="text-align: right;">0</td><td style="text-align: left;">Int64</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="6">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>nskip <span class="op">=</span> <span class="fl">1</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    df.λ[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>],</span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>    <span class="fu">log10</span>.(df.σ[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>]),</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>df.T[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>],</span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Absorption Cross Section for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>,</span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb9-17"><a href="#cb9-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-18"><a href="#cb9-18" aria-hidden="true" tabindex="-1"></a><span class="fu">savefig</span>(<span class="st">"O3_p2.png"</span>)</span>
+<span id="cb9-19"><a href="#cb9-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-20"><a href="#cb9-20" aria-hidden="true" tabindex="-1"></a><span class="fu">display</span>(p2)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<p><img src="HONO_files/figure-html/cell-7-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="7">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">histogram</span>(df.λ, xlabel<span class="op">=</span><span class="st">"λ"</span>, ylabel<span class="op">=</span><span class="st">"counts"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">histogram</span>(df.T, xlabel<span class="op">=</span><span class="st">"T"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>p3 <span class="op">=</span> <span class="fu">histogram</span>(<span class="fu">log10</span>.(df.σ), xlabel<span class="op">=</span><span class="st">"log10(σ)"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="co">#p3 = histogram(df.σ, xlabel="σ", ylabel="counts")</span></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>phist <span class="op">=</span> <span class="fu">plot</span>(p1, p2, p3, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">3</span>), size<span class="op">=</span>(<span class="fl">1600</span>, <span class="fl">450</span>),  margin<span class="op">=</span><span class="fl">10</span>Plots.mm, plot_title<span class="op">=</span><span class="st">"Data Distribution for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="7">
+<p><img src="HONO_files/figure-html/cell-8-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="8">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co"># load in spectrometer wavelengths</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>hr4000_df <span class="op">=</span> CSV.<span class="fu">File</span>(<span class="st">"../hr4000_wavelengths.txt"</span>) <span class="op">|&gt;</span> DataFrame ; </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="9">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># deal with identical wavelength records </span></span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>gdfs <span class="op">=</span> <span class="fu">groupby</span>(df, <span class="op">:</span>T)</span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>res_dfs <span class="op">=</span> []</span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> gdf <span class="op">∈</span> gdfs</span>
+<span id="cb12-8"><a href="#cb12-8" aria-hidden="true" tabindex="-1"></a>    gdf_by_λ <span class="op">=</span> <span class="fu">groupby</span>(gdf, <span class="op">:</span>λ)</span>
+<span id="cb12-9"><a href="#cb12-9" aria-hidden="true" tabindex="-1"></a>    <span class="fu">push!</span>(res_dfs, <span class="fu">combine</span>(gdf_by_λ, [<span class="op">:</span>σ, <span class="op">:</span>T] <span class="op">.=&gt;</span> mean, renamecols <span class="op">=</span> <span class="cn">false</span>))</span>
+<span id="cb12-10"><a href="#cb12-10" aria-hidden="true" tabindex="-1"></a><span class="cf">end</span></span>
+<span id="cb12-11"><a href="#cb12-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-12"><a href="#cb12-12" aria-hidden="true" tabindex="-1"></a>df_unique <span class="op">=</span> <span class="fu">vcat</span>(res_dfs<span class="op">...</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="9">
+
+<div><div style="float: left;"><span>8955×3 DataFrame</span></div><div style="float: right;"><span style="font-style: italic;">8930 rows omitted</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">λ</th><th style="text-align: left;">σ</th><th style="text-align: left;">T</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: right;">200.0</td><td style="text-align: right;">1.25e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: right;">205.0</td><td style="text-align: right;">1.85e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: right;">210.0</td><td style="text-align: right;">2.95e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">4</td><td style="text-align: right;">215.0</td><td style="text-align: right;">4.25e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">5</td><td style="text-align: right;">220.0</td><td style="text-align: right;">1.77e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">6</td><td style="text-align: right;">225.0</td><td style="text-align: right;">1.4e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">7</td><td style="text-align: right;">230.0</td><td style="text-align: right;">1.04e-18</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8</td><td style="text-align: right;">235.0</td><td style="text-align: right;">6.8e-19</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">9</td><td style="text-align: right;">240.0</td><td style="text-align: right;">4.2e-19</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">10</td><td style="text-align: right;">245.0</td><td style="text-align: right;">2.8e-19</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">11</td><td style="text-align: right;">250.0</td><td style="text-align: right;">1.8e-19</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">12</td><td style="text-align: right;">255.0</td><td style="text-align: right;">1.1e-19</td><td style="text-align: right;">295.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">13</td><td style="text-align: right;">260.0</td><td style="text-align: right;">8.0e-20</td><td style="text-align: right;">295.0</td></tr><tr><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8944</td><td style="text-align: right;">382.0</td><td style="text-align: right;">1.435e-19</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8945</td><td style="text-align: right;">383.0</td><td style="text-align: right;">1.908e-19</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8946</td><td style="text-align: right;">384.0</td><td style="text-align: right;">1.993e-19</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8947</td><td style="text-align: right;">385.0</td><td style="text-align: right;">1.351e-19</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8948</td><td style="text-align: right;">386.0</td><td style="text-align: right;">8.87e-20</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8949</td><td style="text-align: right;">387.0</td><td style="text-align: right;">7.09e-20</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8950</td><td style="text-align: right;">388.0</td><td style="text-align: right;">6.25e-20</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8951</td><td style="text-align: right;">389.0</td><td style="text-align: right;">4.22e-20</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8952</td><td style="text-align: right;">390.0</td><td style="text-align: right;">1.52e-20</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8953</td><td style="text-align: right;">391.0</td><td style="text-align: right;">8.4e-21</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8954</td><td style="text-align: right;">392.0</td><td style="text-align: right;">6.8e-21</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8955</td><td style="text-align: right;">393.0</td><td style="text-align: right;">3.4e-21</td><td style="text-align: right;">300.0</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="10">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># here is where we would do representative subsampling if there are too many records (&gt; 2000) </span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>λ_idxs <span class="op">=</span> <span class="fu">representative_rand_sample</span>(df_unique.λ, <span class="fl">500</span>, <span class="fl">1500</span>)</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>T_idxs <span class="op">=</span> <span class="fu">representative_rand_sample</span>(df_unique.λ, <span class="fl">5</span>, <span class="fl">1000</span>)</span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>σ_idxs <span class="op">=</span> <span class="fu">representative_rand_sample</span>(<span class="fu">log10</span>.(df_unique.σ), <span class="fl">500</span>, <span class="fl">2000</span>) </span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>idxs_res <span class="op">=</span> <span class="fu">shuffle</span>(<span class="fu">unique</span>(<span class="fu">vcat</span>(λ_idxs, T_idxs, σ_idxs)))</span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a>df_sampled <span class="op">=</span> df_unique[idxs_res, <span class="op">:</span>]</span>
+<span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-14"><a href="#cb13-14" aria-hidden="true" tabindex="-1"></a>max_data_λ <span class="op">=</span> <span class="fu">maximum</span>(df_sampled.λ)</span>
+<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a>min_data_λ <span class="op">=</span> <span class="fu">minimum</span>(df_sampled.λ)</span>
+<span id="cb13-16"><a href="#cb13-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-17"><a href="#cb13-17" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb13-18"><a href="#cb13-18" aria-hidden="true" tabindex="-1"></a><span class="fu">describe</span>(df_sampled)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>1883</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="10">
+
+<div><div style="float: left;"><span>3×7 DataFrame</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">variable</th><th style="text-align: left;">mean</th><th style="text-align: left;">min</th><th style="text-align: left;">median</th><th style="text-align: left;">max</th><th style="text-align: left;">nmissing</th><th style="text-align: left;">eltype</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Symbol" style="text-align: left;">Symbol</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Int64" style="text-align: left;">Int64</th><th title="DataType" style="text-align: left;">DataType</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: left;">λ</td><td style="text-align: right;">338.938</td><td style="text-align: right;">184.0</td><td style="text-align: right;">342.337</td><td style="text-align: right;">401.423</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: left;">σ</td><td style="text-align: right;">1.27744e-19</td><td style="text-align: right;">6.5563e-24</td><td style="text-align: right;">4.187e-20</td><td style="text-align: right;">4.25e-18</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: left;">T</td><td style="text-align: right;">297.961</td><td style="text-align: right;">295.0</td><td style="text-align: right;">298.0</td><td style="text-align: right;">300.0</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="11">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">histogram</span>(df_sampled.λ, xlabel<span class="op">=</span><span class="st">"λ"</span>, ylabel<span class="op">=</span><span class="st">"counts"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">histogram</span>(df_sampled.T, xlabel<span class="op">=</span><span class="st">"T"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>p3 <span class="op">=</span> <span class="fu">histogram</span>(<span class="fu">log10</span>.(df_sampled.σ), xlabel<span class="op">=</span><span class="st">"log10(σ)"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a><span class="co">#p3 = histogram(df.σ, xlabel="σ", ylabel="counts")</span></span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>phist <span class="op">=</span> <span class="fu">plot</span>(p1, p2, p3, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">3</span>), size<span class="op">=</span>(<span class="fl">1600</span>, <span class="fl">450</span>), plot_title<span class="op">=</span><span class="st">"Subsampled Data Distribution for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="11">
+<p><img src="HONO_files/figure-html/cell-12-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="12">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co"># visualize pre-processed data: </span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>    df_sampled.λ,</span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">log10</span>.(df_sampled.σ),</span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>df_sampled.T,</span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb16-11"><a href="#cb16-11" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb16-12"><a href="#cb16-12" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb16-13"><a href="#cb16-13" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Absorption Cross Section for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>,</span>
+<span id="cb16-14"><a href="#cb16-14" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb16-15"><a href="#cb16-15" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="12">
+<p><img src="HONO_files/figure-html/cell-13-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="13">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>train_frac <span class="op">=</span> <span class="fl">0.95</span></span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>ntrain <span class="op">=</span> <span class="fu">trunc</span>(<span class="dt">Int</span>, train_frac <span class="op">*</span> <span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(ntrain)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>1788</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="14">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>idxs <span class="op">=</span> <span class="fu">shuffle</span>(<span class="fl">1</span><span class="op">:</span><span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>idxs_train <span class="op">=</span> idxs[<span class="fl">1</span><span class="op">:</span>ntrain]</span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>idxs_test <span class="op">=</span> idxs[ntrain<span class="op">+</span><span class="fl">1</span><span class="op">:</span><span class="kw">end</span>]</span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true" tabindex="-1"></a>Xtrain <span class="op">=</span> df_sampled[idxs_train, [<span class="op">:</span>λ, <span class="op">:</span>T]]</span>
+<span id="cb19-6"><a href="#cb19-6" aria-hidden="true" tabindex="-1"></a>Xtest <span class="op">=</span> df_sampled[idxs_test, [<span class="op">:</span>λ, <span class="op">:</span>T]]</span>
+<span id="cb19-7"><a href="#cb19-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-8"><a href="#cb19-8" aria-hidden="true" tabindex="-1"></a>ytrain <span class="op">=</span> <span class="fu">log10</span>.(df_sampled.σ[idxs_train])</span>
+<span id="cb19-9"><a href="#cb19-9" aria-hidden="true" tabindex="-1"></a>ytest <span class="op">=</span> <span class="fu">log10</span>.(df_sampled.σ[idxs_test])</span>
+<span id="cb19-10"><a href="#cb19-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-11"><a href="#cb19-11" aria-hidden="true" tabindex="-1"></a><span class="co"># gpr = GPR(σ²=0.00001)</span></span>
+<span id="cb19-12"><a href="#cb19-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-13"><a href="#cb19-13" aria-hidden="true" tabindex="-1"></a>θ_init <span class="op">=</span> (σf² <span class="op">=</span> <span class="fu">positive</span>(<span class="fl">5.0</span>), ℓ <span class="op">=</span> <span class="fu">positive</span>(<span class="fl">0.1</span>))</span>
+<span id="cb19-14"><a href="#cb19-14" aria-hidden="true" tabindex="-1"></a>gpr <span class="op">=</span> <span class="fu">GPR</span>(</span>
+<span id="cb19-15"><a href="#cb19-15" aria-hidden="true" tabindex="-1"></a>    θ_init<span class="op">=</span>θ_init,</span>
+<span id="cb19-16"><a href="#cb19-16" aria-hidden="true" tabindex="-1"></a>    σ²<span class="op">=</span><span class="fl">20.0</span></span>
+<span id="cb19-17"><a href="#cb19-17" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb19-18"><a href="#cb19-18" aria-hidden="true" tabindex="-1"></a><span class="co"># gpr = GPR(σ²=10.0)</span></span>
+<span id="cb19-19"><a href="#cb19-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-20"><a href="#cb19-20" aria-hidden="true" tabindex="-1"></a>mach <span class="op">=</span> <span class="fu">machine</span>(gpr, Xtrain, ytrain) <span class="op">|&gt;</span> fit!</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>[ Info: Training machine(GPR(μ = 0.0, …), …).</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Iter     Function value   Gradient norm 
+     0     1.684123e+04     8.210858e+03
+ * time: 0.01665782928466797
+     1     1.100135e+04     8.886817e+02
+ * time: 5.48603081703186
+     2     1.469207e+03     7.939019e+02
+ * time: 8.002437829971313
+     3     6.703676e+02     6.839218e+02
+ * time: 11.373193979263306
+     4     1.039160e+02     3.572138e+02
+ * time: 14.313053846359253
+     5     3.247132e+01     2.743199e+02
+ * time: 15.371471881866455
+     6    -1.782478e+01     9.425508e+01
+ * time: 16.23986792564392
+     7    -2.380564e+01     5.579122e+01
+ * time: 17.15662693977356
+     8    -2.405469e+01     9.887179e+00
+ * time: 18.049556016921997
+     9    -2.437256e+01     5.924898e+01
+ * time: 19.72818684577942
+    10    -2.556796e+01     1.628554e+01
+ * time: 21.014346837997437
+    11    -2.558896e+01     5.821041e-01
+ * time: 22.29356288909912
+    12    -2.558911e+01     5.307834e-02
+ * time: 23.583909034729004
+    13    -2.558911e+01     1.366808e-03
+ * time: 24.88190793991089
+    14    -2.558911e+01     6.423618e-06
+ * time: 25.754284858703613
+    15    -2.558911e+01     1.367843e-05
+ * time: 26.576478958129883
+    16    -2.558911e+01     3.229643e-06
+ * time: 27.86879301071167
+    17    -2.558911e+01     5.633573e-06
+ * time: 29.157755851745605
+    18    -2.558911e+01     4.366354e-07
+ * time: 30.039671897888184
+    19    -2.558911e+01     2.192009e-06
+ * time: 30.943011045455933
+    20    -2.558911e+01     8.611781e-06
+ * time: 32.23763084411621
+    21    -2.558911e+01     4.047645e-06
+ * time: 33.061517000198364
+    22    -2.558911e+01     3.276488e-06
+ * time: 34.34728384017944
+    23    -2.558911e+01     6.686303e-06
+ * time: 35.22151303291321
+    24    -2.558911e+01     1.342366e-06
+ * time: 36.96516299247742
+    25    -2.558911e+01     1.224324e-05
+ * time: 38.255532026290894
+    26    -2.558911e+01     5.592770e-06
+ * time: 39.14166593551636
+    27    -2.558911e+01     2.780866e-06
+ * time: 42.60196304321289
+    28    -2.558911e+01     7.989708e-06
+ * time: 43.89483404159546
+    29    -2.558911e+01     4.893026e-06
+ * time: 45.18795394897461
+    30    -2.558911e+01     6.437285e-06
+ * time: 46.50136089324951
+    31    -2.558911e+01     2.745517e-06
+ * time: 48.07463598251343
+    32    -2.558911e+01     1.972957e-06
+ * time: 48.92199492454529
+    33    -2.558911e+01     7.143465e-06
+ * time: 49.80847692489624
+    34    -2.558911e+01     1.331573e-05
+ * time: 50.70818090438843
+    35    -2.558911e+01     5.486761e-06
+ * time: 51.53763198852539
+    36    -2.558911e+01     1.197805e-05
+ * time: 52.42884302139282
+    37    -2.558911e+01     3.247713e-06
+ * time: 53.32672691345215
+    38    -2.558911e+01     7.355102e-06
+ * time: 54.632874965667725
+    39    -2.558911e+01     4.932394e-07
+ * time: 55.94331192970276
+    40    -2.558911e+01     1.037601e-06
+ * time: 56.8046498298645
+    41    -2.558911e+01     9.104943e-06
+ * time: 57.69277381896973
+    42    -2.558911e+01     7.900662e-06
+ * time: 60.30667781829834
+    43    -2.558911e+01     2.567721e-06
+ * time: 62.06479001045227
+    44    -2.558911e+01     1.448438e-06
+ * time: 62.9637188911438
+    45    -2.558911e+01     4.272356e-06
+ * time: 63.88767886161804
+    46    -2.558911e+01     4.948882e-06
+ * time: 64.79621481895447
+    47    -2.558911e+01     8.445975e-06
+ * time: 66.09140086174011
+    48    -2.558911e+01     3.295616e-06
+ * time: 67.87396383285522
+    49    -2.558911e+01     3.048467e-06
+ * time: 73.53546786308289
+    50    -2.558911e+01     1.941211e-06
+ * time: 76.57670998573303
+    51    -2.558911e+01     4.720426e-06
+ * time: 77.90555095672607
+    52    -2.558911e+01     7.252464e-06
+ * time: 78.8118360042572
+    53    -2.558911e+01     7.570073e-06
+ * time: 79.7109968662262
+    54    -2.558911e+01     1.226059e-06
+ * time: 81.02363801002502
+    55    -2.558911e+01     5.867882e-06
+ * time: 82.33828997612
+    56    -2.558911e+01     1.296895e-06
+ * time: 84.0844669342041
+    57    -2.558911e+01     8.667003e-06
+ * time: 85.4314398765564
+    58    -2.558911e+01     5.386755e-06
+ * time: 86.33927083015442
+    59    -2.558911e+01     1.042543e-05
+ * time: 88.49813604354858
+    60    -2.558911e+01     3.817929e-06
+ * time: 89.39468502998352
+    61    -2.558911e+01     1.029104e-06
+ * time: 90.72082996368408
+    62    -2.558911e+01     6.004880e-06
+ * time: 92.46345686912537
+    63    -2.558911e+01     6.532322e-06
+ * time: 93.78719997406006
+    64    -2.558911e+01     9.831628e-06
+ * time: 94.69077682495117
+    65    -2.558911e+01     6.449314e-06
+ * time: 96.00424885749817
+    66    -2.558911e+01     2.277085e-06
+ * time: 97.33946704864502
+    67    -2.558911e+01     5.996757e-07
+ * time: 98.24335098266602
+    68    -2.558911e+01     6.718596e-06
+ * time: 99.08848881721497
+    69    -2.558911e+01     2.550802e-06
+ * time: 100.40311288833618
+    70    -2.558911e+01     5.529635e-06
+ * time: 101.73580193519592
+    71    -2.558911e+01     7.529887e-06
+ * time: 102.6379120349884
+    72    -2.558911e+01     3.064083e-06
+ * time: 104.40918898582458
+    73    -2.558911e+01     3.406416e-06
+ * time: 105.88314890861511
+    74    -2.558911e+01     9.650758e-06
+ * time: 107.050696849823
+    75    -2.558911e+01     7.216202e-06
+ * time: 108.3751699924469
+    76    -2.558911e+01     3.030747e-07
+ * time: 109.68580102920532
+    77    -2.558911e+01     2.076357e-06
+ * time: 110.97622084617615
+    78    -2.558911e+01     1.410012e-05
+ * time: 111.87519001960754
+    79    -2.558911e+01     3.887676e-06
+ * time: 113.16158103942871
+    80    -2.558911e+01     1.961870e-06
+ * time: 113.99237394332886
+    81    -2.558911e+01     5.673992e-06
+ * time: 115.74033999443054
+    82    -2.558911e+01     7.291458e-06
+ * time: 116.57228493690491
+    83    -2.558911e+01     6.817674e-06
+ * time: 117.46549701690674
+    84    -2.558911e+01     1.479827e-06
+ * time: 118.77046990394592
+    85    -2.558911e+01     1.455095e-06
+ * time: 120.08006596565247
+    86    -2.558911e+01     1.151824e-05
+ * time: 124.83349299430847
+    87    -2.558911e+01     2.436483e-07
+ * time: 126.13501501083374
+    88    -2.558911e+01     1.309815e-06
+ * time: 127.4383590221405
+    89    -2.558911e+01     1.423985e-06
+ * time: 128.28351283073425
+    90    -2.558911e+01     5.364151e-06
+ * time: 129.5773138999939
+    91    -2.558911e+01     1.500141e-06
+ * time: 131.7486069202423
+    92    -2.558911e+01     3.555900e-06
+ * time: 133.03859305381775
+    93    -2.558911e+01     1.340331e-06
+ * time: 133.92650294303894
+    94    -2.558911e+01     4.498974e-06
+ * time: 135.22748184204102
+    95    -2.558911e+01     5.440299e-06
+ * time: 136.0624279975891
+    96    -2.558911e+01     3.972021e-06
+ * time: 137.31667399406433
+    97    -2.558911e+01     5.748629e-06
+ * time: 138.21487402915955
+    98    -2.558911e+01     2.732508e-06
+ * time: 139.05341482162476
+    99    -2.558911e+01     1.036428e-06
+ * time: 139.9337339401245
+   100    -2.558911e+01     7.206334e-06
+ * time: 141.24815201759338
+   101    -2.558911e+01     1.355937e-05
+ * time: 142.547180891037
+   102    -2.558911e+01     5.750264e-06
+ * time: 143.84801697731018
+   103    -2.558911e+01     7.935322e-06
+ * time: 144.7400050163269
+   104    -2.558911e+01     2.739398e-06
+ * time: 146.4571988582611
+   105    -2.558911e+01     3.140664e-06
+ * time: 148.19506788253784
+   106    -2.558911e+01     1.364006e-06
+ * time: 149.96007990837097
+   107    -2.558911e+01     1.000522e-06
+ * time: 150.79436898231506
+   108    -2.558911e+01     1.341575e-06
+ * time: 152.09222102165222
+   109    -2.558911e+01     5.840001e-07
+ * time: 160.7716028690338
+   110    -2.558911e+01     5.891380e-07
+ * time: 164.2653558254242
+   111    -2.558911e+01     6.597028e-06
+ * time: 165.58896398544312
+   112    -2.558911e+01     2.765225e-06
+ * time: 166.91254591941833
+   113    -2.558911e+01     2.866499e-06
+ * time: 168.2404270172119
+   114    -2.558911e+01     2.576412e-06
+ * time: 169.08696484565735
+   115    -2.558911e+01     3.511676e-06
+ * time: 169.98642992973328
+   116    -2.558911e+01     2.236505e-06
+ * time: 170.88656091690063
+   117    -2.558911e+01     8.693190e-07
+ * time: 172.21251702308655
+   118    -2.558911e+01     5.002042e-06
+ * time: 173.06676483154297
+   119    -2.558911e+01     1.628469e-06
+ * time: 176.13072800636292
+   120    -2.558911e+01     8.891972e-07
+ * time: 178.28734588623047
+   121    -2.558911e+01     1.007604e-05
+ * time: 182.70703196525574
+   122    -2.558911e+01     7.223535e-06
+ * time: 184.02086782455444
+   123    -2.558911e+01     3.877367e-06
+ * time: 184.86712098121643
+   124    -2.558911e+01     2.060203e-06
+ * time: 186.18165588378906
+   125    -2.558911e+01     8.884162e-06
+ * time: 188.41668701171875
+   126    -2.558911e+01     1.113383e-06
+ * time: 189.31260800361633
+   127    -2.558911e+01     2.009323e-06
+ * time: 191.05846405029297
+   128    -2.558911e+01     3.593009e-06
+ * time: 191.9580729007721
+   129    -2.558911e+01     8.762265e-06
+ * time: 192.8100929260254
+   130    -2.558911e+01     5.169474e-06
+ * time: 193.70836091041565
+   131    -2.558911e+01     2.958685e-06
+ * time: 194.6185610294342
+   132    -2.558911e+01     1.680542e-06
+ * time: 195.4848668575287
+   133    -2.558911e+01     4.145368e-06
+ * time: 196.80007004737854
+   134    -2.558911e+01     2.119881e-06
+ * time: 198.14951395988464
+   135    -2.558911e+01     2.769882e-06
+ * time: 200.7873890399933
+   136    -2.558911e+01     6.551491e-06
+ * time: 203.88601684570312
+   137    -2.558911e+01     2.508988e-06
+ * time: 205.20459604263306
+   138    -2.558911e+01     6.838338e-06
+ * time: 206.05467700958252
+   139    -2.558911e+01     2.972601e-06
+ * time: 206.95260095596313
+   140    -2.558911e+01     1.956882e-06
+ * time: 208.2900369167328
+   141    -2.558911e+01     7.778104e-06
+ * time: 210.516587972641
+   142    -2.558911e+01     3.141844e-06
+ * time: 211.37143683433533
+   143    -2.558911e+01     4.239044e-06
+ * time: 213.15511894226074
+   144    -2.558911e+01     1.393672e-06
+ * time: 214.00104093551636
+   145    -2.558911e+01     1.242150e-06
+ * time: 215.79342699050903
+   146    -2.558911e+01     9.061853e-07
+ * time: 216.67741584777832
+   147    -2.558911e+01     2.435203e-06
+ * time: 217.65277695655823
+   148    -2.558911e+01     1.157588e-05
+ * time: 219.86374688148499
+   149    -2.558911e+01     2.204635e-06
+ * time: 220.71829104423523
+   150    -2.558911e+01     8.280224e-06
+ * time: 222.9317798614502
+   151    -2.558911e+01     6.443984e-07
+ * time: 224.25952005386353
+   152    -2.558911e+01     3.031855e-06
+ * time: 225.57772397994995
+   153    -2.558911e+01     1.356203e-07
+ * time: 226.89704704284668
+   154    -2.558911e+01     4.276377e-06
+ * time: 229.54422903060913
+   155    -2.558911e+01     4.817090e-06
+ * time: 231.2889609336853
+   156    -2.558911e+01     3.404079e-06
+ * time: 232.60721588134766
+   157    -2.558911e+01     5.920828e-06
+ * time: 233.50140285491943
+   158    -2.558911e+01     8.219838e-07
+ * time: 235.24597191810608
+   159    -2.558911e+01     1.904825e-06
+ * time: 237.47056889533997
+   160    -2.558911e+01     3.494733e-06
+ * time: 239.7106659412384
+   161    -2.558911e+01     6.437831e-06
+ * time: 240.6128330230713
+   162    -2.558911e+01     2.667671e-06
+ * time: 242.91967701911926
+   163    -2.558911e+01     5.906562e-06
+ * time: 244.68725395202637
+   164    -2.558911e+01     1.128711e-05
+ * time: 245.60046005249023
+   165    -2.558911e+01     6.233152e-06
+ * time: 246.51676297187805
+   166    -2.558911e+01     2.875797e-06
+ * time: 247.35880994796753
+   167    -2.558911e+01     9.045815e-06
+ * time: 249.18842792510986
+   168    -2.558911e+01     7.176474e-06
+ * time: 250.52356386184692
+   169    -2.558911e+01     1.616293e-06
+ * time: 251.4065489768982
+   170    -2.558911e+01     7.996453e-06
+ * time: 252.32497692108154
+   171    -2.558911e+01     4.705289e-06
+ * time: 253.6687479019165
+   172    -2.558911e+01     9.773370e-07
+ * time: 254.59060502052307
+   173    -2.558911e+01     1.088507e-06
+ * time: 255.44166898727417
+   174    -2.558911e+01     4.758535e-07
+ * time: 256.3649230003357
+   175    -2.558911e+01     5.259923e-06
+ * time: 258.43169689178467
+   176    -2.558911e+01     4.359092e-06
+ * time: 259.3296580314636
+   177    -2.558911e+01     2.864268e-06
+ * time: 260.25736594200134
+   178    -2.558911e+01     5.745689e-06
+ * time: 262.0094850063324
+   179    -2.558911e+01     2.310228e-06
+ * time: 263.34576082229614
+   180    -2.558911e+01     1.122772e-06
+ * time: 264.24838495254517
+   181    -2.558911e+01     3.790303e-06
+ * time: 266.0008978843689
+   182    -2.558911e+01     4.349566e-06
+ * time: 268.26024103164673
+   183    -2.558911e+01     3.201059e-06
+ * time: 270.9249098300934
+   184    -2.558911e+01     1.102546e-05
+ * time: 271.7892220020294
+   185    -2.558911e+01     4.469799e-07
+ * time: 273.6180019378662
+   186    -2.558911e+01     5.122885e-06
+ * time: 276.29033303260803
+   187    -2.558911e+01     7.152089e-06
+ * time: 277.1465389728546
+   188    -2.558911e+01     1.007422e-06
+ * time: 278.48352098464966
+   189    -2.558911e+01     1.224326e-05
+ * time: 279.8119330406189
+   190    -2.558911e+01     2.529682e-07
+ * time: 280.7088029384613
+   191    -2.558911e+01     7.874525e-06
+ * time: 281.611939907074
+   192    -2.558911e+01     1.246771e-06
+ * time: 285.9934449195862
+   193    -2.558911e+01     7.033413e-06
+ * time: 288.7789828777313
+   194    -2.558911e+01     2.148264e-06
+ * time: 291.097589969635
+   195    -2.558911e+01     6.036059e-07
+ * time: 292.4386649131775
+   196    -2.558911e+01     9.604214e-06
+ * time: 293.28378987312317
+   197    -2.558911e+01     5.924033e-06
+ * time: 294.62148690223694
+   198    -2.558911e+01     6.232478e-07
+ * time: 295.94020891189575
+   199    -2.558911e+01     4.138798e-07
+ * time: 299.11046981811523
+   200    -2.558911e+01     9.905877e-06
+ * time: 299.9731488227844
+   201    -2.558911e+01     6.952668e-06
+ * time: 301.3237328529358
+   202    -2.558911e+01     3.444247e-06
+ * time: 303.78484892845154
+   203    -2.558911e+01     1.139410e-06
+ * time: 304.67744994163513
+   204    -2.558911e+01     8.106238e-06
+ * time: 306.8334069252014
+   205    -2.558911e+01     1.639292e-06
+ * time: 308.1614558696747
+   206    -2.558911e+01     5.615963e-06
+ * time: 309.9639039039612
+   207    -2.558911e+01     6.263844e-07
+ * time: 311.2951488494873
+   208    -2.558911e+01     1.331517e-06
+ * time: 312.61735701560974
+   209    -2.558911e+01     1.899027e-06
+ * time: 314.7833559513092
+   210    -2.558911e+01     6.385528e-06
+ * time: 317.4361958503723
+   211    -2.558911e+01     6.396862e-07
+ * time: 318.77969002723694
+   212    -2.558911e+01     3.358860e-06
+ * time: 319.6816258430481
+   213    -2.558911e+01     7.172411e-06
+ * time: 321.0059349536896
+   214    -2.558911e+01     5.977282e-06
+ * time: 321.9142689704895
+   215    -2.558911e+01     7.221147e-07
+ * time: 323.2448959350586
+   216    -2.558911e+01     5.488320e-06
+ * time: 324.12000584602356
+   217    -2.558911e+01     3.163755e-06
+ * time: 325.08254504203796
+   218    -2.558911e+01     3.819190e-07
+ * time: 326.82800698280334
+   219    -2.558911e+01     3.719745e-06
+ * time: 330.77847385406494
+   220    -2.558911e+01     4.609473e-06
+ * time: 333.4095709323883
+   221    -2.558911e+01     7.795718e-06
+ * time: 336.03888988494873
+   222    -2.558911e+01     3.260453e-06
+ * time: 337.83431482315063
+   223    -2.558911e+01     1.364834e-06
+ * time: 339.59006690979004
+   224    -2.558911e+01     1.329612e-06
+ * time: 341.34647583961487
+   225    -2.558911e+01     4.510336e-06
+ * time: 342.67043805122375
+   226    -2.558911e+01     2.811664e-06
+ * time: 344.888475894928
+   227    -2.558911e+01     3.638631e-06
+ * time: 345.791827917099
+   228    -2.558911e+01     4.346213e-06
+ * time: 348.53469800949097
+   229    -2.558911e+01     2.843159e-06
+ * time: 350.7146370410919
+   230    -2.558911e+01     4.305755e-07
+ * time: 352.0525858402252
+   231    -2.558911e+01     5.012403e-06
+ * time: 353.3858850002289
+   232    -2.558911e+01     7.148456e-06
+ * time: 354.29622888565063
+   233    -2.558911e+01     4.367944e-06
+ * time: 355.223140001297
+   234    -2.558911e+01     2.059866e-06
+ * time: 356.5768918991089
+   235    -2.558911e+01     3.582162e-06
+ * time: 357.9082729816437
+   236    -2.558911e+01     1.069231e-06
+ * time: 358.76920795440674
+   237    -2.558911e+01     3.828231e-06
+ * time: 360.5865910053253
+   238    -2.558911e+01     4.452114e-06
+ * time: 362.3797459602356
+   239    -2.558911e+01     7.306996e-06
+ * time: 364.5794298648834
+   240    -2.558911e+01     7.021421e-06
+ * time: 367.6003210544586
+   241    -2.558911e+01     4.943841e-06
+ * time: 368.5041878223419
+   242    -2.558911e+01     1.587656e-06
+ * time: 369.80706882476807
+   243    -2.558911e+01     4.331580e-06
+ * time: 370.64838695526123
+   244    -2.558911e+01     5.225465e-07
+ * time: 372.0052318572998
+   245    -2.558911e+01     5.200869e-06
+ * time: 375.4961829185486
+   246    -2.558911e+01     5.967364e-06
+ * time: 376.80865693092346
+   247    -2.558911e+01     1.078936e-05
+ * time: 377.9537148475647
+   248    -2.558911e+01     4.430636e-06
+ * time: 378.84627890586853
+   249    -2.558911e+01     6.147591e-06
+ * time: 381.03811287879944
+   250    -2.558911e+01     6.236972e-06
+ * time: 381.93510484695435
+   251    -2.558911e+01     3.508680e-06
+ * time: 383.2486619949341
+   252    -2.558911e+01     7.940264e-06
+ * time: 384.562460899353
+   253    -2.558911e+01     8.979284e-06
+ * time: 385.4132788181305
+   254    -2.558911e+01     4.019160e-06
+ * time: 386.3066740036011
+   255    -2.558911e+01     3.214627e-06
+ * time: 389.48439383506775
+   256    -2.558911e+01     2.696941e-06
+ * time: 394.2952139377594
+   257    -2.558911e+01     6.873252e-06
+ * time: 395.60524797439575
+   258    -2.558911e+01     2.939719e-06
+ * time: 397.3493390083313
+   259    -2.558911e+01     8.760523e-06
+ * time: 400.96886801719666
+   260    -2.558911e+01     6.618438e-06
+ * time: 402.280797958374
+   261    -2.558911e+01     5.385880e-06
+ * time: 404.07818388938904
+   262    -2.558911e+01     1.209084e-06
+ * time: 404.975350856781
+   263    -2.558911e+01     2.046093e-06
+ * time: 406.2973349094391
+   264    -2.558911e+01     7.255560e-07
+ * time: 408.05775904655457
+   265    -2.558911e+01     4.763273e-06
+ * time: 408.95106196403503
+   266    -2.558911e+01     1.096113e-06
+ * time: 409.8458688259125
+   267    -2.558911e+01     5.996138e-06
+ * time: 410.69218492507935
+   268    -2.558911e+01     4.019952e-06
+ * time: 412.0071668624878
+   269    -2.558911e+01     7.522963e-06
+ * time: 412.89974093437195
+   270    -2.558911e+01     1.319566e-06
+ * time: 413.80000495910645
+   271    -2.558911e+01     1.947771e-07
+ * time: 414.6456558704376
+   272    -2.558911e+01     5.351707e-06
+ * time: 416.84315299987793
+   273    -2.558911e+01     5.523915e-06
+ * time: 418.1893939971924
+   274    -2.558911e+01     8.301728e-06
+ * time: 419.9524779319763
+   275    -2.558911e+01     5.507392e-06
+ * time: 420.84343791007996
+   276    -2.558911e+01     5.139809e-06
+ * time: 421.74131894111633
+   277    -2.558911e+01     2.613150e-06
+ * time: 422.5969748497009
+   278    -2.558911e+01     4.177767e-07
+ * time: 423.48589181900024
+   279    -2.558911e+01     1.321240e-06
+ * time: 424.3849139213562
+   280    -2.558911e+01     4.177767e-07
+ * time: 425.2322008609772
+   281    -2.558911e+01     4.594036e-06
+ * time: 426.55002188682556
+   282    -2.558911e+01     1.232474e-06
+ * time: 427.4431059360504
+   283    -2.558911e+01     7.345660e-06
+ * time: 429.6670889854431
+   284    -2.558911e+01     8.353988e-06
+ * time: 430.9861228466034
+   285    -2.558911e+01     4.610266e-07
+ * time: 431.84605598449707
+   286    -2.558911e+01     1.045667e-05
+ * time: 433.6926529407501
+   287    -2.558911e+01     6.147978e-06
+ * time: 434.58803486824036
+   288    -2.558911e+01     3.040220e-06
+ * time: 435.4775538444519
+   289    -2.558911e+01     2.535368e-06
+ * time: 437.70823097229004
+   290    -2.558911e+01     6.446212e-06
+ * time: 439.4920449256897
+   291    -2.558911e+01     2.044444e-06
+ * time: 440.8151729106903
+   292    -2.558911e+01     5.924578e-07
+ * time: 442.12669801712036
+   293    -2.558911e+01     7.741472e-06
+ * time: 443.02290081977844
+   294    -2.558911e+01     5.979539e-06
+ * time: 443.86679887771606
+   295    -2.558911e+01     1.954256e-06
+ * time: 444.7638900279999
+   296    -2.558911e+01     5.133666e-06
+ * time: 445.6708860397339
+   297    -2.558911e+01     3.829725e-06
+ * time: 447.83460998535156
+   298    -2.558911e+01     4.521479e-06
+ * time: 449.15564584732056
+   299    -2.558911e+01     4.746316e-06
+ * time: 450.06848788261414
+   300    -2.558911e+01     3.359957e-06
+ * time: 452.2701690196991
+   301    -2.558911e+01     6.401552e-06
+ * time: 453.99699687957764
+   302    -2.558911e+01     2.166932e-06
+ * time: 454.89201498031616
+   303    -2.558911e+01     3.927645e-06
+ * time: 458.83136105537415
+   304    -2.558911e+01     1.913072e-06
+ * time: 460.5654878616333
+   305    -2.558911e+01     3.806223e-06
+ * time: 464.4922459125519
+   306    -2.558911e+01     3.669061e-06
+ * time: 465.80836296081543
+   307    -2.558911e+01     7.077526e-06
+ * time: 468.4482228755951
+   308    -2.558911e+01     2.156727e-05
+ * time: 469.3584129810333
+   309    -2.558911e+01     1.133677e-05
+ * time: 470.6772508621216
+   310    -2.558911e+01     4.251808e-07
+ * time: 471.52287888526917
+   311    -2.558911e+01     8.535705e-07
+ * time: 475.91524386405945
+   312    -2.558911e+01     1.658002e-06
+ * time: 477.23632192611694
+   313    -2.558911e+01     9.633423e-06
+ * time: 479.3972690105438
+   314    -2.558911e+01     6.941788e-07
+ * time: 480.29064297676086
+   315    -2.558911e+01     1.923436e-06
+ * time: 483.3446190357208
+   316    -2.558911e+01     1.023238e-05
+ * time: 484.24055004119873
+   317    -2.558911e+01     7.770318e-06
+ * time: 485.5514509677887
+   318    -2.558911e+01     5.274253e-06
+ * time: 486.88305592536926
+   319    -2.558911e+01     1.353393e-06
+ * time: 489.121789932251
+   320    -2.558911e+01     2.312612e-06
+ * time: 490.4447100162506
+   321    -2.558911e+01     6.288265e-06
+ * time: 493.07276701927185
+   322    -2.558911e+01     1.821377e-06
+ * time: 493.9178569316864
+   323    -2.558911e+01     3.953314e-06
+ * time: 495.7072639465332
+   324    -2.558911e+01     5.524739e-06
+ * time: 497.0293288230896
+   325    -2.558911e+01     4.498678e-06
+ * time: 498.62554693222046
+   326    -2.558911e+01     3.741742e-06
+ * time: 499.48229789733887
+   327    -2.558911e+01     2.957627e-06
+ * time: 500.3954749107361
+   328    -2.558911e+01     3.772967e-06
+ * time: 501.7399950027466
+   329    -2.558911e+01     6.786985e-06
+ * time: 503.5146658420563
+   330    -2.558911e+01     9.568927e-06
+ * time: 504.4247398376465
+   331    -2.558911e+01     7.578647e-06
+ * time: 505.75919795036316
+   332    -2.558911e+01     3.340134e-06
+ * time: 507.0979130268097
+   333    -2.558911e+01     8.476484e-06
+ * time: 508.0071668624878
+   334    -2.558911e+01     2.454571e-06
+ * time: 508.8743739128113
+   335    -2.558911e+01     9.615973e-07
+ * time: 512.0705518722534
+   336    -2.558911e+01     5.680122e-06
+ * time: 513.8607859611511
+   337    -2.558911e+01     5.648227e-07
+ * time: 515.2030129432678
+   338    -2.558911e+01     2.049339e-06
+ * time: 517.8651809692383
+   339    -2.558911e+01     2.877591e-06
+ * time: 519.2206938266754
+   340    -2.558911e+01     1.377586e-06
+ * time: 520.5617120265961
+   341    -2.558911e+01     2.037938e-06
+ * time: 521.8996949195862
+   342    -2.558911e+01     1.697701e-06
+ * time: 523.2385678291321
+   343    -2.558911e+01     3.421552e-07
+ * time: 524.5704939365387
+   344    -2.558911e+01     6.636439e-06
+ * time: 526.8134479522705
+   345    -2.558911e+01     4.585168e-06
+ * time: 528.1431770324707
+   346    -2.558911e+01     3.108954e-06
+ * time: 529.4932508468628
+   347    -2.558911e+01     1.790824e-06
+ * time: 530.3568308353424
+   348    -2.558911e+01     6.681251e-06
+ * time: 531.6875870227814
+   349    -2.558911e+01     3.282513e-06
+ * time: 533.0514419078827
+   350    -2.558911e+01     5.142800e-06
+ * time: 534.0067648887634
+   351    -2.558911e+01     5.714755e-06
+ * time: 535.3421969413757
+   352    -2.558911e+01     5.173144e-06
+ * time: 537.1008059978485
+   353    -2.558911e+01     6.454145e-06
+ * time: 538.0012748241425
+   354    -2.558911e+01     8.213594e-07
+ * time: 539.7778098583221
+   355    -2.558911e+01     3.281779e-06
+ * time: 542.9097168445587
+   356    -2.558911e+01     4.471807e-06
+ * time: 544.6656370162964
+   357    -2.558911e+01     3.744404e-06
+ * time: 545.9971158504486
+   358    -2.558911e+01     1.861131e-06
+ * time: 547.7755010128021
+   359    -2.558911e+01     2.303919e-06
+ * time: 549.1139450073242
+   360    -2.558911e+01     1.093261e-05
+ * time: 550.0150079727173
+   361    -2.558911e+01     2.479665e-06
+ * time: 550.9270179271698
+   362    -2.558911e+01     8.875451e-06
+ * time: 551.7824139595032
+   363    -2.558911e+01     2.749067e-06
+ * time: 554.020122051239
+   364    -2.558911e+01     1.253239e-05
+ * time: 555.8102300167084
+   365    -2.558911e+01     2.012436e-06
+ * time: 556.7005288600922
+   366    -2.558911e+01     2.582122e-06
+ * time: 558.0279319286346
+   367    -2.558911e+01     2.987756e-06
+ * time: 562.0824830532074
+   368    -2.558911e+01     2.026757e-06
+ * time: 563.4049789905548
+   369    -2.558911e+01     1.056025e-06
+ * time: 564.7276639938354
+   370    -2.558911e+01     5.593929e-06
+ * time: 569.5703449249268
+   371    -2.558911e+01     9.077082e-06
+ * time: 570.4175050258636
+   372    -2.558911e+01     1.514388e-05
+ * time: 571.7342429161072
+   373    -2.558911e+01     5.034511e-06
+ * time: 572.6264789104462
+   374    -2.558911e+01     7.492526e-06
+ * time: 573.9465079307556
+   375    -2.558911e+01     1.958160e-06
+ * time: 575.2688488960266
+   376    -2.558911e+01     1.242664e-06
+ * time: 576.587434053421
+   377    -2.558911e+01     1.870396e-06
+ * time: 578.3330528736115
+   378    -2.558911e+01     2.063512e-06
+ * time: 579.6638078689575
+   379    -2.558911e+01     6.438162e-06
+ * time: 580.552983045578
+   380    -2.558911e+01     1.570117e-06
+ * time: 581.4558529853821
+   381    -2.558911e+01     1.768343e-05
+ * time: 582.3041708469391
+   382    -2.558911e+01     4.103979e-06
+ * time: 583.1941549777985
+   383    -2.558911e+01     5.228501e-06
+ * time: 585.4139740467072
+   384    -2.558911e+01     2.495187e-06
+ * time: 586.2759840488434
+   385    -2.558911e+01     8.234676e-06
+ * time: 587.5939929485321
+   386    -2.558911e+01     2.566492e-06
+ * time: 588.485848903656
+   387    -2.558911e+01     2.586675e-06
+ * time: 589.3995759487152
+   388    -2.558911e+01     8.177339e-07
+ * time: 590.2469940185547
+   389    -2.558911e+01     9.888618e-06
+ * time: 591.5668489933014
+   390    -2.558911e+01     1.633970e-06
+ * time: 592.4607698917389
+   391    -2.558911e+01     1.862010e-06
+ * time: 594.2110929489136
+   392    -2.558911e+01     4.429973e-06
+ * time: 598.6332218647003
+   393    -2.558911e+01     7.633526e-06
+ * time: 599.9848480224609
+   394    -2.558911e+01     9.985888e-06
+ * time: 601.3839168548584
+   395    -2.558911e+01     6.934388e-06
+ * time: 602.2362349033356
+   396    -2.558911e+01     8.230799e-06
+ * time: 603.5557239055634
+   397    -2.558911e+01     1.487059e-05
+ * time: 604.4445929527283
+   398    -2.558911e+01     9.448908e-06
+ * time: 605.767982006073
+   399    -2.558911e+01     6.614606e-06
+ * time: 607.5093009471893
+   400    -2.558911e+01     1.434780e-06
+ * time: 608.4008350372314
+   401    -2.558911e+01     1.084589e-05
+ * time: 609.3175058364868
+   402    -2.558911e+01     4.653074e-06
+ * time: 610.1620299816132
+   403    -2.558911e+01     9.329161e-06
+ * time: 611.4826920032501
+   404    -2.558911e+01     2.259023e-06
+ * time: 613.2794020175934
+   405    -2.558911e+01     1.708495e-06
+ * time: 614.6022570133209
+   406    -2.558911e+01     8.292885e-06
+ * time: 615.4600410461426
+   407    -2.558911e+01     7.347142e-07
+ * time: 616.7832210063934
+   408    -2.558911e+01     9.041016e-07
+ * time: 618.1295149326324
+   409    -2.558911e+01     2.056248e-07
+ * time: 622.4834289550781
+   410    -2.558911e+01     6.929130e-06
+ * time: 624.6848289966583
+   411    -2.558911e+01     2.771676e-06
+ * time: 626.8940229415894
+   412    -2.558911e+01     5.932078e-06
+ * time: 627.7476799488068
+   413    -2.558911e+01     4.160538e-06
+ * time: 628.6360409259796
+   414    -2.558911e+01     1.023104e-06
+ * time: 629.9623589515686
+   415    -2.558911e+01     1.088667e-06
+ * time: 632.1792109012604
+   416    -2.558911e+01     2.016816e-06
+ * time: 634.4064748287201
+   417    -2.558911e+01     7.332746e-06
+ * time: 635.2974979877472
+   418    -2.558911e+01     3.549319e-06
+ * time: 636.6220450401306
+   419    -2.558911e+01     7.406150e-06
+ * time: 638.3724670410156
+   420    -2.558911e+01     2.350830e-06
+ * time: 639.2821309566498
+   421    -2.558911e+01     7.696532e-06
+ * time: 640.6614110469818
+   422    -2.558911e+01     6.810240e-06
+ * time: 642.4264030456543
+   423    -2.558911e+01     2.648454e-06
+ * time: 643.7393820285797
+   424    -2.558911e+01     4.917066e-06
+ * time: 645.5263459682465
+   425    -2.558911e+01     5.457039e-06
+ * time: 650.3684039115906
+   426    -2.558911e+01     1.230025e-06
+ * time: 652.153520822525
+   427    -2.558911e+01     1.742077e-06
+ * time: 655.6335849761963
+   428    -2.558911e+01     4.686782e-06
+ * time: 657.8521919250488
+   429    -2.558911e+01     7.934568e-06
+ * time: 658.7631959915161
+   430    -2.558911e+01     1.243829e-06
+ * time: 659.6278688907623
+   431    -2.558911e+01     1.392454e-06
+ * time: 660.5227448940277
+   432    -2.558911e+01     1.210686e-06
+ * time: 661.4353408813477
+   433    -2.558911e+01     1.770820e-06
+ * time: 664.0814559459686
+   434    -2.558911e+01     4.916738e-06
+ * time: 664.9351398944855
+   435    -2.558911e+01     6.034701e-07
+ * time: 665.827987909317
+   436    -2.558911e+01     8.936510e-06
+ * time: 667.1480329036713
+   437    -2.558911e+01     3.031477e-06
+ * time: 668.0577750205994
+   438    -2.558911e+01     1.327549e-06
+ * time: 669.4092400074005
+   439    -2.558911e+01     1.899882e-06
+ * time: 672.5063300132751
+   440    -2.558911e+01     2.423167e-06
+ * time: 674.2963509559631
+   441    -2.558911e+01     7.571116e-07
+ * time: 676.5344729423523
+   442    -2.558911e+01     3.389646e-06
+ * time: 678.3771648406982
+   443    -2.558911e+01     5.411642e-06
+ * time: 679.310240983963
+   444    -2.558911e+01     1.873870e-06
+ * time: 681.0823938846588
+   445    -2.558911e+01     1.404867e-06
+ * time: 683.3391180038452
+   446    -2.558911e+01     2.032811e-06
+ * time: 684.2563669681549
+   447    -2.558911e+01     1.017418e-05
+ * time: 686.0227978229523
+   448    -2.558911e+01     1.902696e-06
+ * time: 687.3744468688965
+   449    -2.558911e+01     1.081412e-06
+ * time: 689.6406650543213
+   450    -2.558911e+01     1.250721e-06
+ * time: 691.411034822464
+   451    -2.558911e+01     2.489454e-06
+ * time: 692.3263149261475
+   452    -2.558911e+01     2.402128e-07
+ * time: 693.1906118392944
+   453    -2.558911e+01     3.045074e-06
+ * time: 696.7892589569092
+   454    -2.558911e+01     1.489427e-06
+ * time: 697.7100720405579
+   455    -2.558911e+01     8.929382e-06
+ * time: 698.5716798305511
+   456    -2.558911e+01     1.602393e-06
+ * time: 700.4196560382843
+   457    -2.558911e+01     9.661792e-06
+ * time: 701.2712099552155
+   458    -2.558911e+01     1.142167e-06
+ * time: 702.6321609020233
+   459    -2.558911e+01     2.035679e-06
+ * time: 703.5551459789276
+   460    -2.558911e+01     8.536552e-06
+ * time: 704.5227179527283
+   461    -2.558911e+01     9.338792e-07
+ * time: 707.4202568531036
+   462    -2.558911e+01     2.041968e-06
+ * time: 708.7589058876038
+   463    -2.558911e+01     3.789904e-06
+ * time: 709.6164128780365
+   464    -2.558911e+01     2.246321e-06
+ * time: 711.849592924118
+   465    -2.558911e+01     2.650665e-06
+ * time: 712.7621898651123
+   466    -2.558911e+01     1.758080e-06
+ * time: 713.6117889881134
+   467    -2.558911e+01     7.357247e-07
+ * time: 714.9433150291443
+   468    -2.558911e+01     1.008329e-05
+ * time: 721.1838059425354
+   469    -2.558911e+01     5.402145e-06
+ * time: 722.0966899394989
+   470    -2.558911e+01     3.560808e-07
+ * time: 722.9590439796448
+   471    -2.558911e+01     3.637809e-06
+ * time: 723.8677189350128
+   472    -2.558911e+01     4.365358e-06
+ * time: 725.6286220550537
+   473    -2.558911e+01     7.130114e-06
+ * time: 726.5403988361359
+   474    -2.558911e+01     3.319578e-06
+ * time: 727.8785109519958
+   475    -2.558911e+01     6.425635e-06
+ * time: 728.8228600025177
+   476    -2.558911e+01     3.694329e-06
+ * time: 729.7363049983978
+   477    -2.558911e+01     1.138172e-05
+ * time: 731.1319258213043
+   478    -2.558911e+01     1.836026e-06
+ * time: 732.5165078639984
+   479    -2.558911e+01     1.253435e-05
+ * time: 733.4203200340271
+   480    -2.558911e+01     6.999148e-06
+ * time: 734.3629329204559
+   481    -2.558911e+01     2.377920e-06
+ * time: 735.732519865036
+   482    -2.558911e+01     1.009953e-06
+ * time: 737.0929908752441
+   483    -2.558911e+01     1.150869e-06
+ * time: 737.9587788581848
+   484    -2.558911e+01     1.225380e-05
+ * time: 740.4576008319855
+   485    -2.558911e+01     3.167534e-06
+ * time: 741.3572030067444
+   486    -2.558911e+01     2.475864e-06
+ * time: 744.0265538692474
+   487    -2.558911e+01     3.343722e-06
+ * time: 744.8909838199615
+   488    -2.558911e+01     4.772421e-06
+ * time: 745.8062028884888
+   489    -2.558911e+01     9.761645e-06
+ * time: 746.715970993042
+   490    -2.558911e+01     9.270179e-07
+ * time: 748.0412259101868
+   491    -2.558911e+01     1.074456e-06
+ * time: 748.9054598808289
+   492    -2.558911e+01     1.039651e-06
+ * time: 750.7297730445862
+   493    -2.558911e+01     4.132130e-06
+ * time: 751.5858609676361
+   494    -2.558911e+01     3.612406e-06
+ * time: 752.9126238822937
+   495    -2.558911e+01     8.065600e-06
+ * time: 753.8277380466461
+   496    -2.558911e+01     2.534740e-06
+ * time: 754.7533078193665
+   497    -2.558911e+01     9.263286e-07
+ * time: 755.6064078807831
+   498    -2.558911e+01     1.334132e-06
+ * time: 756.4924969673157
+   499    -2.558911e+01     3.453845e-07
+ * time: 759.1664838790894
+   500    -2.558911e+01     7.076426e-06
+ * time: 760.0908989906311
+   501    -2.558911e+01     1.243353e-05
+ * time: 761.8601050376892
+   502    -2.558911e+01     4.763954e-06
+ * time: 763.194816827774
+   503    -2.558911e+01     5.505010e-06
+ * time: 764.5136430263519
+   504    -2.558911e+01     5.808282e-07
+ * time: 765.4407179355621
+   505    -2.558911e+01     8.942127e-06
+ * time: 766.7851829528809
+   506    -2.558911e+01     6.804389e-07
+ * time: 767.6594848632812
+   507    -2.558911e+01     2.232195e-06
+ * time: 768.5569109916687
+   508    -2.558911e+01     2.446779e-06
+ * time: 769.9502699375153
+   509    -2.558911e+01     8.667258e-07
+ * time: 771.2939250469208
+   510    -2.558911e+01     7.936541e-07
+ * time: 776.6341760158539
+   511    -2.558911e+01     3.869195e-07
+ * time: 781.0892519950867
+   512    -2.558911e+01     6.274586e-07
+ * time: 782.4328339099884
+   513    -2.558911e+01     8.116806e-06
+ * time: 784.2464330196381
+   514    -2.558911e+01     1.679163e-06
+ * time: 785.1117949485779
+   515    -2.558911e+01     5.735000e-06
+ * time: 786.4421629905701
+   516    -2.558911e+01     1.631759e-06
+ * time: 787.3529899120331
+   517    -2.558911e+01     4.480161e-06
+ * time: 788.6818590164185
+   518    -2.558911e+01     8.515630e-06
+ * time: 790.0372169017792
+   519    -2.558911e+01     2.033899e-06
+ * time: 790.9648020267487
+   520    -2.558911e+01     8.757728e-06
+ * time: 792.7228109836578
+   521    -2.558911e+01     5.647851e-07
+ * time: 793.6517879962921
+   522    -2.558911e+01     5.356208e-06
+ * time: 795.4207618236542
+   523    -2.558911e+01     2.438046e-07
+ * time: 796.7435109615326
+   524    -2.558911e+01     3.670864e-06
+ * time: 797.657173871994
+   525    -2.558911e+01     1.118560e-06
+ * time: 801.1796109676361
+   526    -2.558911e+01     2.190963e-06
+ * time: 803.8211789131165
+   527    -2.558911e+01     3.123292e-06
+ * time: 805.1938810348511
+   528    -2.558911e+01     5.279153e-06
+ * time: 806.569169998169
+   529    -2.558911e+01     4.113039e-07
+ * time: 807.8973698616028
+   530    -2.558911e+01     4.113533e-06
+ * time: 809.6946079730988
+   531    -2.558911e+01     9.750575e-07
+ * time: 810.5431349277496
+   532    -2.558911e+01     3.710414e-06
+ * time: 811.8897919654846
+   533    -2.558911e+01     4.736121e-06
+ * time: 813.7245848178864
+   534    -2.558911e+01     4.910800e-06
+ * time: 814.5884869098663
+   535    -2.558911e+01     5.756178e-06
+ * time: 815.503075838089
+   536    -2.558911e+01     5.206263e-06
+ * time: 816.869087934494
+   537    -2.558911e+01     9.232949e-06
+ * time: 818.2282798290253
+   538    -2.558911e+01     4.327732e-06
+ * time: 819.1720108985901
+   539    -2.558911e+01     1.138545e-06
+ * time: 820.9594600200653
+   540    -2.558911e+01     1.198632e-06
+ * time: 822.3171119689941
+   541    -2.558911e+01     3.339870e-06
+ * time: 823.6650369167328
+   542    -2.558911e+01     9.075123e-07
+ * time: 825.4416408538818
+   543    -2.558911e+01     1.659769e-06
+ * time: 828.1225109100342
+   544    -2.558911e+01     9.369784e-07
+ * time: 829.0311918258667
+   545    -2.558911e+01     5.243945e-06
+ * time: 832.7176280021667
+   546    -2.558911e+01     9.831694e-06
+ * time: 834.9206609725952
+   547    -2.558911e+01     4.806101e-06
+ * time: 836.2631118297577
+   548    -2.558911e+01     4.480960e-06
+ * time: 837.6060869693756
+   549    -2.558911e+01     7.578961e-07
+ * time: 838.9509830474854
+   550    -2.558911e+01     1.436114e-06
+ * time: 839.8811039924622
+   551    -2.558911e+01     1.324712e-06
+ * time: 842.1932468414307
+   552    -2.558911e+01     4.155693e-06
+ * time: 844.891813993454
+   553    -2.558911e+01     1.611410e-06
+ * time: 845.7558119297028
+   554    -2.558911e+01     1.457022e-05
+ * time: 848.9237158298492
+   555    -2.558911e+01     1.838808e-06
+ * time: 850.2839829921722
+   556    -2.558911e+01     1.148939e-06
+ * time: 852.970948934555
+   557    -2.558911e+01     1.013980e-06
+ * time: 856.5253629684448
+   558    -2.558911e+01     3.307324e-06
+ * time: 857.9644420146942
+   559    -2.558911e+01     5.402129e-06
+ * time: 860.2306170463562
+   560    -2.558911e+01     1.050812e-06
+ * time: 861.5550899505615
+   561    -2.558911e+01     5.159392e-07
+ * time: 862.4125008583069
+   562    -2.558911e+01     1.295456e-06
+ * time: 864.6492118835449
+   563    -2.558911e+01     9.606214e-07
+ * time: 865.5489499568939
+   564    -2.558911e+01     9.210509e-07
+ * time: 866.408196926117
+   565    -2.558911e+01     5.319018e-06
+ * time: 868.6657249927521
+   566    -2.558911e+01     2.275570e-06
+ * time: 870.0293970108032
+   567    -2.558911e+01     4.658696e-07
+ * time: 871.8010718822479
+   568    -2.558911e+01     6.299646e-06
+ * time: 872.7089989185333
+   569    -2.558911e+01     1.688819e-06
+ * time: 873.6103780269623
+   570    -2.558911e+01     2.771370e-06
+ * time: 875.8058559894562
+   571    -2.558911e+01     3.109905e-06
+ * time: 876.7198138237
+   572    -2.558911e+01     1.463363e-05
+ * time: 878.4732859134674
+   573    -2.558911e+01     4.553371e-06
+ * time: 879.8175709247589
+   574    -2.558911e+01     3.188165e-06
+ * time: 882.0456039905548
+   575    -2.558911e+01     2.150268e-06
+ * time: 883.8350279331207
+   576    -2.558911e+01     9.584092e-07
+ * time: 886.9770359992981
+   577    -2.558911e+01     9.989262e-06
+ * time: 888.3286900520325
+   578    -2.558911e+01     7.218584e-06
+ * time: 889.1903028488159
+   579    -2.558911e+01     9.070290e-06
+ * time: 891.0105459690094
+   580    -2.558911e+01     4.036376e-06
+ * time: 893.200315952301
+   581    -2.558911e+01     4.026116e-06
+ * time: 895.0526509284973
+   582    -2.558911e+01     1.229756e-06
+ * time: 895.9038288593292
+   583    -2.558911e+01     2.913224e-07
+ * time: 898.130530834198
+   584    -2.558911e+01     1.106327e-06
+ * time: 899.9067409038544
+   585    -2.558911e+01     1.035601e-05
+ * time: 903.4793708324432
+   586    -2.558911e+01     6.389750e-07
+ * time: 904.3934140205383
+   587    -2.558911e+01     1.978338e-06
+ * time: 907.059005022049
+   588    -2.558911e+01     3.000582e-06
+ * time: 909.7040688991547
+   589    -2.558911e+01     4.699809e-06
+ * time: 913.2077629566193
+   590    -2.558911e+01     3.100442e-06
+ * time: 914.993115901947
+   591    -2.558911e+01     2.313431e-06
+ * time: 915.8416669368744
+   592    -2.558911e+01     6.358469e-06
+ * time: 917.1609878540039
+   593    -2.558911e+01     6.026346e-06
+ * time: 918.068601846695
+   594    -2.558911e+01     7.862574e-06
+ * time: 919.3932659626007
+   595    -2.558911e+01     7.048785e-07
+ * time: 920.3151099681854
+   596    -2.558911e+01     1.589315e-06
+ * time: 921.6380939483643
+   597    -2.558911e+01     8.453730e-06
+ * time: 924.2953410148621
+   598    -2.558911e+01     1.532636e-06
+ * time: 925.1408228874207
+   599    -2.558911e+01     8.246584e-06
+ * time: 926.0363738536835
+   600    -2.558911e+01     1.145450e-06
+ * time: 928.2726929187775
+   601    -2.558911e+01     3.075243e-06
+ * time: 930.4575319290161
+   602    -2.558911e+01     1.239108e-05
+ * time: 931.3458118438721
+   603    -2.558911e+01     6.614527e-06
+ * time: 932.2606339454651
+   604    -2.558911e+01     8.081772e-06
+ * time: 934.4321548938751
+   605    -2.558911e+01     1.250400e-06
+ * time: 935.3249378204346
+   606    -2.558911e+01     2.995120e-07
+ * time: 936.642096042633
+   607    -2.558911e+01     5.182284e-06
+ * time: 938.8616828918457
+   608    -2.558911e+01     3.221643e-06
+ * time: 939.7154259681702
+   609    -2.558911e+01     4.607985e-06
+ * time: 941.0490210056305
+   610    -2.558911e+01     1.859104e-06
+ * time: 941.942165851593
+   611    -2.558911e+01     1.706764e-06
+ * time: 944.1615550518036
+   612    -2.558911e+01     4.908444e-06
+ * time: 946.3287868499756
+   613    -2.558911e+01     1.197461e-05
+ * time: 947.2298920154572
+   614    -2.558911e+01     5.326607e-06
+ * time: 948.5621240139008
+   615    -2.558911e+01     1.082160e-06
+ * time: 950.3232870101929
+   616    -2.558911e+01     2.346176e-06
+ * time: 952.1266720294952
+   617    -2.558911e+01     6.866720e-06
+ * time: 955.2655589580536
+   618    -2.558911e+01     5.881072e-06
+ * time: 956.5929329395294
+   619    -2.558911e+01     1.261410e-06
+ * time: 957.5157008171082
+   620    -2.558911e+01     7.593318e-06
+ * time: 958.3788769245148
+   621    -2.558911e+01     8.916680e-06
+ * time: 960.1974148750305
+   622    -2.558911e+01     8.185714e-06
+ * time: 961.0478458404541
+   623    -2.558911e+01     9.629900e-06
+ * time: 962.3745939731598
+   624    -2.558911e+01     4.248291e-06
+ * time: 963.276643037796
+   625    -2.558911e+01     3.421751e-06
+ * time: 964.1788680553436
+   626    -2.558911e+01     2.166784e-06
+ * time: 965.5010390281677
+   627    -2.558911e+01     1.946026e-06
+ * time: 966.3526790142059
+   628    -2.558911e+01     4.673084e-06
+ * time: 968.7271628379822
+   629    -2.558911e+01     1.331813e-06
+ * time: 970.1670520305634
+   630    -2.558911e+01     4.037801e-06
+ * time: 971.5636789798737
+   631    -2.558911e+01     3.049053e-06
+ * time: 972.6098308563232
+   632    -2.558911e+01     4.086566e-06
+ * time: 974.1149969100952
+   633    -2.558911e+01     4.863983e-06
+ * time: 975.0108158588409
+   634    -2.558911e+01     2.752783e-06
+ * time: 975.9201219081879
+   635    -2.558911e+01     1.835548e-06
+ * time: 977.3030169010162
+   636    -2.558911e+01     1.107582e-06
+ * time: 979.8596549034119
+   637    -2.558911e+01     1.374431e-06
+ * time: 983.8617639541626
+   638    -2.558911e+01     8.017822e-06
+ * time: 985.1972908973694
+   639    -2.558911e+01     2.703233e-06
+ * time: 986.9945728778839
+   640    -2.558911e+01     8.475858e-06
+ * time: 989.7234649658203
+   641    -2.558911e+01     3.082753e-06
+ * time: 991.0590839385986
+   642    -2.558911e+01     5.766273e-06
+ * time: 992.4102280139923
+   643    -2.558911e+01     9.816106e-06
+ * time: 993.2730510234833
+   644    -2.558911e+01     9.833658e-07
+ * time: 994.1695868968964
+   645    -2.558911e+01     2.281501e-06
+ * time: 996.8121888637543
+   646    -2.558911e+01     6.072717e-06
+ * time: 997.7327740192413
+   647    -2.558911e+01     3.435262e-07
+ * time: 999.0543060302734
+   648    -2.558911e+01     6.224843e-06
+ * time: 1000.8240070343018
+   649    -2.558911e+01     1.106696e-05
+ * time: 1001.7304508686066
+   650    -2.558911e+01     1.813521e-05
+ * time: 1002.5882349014282
+   651    -2.558911e+01     3.347427e-06
+ * time: 1003.999048948288
+   652    -2.558911e+01     3.991149e-06
+ * time: 1005.3898339271545
+   653    -2.558911e+01     5.249253e-06
+ * time: 1006.7056608200073
+   654    -2.558911e+01     2.731128e-06
+ * time: 1008.0214970111847
+   655    -2.558911e+01     2.084796e-06
+ * time: 1009.3421969413757
+   656    -2.558911e+01     2.536448e-06
+ * time: 1013.3182728290558
+   657    -2.558911e+01     4.616523e-06
+ * time: 1016.4440259933472
+   658    -2.558911e+01     4.796515e-07
+ * time: 1017.297404050827
+   659    -2.558911e+01     1.013876e-05
+ * time: 1020.8569560050964
+   660    -2.558911e+01     1.620820e-06
+ * time: 1021.7840759754181
+   661    -2.558911e+01     9.108382e-06
+ * time: 1022.6446478366852</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="14">
+<pre><code>trained Machine; caches model-specific representations of data
+  model: GPR(μ = 0.0, …)
+  args: 
+    1:  Source @778 ⏎ Table{AbstractVector{Continuous}}
+    2:  Source @944 ⏎ AbstractVector{Continuous}</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="15">
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a>rpt <span class="op">=</span> <span class="fu">report</span>(mach)</span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(rpt)</span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a>y_pred_train <span class="op">=</span> <span class="fu">predict_mean</span>(mach, Xtrain);</span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>y_pred_test <span class="op">=</span> <span class="fu">predict_mean</span>(mach, Xtest);</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(summary = "L-BFGS", minimizer = [4.616585287277321, 0.7244614766184855, -3.1209052783954703], minimum = -25.589111307702296, iterations = 662, converged = false)</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="16">
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">scatterresult</span>(</span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>    ytrain, y_pred_train,</span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>    ytest, y_pred_test,</span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"log10(σ) Truth"</span>,</span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) Fit"</span>,</span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a>    plot_title<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(nice_name)<span class="st"> GPR Fit"</span></span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>┌ Warning: Keyword argument `orientation` is deprecated.
+│ Please use `permute` instead.
+└ @ Plots ~/.julia/packages/Plots/QZRtR/src/args.jl:1548</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="16">
+<p><img src="HONO_files/figure-html/cell-17-output-2.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="17">
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">quantilequantile</span>(</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>    ytrain, y_pred_train,</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>    ytest, y_pred_test,</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"log10(σ) Truth"</span>,</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) Fit"</span>,</span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(nice_name)<span class="st"> GPR Fit"</span></span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="17">
+<p><img src="HONO_files/figure-html/cell-18-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="18">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>    Xtrain.λ,</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>    y_pred_train,</span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>Xtrain.T,</span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">"Training Data"</span>,</span>
+<span id="cb28-13"><a href="#cb28-13" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb28-14"><a href="#cb28-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-15"><a href="#cb28-15" aria-hidden="true" tabindex="-1"></a><span class="fu">scatter!</span>(</span>
+<span id="cb28-16"><a href="#cb28-16" aria-hidden="true" tabindex="-1"></a>    Xtest.λ,</span>
+<span id="cb28-17"><a href="#cb28-17" aria-hidden="true" tabindex="-1"></a>    y_pred_test,</span>
+<span id="cb28-18"><a href="#cb28-18" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>Xtest.T,</span>
+<span id="cb28-19"><a href="#cb28-19" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb28-20"><a href="#cb28-20" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb28-21"><a href="#cb28-21" aria-hidden="true" tabindex="-1"></a>    <span class="co"># markershape=:rect,</span></span>
+<span id="cb28-22"><a href="#cb28-22" aria-hidden="true" tabindex="-1"></a>    markershape<span class="op">=:</span>star5,</span>
+<span id="cb28-23"><a href="#cb28-23" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb28-24"><a href="#cb28-24" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb28-25"><a href="#cb28-25" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb28-26"><a href="#cb28-26" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb28-27"><a href="#cb28-27" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb28-28"><a href="#cb28-28" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted </span><span class="sc">$</span>(nice_name)<span class="st"> Cross Section"</span>,</span>
+<span id="cb28-29"><a href="#cb28-29" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">"Testing Data"</span>,</span>
+<span id="cb28-30"><a href="#cb28-30" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="18">
+<p><img src="HONO_files/figure-html/cell-19-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="19">
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>λ_min <span class="op">=</span> <span class="fu">maximum</span>([min_data_λ, <span class="fu">minimum</span>(hr4000_df.λ)])</span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>λ_max <span class="op">=</span> <span class="fu">minimum</span>([max_data_λ, <span class="fu">maximum</span>(hr4000_df.λ)])</span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(λ_min)</span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(λ_max)</span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">plot</span>()</span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-9"><a href="#cb29-9" aria-hidden="true" tabindex="-1"></a>Ts <span class="op">=</span> <span class="fl">292.0</span><span class="op">:</span><span class="fl">0.5</span><span class="op">:</span><span class="fl">300.0</span></span>
+<span id="cb29-10"><a href="#cb29-10" aria-hidden="true" tabindex="-1"></a><span class="co"># cs = cgrad(:thermal, Ts, categorical = true)</span></span>
+<span id="cb29-11"><a href="#cb29-11" aria-hidden="true" tabindex="-1"></a>cs <span class="op">=</span> <span class="fu">cgrad</span>(<span class="op">:</span>roma, <span class="fu">size</span>(Ts,<span class="fl">1</span>), categorical <span class="op">=</span> <span class="cn">true</span>, rev<span class="op">=</span><span class="cn">true</span>)</span>
+<span id="cb29-12"><a href="#cb29-12" aria-hidden="true" tabindex="-1"></a>i <span class="op">=</span> <span class="fl">1</span></span>
+<span id="cb29-13"><a href="#cb29-13" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> T <span class="op">∈</span> Ts</span>
+<span id="cb29-14"><a href="#cb29-14" aria-hidden="true" tabindex="-1"></a>    logσ <span class="op">=</span> <span class="fu">predict_logσ</span>(T, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb29-15"><a href="#cb29-15" aria-hidden="true" tabindex="-1"></a>    <span class="fu">plot!</span>(</span>
+<span id="cb29-16"><a href="#cb29-16" aria-hidden="true" tabindex="-1"></a>        hr4000_df.λ, logσ,</span>
+<span id="cb29-17"><a href="#cb29-17" aria-hidden="true" tabindex="-1"></a>        linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb29-18"><a href="#cb29-18" aria-hidden="true" tabindex="-1"></a>        alpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb29-19"><a href="#cb29-19" aria-hidden="true" tabindex="-1"></a>        color<span class="op">=</span>cs[i],</span>
+<span id="cb29-20"><a href="#cb29-20" aria-hidden="true" tabindex="-1"></a>        label<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(T)<span class="st"> K"</span>,</span>
+<span id="cb29-21"><a href="#cb29-21" aria-hidden="true" tabindex="-1"></a>        legend<span class="op">=:</span>outertopright,</span>
+<span id="cb29-22"><a href="#cb29-22" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb29-23"><a href="#cb29-23" aria-hidden="true" tabindex="-1"></a>    i<span class="op">+=</span><span class="fl">1</span></span>
+<span id="cb29-24"><a href="#cb29-24" aria-hidden="true" tabindex="-1"></a><span class="cf">end</span></span>
+<span id="cb29-25"><a href="#cb29-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb29-26"><a href="#cb29-26" aria-hidden="true" tabindex="-1"></a><span class="fu">xlabel!</span>(<span class="st">"λ [nm]"</span>)</span>
+<span id="cb29-27"><a href="#cb29-27" aria-hidden="true" tabindex="-1"></a><span class="fu">ylabel!</span>(<span class="st">"log10(σ) [cm²]"</span>)</span>
+<span id="cb29-28"><a href="#cb29-28" aria-hidden="true" tabindex="-1"></a><span class="fu">title!</span>(<span class="st">"Predicted Cross Section at Spectrometer λ's"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>194.249
+401.4227</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="19">
+<p><img src="HONO_files/figure-html/cell-20-output-2.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="20">
+<div class="sourceCode cell-code" id="cb31"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a>Tplot <span class="op">=</span> <span class="fl">298.0</span></span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a>logσ, Δlogσ <span class="op">=</span> <span class="fu">predict_logσ_wΔ</span>(Tplot, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb31-3"><a href="#cb31-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-4"><a href="#cb31-4" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">plot</span>(</span>
+<span id="cb31-5"><a href="#cb31-5" aria-hidden="true" tabindex="-1"></a>    hr4000_df.λ, logσ,</span>
+<span id="cb31-6"><a href="#cb31-6" aria-hidden="true" tabindex="-1"></a>    ribbon<span class="op">=</span> <span class="fl">2</span> <span class="op">.*</span> Δlogσ,</span>
+<span id="cb31-7"><a href="#cb31-7" aria-hidden="true" tabindex="-1"></a>    fillalpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb31-8"><a href="#cb31-8" aria-hidden="true" tabindex="-1"></a>    linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb31-9"><a href="#cb31-9" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [nm]"</span>,</span>
+<span id="cb31-10"><a href="#cb31-10" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb31-11"><a href="#cb31-11" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted log10(σ) at T = </span><span class="sc">$</span>(Tplot)<span class="st"> K"</span>,</span>
+<span id="cb31-12"><a href="#cb31-12" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb31-13"><a href="#cb31-13" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb31-14"><a href="#cb31-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-15"><a href="#cb31-15" aria-hidden="true" tabindex="-1"></a>Tplot <span class="op">=</span> <span class="fl">294.0</span></span>
+<span id="cb31-16"><a href="#cb31-16" aria-hidden="true" tabindex="-1"></a>logσ, Δlogσ <span class="op">=</span> <span class="fu">predict_logσ_wΔ</span>(Tplot, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb31-17"><a href="#cb31-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-18"><a href="#cb31-18" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">plot</span>(</span>
+<span id="cb31-19"><a href="#cb31-19" aria-hidden="true" tabindex="-1"></a>    hr4000_df.λ, logσ,</span>
+<span id="cb31-20"><a href="#cb31-20" aria-hidden="true" tabindex="-1"></a>    ribbon<span class="op">=</span> <span class="fl">2</span> <span class="op">.*</span> Δlogσ,</span>
+<span id="cb31-21"><a href="#cb31-21" aria-hidden="true" tabindex="-1"></a>    fillalpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb31-22"><a href="#cb31-22" aria-hidden="true" tabindex="-1"></a>    linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb31-23"><a href="#cb31-23" aria-hidden="true" tabindex="-1"></a>    color<span class="op">=:</span>purple,</span>
+<span id="cb31-24"><a href="#cb31-24" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [nm]"</span>,</span>
+<span id="cb31-25"><a href="#cb31-25" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb31-26"><a href="#cb31-26" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted log10(σ) at T = </span><span class="sc">$</span>(Tplot)<span class="st"> K"</span>,</span>
+<span id="cb31-27"><a href="#cb31-27" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span></span>
+<span id="cb31-28"><a href="#cb31-28" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb31-29"><a href="#cb31-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb31-30"><a href="#cb31-30" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(p1, p2, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">2</span>), margin<span class="op">=</span><span class="fl">5</span>Plots.mm, size<span class="op">=</span>(<span class="fl">900</span>,<span class="fl">350</span>)) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="20">
+<p><img src="HONO_files/figure-html/cell-21-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

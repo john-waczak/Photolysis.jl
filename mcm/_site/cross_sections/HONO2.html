@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Cross Sections, Quantum Yields, and Photolysis Rates – hono2</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Cross Sections, Quantum Yields, and Photolysis Rates</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../cross_sections.html" aria-current="page">
+ <span class="menu-text">Cross Sections</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../quantum_yields.html">
+ <span class="menu-text">Quantum Yields</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"></h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections.html" class="sidebar-item-text sidebar-link">Cross Sections</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/O3.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{O_3}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/H2O2.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{H_2O_2}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/NO2.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{NO_2}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/NO3.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{NO_3}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/HONO.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{HONO}\)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/CH2O.html" class="sidebar-item-text sidebar-link"><span class="math inline">\(\mathrm{CH_2O}\)</span> (Formaldehyde)</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../cross_sections/HONO2.html" class="sidebar-item-text sidebar-link active"><span class="math inline">\(\mathrm{HONO_2}\)</span> (Nitric Acid)</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mathrmhono_2-nitric-acid" id="toc-mathrmhono_2-nitric-acid" class="nav-link active" data-scroll-target="#mathrmhono_2-nitric-acid"><span class="math inline">\(\mathrm{HONO_2}\)</span> (Nitric Acid)</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="mathrmhono_2-nitric-acid" class="level1">
+<h1><span class="math inline">\(\mathrm{HONO_2}\)</span> (Nitric Acid)</h1>
+<div class="cell" data-execution_count="1">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">Plots</span>, <span class="bu">MLPlotRecipes</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">HDF5</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">Tables</span>, <span class="bu">DataFrames</span>, <span class="bu">CSV</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">MLJ</span>, <span class="bu">MLJGaussianProcesses</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">StatsBase </span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">KernelFunctions</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">ParameterHandling</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">include</span>(<span class="st">"./utils.jl"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="2">
+<pre><code>predict_logσ_wΔ</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="3">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>h5_path <span class="op">=</span> <span class="st">"../../data/photolysis_data.h5"</span> </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>species <span class="op">=</span> <span class="st">"HONO2"</span> </span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>nice_name <span class="op">=</span> <span class="st">"HONO₂"</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>λs, σs, T1s, T2s, source_idx, T_units, category, formula, λ_units, σ_units <span class="op">=</span> <span class="fu">get_raw_data</span>(h5_path, species)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="st">"max λ: "</span>, <span class="fu">maximum</span>(λs))</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="st">"min λ: "</span>, <span class="fu">minimum</span>(λs))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>max λ: 439.81
+min λ: 105.0</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="4">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># load in spectrometer wavelengths</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>hr4000_df <span class="op">=</span> CSV.<span class="fu">File</span>(<span class="st">"../hr4000_wavelengths.txt"</span>) <span class="op">|&gt;</span> DataFrame ; </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="5">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>Δλ <span class="op">=</span> <span class="fl">50</span> <span class="co"># nm for padding</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> <span class="fu">data_to_df</span>(λs, σs, T1s, T2s, source_idx; λ_lb<span class="op">=</span><span class="fu">minimum</span>(hr4000_df.λ)<span class="op">-</span>Δλ, λ_ub<span class="op">=</span><span class="fu">maximum</span>(hr4000_df.λ)<span class="op">+</span>Δλ)</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="co"># df = data_to_df(λs, σs, T1s, T2s, source_idx; λ_lb=0.0, λ_ub=1200.0)</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="fu">nrow</span>(df))</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="fu">describe</span>(df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>1042</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="5">
+
+<div><div style="float: left;"><span>4×7 DataFrame</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">variable</th><th style="text-align: left;">mean</th><th style="text-align: left;">min</th><th style="text-align: left;">median</th><th style="text-align: left;">max</th><th style="text-align: left;">nmissing</th><th style="text-align: left;">eltype</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Symbol" style="text-align: left;">Symbol</th><th title="Float64" style="text-align: left;">Float64</th><th title="Real" style="text-align: left;">Real</th><th title="Float64" style="text-align: left;">Float64</th><th title="Real" style="text-align: left;">Real</th><th title="Int64" style="text-align: left;">Int64</th><th title="DataType" style="text-align: left;">DataType</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: left;">λ</td><td style="text-align: right;">242.448</td><td style="text-align: right;">144.36</td><td style="text-align: right;">235.0</td><td style="text-align: right;">439.81</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: left;">σ</td><td style="text-align: right;">3.22399e-18</td><td style="text-align: right;">1.6e-24</td><td style="text-align: right;">9.335e-20</td><td style="text-align: right;">1.77e-17</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: left;">T</td><td style="text-align: right;">297.388</td><td style="text-align: right;">293.0</td><td style="text-align: right;">298.0</td><td style="text-align: right;">300.0</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">4</td><td style="text-align: left;">source_id</td><td style="text-align: right;">21.1209</td><td style="text-align: right;">1</td><td style="text-align: right;">24.0</td><td style="text-align: right;">40</td><td style="text-align: right;">0</td><td style="text-align: left;">Int64</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="6">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>nskip <span class="op">=</span> <span class="fl">1</span></span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>    df.λ[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>],</span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>    <span class="fu">log10</span>.(df.σ[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>]),</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>df.T[<span class="fl">1</span><span class="op">:</span>nskip<span class="op">:</span><span class="kw">end</span>],</span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb9-9"><a href="#cb9-9" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb9-10"><a href="#cb9-10" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb9-11"><a href="#cb9-11" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb9-12"><a href="#cb9-12" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb9-13"><a href="#cb9-13" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb9-14"><a href="#cb9-14" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Absorption Cross Section for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>,</span>
+<span id="cb9-15"><a href="#cb9-15" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb9-16"><a href="#cb9-16" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb9-17"><a href="#cb9-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-18"><a href="#cb9-18" aria-hidden="true" tabindex="-1"></a><span class="fu">savefig</span>(<span class="st">"O3_p2.png"</span>)</span>
+<span id="cb9-19"><a href="#cb9-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-20"><a href="#cb9-20" aria-hidden="true" tabindex="-1"></a><span class="fu">display</span>(p2)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<p><img src="HONO2_files/figure-html/cell-7-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="7">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">histogram</span>(df.λ, xlabel<span class="op">=</span><span class="st">"λ"</span>, ylabel<span class="op">=</span><span class="st">"counts"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">histogram</span>(df.T, xlabel<span class="op">=</span><span class="st">"T"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>p3 <span class="op">=</span> <span class="fu">histogram</span>(<span class="fu">log10</span>.(df.σ), xlabel<span class="op">=</span><span class="st">"log10(σ)"</span>, label<span class="op">=</span><span class="st">""</span>,)</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="co">#p3 = histogram(df.σ, xlabel="σ", ylabel="counts")</span></span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>phist <span class="op">=</span> <span class="fu">plot</span>(p1, p2, p3, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">3</span>), size<span class="op">=</span>(<span class="fl">1600</span>, <span class="fl">450</span>),  margin<span class="op">=</span><span class="fl">10</span>Plots.mm, plot_title<span class="op">=</span><span class="st">"Data Distribution for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="7">
+<p><img src="HONO2_files/figure-html/cell-8-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="8">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="co"># load in spectrometer wavelengths</span></span>
+<span id="cb11-2"><a href="#cb11-2" aria-hidden="true" tabindex="-1"></a>hr4000_df <span class="op">=</span> CSV.<span class="fu">File</span>(<span class="st">"../hr4000_wavelengths.txt"</span>) <span class="op">|&gt;</span> DataFrame ; </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="9">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># deal with identical wavelength records </span></span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>gdfs <span class="op">=</span> <span class="fu">groupby</span>(df, <span class="op">:</span>T)</span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>res_dfs <span class="op">=</span> []</span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> gdf <span class="op">∈</span> gdfs</span>
+<span id="cb12-8"><a href="#cb12-8" aria-hidden="true" tabindex="-1"></a>    gdf_by_λ <span class="op">=</span> <span class="fu">groupby</span>(gdf, <span class="op">:</span>λ)</span>
+<span id="cb12-9"><a href="#cb12-9" aria-hidden="true" tabindex="-1"></a>    <span class="fu">push!</span>(res_dfs, <span class="fu">combine</span>(gdf_by_λ, [<span class="op">:</span>σ, <span class="op">:</span>T] <span class="op">.=&gt;</span> mean, renamecols <span class="op">=</span> <span class="cn">false</span>))</span>
+<span id="cb12-10"><a href="#cb12-10" aria-hidden="true" tabindex="-1"></a><span class="cf">end</span></span>
+<span id="cb12-11"><a href="#cb12-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb12-12"><a href="#cb12-12" aria-hidden="true" tabindex="-1"></a>df_unique <span class="op">=</span> <span class="fu">vcat</span>(res_dfs<span class="op">...</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="9">
+
+<div><div style="float: left;"><span>694×3 DataFrame</span></div><div style="float: right;"><span style="font-style: italic;">669 rows omitted</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">λ</th><th style="text-align: left;">σ</th><th style="text-align: left;">T</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: right;">220.0</td><td style="text-align: right;">1.234e-19</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: right;">225.0</td><td style="text-align: right;">7.73e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: right;">230.0</td><td style="text-align: right;">5.15e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">4</td><td style="text-align: right;">235.0</td><td style="text-align: right;">3.44e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">5</td><td style="text-align: right;">240.0</td><td style="text-align: right;">2.43e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">6</td><td style="text-align: right;">245.0</td><td style="text-align: right;">2.0e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">7</td><td style="text-align: right;">250.0</td><td style="text-align: right;">1.88e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">8</td><td style="text-align: right;">255.0</td><td style="text-align: right;">1.82e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">9</td><td style="text-align: right;">260.0</td><td style="text-align: right;">1.84e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">10</td><td style="text-align: right;">265.0</td><td style="text-align: right;">1.73e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">11</td><td style="text-align: right;">270.0</td><td style="text-align: right;">1.55e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">12</td><td style="text-align: right;">275.0</td><td style="text-align: right;">1.36e-20</td><td style="text-align: right;">293.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">13</td><td style="text-align: right;">280.0</td><td style="text-align: right;">1.08e-20</td><td style="text-align: right;">293.0</td></tr><tr><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td><td style="text-align: right;">⋮</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">683</td><td style="text-align: right;">214.04</td><td style="text-align: right;">5.8e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">684</td><td style="text-align: right;">214.94</td><td style="text-align: right;">5.1e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">685</td><td style="text-align: right;">215.89</td><td style="text-align: right;">4.4e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">686</td><td style="text-align: right;">216.96</td><td style="text-align: right;">3.8e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">687</td><td style="text-align: right;">218.11</td><td style="text-align: right;">3.2e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">688</td><td style="text-align: right;">219.3</td><td style="text-align: right;">2.8e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">689</td><td style="text-align: right;">220.51</td><td style="text-align: right;">2.4e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">690</td><td style="text-align: right;">221.73</td><td style="text-align: right;">2.0e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">691</td><td style="text-align: right;">222.97</td><td style="text-align: right;">1.8e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">692</td><td style="text-align: right;">224.24</td><td style="text-align: right;">1.6e-19</td><td style="text-align: right;">298.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">693</td><td style="text-align: right;">184.95</td><td style="text-align: right;">1.61e-17</td><td style="text-align: right;">300.0</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">694</td><td style="text-align: right;">213.86</td><td style="text-align: right;">4.52e-19</td><td style="text-align: right;">300.0</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="10">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># here is where we would do representative subsampling if there are too many records (&gt; 2000) </span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="co"># λ_idxs = representative_rand_sample(df_unique.λ, 500, 1500)</span></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a><span class="co"># T_idxs = representative_rand_sample(df_unique.λ, 5, 1000)</span></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a><span class="co"># σ_idxs = representative_rand_sample(log10.(df_unique.σ), 500, 2000) </span></span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a><span class="co"># idxs_res = shuffle(unique(vcat(λ_idxs, T_idxs, σ_idxs)))</span></span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-10"><a href="#cb13-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-11"><a href="#cb13-11" aria-hidden="true" tabindex="-1"></a><span class="co"># df_sampled = df_unique[idxs_res, :]</span></span>
+<span id="cb13-12"><a href="#cb13-12" aria-hidden="true" tabindex="-1"></a>df_sampled <span class="op">=</span> df_unique</span>
+<span id="cb13-13"><a href="#cb13-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-14"><a href="#cb13-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-15"><a href="#cb13-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-16"><a href="#cb13-16" aria-hidden="true" tabindex="-1"></a>max_data_λ <span class="op">=</span> <span class="fu">maximum</span>(df_sampled.λ)</span>
+<span id="cb13-17"><a href="#cb13-17" aria-hidden="true" tabindex="-1"></a>min_data_λ <span class="op">=</span> <span class="fu">minimum</span>(df_sampled.λ)</span>
+<span id="cb13-18"><a href="#cb13-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb13-19"><a href="#cb13-19" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(<span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb13-20"><a href="#cb13-20" aria-hidden="true" tabindex="-1"></a><span class="fu">describe</span>(df_sampled)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>694</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="10">
+
+<div><div style="float: left;"><span>3×7 DataFrame</span></div><div style="clear: both;"></div></div><div class="data-frame" style="overflow-x: scroll;"><table class="data-frame table table-sm table-striped" style="margin-bottom: 6px;"><thead><tr class="header"><th class="rowNumber" style="font-weight: bold; text-align: right;">Row</th><th style="text-align: left;">variable</th><th style="text-align: left;">mean</th><th style="text-align: left;">min</th><th style="text-align: left;">median</th><th style="text-align: left;">max</th><th style="text-align: left;">nmissing</th><th style="text-align: left;">eltype</th></tr><tr class="subheader headerLastRow"><th class="rowNumber" style="font-weight: bold; text-align: right;"></th><th title="Symbol" style="text-align: left;">Symbol</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Float64" style="text-align: left;">Float64</th><th title="Int64" style="text-align: left;">Int64</th><th title="DataType" style="text-align: left;">DataType</th></tr></thead><tbody><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">1</td><td style="text-align: left;">λ</td><td style="text-align: right;">230.114</td><td style="text-align: right;">144.36</td><td style="text-align: right;">212.045</td><td style="text-align: right;">439.81</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">2</td><td style="text-align: left;">σ</td><td style="text-align: right;">4.30403e-18</td><td style="text-align: right;">3.8e-24</td><td style="text-align: right;">1.32e-18</td><td style="text-align: right;">1.77e-17</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr><tr><td class="rowNumber" style="font-weight: bold; text-align: right;">3</td><td style="text-align: left;">T</td><td style="text-align: right;">297.297</td><td style="text-align: right;">293.0</td><td style="text-align: right;">298.0</td><td style="text-align: right;">300.0</td><td style="text-align: right;">0</td><td style="text-align: left;">Float64</td></tr></tbody></table></div>
+</div>
+</div>
+<div class="cell" data-execution_count="11">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">histogram</span>(df_sampled.λ, xlabel<span class="op">=</span><span class="st">"λ"</span>, ylabel<span class="op">=</span><span class="st">"counts"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">histogram</span>(df_sampled.T, xlabel<span class="op">=</span><span class="st">"T"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>p3 <span class="op">=</span> <span class="fu">histogram</span>(<span class="fu">log10</span>.(df_sampled.σ), xlabel<span class="op">=</span><span class="st">"log10(σ)"</span>, label<span class="op">=</span><span class="st">""</span>, margin<span class="op">=</span><span class="fl">10</span>Plots.mm)</span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a><span class="co">#p3 = histogram(df.σ, xlabel="σ", ylabel="counts")</span></span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>phist <span class="op">=</span> <span class="fu">plot</span>(p1, p2, p3, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">3</span>), size<span class="op">=</span>(<span class="fl">1600</span>, <span class="fl">450</span>), plot_title<span class="op">=</span><span class="st">"Subsampled Data Distribution for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="11">
+<p><img src="HONO2_files/figure-html/cell-12-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="12">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co"># visualize pre-processed data: </span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>    df_sampled.λ,</span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">log10</span>.(df_sampled.σ),</span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>df_sampled.T,</span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb16-11"><a href="#cb16-11" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb16-12"><a href="#cb16-12" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb16-13"><a href="#cb16-13" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Absorption Cross Section for </span><span class="sc">$</span>(nice_name)<span class="st">"</span>,</span>
+<span id="cb16-14"><a href="#cb16-14" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb16-15"><a href="#cb16-15" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="12">
+<p><img src="HONO2_files/figure-html/cell-13-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="13">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>train_frac <span class="op">=</span> <span class="fl">0.95</span></span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>ntrain <span class="op">=</span> <span class="fu">trunc</span>(<span class="dt">Int</span>, train_frac <span class="op">*</span> <span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(ntrain)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>659</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="25">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>idxs <span class="op">=</span> <span class="fu">shuffle</span>(<span class="fl">1</span><span class="op">:</span><span class="fu">nrow</span>(df_sampled))</span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>idxs_train <span class="op">=</span> idxs[<span class="fl">1</span><span class="op">:</span>ntrain]</span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>idxs_test <span class="op">=</span> idxs[ntrain<span class="op">+</span><span class="fl">1</span><span class="op">:</span><span class="kw">end</span>]</span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true" tabindex="-1"></a>Xtrain <span class="op">=</span> df_sampled[idxs_train, [<span class="op">:</span>λ, <span class="op">:</span>T]]</span>
+<span id="cb19-6"><a href="#cb19-6" aria-hidden="true" tabindex="-1"></a>Xtest <span class="op">=</span> df_sampled[idxs_test, [<span class="op">:</span>λ, <span class="op">:</span>T]]</span>
+<span id="cb19-7"><a href="#cb19-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-8"><a href="#cb19-8" aria-hidden="true" tabindex="-1"></a>ytrain <span class="op">=</span> <span class="fu">log10</span>.(df_sampled.σ[idxs_train])</span>
+<span id="cb19-9"><a href="#cb19-9" aria-hidden="true" tabindex="-1"></a>ytest <span class="op">=</span> <span class="fu">log10</span>.(df_sampled.σ[idxs_test])</span>
+<span id="cb19-10"><a href="#cb19-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-11"><a href="#cb19-11" aria-hidden="true" tabindex="-1"></a><span class="co"># gpr = GPR(σ²=0.00001)</span></span>
+<span id="cb19-12"><a href="#cb19-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-13"><a href="#cb19-13" aria-hidden="true" tabindex="-1"></a>θ_init <span class="op">=</span> (σf² <span class="op">=</span> <span class="fu">positive</span>(<span class="fl">15.0</span>), ℓ <span class="op">=</span> <span class="fu">positive</span>(<span class="fl">0.1</span>))</span>
+<span id="cb19-14"><a href="#cb19-14" aria-hidden="true" tabindex="-1"></a>gpr <span class="op">=</span> <span class="fu">GPR</span>(</span>
+<span id="cb19-15"><a href="#cb19-15" aria-hidden="true" tabindex="-1"></a>    θ_init<span class="op">=</span>θ_init,</span>
+<span id="cb19-16"><a href="#cb19-16" aria-hidden="true" tabindex="-1"></a>    σ²<span class="op">=</span><span class="fl">15.0</span></span>
+<span id="cb19-17"><a href="#cb19-17" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb19-18"><a href="#cb19-18" aria-hidden="true" tabindex="-1"></a><span class="co"># gpr = GPR(σ²=10.0)</span></span>
+<span id="cb19-19"><a href="#cb19-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb19-20"><a href="#cb19-20" aria-hidden="true" tabindex="-1"></a>mach <span class="op">=</span> <span class="fu">machine</span>(gpr, Xtrain, ytrain) <span class="op">|&gt;</span> fit!</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>[ Info: Training machine(GPR(μ = 0.0, …), …).</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Iter     Function value   Gradient norm 
+     0     5.389194e+03     1.704289e+03
+ * time: 0.0003800392150878906
+     1     3.892841e+03     1.756169e+02
+ * time: 0.6997840404510498
+     2     8.206897e+02     1.564607e+02
+ * time: 1.0073180198669434
+     3     7.831162e+02     2.109498e+02
+ * time: 1.136052131652832
+     4     6.030653e+02     1.193581e+03
+ * time: 1.273569107055664
+     5     3.177435e+02     1.266892e+02
+ * time: 1.3636581897735596
+     6     8.676273e+01     9.320786e+01
+ * time: 1.4903090000152588
+     7     7.129049e+01     1.482112e+02
+ * time: 1.5765831470489502
+     8     5.720006e+01     3.508048e+01
+ * time: 1.7037830352783203
+     9     2.711679e+01     1.239238e+02
+ * time: 1.8643360137939453
+    10     2.097125e+01     8.523067e+01
+ * time: 1.9873530864715576
+    11     2.011217e+01     9.380212e+00
+ * time: 2.070857048034668
+    12     1.983636e+01     9.564712e-01
+ * time: 2.197728157043457
+    13     1.983446e+01     3.300201e-02
+ * time: 2.285853147506714
+    14     1.983446e+01     1.828179e-03
+ * time: 2.3759679794311523
+    15     1.983445e+01     1.432399e-05
+ * time: 2.4596471786499023
+    16     1.983446e+01     6.408870e-05
+ * time: 2.6194071769714355
+    17     1.983446e+01     3.121396e-05
+ * time: 2.741403102874756
+    18     1.983446e+01     5.919258e-05
+ * time: 2.8273701667785645
+    19     1.983446e+01     7.948191e-06
+ * time: 3.032626152038574
+    20     1.983446e+01     4.395035e-05
+ * time: 3.279585123062134
+    21     1.983446e+01     1.992396e-05
+ * time: 3.3643670082092285
+    22     1.983446e+01     2.224675e-05
+ * time: 3.4520931243896484
+    23     1.983446e+01     4.195639e-05
+ * time: 3.6124660968780518
+    24     1.983445e+01     5.599013e-05
+ * time: 3.7747561931610107
+    25     1.983446e+01     3.715702e-05
+ * time: 3.8958230018615723
+    26     1.983446e+01     3.034092e-05
+ * time: 3.977992057800293
+    27     1.983446e+01     4.515391e-05
+ * time: 4.1034910678863525
+    28     1.983446e+01     4.409504e-06
+ * time: 4.188642978668213
+    29     1.983445e+01     6.739955e-05
+ * time: 4.309635162353516
+    30     1.983446e+01     3.068410e-05
+ * time: 4.543415069580078
+    31     1.983446e+01     6.901787e-05
+ * time: 4.62653112411499
+    32     1.983446e+01     2.271639e-05
+ * time: 4.710143089294434
+    33     1.983446e+01     3.956624e-04
+ * time: 4.841377019882202
+    34     1.983445e+01     5.562000e-05
+ * time: 4.933320999145508
+    35     1.983445e+01     1.148762e-05
+ * time: 5.028364181518555
+    36     1.983446e+01     1.128132e-05
+ * time: 5.237593173980713
+    37     1.983445e+01     2.376054e-05
+ * time: 5.329969167709351
+    38     1.983446e+01     7.049966e-06
+ * time: 5.520186185836792
+    39     1.983446e+01     1.350097e-06
+ * time: 5.6305930614471436
+    40     1.983446e+01     1.169760e-05
+ * time: 5.9635961055755615
+    41     1.983445e+01     3.944519e-06
+ * time: 6.200436115264893
+    42     1.983446e+01     5.822033e-06
+ * time: 6.444451093673706
+    43     1.983445e+01     6.461922e-06
+ * time: 6.870376110076904
+    44     1.983445e+01     2.380974e-05
+ * time: 6.952156066894531
+    45     1.983446e+01     5.344767e-06
+ * time: 7.075813055038452
+    46     1.983446e+01     4.010673e-05
+ * time: 7.164421081542969
+    47     1.983446e+01     1.815051e-05
+ * time: 7.368705987930298
+    48     1.983446e+01     1.394486e-05
+ * time: 7.4939610958099365
+    49     1.983446e+01     1.391746e-05
+ * time: 7.619117975234985
+    50     1.983446e+01     1.679084e-05
+ * time: 7.784213066101074
+    51     1.983445e+01     3.652309e-06
+ * time: 7.8732781410217285
+    52     1.983446e+01     1.974630e-05
+ * time: 7.955857992172241
+    53     1.983446e+01     2.506440e-05
+ * time: 8.080718040466309
+    54     1.983446e+01     3.053361e-05
+ * time: 8.321099996566772
+    55     1.983446e+01     2.946306e-05
+ * time: 8.485481023788452
+    56     1.983445e+01     1.350579e-05
+ * time: 8.56895112991333
+    57     1.983446e+01     3.023491e-05
+ * time: 8.65270709991455
+    58     1.983445e+01     6.385561e-05
+ * time: 8.813830137252808
+    59     1.983446e+01     4.043133e-05
+ * time: 8.896552085876465
+    60     1.983446e+01     4.044188e-06
+ * time: 8.985464096069336
+    61     1.983446e+01     4.612962e-06
+ * time: 9.085438966751099
+    62     1.983445e+01     1.262481e-05
+ * time: 9.191694974899292
+    63     1.983446e+01     1.950908e-05
+ * time: 9.341469049453735
+    64     1.983446e+01     2.519288e-05
+ * time: 9.541692972183228
+    65     1.983446e+01     2.614228e-05
+ * time: 9.665112018585205
+    66     1.983446e+01     1.945801e-05
+ * time: 9.75084114074707
+    67     1.983446e+01     9.071024e-06
+ * time: 9.880848169326782
+    68     1.983446e+01     1.979008e-05
+ * time: 9.968780994415283
+    69     1.983446e+01     1.422883e-06
+ * time: 10.10214114189148
+    70     1.983446e+01     4.877303e-05
+ * time: 10.279929161071777
+    71     1.983446e+01     2.404621e-05
+ * time: 10.448952198028564
+    72     1.983446e+01     2.987453e-05
+ * time: 10.802158117294312
+    73     1.983446e+01     4.754859e-05
+ * time: 10.966202974319458
+    74     1.983446e+01     1.286393e-05
+ * time: 11.062036037445068
+    75     1.983445e+01     7.668128e-06
+ * time: 11.167163133621216
+    76     1.983446e+01     1.976981e-05
+ * time: 11.51499319076538
+    77     1.983446e+01     9.631178e-06
+ * time: 11.622436046600342
+    78     1.983446e+01     1.899231e-06
+ * time: 11.763148069381714
+    79     1.983445e+01     5.074514e-06
+ * time: 11.969125032424927
+    80     1.983446e+01     1.673984e-05
+ * time: 12.319956064224243
+    81     1.983445e+01     2.230648e-05
+ * time: 12.489605188369751
+    82     1.983446e+01     1.387556e-05
+ * time: 12.580227136611938
+    83     1.983445e+01     1.215188e-05
+ * time: 12.71316909790039
+    84     1.983446e+01     4.117880e-06
+ * time: 13.032498121261597
+    85     1.983446e+01     4.745608e-05
+ * time: 13.122514963150024
+    86     1.983445e+01     6.725217e-05
+ * time: 13.208676099777222
+    87     1.983446e+01     2.412667e-05
+ * time: 13.338306188583374
+    88     1.983446e+01     3.782189e-06
+ * time: 13.471238136291504
+    89     1.983446e+01     3.264031e-06
+ * time: 13.672458171844482
+    90     1.983446e+01     6.671000e-06
+ * time: 13.956714153289795
+    91     1.983446e+01     4.109625e-06
+ * time: 14.086172103881836
+    92     1.983446e+01     1.136870e-05
+ * time: 14.285701990127563
+    93     1.983446e+01     3.383610e-05
+ * time: 14.417580127716064
+    94     1.983446e+01     5.483849e-06
+ * time: 14.507683038711548
+    95     1.983446e+01     4.579402e-06
+ * time: 14.595638990402222
+    96     1.983446e+01     3.951906e-06
+ * time: 14.796127080917358
+    97     1.983446e+01     2.750639e-05
+ * time: 14.887478113174438
+    98     1.983446e+01     3.791229e-05
+ * time: 15.052074193954468
+    99     1.983446e+01     1.067198e-05
+ * time: 15.206470966339111
+   100     1.983446e+01     3.820954e-05
+ * time: 15.334894180297852
+   101     1.983446e+01     1.940477e-06
+ * time: 16.258082151412964
+   102     1.983446e+01     7.656860e-06
+ * time: 16.34553813934326
+   103     1.983445e+01     3.921294e-05
+ * time: 17.76721715927124
+   104     1.983446e+01     8.978670e-06
+ * time: 17.854912996292114
+   105     1.983446e+01     2.166370e-06
+ * time: 18.124361991882324
+   106     1.983446e+01     5.790144e-06
+ * time: 18.560968160629272
+   107     1.983445e+01     6.405042e-05
+ * time: 18.680957078933716
+   108     1.983446e+01     9.636265e-05
+ * time: 18.846309185028076
+   109     1.983446e+01     5.879651e-05
+ * time: 18.929336071014404
+   110     1.983446e+01     1.105818e-05
+ * time: 19.204828023910522
+   111     1.983446e+01     1.245554e-05
+ * time: 19.29456615447998
+   112     1.983445e+01     2.678044e-05
+ * time: 19.386182069778442
+   113     1.983445e+01     2.437964e-05
+ * time: 19.5821750164032
+   114     1.983446e+01     2.221634e-05
+ * time: 19.707502126693726
+   115     1.983445e+01     5.339992e-06
+ * time: 19.793768167495728
+   116     1.983446e+01     4.999439e-06
+ * time: 19.912392139434814
+   117     1.983446e+01     6.938214e-06
+ * time: 19.997387170791626
+   118     1.983446e+01     1.183530e-05
+ * time: 20.12971305847168
+   119     1.983446e+01     1.920489e-05
+ * time: 20.595141172409058
+   120     1.983446e+01     8.058350e-05
+ * time: 20.6888689994812
+   121     1.983446e+01     6.661694e-05
+ * time: 20.77754807472229
+   122     1.983446e+01     5.126453e-05
+ * time: 20.86351203918457
+   123     1.983445e+01     3.446940e-06
+ * time: 20.9848849773407
+   124     1.983446e+01     1.016353e-05
+ * time: 21.267665147781372
+   125     1.983446e+01     4.523666e-05
+ * time: 21.354351043701172
+   126     1.983446e+01     9.274598e-05
+ * time: 21.443754196166992
+   127     1.983446e+01     2.914324e-05
+ * time: 21.527671098709106
+   128     1.983446e+01     2.317653e-05
+ * time: 21.64771819114685
+   129     1.983446e+01     6.856144e-06
+ * time: 21.810769081115723
+   130     1.983446e+01     1.034043e-06
+ * time: 21.892779111862183
+   131     1.983446e+01     5.007949e-06
+ * time: 21.97739601135254
+   132     1.983446e+01     3.695048e-05
+ * time: 22.25095796585083
+   133     1.983445e+01     1.828912e-05
+ * time: 22.491425037384033
+   134     1.983445e+01     3.823637e-05
+ * time: 22.662357091903687
+   135     1.983446e+01     9.190579e-06
+ * time: 22.784998178482056
+   136     1.983445e+01     4.724840e-05
+ * time: 22.91102910041809
+   137     1.983446e+01     1.248041e-05
+ * time: 23.03135919570923
+   138     1.983446e+01     1.768625e-05
+ * time: 23.23192811012268
+   139     1.983446e+01     5.827127e-06
+ * time: 23.353940963745117
+   140     1.983446e+01     4.356441e-05
+ * time: 23.5171000957489
+   141     1.983446e+01     3.097258e-05
+ * time: 23.59873914718628
+   142     1.983446e+01     1.719610e-05
+ * time: 23.683438062667847
+   143     1.983446e+01     1.483075e-05
+ * time: 23.81331515312195
+   144     1.983446e+01     5.805256e-06
+ * time: 23.89831805229187
+   145     1.983446e+01     2.548681e-05
+ * time: 24.017348051071167
+   146     1.983446e+01     1.808671e-05
+ * time: 24.100301027297974
+   147     1.983445e+01     4.626350e-05
+ * time: 24.226116180419922
+   148     1.983446e+01     3.184406e-05
+ * time: 24.356281995773315
+   149     1.983446e+01     2.329531e-05
+ * time: 24.443830013275146
+   150     1.983445e+01     4.808823e-05
+ * time: 24.677605152130127
+   151     1.983446e+01     4.681322e-05
+ * time: 24.80640411376953
+   152     1.983446e+01     3.974927e-05
+ * time: 24.92716407775879
+   153     1.983445e+01     9.143039e-06
+ * time: 25.049740076065063
+   154     1.983445e+01     5.613959e-06
+ * time: 25.13330316543579
+   155     1.983446e+01     5.207250e-06
+ * time: 25.22094202041626
+   156     1.983446e+01     2.061938e-05
+ * time: 25.345108032226562
+   157     1.983446e+01     5.977894e-06
+ * time: 25.471525192260742
+   158     1.983446e+01     6.163979e-05
+ * time: 25.629326105117798
+   159     1.983446e+01     3.376742e-05
+ * time: 25.71318507194519
+   160     1.983446e+01     4.202865e-06
+ * time: 25.896385192871094
+   161     1.983445e+01     1.296250e-05
+ * time: 26.02214503288269
+   162     1.983445e+01     7.241178e-05
+ * time: 26.104708194732666
+   163     1.983445e+01     3.988956e-05
+ * time: 26.344237089157104
+   164     1.983446e+01     4.994181e-05
+ * time: 26.474622011184692
+   165     1.983446e+01     4.711729e-05
+ * time: 26.558045148849487
+   166     1.983446e+01     1.071617e-05
+ * time: 26.683688163757324
+   167     1.983446e+01     6.926934e-05
+ * time: 26.904996156692505
+   168     1.983446e+01     2.106037e-05
+ * time: 26.99879503250122
+   169     1.983446e+01     3.222489e-05
+ * time: 27.090938091278076
+   170     1.983446e+01     4.587028e-05
+ * time: 27.184112071990967
+   171     1.983446e+01     1.870604e-05
+ * time: 27.283300161361694
+   172     1.983446e+01     2.946671e-06
+ * time: 27.415889978408813
+   173     1.983446e+01     1.498529e-06
+ * time: 27.54630708694458
+   174     1.983446e+01     2.817544e-05
+ * time: 27.629215002059937
+   175     1.983445e+01     7.698150e-05
+ * time: 27.713996171951294
+   176     1.983446e+01     1.163586e-05
+ * time: 27.83504819869995
+   177     1.983446e+01     3.207770e-05
+ * time: 27.99704098701477
+   178     1.983446e+01     4.076115e-06
+ * time: 28.171661138534546
+   179     1.983446e+01     1.317769e-05
+ * time: 28.273728132247925
+   180     1.983446e+01     2.547261e-05
+ * time: 28.449135065078735
+   181     1.983445e+01     2.837596e-05
+ * time: 28.655426025390625
+   182     1.983446e+01     9.235380e-05
+ * time: 28.816826105117798
+   183     1.983446e+01     1.949163e-05
+ * time: 28.939228057861328
+   184     1.983446e+01     3.942804e-06
+ * time: 29.17320418357849
+   185     1.983446e+01     1.466254e-05
+ * time: 29.260475158691406</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="25">
+<pre><code>trained Machine; caches model-specific representations of data
+  model: GPR(μ = 0.0, …)
+  args: 
+    1:  Source @194 ⏎ Table{AbstractVector{Continuous}}
+    2:  Source @196 ⏎ AbstractVector{Continuous}</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="26">
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a>rpt <span class="op">=</span> <span class="fu">report</span>(mach)</span>
+<span id="cb23-2"><a href="#cb23-2" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(rpt)</span>
+<span id="cb23-3"><a href="#cb23-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb23-4"><a href="#cb23-4" aria-hidden="true" tabindex="-1"></a>y_pred_train <span class="op">=</span> <span class="fu">predict_mean</span>(mach, Xtrain);</span>
+<span id="cb23-5"><a href="#cb23-5" aria-hidden="true" tabindex="-1"></a>y_pred_test <span class="op">=</span> <span class="fu">predict_mean</span>(mach, Xtest);</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(summary = "L-BFGS", minimizer = [9.794729290886092, 1.381359863158764, -3.321866312373246], minimum = 19.83445622020116, iterations = 186, converged = false)</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="27">
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">scatterresult</span>(</span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>    ytrain, y_pred_train,</span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>    ytest, y_pred_test,</span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"log10(σ) Truth"</span>,</span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) Fit"</span>,</span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a>    plot_title<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(nice_name)<span class="st"> GPR Fit"</span></span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="27">
+<p><img src="HONO2_files/figure-html/cell-17-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="28">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">quantilequantile</span>(</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>    ytrain, y_pred_train,</span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>    ytest, y_pred_test,</span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"log10(σ) Truth"</span>,</span>
+<span id="cb26-5"><a href="#cb26-5" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) Fit"</span>,</span>
+<span id="cb26-6"><a href="#cb26-6" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(nice_name)<span class="st"> GPR Fit"</span></span>
+<span id="cb26-7"><a href="#cb26-7" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="28">
+<p><img src="HONO2_files/figure-html/cell-18-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="29">
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">scatter</span>(</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>    Xtrain.λ,</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>    y_pred_train,</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>Xtrain.T,</span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb27-12"><a href="#cb27-12" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">"Training Data"</span>,</span>
+<span id="cb27-13"><a href="#cb27-13" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb27-14"><a href="#cb27-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-15"><a href="#cb27-15" aria-hidden="true" tabindex="-1"></a><span class="fu">scatter!</span>(</span>
+<span id="cb27-16"><a href="#cb27-16" aria-hidden="true" tabindex="-1"></a>    Xtest.λ,</span>
+<span id="cb27-17"><a href="#cb27-17" aria-hidden="true" tabindex="-1"></a>    y_pred_test,</span>
+<span id="cb27-18"><a href="#cb27-18" aria-hidden="true" tabindex="-1"></a>    zcolor<span class="op">=</span>Xtest.T,</span>
+<span id="cb27-19"><a href="#cb27-19" aria-hidden="true" tabindex="-1"></a>    ms<span class="op">=</span><span class="fl">3</span>, </span>
+<span id="cb27-20"><a href="#cb27-20" aria-hidden="true" tabindex="-1"></a>    msw<span class="op">=</span><span class="fl">0</span>,</span>
+<span id="cb27-21"><a href="#cb27-21" aria-hidden="true" tabindex="-1"></a>    <span class="co"># markershape=:rect,</span></span>
+<span id="cb27-22"><a href="#cb27-22" aria-hidden="true" tabindex="-1"></a>    markershape<span class="op">=:</span>star5,</span>
+<span id="cb27-23"><a href="#cb27-23" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [</span><span class="sc">$</span>(λ_units)<span class="st">]"</span>,</span>
+<span id="cb27-24"><a href="#cb27-24" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb27-25"><a href="#cb27-25" aria-hidden="true" tabindex="-1"></a>    alpha<span class="op">=</span><span class="fl">0.7</span>,</span>
+<span id="cb27-26"><a href="#cb27-26" aria-hidden="true" tabindex="-1"></a>    rightmargin<span class="op">=</span><span class="fl">10</span>Plots.mm,</span>
+<span id="cb27-27"><a href="#cb27-27" aria-hidden="true" tabindex="-1"></a>    colorbar_title<span class="op">=</span><span class="st">"T [</span><span class="sc">$</span>(T_units)<span class="st">]"</span>,</span>
+<span id="cb27-28"><a href="#cb27-28" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted </span><span class="sc">$</span>(nice_name)<span class="st"> Cross Section"</span>,</span>
+<span id="cb27-29"><a href="#cb27-29" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">"Testing Data"</span>,</span>
+<span id="cb27-30"><a href="#cb27-30" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="29">
+<p><img src="HONO2_files/figure-html/cell-19-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="30">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>λ_min <span class="op">=</span> <span class="fu">maximum</span>([min_data_λ, <span class="fu">minimum</span>(hr4000_df.λ)])</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>λ_max <span class="op">=</span> <span class="fu">minimum</span>([max_data_λ, <span class="fu">maximum</span>(hr4000_df.λ)])</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(λ_min)</span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a><span class="fu">println</span>(λ_max)</span>
+<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a>p <span class="op">=</span> <span class="fu">plot</span>()</span>
+<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>Ts <span class="op">=</span> <span class="fl">292.0</span><span class="op">:</span><span class="fl">0.5</span><span class="op">:</span><span class="fl">300.0</span></span>
+<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a><span class="co"># cs = cgrad(:thermal, Ts, categorical = true)</span></span>
+<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a>cs <span class="op">=</span> <span class="fu">cgrad</span>(<span class="op">:</span>roma, <span class="fu">size</span>(Ts,<span class="fl">1</span>), categorical <span class="op">=</span> <span class="cn">true</span>, rev<span class="op">=</span><span class="cn">true</span>)</span>
+<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a>i <span class="op">=</span> <span class="fl">1</span></span>
+<span id="cb28-13"><a href="#cb28-13" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> T <span class="op">∈</span> Ts</span>
+<span id="cb28-14"><a href="#cb28-14" aria-hidden="true" tabindex="-1"></a>    logσ <span class="op">=</span> <span class="fu">predict_logσ</span>(T, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb28-15"><a href="#cb28-15" aria-hidden="true" tabindex="-1"></a>    <span class="fu">plot!</span>(</span>
+<span id="cb28-16"><a href="#cb28-16" aria-hidden="true" tabindex="-1"></a>        hr4000_df.λ, logσ,</span>
+<span id="cb28-17"><a href="#cb28-17" aria-hidden="true" tabindex="-1"></a>        linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb28-18"><a href="#cb28-18" aria-hidden="true" tabindex="-1"></a>        alpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb28-19"><a href="#cb28-19" aria-hidden="true" tabindex="-1"></a>        color<span class="op">=</span>cs[i],</span>
+<span id="cb28-20"><a href="#cb28-20" aria-hidden="true" tabindex="-1"></a>        label<span class="op">=</span><span class="st">"</span><span class="sc">$</span>(T)<span class="st"> K"</span>,</span>
+<span id="cb28-21"><a href="#cb28-21" aria-hidden="true" tabindex="-1"></a>        legend<span class="op">=:</span>outertopright,</span>
+<span id="cb28-22"><a href="#cb28-22" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb28-23"><a href="#cb28-23" aria-hidden="true" tabindex="-1"></a>    i<span class="op">+=</span><span class="fl">1</span></span>
+<span id="cb28-24"><a href="#cb28-24" aria-hidden="true" tabindex="-1"></a><span class="cf">end</span></span>
+<span id="cb28-25"><a href="#cb28-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-26"><a href="#cb28-26" aria-hidden="true" tabindex="-1"></a><span class="fu">xlabel!</span>(<span class="st">"λ [nm]"</span>)</span>
+<span id="cb28-27"><a href="#cb28-27" aria-hidden="true" tabindex="-1"></a><span class="fu">ylabel!</span>(<span class="st">"log10(σ) [cm²]"</span>)</span>
+<span id="cb28-28"><a href="#cb28-28" aria-hidden="true" tabindex="-1"></a><span class="fu">title!</span>(<span class="st">"Predicted Cross Section at Spectrometer λ's"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>194.249
+439.81</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="30">
+<p><img src="HONO2_files/figure-html/cell-20-output-2.svg" class="img-fluid"></p>
+</div>
+</div>
+<div class="cell" data-execution_count="31">
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>Tplot <span class="op">=</span> <span class="fl">298.0</span></span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a>logσ, Δlogσ <span class="op">=</span> <span class="fu">predict_logσ_wΔ</span>(Tplot, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a>p1 <span class="op">=</span> <span class="fu">plot</span>(</span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a>    hr4000_df.λ, logσ,</span>
+<span id="cb30-6"><a href="#cb30-6" aria-hidden="true" tabindex="-1"></a>    ribbon<span class="op">=</span> <span class="fl">2</span> <span class="op">.*</span> Δlogσ,</span>
+<span id="cb30-7"><a href="#cb30-7" aria-hidden="true" tabindex="-1"></a>    fillalpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb30-8"><a href="#cb30-8" aria-hidden="true" tabindex="-1"></a>    linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb30-9"><a href="#cb30-9" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [nm]"</span>,</span>
+<span id="cb30-10"><a href="#cb30-10" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb30-11"><a href="#cb30-11" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted log10(σ) at T = </span><span class="sc">$</span>(Tplot)<span class="st"> K"</span>,</span>
+<span id="cb30-12"><a href="#cb30-12" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span>,</span>
+<span id="cb30-13"><a href="#cb30-13" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb30-14"><a href="#cb30-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-15"><a href="#cb30-15" aria-hidden="true" tabindex="-1"></a>Tplot <span class="op">=</span> <span class="fl">294.0</span></span>
+<span id="cb30-16"><a href="#cb30-16" aria-hidden="true" tabindex="-1"></a>logσ, Δlogσ <span class="op">=</span> <span class="fu">predict_logσ_wΔ</span>(Tplot, hr4000_df, mach, (λ_min, λ_max))</span>
+<span id="cb30-17"><a href="#cb30-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-18"><a href="#cb30-18" aria-hidden="true" tabindex="-1"></a>p2 <span class="op">=</span> <span class="fu">plot</span>(</span>
+<span id="cb30-19"><a href="#cb30-19" aria-hidden="true" tabindex="-1"></a>    hr4000_df.λ, logσ,</span>
+<span id="cb30-20"><a href="#cb30-20" aria-hidden="true" tabindex="-1"></a>    ribbon<span class="op">=</span> <span class="fl">2</span> <span class="op">.*</span> Δlogσ,</span>
+<span id="cb30-21"><a href="#cb30-21" aria-hidden="true" tabindex="-1"></a>    fillalpha<span class="op">=</span><span class="fl">0.5</span>,</span>
+<span id="cb30-22"><a href="#cb30-22" aria-hidden="true" tabindex="-1"></a>    linewidth<span class="op">=</span><span class="fl">2</span>,</span>
+<span id="cb30-23"><a href="#cb30-23" aria-hidden="true" tabindex="-1"></a>    color<span class="op">=:</span>purple,</span>
+<span id="cb30-24"><a href="#cb30-24" aria-hidden="true" tabindex="-1"></a>    xlabel<span class="op">=</span><span class="st">"λ [nm]"</span>,</span>
+<span id="cb30-25"><a href="#cb30-25" aria-hidden="true" tabindex="-1"></a>    ylabel<span class="op">=</span><span class="st">"log10(σ) [cm²]"</span>,</span>
+<span id="cb30-26"><a href="#cb30-26" aria-hidden="true" tabindex="-1"></a>    title<span class="op">=</span><span class="st">"Predicted log10(σ) at T = </span><span class="sc">$</span>(Tplot)<span class="st"> K"</span>,</span>
+<span id="cb30-27"><a href="#cb30-27" aria-hidden="true" tabindex="-1"></a>    label<span class="op">=</span><span class="st">""</span></span>
+<span id="cb30-28"><a href="#cb30-28" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb30-29"><a href="#cb30-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-30"><a href="#cb30-30" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(p1, p2, layout<span class="op">=</span>(<span class="fl">1</span>,<span class="fl">2</span>), margin<span class="op">=</span><span class="fl">5</span>Plots.mm, size<span class="op">=</span>(<span class="fl">900</span>,<span class="fl">350</span>)) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="31">
+<p><img src="HONO2_files/figure-html/cell-21-output-1.svg" class="img-fluid"></p>
+</div>
+</div>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
