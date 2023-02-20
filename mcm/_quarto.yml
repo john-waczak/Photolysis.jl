@@ -23,6 +23,11 @@ website:
         - cross_sections.qmd
         - cross_sections/O3.ipynb
         - cross_sections/H2O2.ipynb
+        - cross_sections/NO2.ipynb
+        - cross_sections/NO3.ipynb
+        - cross_sections/HONO.ipynb
+        - cross_sections/CH2O.ipynb
+        - cross_sections/HONO2.ipynb
 
     - title: "Quantum Yields"
       style: "docked"
