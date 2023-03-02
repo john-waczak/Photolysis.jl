@@ -17,6 +17,7 @@ function get_raw_data(h5_path, species)
     σs = read(data_full, "σ")
     T1s = read(data_full, "T1")
     T2s = read(data_full, "T2")
+    # Δσs = read(data_full, "Δσ")
     source_idx = read(data_full, "source_idx")
 
 
@@ -147,3 +148,16 @@ function predict_logσ_wΔ(T, λs, mach, λ_bounds)
     return logσ, Δlogσ
     #return res
 end
+
+
+
+using StatsBase
+function filter_outliers(df::DataFrame, column::AbstractVector; frac=1.5)
+    IQR = iqr(column)
+    iq_0, iq_25, iq_50, iq_75, iq_100 = nquantile(column, 4)
+    idxs = [idx for idx ∈ 1:size(column,1) if column[idx] > iq_25 - frac * IQR && column[idx] < iq_75 + frac * IQR]
+    return df[idxs, :]
+end
+ 
+
+

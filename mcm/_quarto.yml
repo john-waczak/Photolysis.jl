@@ -28,6 +28,25 @@ website:
         - cross_sections/HONO.ipynb
         - cross_sections/CH2O.ipynb
         - cross_sections/HONO2.ipynb
+        - cross_sections/CH3CHO.ipynb
+        - cross_sections/C2H5CHO.ipynb
+        - cross_sections/n-C3H7CHO.ipynb
+        - cross_sections/n-C4H9CHO.ipynb
+        - cross_sections/MACR.ipynb
+        - cross_sections/C5HPALD1.ipynb
+        - cross_sections/CH3COCH3.ipynb
+        - cross_sections/MEK.ipynb
+        - cross_sections/MVK.ipynb
+        - cross_sections/GLYOX.ipynb
+        - cross_sections/MGLYOX.ipynb
+        - cross_sections/BIACET.ipynb
+        - cross_sections/CH3OOH.ipynb
+        - cross_sections/CH3NO3.ipynb
+        - cross_sections/C2H5NO3.ipynb
+        - cross_sections/NC3H7NO3.ipynb
+        - cross_sections/IC3H7NO3.ipynb
+        - cross_sections/TC4H9NO3.ipynb
+        - cross_sections/NOA.ipynb
 
     - title: "Quantum Yields"
       style: "docked"
@@ -35,6 +54,32 @@ website:
       search: true
       contents:
         - quantum_yields.qmd
+        - quantum_yields/O3.ipynb
+        - quantum_yields/H2O2.ipynb
+        - quantum_yields/NO2.ipynb
+        - quantum_yields/NO3.ipynb
+        - quantum_yields/HONO.ipynb
+        - quantum_yields/HNO3.ipynb
+        - quantum_yields/HCHO.ipynb
+        - quantum_yields/CH3CHO.ipynb
+        - quantum_yields/C2H5CHO.ipynb
+        - quantum_yields/C3H7CHO.ipynb
+        - quantum_yields/IPRCHO.ipynb
+        - quantum_yields/MACR.ipynb
+        - quantum_yields/C5HPALD1.ipynb
+        - quantum_yields/CH3COCH3.ipynb
+        - quantum_yields/MEK.ipynb
+        - quantum_yields/MVK.ipynb
+        - quantum_yields/GLYOX.ipynb
+        - quantum_yields/MGLYOX.ipynb
+        - quantum_yields/BIACET.ipynb
+        - quantum_yields/CH3OOH.ipynb
+        - quantum_yields/CH3NO3.ipynb
+        - quantum_yields/C2H5NO3.ipynb
+        - quantum_yields/NC3H7NO3.ipynb
+        - quantum_yields/IC3H7NO3.ipynb
+        - quantum_yields/TC4H9NO3.ipynb
+        - quantum_yields/NOA.ipynb
 
 format:
   html:
