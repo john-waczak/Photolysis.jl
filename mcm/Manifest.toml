@@ -2,7 +2,7 @@
 
 julia_version = "1.8.5"
 manifest_format = "2.0"
-project_hash = "c19746a3e3094afe774e6175e5bbd0de3041364e"
+project_hash = "b70966e40e5cf790db91e50f72a4463a2f91ada6"
 
 [[deps.ARFFFiles]]
 deps = ["CategoricalArrays", "Dates", "Parsers", "Tables"]
@@ -220,6 +220,12 @@ deps = ["Compat", "DataAPI", "Future", "InlineStrings", "InvertedIndices", "Iter
 git-tree-sha1 = "aa51303df86f8626a962fccb878430cdb0a97eee"
 uuid = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 version = "1.5.0"
+
+[[deps.DataInterpolations]]
+deps = ["LinearAlgebra", "RecipesBase", "RecursiveArrayTools", "Reexport", "Requires"]
+git-tree-sha1 = "afede45ef20a32a2fd4a995a30f96a2f5cb33a51"
+uuid = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+version = "4.0.0"
 
 [[deps.DataStructures]]
 deps = ["Compat", "InteractiveUtils", "OrderedCollections"]
@@ -1087,6 +1093,12 @@ git-tree-sha1 = "e974477be88cb5e3040009f3767611bc6357846f"
 uuid = "01d81517-befc-4cb6-b9ec-a95719d0359c"
 version = "0.6.11"
 
+[[deps.RecursiveArrayTools]]
+deps = ["Adapt", "ArrayInterface", "DocStringExtensions", "GPUArraysCore", "IteratorInterfaceExtensions", "LinearAlgebra", "RecipesBase", "Requires", "StaticArraysCore", "Statistics", "SymbolicIndexingInterface", "Tables"]
+git-tree-sha1 = "140cddd2c457e4ebb0cdc7c2fd14a7fbfbdf206e"
+uuid = "731186ca-8d62-57ce-b412-fbd966d074cd"
+version = "2.38.3"
+
 [[deps.Reexport]]
 git-tree-sha1 = "45e428421666073eab6f2da5c9d310d99bb12f9b"
 uuid = "189a3867-3050-52da-a836-e630ba90ab69"
@@ -1257,6 +1269,12 @@ version = "0.6.14"
 [[deps.SuiteSparse]]
 deps = ["Libdl", "LinearAlgebra", "Serialization", "SparseArrays"]
 uuid = "4607b0f0-06f3-5cda-b6b1-a6196a1729e9"
+
+[[deps.SymbolicIndexingInterface]]
+deps = ["DocStringExtensions"]
+git-tree-sha1 = "f8ab052bfcbdb9b48fad2c80c873aa0d0344dfe5"
+uuid = "2efcf032-c050-4f8e-a9bb-153293bab1f5"
+version = "0.2.2"
 
 [[deps.TOML]]
 deps = ["Dates"]
