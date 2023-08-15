@@ -1,6 +1,5 @@
 using DelimitedFiles
 using CSV, DataFrames
-using Plots
 using Unitful
 using ProgressMeter
 
